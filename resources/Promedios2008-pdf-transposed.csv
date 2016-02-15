@@ -1,0 +1,721 @@
+Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
+1,Panificado,Pan Felipito,2008,ENERO,3161
+2,Panificado,Pan Felipito,2008,FEBRERO,3273
+3,Panificado,Pan Felipito,2008,MARZO,3293
+4,Panificado,Pan Felipito,2008,ABRIL,3475
+5,Panificado,Pan Felipito,2008,MAYO,3526
+6,Panificado,Pan Felipito,2008,JUNIO,3570
+7,Panificado,Pan Felipito,2008,JULIO,3619
+8,Panificado,Pan Felipito,2008,AGOSTO,3509
+9,Panificado,Pan Felipito,2008,SETIEMBRE,3471
+10,Panificado,Pan Felipito,2008,OCTUBRE,3356
+11,Panificado,Pan Felipito,2008,NOVIEMBE,3125
+12,Panificado,Pan Felipito,2008,DICIEMBRE,3149
+13,Panificado,Galleta,2008,ENERO,3644
+14,Panificado,Galleta,2008,FEBRERO,3767
+15,Panificado,Galleta,2008,MARZO,3872
+16,Panificado,Galleta,2008,ABRIL,3942
+17,Panificado,Galleta,2008,MAYO,4145
+18,Panificado,Galleta,2008,JUNIO,4029
+19,Panificado,Galleta,2008,JULIO,4164
+20,Panificado,Galleta,2008,AGOSTO,4105
+21,Panificado,Galleta,2008,SETIEMBRE,4066
+22,Panificado,Galleta,2008,OCTUBRE,3940
+23,Panificado,Galleta,2008,NOVIEMBE,3759
+24,Panificado,Galleta,2008,DICIEMBRE,3784
+25,Panificado,Kokito,2008,ENERO,5720
+26,Panificado,Kokito,2008,FEBRERO,5815
+27,Panificado,Kokito,2008,MARZO,6047
+28,Panificado,Kokito,2008,ABRIL,6239
+29,Panificado,Kokito,2008,MAYO,6200
+30,Panificado,Kokito,2008,JUNIO,6421
+31,Panificado,Kokito,2008,JULIO,6596
+32,Panificado,Kokito,2008,AGOSTO,6506
+33,Panificado,Kokito,2008,SETIEMBRE,6562
+34,Panificado,Kokito,2008,OCTUBRE,6366
+35,Panificado,Kokito,2008,NOVIEMBE,6177
+36,Panificado,Kokito,2008,DICIEMBRE,6172
+37,A granel - 1kg,Fideo,2008,ENERO,3441
+38,A granel - 1kg,Fideo,2008,FEBRERO,3324
+39,A granel - 1kg,Fideo,2008,MARZO,3545
+40,A granel - 1kg,Fideo,2008,ABRIL,3633
+41,A granel - 1kg,Fideo,2008,MAYO,3884
+42,A granel - 1kg,Fideo,2008,JUNIO,3948
+43,A granel - 1kg,Fideo,2008,JULIO,3912
+44,A granel - 1kg,Fideo,2008,AGOSTO,3902
+45,A granel - 1kg,Fideo,2008,SETIEMBRE,3986
+46,A granel - 1kg,Fideo,2008,OCTUBRE,3881
+47,A granel - 1kg,Fideo,2008,NOVIEMBE,3804
+48,A granel - 1kg,Fideo,2008,DICIEMBRE,3636
+49,A granel - 1kg,Poroto,2008,ENERO,4420
+50,A granel - 1kg,Poroto,2008,FEBRERO,5000
+51,A granel - 1kg,Poroto,2008,MARZO,4860
+52,A granel - 1kg,Poroto,2008,ABRIL,4963
+53,A granel - 1kg,Poroto,2008,MAYO,4951
+54,A granel - 1kg,Poroto,2008,JUNIO,5074
+55,A granel - 1kg,Poroto,2008,JULIO,5995
+56,A granel - 1kg,Poroto,2008,AGOSTO,6728
+57,A granel - 1kg,Poroto,2008,SETIEMBRE,6562
+58,A granel - 1kg,Poroto,2008,OCTUBRE,5954
+59,A granel - 1kg,Poroto,2008,NOVIEMBE,5511
+60,A granel - 1kg,Poroto,2008,DICIEMBRE,5175
+61,A granel - 1kg,Arroz,2008,ENERO,2451
+62,A granel - 1kg,Arroz,2008,FEBRERO,2481
+63,A granel - 1kg,Arroz,2008,MARZO,2522
+64,A granel - 1kg,Arroz,2008,ABRIL,2530
+65,A granel - 1kg,Arroz,2008,MAYO,2837
+66,A granel - 1kg,Arroz,2008,JUNIO,3331
+67,A granel - 1kg,Arroz,2008,JULIO,3512
+68,A granel - 1kg,Arroz,2008,AGOSTO,3531
+69,A granel - 1kg,Arroz,2008,SETIEMBRE,3454
+70,A granel - 1kg,Arroz,2008,OCTUBRE,3421
+71,A granel - 1kg,Arroz,2008,NOVIEMBE,3319
+72,A granel - 1kg,Arroz,2008,DICIEMBRE,3060
+73,A granel - 1kg,Azúcar,2008,ENERO,2985
+74,A granel - 1kg,Azúcar,2008,FEBRERO,2745
+75,A granel - 1kg,Azúcar,2008,MARZO,2671
+76,A granel - 1kg,Azúcar,2008,ABRIL,2711
+77,A granel - 1kg,Azúcar,2008,MAYO,2754
+78,A granel - 1kg,Azúcar,2008,JUNIO,2828
+79,A granel - 1kg,Azúcar,2008,JULIO,2881
+80,A granel - 1kg,Azúcar,2008,AGOSTO,2837
+81,A granel - 1kg,Azúcar,2008,SETIEMBRE,2789
+82,A granel - 1kg,Azúcar,2008,OCTUBRE,2814
+83,A granel - 1kg,Azúcar,2008,NOVIEMBE,2833
+84,A granel - 1kg,Azúcar,2008,DICIEMBRE,2741
+85,A granel - 1kg,Harina,2008,ENERO,3005
+86,A granel - 1kg,Harina,2008,FEBRERO,2758
+87,A granel - 1kg,Harina,2008,MARZO,2851
+88,A granel - 1kg,Harina,2008,ABRIL,2965
+89,A granel - 1kg,Harina,2008,MAYO,3094
+90,A granel - 1kg,Harina,2008,JUNIO,3183
+91,A granel - 1kg,Harina,2008,JULIO,3252
+92,A granel - 1kg,Harina,2008,AGOSTO,3171
+93,A granel - 1kg,Harina,2008,SETIEMBRE,3054
+94,A granel - 1kg,Harina,2008,OCTUBRE,2737
+95,A granel - 1kg,Harina,2008,NOVIEMBE,2451
+96,A granel - 1kg,Harina,2008,DICIEMBRE,2148
+97,A granel - 1kg,Maíz,2008,ENERO,2803
+98,A granel - 1kg,Maíz,2008,FEBRERO,2832
+99,A granel - 1kg,Maíz,2008,MARZO,2620
+100,A granel - 1kg,Maíz,2008,ABRIL,2542
+101,A granel - 1kg,Maíz,2008,MAYO,2557
+102,A granel - 1kg,Maíz,2008,JUNIO,2689
+103,A granel - 1kg,Maíz,2008,JULIO,2866
+104,A granel - 1kg,Maíz,2008,AGOSTO,2800
+105,A granel - 1kg,Maíz,2008,SETIEMBRE,2640
+106,A granel - 1kg,Maíz,2008,OCTUBRE,2487
+107,A granel - 1kg,Maíz,2008,NOVIEMBE,2585
+108,A granel - 1kg,Maíz,2008,DICIEMBRE,2388
+109,A granel - 1kg,Yerba,2008,ENERO,3532
+110,A granel - 1kg,Yerba,2008,FEBRERO,3519
+111,A granel - 1kg,Yerba,2008,MARZO,3672
+112,A granel - 1kg,Yerba,2008,ABRIL,3578
+113,A granel - 1kg,Yerba,2008,MAYO,3591
+114,A granel - 1kg,Yerba,2008,JUNIO,3719
+115,A granel - 1kg,Yerba,2008,JULIO,3754
+116,A granel - 1kg,Yerba,2008,AGOSTO,3727
+117,A granel - 1kg,Yerba,2008,SETIEMBRE,3576
+118,A granel - 1kg,Yerba,2008,OCTUBRE,3541
+119,A granel - 1kg,Yerba,2008,NOVIEMBE,3484
+120,A granel - 1kg,Yerba,2008,DICIEMBRE,3563
+121,Carne bovina - 1kg,Puchero de primera,2008,ENERO,7474
+122,Carne bovina - 1kg,Puchero de primera,2008,FEBRERO,7893
+123,Carne bovina - 1kg,Puchero de primera,2008,MARZO,8060
+124,Carne bovina - 1kg,Puchero de primera,2008,ABRIL,7541
+125,Carne bovina - 1kg,Puchero de primera,2008,MAYO,7591
+126,Carne bovina - 1kg,Puchero de primera,2008,JUNIO,7865
+127,Carne bovina - 1kg,Puchero de primera,2008,JULIO,8397
+128,Carne bovina - 1kg,Puchero de primera,2008,AGOSTO,8963
+129,Carne bovina - 1kg,Puchero de primera,2008,SETIEMBRE,8949
+130,Carne bovina - 1kg,Puchero de primera,2008,OCTUBRE,8811
+131,Carne bovina - 1kg,Puchero de primera,2008,NOVIEMBE,8183
+132,Carne bovina - 1kg,Puchero de primera,2008,DICIEMBRE,8182
+133,Carne bovina - 1kg,Carnaza de negra,2008,ENERO,24033
+134,Carne bovina - 1kg,Carnaza de negra,2008,FEBRERO,23251
+135,Carne bovina - 1kg,Carnaza de negra,2008,MARZO,23072
+136,Carne bovina - 1kg,Carnaza de negra,2008,ABRIL,22954
+137,Carne bovina - 1kg,Carnaza de negra,2008,MAYO,23116
+138,Carne bovina - 1kg,Carnaza de negra,2008,JUNIO,23350
+139,Carne bovina - 1kg,Carnaza de negra,2008,JULIO,24243
+140,Carne bovina - 1kg,Carnaza de negra,2008,AGOSTO,25027
+141,Carne bovina - 1kg,Carnaza de negra,2008,SETIEMBRE,25164
+142,Carne bovina - 1kg,Carnaza de negra,2008,OCTUBRE,23981
+143,Carne bovina - 1kg,Carnaza de negra,2008,NOVIEMBE,22987
+144,Carne bovina - 1kg,Carnaza de negra,2008,DICIEMBRE,22267
+145,Carne bovina - 1kg,Carnaza de blanca,2008,ENERO,20833
+146,Carne bovina - 1kg,Carnaza de blanca,2008,FEBRERO,20458
+147,Carne bovina - 1kg,Carnaza de blanca,2008,MARZO,20692
+148,Carne bovina - 1kg,Carnaza de blanca,2008,ABRIL,20234
+149,Carne bovina - 1kg,Carnaza de blanca,2008,MAYO,20334
+150,Carne bovina - 1kg,Carnaza de blanca,2008,JUNIO,20580
+151,Carne bovina - 1kg,Carnaza de blanca,2008,JULIO,21397
+152,Carne bovina - 1kg,Carnaza de blanca,2008,AGOSTO,22208
+153,Carne bovina - 1kg,Carnaza de blanca,2008,SETIEMBRE,22678
+154,Carne bovina - 1kg,Carnaza de blanca,2008,OCTUBRE,21541
+155,Carne bovina - 1kg,Carnaza de blanca,2008,NOVIEMBE,20253
+156,Carne bovina - 1kg,Carnaza de blanca,2008,DICIEMBRE,19370
+157,Carne bovina - 1kg,Lomo,2008,ENERO,26220
+158,Carne bovina - 1kg,Lomo,2008,FEBRERO,25606
+159,Carne bovina - 1kg,Lomo,2008,MARZO,25551
+160,Carne bovina - 1kg,Lomo,2008,ABRIL,25064
+161,Carne bovina - 1kg,Lomo,2008,MAYO,25412
+162,Carne bovina - 1kg,Lomo,2008,JUNIO,25808
+163,Carne bovina - 1kg,Lomo,2008,JULIO,26652
+164,Carne bovina - 1kg,Lomo,2008,AGOSTO,27303
+165,Carne bovina - 1kg,Lomo,2008,SETIEMBRE,27696
+166,Carne bovina - 1kg,Lomo,2008,OCTUBRE,26560
+167,Carne bovina - 1kg,Lomo,2008,NOVIEMBE,25520
+168,Carne bovina - 1kg,Lomo,2008,DICIEMBRE,24744
+169,Carne bovina - 1kg,Carne molida de primera,2008,ENERO,21119
+170,Carne bovina - 1kg,Carne molida de primera,2008,FEBRERO,21484
+171,Carne bovina - 1kg,Carne molida de primera,2008,MARZO,21412
+172,Carne bovina - 1kg,Carne molida de primera,2008,ABRIL,21315
+173,Carne bovina - 1kg,Carne molida de primera,2008,MAYO,21508
+174,Carne bovina - 1kg,Carne molida de primera,2008,JUNIO,21644
+175,Carne bovina - 1kg,Carne molida de primera,2008,JULIO,22629
+176,Carne bovina - 1kg,Carne molida de primera,2008,AGOSTO,23125
+177,Carne bovina - 1kg,Carne molida de primera,2008,SETIEMBRE,23535
+178,Carne bovina - 1kg,Carne molida de primera,2008,OCTUBRE,22115
+179,Carne bovina - 1kg,Carne molida de primera,2008,NOVIEMBE,20932
+180,Carne bovina - 1kg,Carne molida de primera,2008,DICIEMBRE,20595
+181,Carne bovina - 1kg,Carne molida de segunda,2008,ENERO,10547
+182,Carne bovina - 1kg,Carne molida de segunda,2008,FEBRERO,12166
+183,Carne bovina - 1kg,Carne molida de segunda,2008,MARZO,12128
+184,Carne bovina - 1kg,Carne molida de segunda,2008,ABRIL,12338
+185,Carne bovina - 1kg,Carne molida de segunda,2008,MAYO,12592
+186,Carne bovina - 1kg,Carne molida de segunda,2008,JUNIO,12646
+187,Carne bovina - 1kg,Carne molida de segunda,2008,JULIO,13295
+188,Carne bovina - 1kg,Carne molida de segunda,2008,AGOSTO,13613
+189,Carne bovina - 1kg,Carne molida de segunda,2008,SETIEMBRE,13751
+190,Carne bovina - 1kg,Carne molida de segunda,2008,OCTUBRE,13306
+191,Carne bovina - 1kg,Carne molida de segunda,2008,NOVIEMBE,12333
+192,Carne bovina - 1kg,Carne molida de segunda,2008,DICIEMBRE,11916
+193,Carne bovina - 1kg,Costilla,2008,ENERO,13334
+194,Carne bovina - 1kg,Costilla,2008,FEBRERO,12133
+195,Carne bovina - 1kg,Costilla,2008,MARZO,12356
+196,Carne bovina - 1kg,Costilla,2008,ABRIL,12725
+197,Carne bovina - 1kg,Costilla,2008,MAYO,13014
+198,Carne bovina - 1kg,Costilla,2008,JUNIO,12551
+199,Carne bovina - 1kg,Costilla,2008,JULIO,13002
+200,Carne bovina - 1kg,Costilla,2008,AGOSTO,14538
+201,Carne bovina - 1kg,Costilla,2008,SETIEMBRE,13892
+202,Carne bovina - 1kg,Costilla,2008,OCTUBRE,14883
+203,Carne bovina - 1kg,Costilla,2008,NOVIEMBE,15393
+204,Carne bovina - 1kg,Costilla,2008,DICIEMBRE,14910
+205,Carne bovina - 1kg,Hígado,2008,ENERO,7510
+206,Carne bovina - 1kg,Hígado,2008,FEBRERO,7328
+207,Carne bovina - 1kg,Hígado,2008,MARZO,7401
+208,Carne bovina - 1kg,Hígado,2008,ABRIL,8386
+209,Carne bovina - 1kg,Hígado,2008,MAYO,9004
+210,Carne bovina - 1kg,Hígado,2008,JUNIO,8979
+211,Carne bovina - 1kg,Hígado,2008,JULIO,9315
+212,Carne bovina - 1kg,Hígado,2008,AGOSTO,9824
+213,Carne bovina - 1kg,Hígado,2008,SETIEMBRE,10124
+214,Carne bovina - 1kg,Hígado,2008,OCTUBRE,10207
+215,Carne bovina - 1kg,Hígado,2008,NOVIEMBE,9995
+216,Carne bovina - 1kg,Hígado,2008,DICIEMBRE,8821
+217,Carne bovina - 1kg,Corazón,2008,ENERO,7333
+218,Carne bovina - 1kg,Corazón,2008,FEBRERO,7121
+219,Carne bovina - 1kg,Corazón,2008,MARZO,7161
+220,Carne bovina - 1kg,Corazón,2008,ABRIL,7241
+221,Carne bovina - 1kg,Corazón,2008,MAYO,7210
+222,Carne bovina - 1kg,Corazón,2008,JUNIO,7180
+223,Carne bovina - 1kg,Corazón,2008,JULIO,7691
+224,Carne bovina - 1kg,Corazón,2008,AGOSTO,8156
+225,Carne bovina - 1kg,Corazón,2008,SETIEMBRE,8488
+226,Carne bovina - 1kg,Corazón,2008,OCTUBRE,8606
+227,Carne bovina - 1kg,Corazón,2008,NOVIEMBE,8596
+228,Carne bovina - 1kg,Corazón,2008,DICIEMBRE,8091
+229,Carne bovina - 1kg,Mondongo,2008,ENERO,7739
+230,Carne bovina - 1kg,Mondongo,2008,FEBRERO,7287
+231,Carne bovina - 1kg,Mondongo,2008,MARZO,7272
+232,Carne bovina - 1kg,Mondongo,2008,ABRIL,7972
+233,Carne bovina - 1kg,Mondongo,2008,MAYO,8197
+234,Carne bovina - 1kg,Mondongo,2008,JUNIO,8193
+235,Carne bovina - 1kg,Mondongo,2008,JULIO,8850
+236,Carne bovina - 1kg,Mondongo,2008,AGOSTO,9342
+237,Carne bovina - 1kg,Mondongo,2008,SETIEMBRE,10398
+238,Carne bovina - 1kg,Mondongo,2008,OCTUBRE,10265
+239,Carne bovina - 1kg,Mondongo,2008,NOVIEMBE,10190
+240,Carne bovina - 1kg,Mondongo,2008,DICIEMBRE,9364
+241,Carne bovina - 1 Kg.,Carnaza de Primera,2008,ENERO,25476
+242,Carne bovina - 1 Kg.,Carnaza de Primera,2008,FEBRERO,23133
+243,Carne bovina - 1 Kg.,Carnaza de Primera,2008,MARZO,22700
+244,Carne bovina - 1 Kg.,Carnaza de Primera,2008,ABRIL,22767
+245,Carne bovina - 1 Kg.,Carnaza de Primera,2008,MAYO,23097
+246,Carne bovina - 1 Kg.,Carnaza de Primera,2008,JUNIO,23208
+247,Carne bovina - 1 Kg.,Carnaza de Primera,2008,JULIO,23786
+248,Carne bovina - 1 Kg.,Carnaza de Primera,2008,AGOSTO,24990
+249,Carne bovina - 1 Kg.,Carnaza de Primera,2008,SETIEMBRE,24991
+250,Carne bovina - 1 Kg.,Carnaza de Primera,2008,OCTUBRE,23889
+251,Carne bovina - 1 Kg.,Carnaza de Primera,2008,NOVIEMBE,22904
+252,Carne bovina - 1 Kg.,Carnaza de Primera,2008,DICIEMBRE,22326
+253,Carne bovina - 1 Kg.,Carnaza de Segunda,2008,ENERO,13990
+254,Carne bovina - 1 Kg.,Carnaza de Segunda,2008,FEBRERO,13884
+255,Carne bovina - 1 Kg.,Carnaza de Segunda,2008,MARZO,14114
+256,Carne bovina - 1 Kg.,Carnaza de Segunda,2008,ABRIL,14194
+257,Carne bovina - 1 Kg.,Carnaza de Segunda,2008,MAYO,14417
+258,Carne bovina - 1 Kg.,Carnaza de Segunda,2008,JUNIO,14462
+259,Carne bovina - 1 Kg.,Carnaza de Segunda,2008,JULIO,15019
+260,Carne bovina - 1 Kg.,Carnaza de Segunda,2008,AGOSTO,15604
+261,Carne bovina - 1 Kg.,Carnaza de Segunda,2008,SETIEMBRE,15821
+262,Carne bovina - 1 Kg.,Carnaza de Segunda,2008,OCTUBRE,14687
+263,Carne bovina - 1 Kg.,Carnaza de Segunda,2008,NOVIEMBE,13816
+264,Carne bovina - 1 Kg.,Carnaza de Segunda,2008,DICIEMBRE,13177
+265,Carne bovina - 1 Kg.,Puchero de Segunda,2008,ENERO,2690
+266,Carne bovina - 1 Kg.,Puchero de Segunda,2008,FEBRERO,2842
+267,Carne bovina - 1 Kg.,Puchero de Segunda,2008,MARZO,2910
+268,Carne bovina - 1 Kg.,Puchero de Segunda,2008,ABRIL,3019
+269,Carne bovina - 1 Kg.,Puchero de Segunda,2008,MAYO,3247
+270,Carne bovina - 1 Kg.,Puchero de Segunda,2008,JUNIO,3366
+271,Carne bovina - 1 Kg.,Puchero de Segunda,2008,JULIO,3690
+272,Carne bovina - 1 Kg.,Puchero de Segunda,2008,AGOSTO,3747
+273,Carne bovina - 1 Kg.,Puchero de Segunda,2008,SETIEMBRE,3300
+274,Carne bovina - 1 Kg.,Puchero de Segunda,2008,OCTUBRE,3665
+275,Carne bovina - 1 Kg.,Puchero de Segunda,2008,NOVIEMBE,3556
+276,Carne bovina - 1 Kg.,Puchero de Segunda,2008,DICIEMBRE,2867
+277,Carne de ave/Puchero - 1kg,Marca mas económica,2008,ENERO,5130
+278,Carne de ave/Puchero - 1kg,Marca mas económica,2008,FEBRERO,5316
+279,Carne de ave/Puchero - 1kg,Marca mas económica,2008,MARZO,5482
+280,Carne de ave/Puchero - 1kg,Marca mas económica,2008,ABRIL,5386
+281,Carne de ave/Puchero - 1kg,Marca mas económica,2008,MAYO,5037
+282,Carne de ave/Puchero - 1kg,Marca mas económica,2008,JUNIO,5112
+283,Carne de ave/Puchero - 1kg,Marca mas económica,2008,JULIO,5641
+284,Carne de ave/Puchero - 1kg,Marca mas económica,2008,AGOSTO,5673
+285,Carne de ave/Puchero - 1kg,Marca mas económica,2008,SETIEMBRE,5968
+286,Carne de ave/Puchero - 1kg,Marca mas económica,2008,OCTUBRE,5652
+287,Carne de ave/Puchero - 1kg,Marca mas económica,2008,NOVIEMBE,5163
+288,Carne de ave/Puchero - 1kg,Marca mas económica,2008,DICIEMBRE,4255
+289,Carne de ave/pechuga - 1kg,Marca mas económica,2008,ENERO,11844
+290,Carne de ave/pechuga - 1kg,Marca mas económica,2008,FEBRERO,12265
+291,Carne de ave/pechuga - 1kg,Marca mas económica,2008,MARZO,12301
+292,Carne de ave/pechuga - 1kg,Marca mas económica,2008,ABRIL,11932
+293,Carne de ave/pechuga - 1kg,Marca mas económica,2008,MAYO,11476
+294,Carne de ave/pechuga - 1kg,Marca mas económica,2008,JUNIO,10787
+295,Carne de ave/pechuga - 1kg,Marca mas económica,2008,JULIO,10615
+296,Carne de ave/pechuga - 1kg,Marca mas económica,2008,AGOSTO,11092
+297,Carne de ave/pechuga - 1kg,Marca mas económica,2008,SETIEMBRE,11960
+298,Carne de ave/pechuga - 1kg,Marca mas económica,2008,OCTUBRE,12203
+299,Carne de ave/pechuga - 1kg,Marca mas económica,2008,NOVIEMBE,12263
+300,Carne de ave/pechuga - 1kg,Marca mas económica,2008,DICIEMBRE,12870
+301,Carne de ave/pata entera-1kg,Marca mas económica,2008,ENERO,12149
+302,Carne de ave/pata entera-1kg,Marca mas económica,2008,FEBRERO,12168
+303,Carne de ave/pata entera-1kg,Marca mas económica,2008,MARZO,12757
+304,Carne de ave/pata entera-1kg,Marca mas económica,2008,ABRIL,12361
+305,Carne de ave/pata entera-1kg,Marca mas económica,2008,MAYO,11322
+306,Carne de ave/pata entera-1kg,Marca mas económica,2008,JUNIO,11544
+307,Carne de ave/pata entera-1kg,Marca mas económica,2008,JULIO,12376
+308,Carne de ave/pata entera-1kg,Marca mas económica,2008,AGOSTO,13061
+309,Carne de ave/pata entera-1kg,Marca mas económica,2008,SETIEMBRE,13690
+310,Carne de ave/pata entera-1kg,Marca mas económica,2008,OCTUBRE,13616
+311,Carne de ave/pata entera-1kg,Marca mas económica,2008,NOVIEMBE,13142
+312,Carne de ave/pata entera-1kg,Marca mas económica,2008,DICIEMBRE,12275
+313,Carne de ave/pollo entero-1kg,Marca mas económica,2008,ENERO,8862
+314,Carne de ave/pollo entero-1kg,Marca mas económica,2008,FEBRERO,9022
+315,Carne de ave/pollo entero-1kg,Marca mas económica,2008,MARZO,8943
+316,Carne de ave/pollo entero-1kg,Marca mas económica,2008,ABRIL,9027
+317,Carne de ave/pollo entero-1kg,Marca mas económica,2008,MAYO,8350
+318,Carne de ave/pollo entero-1kg,Marca mas económica,2008,JUNIO,8081
+319,Carne de ave/pollo entero-1kg,Marca mas económica,2008,JULIO,8608
+320,Carne de ave/pollo entero-1kg,Marca mas económica,2008,AGOSTO,9162
+321,Carne de ave/pollo entero-1kg,Marca mas económica,2008,SETIEMBRE,9736
+322,Carne de ave/pollo entero-1kg,Marca mas económica,2008,OCTUBRE,9321
+323,Carne de ave/pollo entero-1kg,Marca mas económica,2008,NOVIEMBE,8805
+324,Carne de ave/pollo entero-1kg,Marca mas económica,2008,DICIEMBRE,7764
+325,Carne de ave/Ala-1kg,Marca mas económica,2008,ENERO,9962
+326,Carne de ave/Ala-1kg,Marca mas económica,2008,FEBRERO,9994
+327,Carne de ave/Ala-1kg,Marca mas económica,2008,MARZO,10327
+328,Carne de ave/Ala-1kg,Marca mas económica,2008,ABRIL,10065
+329,Carne de ave/Ala-1kg,Marca mas económica,2008,MAYO,9776
+330,Carne de ave/Ala-1kg,Marca mas económica,2008,JUNIO,9896
+331,Carne de ave/Ala-1kg,Marca mas económica,2008,JULIO,10361
+332,Carne de ave/Ala-1kg,Marca mas económica,2008,AGOSTO,10870
+333,Carne de ave/Ala-1kg,Marca mas económica,2008,SETIEMBRE,11714
+334,Carne de ave/Ala-1kg,Marca mas económica,2008,OCTUBRE,11173
+335,Carne de ave/Ala-1kg,Marca mas económica,2008,NOVIEMBE,10270
+336,Carne de ave/Ala-1kg,Marca mas económica,2008,DICIEMBRE,10083
+337,Carne de ave/Tacaraa-1kg,Marca mas económica,2008,ENERO,5927
+338,Carne de ave/Tacaraa-1kg,Marca mas económica,2008,FEBRERO,5199
+339,Carne de ave/Tacaraa-1kg,Marca mas económica,2008,MARZO,4861
+340,Carne de ave/Tacaraa-1kg,Marca mas económica,2008,ABRIL,5034
+341,Carne de ave/Tacaraa-1kg,Marca mas económica,2008,MAYO,6668
+342,Carne de ave/Tacaraa-1kg,Marca mas económica,2008,JUNIO,6893
+343,Carne de ave/Tacaraa-1kg,Marca mas económica,2008,JULIO,7851
+344,Carne de ave/Tacaraa-1kg,Marca mas económica,2008,AGOSTO,8568
+345,Carne de ave/Tacaraa-1kg,Marca mas económica,2008,SETIEMBRE,9197
+346,Carne de ave/Tacaraa-1kg,Marca mas económica,2008,OCTUBRE,8696
+347,Carne de ave/Tacaraa-1kg,Marca mas económica,2008,NOVIEMBE,7326
+348,Carne de ave/Tacaraa-1kg,Marca mas económica,2008,DICIEMBRE,6331
+349,Carne de ave/Hígado-1kg,Marca mas económica,2008,ENERO,3391
+350,Carne de ave/Hígado-1kg,Marca mas económica,2008,FEBRERO,3289
+351,Carne de ave/Hígado-1kg,Marca mas económica,2008,MARZO,3337
+352,Carne de ave/Hígado-1kg,Marca mas económica,2008,ABRIL,3286
+353,Carne de ave/Hígado-1kg,Marca mas económica,2008,MAYO,3444
+354,Carne de ave/Hígado-1kg,Marca mas económica,2008,JUNIO,3656
+355,Carne de ave/Hígado-1kg,Marca mas económica,2008,JULIO,3616
+356,Carne de ave/Hígado-1kg,Marca mas económica,2008,AGOSTO,3681
+357,Carne de ave/Hígado-1kg,Marca mas económica,2008,SETIEMBRE,4001
+358,Carne de ave/Hígado-1kg,Marca mas económica,2008,OCTUBRE,3809
+359,Carne de ave/Hígado-1kg,Marca mas económica,2008,NOVIEMBE,3502
+360,Carne de ave/Hígado-1kg,Marca mas económica,2008,DICIEMBRE,3406
+361,Carne de ave/Corazoncito-1kg,Marca mas económica,2008,ENERO,11300
+362,Carne de ave/Corazoncito-1kg,Marca mas económica,2008,FEBRERO,10946
+363,Carne de ave/Corazoncito-1kg,Marca mas económica,2008,MARZO,10353
+364,Carne de ave/Corazoncito-1kg,Marca mas económica,2008,ABRIL,10897
+365,Carne de ave/Corazoncito-1kg,Marca mas económica,2008,MAYO,9069
+366,Carne de ave/Corazoncito-1kg,Marca mas económica,2008,JUNIO,8861
+367,Carne de ave/Corazoncito-1kg,Marca mas económica,2008,JULIO,10309
+368,Carne de ave/Corazoncito-1kg,Marca mas económica,2008,AGOSTO,11218
+369,Carne de ave/Corazoncito-1kg,Marca mas económica,2008,SETIEMBRE,12141
+370,Carne de ave/Corazoncito-1kg,Marca mas económica,2008,OCTUBRE,11371
+371,Carne de ave/Corazoncito-1kg,Marca mas económica,2008,NOVIEMBE,10591
+372,Carne de ave/Corazoncito-1kg,Marca mas económica,2008,DICIEMBRE,10685
+373,Embutido/chorizo Viena-1kg,Marca mas económica,2008,ENERO,12329
+374,Embutido/chorizo Viena-1kg,Marca mas económica,2008,FEBRERO,13063
+375,Embutido/chorizo Viena-1kg,Marca mas económica,2008,MARZO,14099
+376,Embutido/chorizo Viena-1kg,Marca mas económica,2008,ABRIL,13838
+377,Embutido/chorizo Viena-1kg,Marca mas económica,2008,MAYO,13607
+378,Embutido/chorizo Viena-1kg,Marca mas económica,2008,JUNIO,13936
+379,Embutido/chorizo Viena-1kg,Marca mas económica,2008,JULIO,14300
+380,Embutido/chorizo Viena-1kg,Marca mas económica,2008,AGOSTO,14119
+381,Embutido/chorizo Viena-1kg,Marca mas económica,2008,SETIEMBRE,14102
+382,Embutido/chorizo Viena-1kg,Marca mas económica,2008,OCTUBRE,14113
+383,Embutido/chorizo Viena-1kg,Marca mas económica,2008,NOVIEMBE,14191
+384,Embutido/chorizo Viena-1kg,Marca mas económica,2008,DICIEMBRE,14109
+385,Embutido/fiambre Paris-1kg,Marca mas económica,2008,ENERO,13426
+386,Embutido/fiambre Paris-1kg,Marca mas económica,2008,FEBRERO,14052
+387,Embutido/fiambre Paris-1kg,Marca mas económica,2008,MARZO,14920
+388,Embutido/fiambre Paris-1kg,Marca mas económica,2008,ABRIL,14811
+389,Embutido/fiambre Paris-1kg,Marca mas económica,2008,MAYO,14203
+390,Embutido/fiambre Paris-1kg,Marca mas económica,2008,JUNIO,14964
+391,Embutido/fiambre Paris-1kg,Marca mas económica,2008,JULIO,15252
+392,Embutido/fiambre Paris-1kg,Marca mas económica,2008,AGOSTO,14984
+393,Embutido/fiambre Paris-1kg,Marca mas económica,2008,SETIEMBRE,15356
+394,Embutido/fiambre Paris-1kg,Marca mas económica,2008,OCTUBRE,15345
+395,Embutido/fiambre Paris-1kg,Marca mas económica,2008,NOVIEMBE,15386
+396,Embutido/fiambre Paris-1kg,Marca mas económica,2008,DICIEMBRE,15166
+397,Queso - 1kg,Queso Paraguay,2008,ENERO,14201
+398,Queso - 1kg,Queso Paraguay,2008,FEBRERO,16397
+399,Queso - 1kg,Queso Paraguay,2008,MARZO,18623
+400,Queso - 1kg,Queso Paraguay,2008,ABRIL,9805
+401,Queso - 1kg,Queso Paraguay,2008,MAYO,21950
+402,Queso - 1kg,Queso Paraguay,2008,JUNIO,14667
+403,Queso - 1kg,Queso Paraguay,2008,JULIO,27075
+404,Queso - 1kg,Queso Paraguay,2008,AGOSTO,23610
+405,Queso - 1kg,Queso Paraguay,2008,SETIEMBRE,20163
+406,Queso - 1kg,Queso Paraguay,2008,OCTUBRE,18554
+407,Queso - 1kg,Queso Paraguay,2008,NOVIEMBE,17670
+408,Queso - 1kg,Queso Paraguay,2008,DICIEMBRE,15995
+409,Queso sándwich-1kg,Marca mas económica,2008,ENERO,24483
+410,Queso sándwich-1kg,Marca mas económica,2008,FEBRERO,23831
+411,Queso sándwich-1kg,Marca mas económica,2008,MARZO,24619
+412,Queso sándwich-1kg,Marca mas económica,2008,ABRIL,11798
+413,Queso sándwich-1kg,Marca mas económica,2008,MAYO,29784
+414,Queso sándwich-1kg,Marca mas económica,2008,JUNIO,24377
+415,Queso sándwich-1kg,Marca mas económica,2008,JULIO,31576
+416,Queso sándwich-1kg,Marca mas económica,2008,AGOSTO,29333
+417,Queso sándwich-1kg,Marca mas económica,2008,SETIEMBRE,26671
+418,Queso sándwich-1kg,Marca mas económica,2008,OCTUBRE,23812
+419,Queso sándwich-1kg,Marca mas económica,2008,NOVIEMBE,22375
+420,Queso sándwich-1kg,Marca mas económica,2008,DICIEMBRE,19737
+421,Aceite de soja - 900cc,Marca mas económica,2008,ENERO,6906
+422,Aceite de soja - 900cc,Marca mas económica,2008,FEBRERO,8125
+423,Aceite de soja - 900cc,Marca mas económica,2008,MARZO,8993
+424,Aceite de soja - 900cc,Marca mas económica,2008,ABRIL,13428
+425,Aceite de soja - 900cc,Marca mas económica,2008,MAYO,9379
+426,Aceite de soja - 900cc,Marca mas económica,2008,JUNIO,9622
+427,Aceite de soja - 900cc,Marca mas económica,2008,JULIO,9567
+428,Aceite de soja - 900cc,Marca mas económica,2008,AGOSTO,9143
+429,Aceite de soja - 900cc,Marca mas económica,2008,SETIEMBRE,8219
+430,Aceite de soja - 900cc,Marca mas económica,2008,OCTUBRE,7566
+431,Aceite de soja - 900cc,Marca mas económica,2008,NOVIEMBE,7389
+432,Aceite de soja - 900cc,Marca mas económica,2008,DICIEMBRE,6694
+433,Aceite de girasol - 900 cc,Marca mas económica,2008,ENERO,9093
+434,Aceite de girasol - 900 cc,Marca mas económica,2008,FEBRERO,10797
+435,Aceite de girasol - 900 cc,Marca mas económica,2008,MARZO,11050
+436,Aceite de girasol - 900 cc,Marca mas económica,2008,ABRIL,19393
+437,Aceite de girasol - 900 cc,Marca mas económica,2008,MAYO,11525
+438,Aceite de girasol - 900 cc,Marca mas económica,2008,JUNIO,11551
+439,Aceite de girasol - 900 cc,Marca mas económica,2008,JULIO,11945
+440,Aceite de girasol - 900 cc,Marca mas económica,2008,AGOSTO,11975
+441,Aceite de girasol - 900 cc,Marca mas económica,2008,SETIEMBRE,11754
+442,Aceite de girasol - 900 cc,Marca mas económica,2008,OCTUBRE,11555
+443,Aceite de girasol - 900 cc,Marca mas económica,2008,NOVIEMBE,11570
+444,Aceite de girasol - 900 cc,Marca mas económica,2008,DICIEMBRE,11310
+445,Aceite de maíz - 1lt,Marca mas económica,2008,ENERO,12465
+446,Aceite de maíz - 1lt,Marca mas económica,2008,FEBRERO,12361
+447,Aceite de maíz - 1lt,Marca mas económica,2008,MARZO,12723
+448,Aceite de maíz - 1lt,Marca mas económica,2008,ABRIL,25937
+449,Aceite de maíz - 1lt,Marca mas económica,2008,MAYO,13719
+450,Aceite de maíz - 1lt,Marca mas económica,2008,JUNIO,14667
+451,Aceite de maíz - 1lt,Marca mas económica,2008,JULIO,14931
+452,Aceite de maíz - 1lt,Marca mas económica,2008,AGOSTO,14952
+453,Aceite de maíz - 1lt,Marca mas económica,2008,SETIEMBRE,15945
+454,Aceite de maíz - 1lt,Marca mas económica,2008,OCTUBRE,16100
+455,Aceite de maíz - 1lt,Marca mas económica,2008,NOVIEMBE,16270
+456,Aceite de maíz - 1lt,Marca mas económica,2008,DICIEMBRE,16205
+457,Leche sachet - 1lt,Marca mas económica,2008,ENERO,3010
+458,Leche sachet - 1lt,Marca mas económica,2008,FEBRERO,2971
+459,Leche sachet - 1lt,Marca mas económica,2008,MARZO,2938
+460,Leche sachet - 1lt,Marca mas económica,2008,ABRIL,2985
+461,Leche sachet - 1lt,Marca mas económica,2008,MAYO,3044
+462,Leche sachet - 1lt,Marca mas económica,2008,JUNIO,3180
+463,Leche sachet - 1lt,Marca mas económica,2008,JULIO,3236
+464,Leche sachet - 1lt,Marca mas económica,2008,AGOSTO,3216
+465,Leche sachet - 1lt,Marca mas económica,2008,SETIEMBRE,3234
+466,Leche sachet - 1lt,Marca mas económica,2008,OCTUBRE,3208
+467,Leche sachet - 1lt,Marca mas económica,2008,NOVIEMBE,3111
+468,Leche sachet - 1lt,Marca mas económica,2008,DICIEMBRE,2875
+469,Leche sachet - 1/2 lt,Marca mas económica,2008,ENERO,1526
+470,Leche sachet - 1/2 lt,Marca mas económica,2008,FEBRERO,1556
+471,Leche sachet - 1/2 lt,Marca mas económica,2008,MARZO,1587
+472,Leche sachet - 1/2 lt,Marca mas económica,2008,ABRIL,1608
+473,Leche sachet - 1/2 lt,Marca mas económica,2008,MAYO,1608
+474,Leche sachet - 1/2 lt,Marca mas económica,2008,JUNIO,1656
+475,Leche sachet - 1/2 lt,Marca mas económica,2008,JULIO,1655
+476,Leche sachet - 1/2 lt,Marca mas económica,2008,AGOSTO,1679
+477,Leche sachet - 1/2 lt,Marca mas económica,2008,SETIEMBRE,1680
+478,Leche sachet - 1/2 lt,Marca mas económica,2008,OCTUBRE,1646
+479,Leche sachet - 1/2 lt,Marca mas económica,2008,NOVIEMBE,1623
+480,Leche sachet - 1/2 lt,Marca mas económica,2008,DICIEMBRE,1528
+481,Leche UHT - 1lt,Marca mas económica,2008,ENERO,3681
+482,Leche UHT - 1lt,Marca mas económica,2008,FEBRERO,3724
+483,Leche UHT - 1lt,Marca mas económica,2008,MARZO,3730
+484,Leche UHT - 1lt,Marca mas económica,2008,ABRIL,3696
+485,Leche UHT - 1lt,Marca mas económica,2008,MAYO,3782
+486,Leche UHT - 1lt,Marca mas económica,2008,JUNIO,3927
+487,Leche UHT - 1lt,Marca mas económica,2008,JULIO,3987
+488,Leche UHT - 1lt,Marca mas económica,2008,AGOSTO,3942
+489,Leche UHT - 1lt,Marca mas económica,2008,SETIEMBRE,4005
+490,Leche UHT - 1lt,Marca mas económica,2008,OCTUBRE,3901
+491,Leche UHT - 1lt,Marca mas económica,2008,NOVIEMBE,3819
+492,Leche UHT - 1lt,Marca mas económica,2008,DICIEMBRE,3621
+493,Leche UHT- 1/2 lt,Marca Mas económica,2008,ENERO,1945
+494,Leche UHT- 1/2 lt,Marca Mas económica,2008,FEBRERO,2020
+495,Leche UHT- 1/2 lt,Marca Mas económica,2008,MARZO,2011
+496,Leche UHT- 1/2 lt,Marca Mas económica,2008,ABRIL,2036
+497,Leche UHT- 1/2 lt,Marca Mas económica,2008,MAYO,2048
+498,Leche UHT- 1/2 lt,Marca Mas económica,2008,JUNIO,2151
+499,Leche UHT- 1/2 lt,Marca Mas económica,2008,JULIO,2157
+500,Leche UHT- 1/2 lt,Marca Mas económica,2008,AGOSTO,2172
+501,Leche UHT- 1/2 lt,Marca Mas económica,2008,SETIEMBRE,2189
+502,Leche UHT- 1/2 lt,Marca Mas económica,2008,OCTUBRE,2107
+503,Leche UHT- 1/2 lt,Marca Mas económica,2008,NOVIEMBE,2083
+504,Leche UHT- 1/2 lt,Marca Mas económica,2008,DICIEMBRE,2032
+505,Yogurt - 350 gr,Marca mas económica,2008,ENERO,2381
+506,Yogurt - 350 gr,Marca mas económica,2008,FEBRERO,2241
+507,Yogurt - 350 gr,Marca mas económica,2008,MARZO,2188
+508,Yogurt - 350 gr,Marca mas económica,2008,ABRIL,2212
+509,Yogurt - 350 gr,Marca mas económica,2008,MAYO,2234
+510,Yogurt - 350 gr,Marca mas económica,2008,JUNIO,2278
+511,Yogurt - 350 gr,Marca mas económica,2008,JULIO,2346
+512,Yogurt - 350 gr,Marca mas económica,2008,AGOSTO,2330
+513,Yogurt - 350 gr,Marca mas económica,2008,SETIEMBRE,2372
+514,Yogurt - 350 gr,Marca mas económica,2008,OCTUBRE,2368
+515,Yogurt - 350 gr,Marca mas económica,2008,NOVIEMBE,2386
+516,Yogurt - 350 gr,Marca mas económica,2008,DICIEMBRE,2321
+517,Huevos de gallina- 1/2 doc.,Marca mas económica,2008,ENERO,2764
+518,Huevos de gallina- 1/2 doc.,Marca mas económica,2008,FEBRERO,3092
+519,Huevos de gallina- 1/2 doc.,Marca mas económica,2008,MARZO,3344
+520,Huevos de gallina- 1/2 doc.,Marca mas económica,2008,ABRIL,3346
+521,Huevos de gallina- 1/2 doc.,Marca mas económica,2008,MAYO,3280
+522,Huevos de gallina- 1/2 doc.,Marca mas económica,2008,JUNIO,3299
+523,Huevos de gallina- 1/2 doc.,Marca mas económica,2008,JULIO,3311
+524,Huevos de gallina- 1/2 doc.,Marca mas económica,2008,AGOSTO,3282
+525,Huevos de gallina- 1/2 doc.,Marca mas económica,2008,SETIEMBRE,3236
+526,Huevos de gallina- 1/2 doc.,Marca mas económica,2008,OCTUBRE,2858
+527,Huevos de gallina- 1/2 doc.,Marca mas económica,2008,NOVIEMBE,2646
+528,Huevos de gallina- 1/2 doc.,Marca mas económica,2008,DICIEMBRE,2559
+529,"Fruta, hortaliza - 1kg",Naranja,2008,ENERO,1616
+530,"Fruta, hortaliza - 1kg",Naranja,2008,FEBRERO,1982
+531,"Fruta, hortaliza - 1kg",Naranja,2008,MARZO,2182
+532,"Fruta, hortaliza - 1kg",Naranja,2008,ABRIL,2161
+533,"Fruta, hortaliza - 1kg",Naranja,2008,MAYO,1947
+534,"Fruta, hortaliza - 1kg",Naranja,2008,JUNIO,1863
+535,"Fruta, hortaliza - 1kg",Naranja,2008,JULIO,1845
+536,"Fruta, hortaliza - 1kg",Naranja,2008,AGOSTO,1827
+537,"Fruta, hortaliza - 1kg",Naranja,2008,SETIEMBRE,1837
+538,"Fruta, hortaliza - 1kg",Naranja,2008,OCTUBRE,1926
+539,"Fruta, hortaliza - 1kg",Naranja,2008,NOVIEMBE,1877
+540,"Fruta, hortaliza - 1kg",Naranja,2008,DICIEMBRE,1798
+541,"Fruta, hortaliza - 1kg",Banana carape,2008,ENERO,1990
+542,"Fruta, hortaliza - 1kg",Banana carape,2008,FEBRERO,1497
+543,"Fruta, hortaliza - 1kg",Banana carape,2008,MARZO,1592
+544,"Fruta, hortaliza - 1kg",Banana carape,2008,ABRIL,1543
+545,"Fruta, hortaliza - 1kg",Banana carape,2008,MAYO,1391
+546,"Fruta, hortaliza - 1kg",Banana carape,2008,JUNIO,1305
+547,"Fruta, hortaliza - 1kg",Banana carape,2008,JULIO,1316
+548,"Fruta, hortaliza - 1kg",Banana carape,2008,AGOSTO,1356
+549,"Fruta, hortaliza - 1kg",Banana carape,2008,SETIEMBRE,1229
+550,"Fruta, hortaliza - 1kg",Banana carape,2008,OCTUBRE,1445
+551,"Fruta, hortaliza - 1kg",Banana carape,2008,NOVIEMBE,1960
+552,"Fruta, hortaliza - 1kg",Banana carape,2008,DICIEMBRE,2061
+553,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,ENERO,2045
+554,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,FEBRERO,1443
+555,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,MARZO,935
+556,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,ABRIL,1084
+557,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,MAYO,1289
+558,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,JUNIO,846
+559,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,JULIO,891
+560,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,AGOSTO,751
+561,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,SETIEMBRE,607
+562,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,OCTUBRE,536
+563,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,NOVIEMBE,586
+564,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,DICIEMBRE,505
+565,"Fruta, hortaliza - 1kg",Locote,2008,ENERO,2707
+566,"Fruta, hortaliza - 1kg",Locote,2008,FEBRERO,2883
+567,"Fruta, hortaliza - 1kg",Locote,2008,MARZO,3918
+568,"Fruta, hortaliza - 1kg",Locote,2008,ABRIL,4136
+569,"Fruta, hortaliza - 1kg",Locote,2008,MAYO,4538
+570,"Fruta, hortaliza - 1kg",Locote,2008,JUNIO,5023
+571,"Fruta, hortaliza - 1kg",Locote,2008,JULIO,4206
+572,"Fruta, hortaliza - 1kg",Locote,2008,AGOSTO,4134
+573,"Fruta, hortaliza - 1kg",Locote,2008,SETIEMBRE,4230
+574,"Fruta, hortaliza - 1kg",Locote,2008,OCTUBRE,3325
+575,"Fruta, hortaliza - 1kg",Locote,2008,NOVIEMBE,3225
+576,"Fruta, hortaliza - 1kg",Locote,2008,DICIEMBRE,6354
+577,"Fruta, hortaliza - 1kg",Zanahoria,2008,ENERO,3742
+578,"Fruta, hortaliza - 1kg",Zanahoria,2008,FEBRERO,3497
+579,"Fruta, hortaliza - 1kg",Zanahoria,2008,MARZO,3773
+580,"Fruta, hortaliza - 1kg",Zanahoria,2008,ABRIL,3649
+581,"Fruta, hortaliza - 1kg",Zanahoria,2008,MAYO,3093
+582,"Fruta, hortaliza - 1kg",Zanahoria,2008,JUNIO,3502
+583,"Fruta, hortaliza - 1kg",Zanahoria,2008,JULIO,3462
+584,"Fruta, hortaliza - 1kg",Zanahoria,2008,AGOSTO,1745
+585,"Fruta, hortaliza - 1kg",Zanahoria,2008,SETIEMBRE,1310
+586,"Fruta, hortaliza - 1kg",Zanahoria,2008,OCTUBRE,1326
+587,"Fruta, hortaliza - 1kg",Zanahoria,2008,NOVIEMBE,1401
+588,"Fruta, hortaliza - 1kg",Zanahoria,2008,DICIEMBRE,2072
+589,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,ENERO,4221
+590,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,FEBRERO,4004
+591,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,MARZO,5376
+592,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,ABRIL,5568
+593,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,MAYO,3279
+594,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,JUNIO,5168
+595,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,JULIO,5275
+596,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,AGOSTO,4156
+597,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,SETIEMBRE,2796
+598,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,OCTUBRE,1839
+599,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,NOVIEMBE,2272
+600,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,DICIEMBRE,5226
+601,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,ENERO,4275
+602,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,FEBRERO,4255
+603,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,MARZO,4006
+604,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,ABRIL,4302
+605,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,MAYO,3142
+606,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,JUNIO,3799
+607,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,JULIO,3373
+608,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,AGOSTO,4469
+609,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,SETIEMBRE,3787
+610,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,OCTUBRE,3486
+611,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,NOVIEMBE,2548
+612,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,DICIEMBRE,2552
+613,"Fruta, hortaliza - 1kg",Mandioca,2008,ENERO,939
+614,"Fruta, hortaliza - 1kg",Mandioca,2008,FEBRERO,1200
+615,"Fruta, hortaliza - 1kg",Mandioca,2008,MARZO,1207
+616,"Fruta, hortaliza - 1kg",Mandioca,2008,ABRIL,1138
+617,"Fruta, hortaliza - 1kg",Mandioca,2008,MAYO,985
+618,"Fruta, hortaliza - 1kg",Mandioca,2008,JUNIO,955
+619,"Fruta, hortaliza - 1kg",Mandioca,2008,JULIO,987
+620,"Fruta, hortaliza - 1kg",Mandioca,2008,AGOSTO,999
+621,"Fruta, hortaliza - 1kg",Mandioca,2008,SETIEMBRE,1041
+622,"Fruta, hortaliza - 1kg",Mandioca,2008,OCTUBRE,1110
+623,"Fruta, hortaliza - 1kg",Mandioca,2008,NOVIEMBE,1148
+624,"Fruta, hortaliza - 1kg",Mandioca,2008,DICIEMBRE,1428
+625,"Fruta, hortaliza - 1kg",Papa negra,2008,ENERO,3073
+626,"Fruta, hortaliza - 1kg",Papa negra,2008,FEBRERO,3806
+627,"Fruta, hortaliza - 1kg",Papa negra,2008,MARZO,5056
+628,"Fruta, hortaliza - 1kg",Papa negra,2008,ABRIL,3885
+629,"Fruta, hortaliza - 1kg",Papa negra,2008,MAYO,2688
+630,"Fruta, hortaliza - 1kg",Papa negra,2008,JUNIO,3174
+631,"Fruta, hortaliza - 1kg",Papa negra,2008,JULIO,2589
+632,"Fruta, hortaliza - 1kg",Papa negra,2008,AGOSTO,2426
+633,"Fruta, hortaliza - 1kg",Papa negra,2008,SETIEMBRE,2255
+634,"Fruta, hortaliza - 1kg",Papa negra,2008,OCTUBRE,2167
+635,"Fruta, hortaliza - 1kg",Papa negra,2008,NOVIEMBE,2251
+636,"Fruta, hortaliza - 1kg",Papa negra,2008,DICIEMBRE,2933
+637,Sal fina - 500gr,Marca mas económica,2008,ENERO,1048
+638,Sal fina - 500gr,Marca mas económica,2008,FEBRERO,998
+639,Sal fina - 500gr,Marca mas económica,2008,MARZO,951
+640,Sal fina - 500gr,Marca mas económica,2008,ABRIL,990
+641,Sal fina - 500gr,Marca mas económica,2008,MAYO,971
+642,Sal fina - 500gr,Marca mas económica,2008,JUNIO,997
+643,Sal fina - 500gr,Marca mas económica,2008,JULIO,1065
+644,Sal fina - 500gr,Marca mas económica,2008,AGOSTO,1027
+645,Sal fina - 500gr,Marca mas económica,2008,SETIEMBRE,1050
+646,Sal fina - 500gr,Marca mas económica,2008,OCTUBRE,1069
+647,Sal fina - 500gr,Marca mas económica,2008,NOVIEMBE,1091
+648,Sal fina - 500gr,Marca mas económica,2008,DICIEMBRE,1088
+649,Papel higiénico - 4 unid.,Marca mas económica,2008,ENERO,1833
+650,Papel higiénico - 4 unid.,Marca mas económica,2008,FEBRERO,1563
+651,Papel higiénico - 4 unid.,Marca mas económica,2008,MARZO,1598
+652,Papel higiénico - 4 unid.,Marca mas económica,2008,ABRIL,1626
+653,Papel higiénico - 4 unid.,Marca mas económica,2008,MAYO,1581
+654,Papel higiénico - 4 unid.,Marca mas económica,2008,JUNIO,1587
+655,Papel higiénico - 4 unid.,Marca mas económica,2008,JULIO,1569
+656,Papel higiénico - 4 unid.,Marca mas económica,2008,AGOSTO,1543
+657,Papel higiénico - 4 unid.,Marca mas económica,2008,SETIEMBRE,1592
+658,Papel higiénico - 4 unid.,Marca mas económica,2008,OCTUBRE,1645
+659,Papel higiénico - 4 unid.,Marca mas económica,2008,NOVIEMBE,1717
+660,Papel higiénico - 4 unid.,Marca mas económica,2008,DICIEMBRE,1694
+661,Detergente líquido - 1/2 lt,Marca mas económica,2008,ENERO,1641
+662,Detergente líquido - 1/2 lt,Marca mas económica,2008,FEBRERO,2118
+663,Detergente líquido - 1/2 lt,Marca mas económica,2008,MARZO,2221
+664,Detergente líquido - 1/2 lt,Marca mas económica,2008,ABRIL,2227
+665,Detergente líquido - 1/2 lt,Marca mas económica,2008,MAYO,2265
+666,Detergente líquido - 1/2 lt,Marca mas económica,2008,JUNIO,2180
+667,Detergente líquido - 1/2 lt,Marca mas económica,2008,JULIO,2303
+668,Detergente líquido - 1/2 lt,Marca mas económica,2008,AGOSTO,2160
+669,Detergente líquido - 1/2 lt,Marca mas económica,2008,SETIEMBRE,2271
+670,Detergente líquido - 1/2 lt,Marca mas económica,2008,OCTUBRE,2283
+671,Detergente líquido - 1/2 lt,Marca mas económica,2008,NOVIEMBE,2344
+672,Detergente líquido - 1/2 lt,Marca mas económica,2008,DICIEMBRE,2375
+673,Lavandina - 1lt,Marca mas económica,2008,ENERO,2424
+674,Lavandina - 1lt,Marca mas económica,2008,FEBRERO,3353
+675,Lavandina - 1lt,Marca mas económica,2008,MARZO,3309
+676,Lavandina - 1lt,Marca mas económica,2008,ABRIL,3519
+677,Lavandina - 1lt,Marca mas económica,2008,MAYO,3617
+678,Lavandina - 1lt,Marca mas económica,2008,JUNIO,3549
+679,Lavandina - 1lt,Marca mas económica,2008,JULIO,3532
+680,Lavandina - 1lt,Marca mas económica,2008,AGOSTO,3366
+681,Lavandina - 1lt,Marca mas económica,2008,SETIEMBRE,3668
+682,Lavandina - 1lt,Marca mas económica,2008,OCTUBRE,3795
+683,Lavandina - 1lt,Marca mas económica,2008,NOVIEMBE,3912
+684,Lavandina - 1lt,Marca mas económica,2008,DICIEMBRE,3890
+685,Jabón en polvo p/lavar-400gr,Marca mas económica,2008,ENERO,3284
+686,Jabón en polvo p/lavar-400gr,Marca mas económica,2008,FEBRERO,1700
+687,Jabón en polvo p/lavar-400gr,Marca mas económica,2008,MARZO,1691
+688,Jabón en polvo p/lavar-400gr,Marca mas económica,2008,ABRIL,1762
+689,Jabón en polvo p/lavar-400gr,Marca mas económica,2008,MAYO,1816
+690,Jabón en polvo p/lavar-400gr,Marca mas económica,2008,JUNIO,1785
+691,Jabón en polvo p/lavar-400gr,Marca mas económica,2008,JULIO,1896
+692,Jabón en polvo p/lavar-400gr,Marca mas económica,2008,AGOSTO,1804
+693,Jabón en polvo p/lavar-400gr,Marca mas económica,2008,SETIEMBRE,1903
+694,Jabón en polvo p/lavar-400gr,Marca mas económica,2008,OCTUBRE,1833
+695,Jabón en polvo p/lavar-400gr,Marca mas económica,2008,NOVIEMBE,1829
+696,Jabón en polvo p/lavar-400gr,Marca mas económica,2008,DICIEMBRE,1822
+697,Jabón de baño - 90gr,Marca mas económica,2008,ENERO,1293
+698,Jabón de baño - 90gr,Marca mas económica,2008,FEBRERO,1008
+699,Jabón de baño - 90gr,Marca mas económica,2008,MARZO,1039
+700,Jabón de baño - 90gr,Marca mas económica,2008,ABRIL,1009
+701,Jabón de baño - 90gr,Marca mas económica,2008,MAYO,1063
+702,Jabón de baño - 90gr,Marca mas económica,2008,JUNIO,1044
+703,Jabón de baño - 90gr,Marca mas económica,2008,JULIO,1044
+704,Jabón de baño - 90gr,Marca mas económica,2008,AGOSTO,1069
+705,Jabón de baño - 90gr,Marca mas económica,2008,SETIEMBRE,1202
+706,Jabón de baño - 90gr,Marca mas económica,2008,OCTUBRE,1142
+707,Jabón de baño - 90gr,Marca mas económica,2008,NOVIEMBE,1142
+708,Jabón de baño - 90gr,Marca mas económica,2008,DICIEMBRE,1112
+709,Crema dental - 90gr,Marca mas económica,2008,ENERO,3166
+710,Crema dental - 90gr,Marca mas económica,2008,FEBRERO,2905
+711,Crema dental - 90gr,Marca mas económica,2008,MARZO,2974
+712,Crema dental - 90gr,Marca mas económica,2008,ABRIL,3128
+713,Crema dental - 90gr,Marca mas económica,2008,MAYO,3097
+714,Crema dental - 90gr,Marca mas económica,2008,JUNIO,3050
+715,Crema dental - 90gr,Marca mas económica,2008,JULIO,2971
+716,Crema dental - 90gr,Marca mas económica,2008,AGOSTO,2920
+717,Crema dental - 90gr,Marca mas económica,2008,SETIEMBRE,3534
+718,Crema dental - 90gr,Marca mas económica,2008,OCTUBRE,3505
+719,Crema dental - 90gr,Marca mas económica,2008,NOVIEMBE,3662
+720,Crema dental - 90gr,Marca mas económica,2008,DICIEMBRE,3776

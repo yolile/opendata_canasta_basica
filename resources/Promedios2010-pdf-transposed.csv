@@ -1,0 +1,1119 @@
+Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
+1,Panificado,Pan Felipito,2010,ENERO,2963
+1,Panificado,Pan Felipito,2010,FEBRERO,2826
+1,Panificado,Pan Felipito,2010,MARZO,2896
+1,Panificado,Pan Felipito,2010,ABRIL,2870
+1,Panificado,Pan Felipito,2010,MAYO,2834
+1,Panificado,Pan Felipito,2010,JUNIO,2808
+1,Panificado,Pan Felipito,2010,JULIO,2847
+1,Panificado,Pan Felipito,2010,AGOSTO,2902
+1,Panificado,Pan Felipito,2010,SETIEMBRE,2881
+1,Panificado,Pan Felipito,2010,OCTUBRE,3568
+1,Panificado,Pan Felipito,2010,NOVIEMBE,3751
+1,Panificado,Pan Felipito,2010,DICIEMBRE,3190
+1,Panificado,Pan Felipito,2010,PROMEDIO,3028
+2,Panificado,Galleta,2010,ENERO,3471
+2,Panificado,Galleta,2010,FEBRERO,3340
+2,Panificado,Galleta,2010,MARZO,3383
+2,Panificado,Galleta,2010,ABRIL,3365
+2,Panificado,Galleta,2010,MAYO,3277
+2,Panificado,Galleta,2010,JUNIO,3317
+2,Panificado,Galleta,2010,JULIO,3336
+2,Panificado,Galleta,2010,AGOSTO,3373
+2,Panificado,Galleta,2010,SETIEMBRE,3500
+2,Panificado,Galleta,2010,OCTUBRE,4201
+2,Panificado,Galleta,2010,NOVIEMBE,4432
+2,Panificado,Galleta,2010,DICIEMBRE,3768
+2,Panificado,Galleta,2010,PROMEDIO,3564
+3,Panificado,Kokito,2010,ENERO,6048
+3,Panificado,Kokito,2010,FEBRERO,5954
+3,Panificado,Kokito,2010,MARZO,6084
+3,Panificado,Kokito,2010,ABRIL,6057
+3,Panificado,Kokito,2010,MAYO,6056
+3,Panificado,Kokito,2010,JUNIO,6047
+3,Panificado,Kokito,2010,JULIO,6040
+3,Panificado,Kokito,2010,AGOSTO,6375
+3,Panificado,Kokito,2010,SETIEMBRE,6296
+3,Panificado,Kokito,2010,OCTUBRE,7703
+3,Panificado,Kokito,2010,NOVIEMBE,8115
+3,Panificado,Kokito,2010,DICIEMBRE,6906
+3,Panificado,Kokito,2010,PROMEDIO,6473
+4,A granel - 1kg,Fideo,2010,ENERO,3334
+4,A granel - 1kg,Fideo,2010,FEBRERO,3202
+4,A granel - 1kg,Fideo,2010,MARZO,3086
+4,A granel - 1kg,Fideo,2010,ABRIL,3117
+4,A granel - 1kg,Fideo,2010,MAYO,3126
+4,A granel - 1kg,Fideo,2010,JUNIO,3061
+4,A granel - 1kg,Fideo,2010,JULIO,3118
+4,A granel - 1kg,Fideo,2010,AGOSTO,3164
+4,A granel - 1kg,Fideo,2010,SETIEMBRE,3105
+4,A granel - 1kg,Fideo,2010,OCTUBRE,3894
+4,A granel - 1kg,Fideo,2010,NOVIEMBE,4086
+4,A granel - 1kg,Fideo,2010,DICIEMBRE,3473
+4,A granel - 1kg,Fideo,2010,PROMEDIO,3314
+5,A granel - 1kg,Poroto,2010,ENERO,5291
+5,A granel - 1kg,Poroto,2010,FEBRERO,4839
+5,A granel - 1kg,Poroto,2010,MARZO,4768
+5,A granel - 1kg,Poroto,2010,ABRIL,5266
+5,A granel - 1kg,Poroto,2010,MAYO,5314
+5,A granel - 1kg,Poroto,2010,JUNIO,5122
+5,A granel - 1kg,Poroto,2010,JULIO,5062
+5,A granel - 1kg,Poroto,2010,AGOSTO,5310
+5,A granel - 1kg,Poroto,2010,SETIEMBRE,5341
+5,A granel - 1kg,Poroto,2010,OCTUBRE,6537
+5,A granel - 1kg,Poroto,2010,NOVIEMBE,6843
+5,A granel - 1kg,Poroto,2010,DICIEMBRE,5819
+5,A granel - 1kg,Poroto,2010,PROMEDIO,5459
+6,A granel - 1kg,Arroz,2010,ENERO,2885
+6,A granel - 1kg,Arroz,2010,FEBRERO,2790
+6,A granel - 1kg,Arroz,2010,MARZO,2749
+6,A granel - 1kg,Arroz,2010,ABRIL,2809
+6,A granel - 1kg,Arroz,2010,MAYO,2707
+6,A granel - 1kg,Arroz,2010,JUNIO,2622
+6,A granel - 1kg,Arroz,2010,JULIO,2736
+6,A granel - 1kg,Arroz,2010,AGOSTO,2785
+6,A granel - 1kg,Arroz,2010,SETIEMBRE,2638
+6,A granel - 1kg,Arroz,2010,OCTUBRE,3372
+6,A granel - 1kg,Arroz,2010,NOVIEMBE,3538
+6,A granel - 1kg,Arroz,2010,DICIEMBRE,3014
+6,A granel - 1kg,Arroz,2010,PROMEDIO,2887
+7,A granel - 1kg,Azúcar,2010,ENERO,5011
+7,A granel - 1kg,Azúcar,2010,FEBRERO,5103
+7,A granel - 1kg,Azúcar,2010,MARZO,5572
+7,A granel - 1kg,Azúcar,2010,ABRIL,5633
+7,A granel - 1kg,Azúcar,2010,MAYO,5523
+7,A granel - 1kg,Azúcar,2010,JUNIO,5356
+7,A granel - 1kg,Azúcar,2010,JULIO,5437
+7,A granel - 1kg,Azúcar,2010,AGOSTO,4896
+7,A granel - 1kg,Azúcar,2010,SETIEMBRE,5143
+7,A granel - 1kg,Azúcar,2010,OCTUBRE,6589
+7,A granel - 1kg,Azúcar,2010,NOVIEMBE,6855
+7,A granel - 1kg,Azúcar,2010,DICIEMBRE,5784
+7,A granel - 1kg,Azúcar,2010,PROMEDIO,5575
+8,A granel - 1kg,Harina,2010,ENERO,2042
+8,A granel - 1kg,Harina,2010,FEBRERO,1980
+8,A granel - 1kg,Harina,2010,MARZO,1921
+8,A granel - 1kg,Harina,2010,ABRIL,1869
+8,A granel - 1kg,Harina,2010,MAYO,1845
+8,A granel - 1kg,Harina,2010,JUNIO,1946
+8,A granel - 1kg,Harina,2010,JULIO,1912
+8,A granel - 1kg,Harina,2010,AGOSTO,1933
+8,A granel - 1kg,Harina,2010,SETIEMBRE,1935
+8,A granel - 1kg,Harina,2010,OCTUBRE,2393
+8,A granel - 1kg,Harina,2010,NOVIEMBE,2530
+8,A granel - 1kg,Harina,2010,DICIEMBRE,2140
+8,A granel - 1kg,Harina,2010,PROMEDIO,2037
+9,A granel - 1kg,Maíz,2010,ENERO,4326
+9,A granel - 1kg,Maíz,2010,FEBRERO,3826
+9,A granel - 1kg,Maíz,2010,MARZO,3127
+9,A granel - 1kg,Maíz,2010,ABRIL,2498
+9,A granel - 1kg,Maíz,2010,MAYO,2461
+9,A granel - 1kg,Maíz,2010,JUNIO,2185
+9,A granel - 1kg,Maíz,2010,JULIO,2819
+9,A granel - 1kg,Maíz,2010,AGOSTO,2321
+9,A granel - 1kg,Maíz,2010,SETIEMBRE,2223
+9,A granel - 1kg,Maíz,2010,OCTUBRE,3002
+9,A granel - 1kg,Maíz,2010,NOVIEMBE,3137
+9,A granel - 1kg,Maíz,2010,DICIEMBRE,2701
+9,A granel - 1kg,Maíz,2010,PROMEDIO,2885
+10,A granel - 1kg,Yerba,2010,ENERO,3383
+10,A granel - 1kg,Yerba,2010,FEBRERO,3158
+10,A granel - 1kg,Yerba,2010,MARZO,3193
+10,A granel - 1kg,Yerba,2010,ABRIL,3254
+10,A granel - 1kg,Yerba,2010,MAYO,3141
+10,A granel - 1kg,Yerba,2010,JUNIO,3271
+10,A granel - 1kg,Yerba,2010,JULIO,3203
+10,A granel - 1kg,Yerba,2010,AGOSTO,3280
+10,A granel - 1kg,Yerba,2010,SETIEMBRE,3184
+10,A granel - 1kg,Yerba,2010,OCTUBRE,4020
+10,A granel - 1kg,Yerba,2010,NOVIEMBE,4239
+10,A granel - 1kg,Yerba,2010,DICIEMBRE,3585
+10,A granel - 1kg,Yerba,2010,PROMEDIO,3409
+11,Carne bovina - 1kg,Puchero de primera,2010,ENERO,9189
+11,Carne bovina - 1kg,Puchero de primera,2010,FEBRERO,8510
+11,Carne bovina - 1kg,Puchero de primera,2010,MARZO,8315
+11,Carne bovina - 1kg,Puchero de primera,2010,ABRIL,8573
+11,Carne bovina - 1kg,Puchero de primera,2010,MAYO,8470
+11,Carne bovina - 1kg,Puchero de primera,2010,JUNIO,8960
+11,Carne bovina - 1kg,Puchero de primera,2010,JULIO,8565
+11,Carne bovina - 1kg,Puchero de primera,2010,AGOSTO,9929
+11,Carne bovina - 1kg,Puchero de primera,2010,SETIEMBRE,10688
+11,Carne bovina - 1kg,Puchero de primera,2010,OCTUBRE,11653
+11,Carne bovina - 1kg,Puchero de primera,2010,NOVIEMBE,12449
+11,Carne bovina - 1kg,Puchero de primera,2010,DICIEMBRE,10657
+11,Carne bovina - 1kg,Puchero de primera,2010,PROMEDIO,9663
+12,Carne bovina - 1kg,Carnaza de negra,2010,ENERO,25912
+12,Carne bovina - 1kg,Carnaza de negra,2010,FEBRERO,25210
+12,Carne bovina - 1kg,Carnaza de negra,2010,MARZO,25186
+12,Carne bovina - 1kg,Carnaza de negra,2010,ABRIL,25172
+12,Carne bovina - 1kg,Carnaza de negra,2010,MAYO,25826
+12,Carne bovina - 1kg,Carnaza de negra,2010,JUNIO,25671
+12,Carne bovina - 1kg,Carnaza de negra,2010,JULIO,25413
+12,Carne bovina - 1kg,Carnaza de negra,2010,AGOSTO,28609
+12,Carne bovina - 1kg,Carnaza de negra,2010,SETIEMBRE,30111
+12,Carne bovina - 1kg,Carnaza de negra,2010,OCTUBRE,33908
+12,Carne bovina - 1kg,Carnaza de negra,2010,NOVIEMBE,35928
+12,Carne bovina - 1kg,Carnaza de negra,2010,DICIEMBRE,30794
+12,Carne bovina - 1kg,Carnaza de negra,2010,PROMEDIO,28145
+13,Carne bovina - 1kg,Carnaza de blanca,2010,ENERO,21392
+13,Carne bovina - 1kg,Carnaza de blanca,2010,FEBRERO,21383
+13,Carne bovina - 1kg,Carnaza de blanca,2010,MARZO,21277
+13,Carne bovina - 1kg,Carnaza de blanca,2010,ABRIL,21664
+13,Carne bovina - 1kg,Carnaza de blanca,2010,MAYO,21761
+13,Carne bovina - 1kg,Carnaza de blanca,2010,JUNIO,21771
+13,Carne bovina - 1kg,Carnaza de blanca,2010,JULIO,21571
+13,Carne bovina - 1kg,Carnaza de blanca,2010,AGOSTO,24641
+13,Carne bovina - 1kg,Carnaza de blanca,2010,SETIEMBRE,25796
+13,Carne bovina - 1kg,Carnaza de blanca,2010,OCTUBRE,28885
+13,Carne bovina - 1kg,Carnaza de blanca,2010,NOVIEMBE,30666
+13,Carne bovina - 1kg,Carnaza de blanca,2010,DICIEMBRE,26312
+13,Carne bovina - 1kg,Carnaza de blanca,2010,PROMEDIO,23927
+14,Carne bovina - 1kg,Lomo,2010,ENERO,27909
+14,Carne bovina - 1kg,Lomo,2010,FEBRERO,27511
+14,Carne bovina - 1kg,Lomo,2010,MARZO,27543
+14,Carne bovina - 1kg,Lomo,2010,ABRIL,27455
+14,Carne bovina - 1kg,Lomo,2010,MAYO,27955
+14,Carne bovina - 1kg,Lomo,2010,JUNIO,27917
+14,Carne bovina - 1kg,Lomo,2010,JULIO,27676
+14,Carne bovina - 1kg,Lomo,2010,AGOSTO,31119
+14,Carne bovina - 1kg,Lomo,2010,SETIEMBRE,32672
+14,Carne bovina - 1kg,Lomo,2010,OCTUBRE,36835
+14,Carne bovina - 1kg,Lomo,2010,NOVIEMBE,39055
+14,Carne bovina - 1kg,Lomo,2010,DICIEMBRE,33471
+14,Carne bovina - 1kg,Lomo,2010,PROMEDIO,30593
+15,Carne bovina - 1kg,Lomito,2010,ENERO,s/d
+15,Carne bovina - 1kg,Lomito,2010,FEBRERO,31362
+15,Carne bovina - 1kg,Lomito,2010,MARZO,31357
+15,Carne bovina - 1kg,Lomito,2010,ABRIL,31164
+15,Carne bovina - 1kg,Lomito,2010,MAYO,31416
+15,Carne bovina - 1kg,Lomito,2010,JUNIO,31534
+15,Carne bovina - 1kg,Lomito,2010,JULIO,31366
+15,Carne bovina - 1kg,Lomito,2010,AGOSTO,36584
+15,Carne bovina - 1kg,Lomito,2010,SETIEMBRE,38395
+15,Carne bovina - 1kg,Lomito,2010,OCTUBRE,42324
+15,Carne bovina - 1kg,Lomito,2010,NOVIEMBE,45051
+15,Carne bovina - 1kg,Lomito,2010,DICIEMBRE,38744
+15,Carne bovina - 1kg,Lomito,2010,PROMEDIO,35391
+16,Carne bovina - 1kg,Carne molida de primera,2010,ENERO,22221
+16,Carne bovina - 1kg,Carne molida de primera,2010,FEBRERO,22319
+16,Carne bovina - 1kg,Carne molida de primera,2010,MARZO,22036
+16,Carne bovina - 1kg,Carne molida de primera,2010,ABRIL,22524
+16,Carne bovina - 1kg,Carne molida de primera,2010,MAYO,23001
+16,Carne bovina - 1kg,Carne molida de primera,2010,JUNIO,23088
+16,Carne bovina - 1kg,Carne molida de primera,2010,JULIO,22594
+16,Carne bovina - 1kg,Carne molida de primera,2010,AGOSTO,26025
+16,Carne bovina - 1kg,Carne molida de primera,2010,SETIEMBRE,26304
+16,Carne bovina - 1kg,Carne molida de primera,2010,OCTUBRE,30253
+16,Carne bovina - 1kg,Carne molida de primera,2010,NOVIEMBE,32066
+16,Carne bovina - 1kg,Carne molida de primera,2010,DICIEMBRE,27448
+16,Carne bovina - 1kg,Carne molida de primera,2010,PROMEDIO,24990
+17,Carne bovina - 1kg,Carne molida de segunda,2010,ENERO,11255
+17,Carne bovina - 1kg,Carne molida de segunda,2010,FEBRERO,11104
+17,Carne bovina - 1kg,Carne molida de segunda,2010,MARZO,10990
+17,Carne bovina - 1kg,Carne molida de segunda,2010,ABRIL,10990
+17,Carne bovina - 1kg,Carne molida de segunda,2010,MAYO,11367
+17,Carne bovina - 1kg,Carne molida de segunda,2010,JUNIO,11125
+17,Carne bovina - 1kg,Carne molida de segunda,2010,JULIO,11115
+17,Carne bovina - 1kg,Carne molida de segunda,2010,AGOSTO,14224
+17,Carne bovina - 1kg,Carne molida de segunda,2010,SETIEMBRE,13891
+17,Carne bovina - 1kg,Carne molida de segunda,2010,OCTUBRE,15431
+17,Carne bovina - 1kg,Carne molida de segunda,2010,NOVIEMBE,16447
+17,Carne bovina - 1kg,Carne molida de segunda,2010,DICIEMBRE,14222
+17,Carne bovina - 1kg,Carne molida de segunda,2010,PROMEDIO,12680
+18,Carne bovina - 1kg,Costilla,2010,ENERO,15007
+18,Carne bovina - 1kg,Costilla,2010,FEBRERO,10433
+18,Carne bovina - 1kg,Costilla,2010,MARZO,11212
+18,Carne bovina - 1kg,Costilla,2010,ABRIL,10917
+18,Carne bovina - 1kg,Costilla,2010,MAYO,11901
+18,Carne bovina - 1kg,Costilla,2010,JUNIO,10632
+18,Carne bovina - 1kg,Costilla,2010,JULIO,11019
+18,Carne bovina - 1kg,Costilla,2010,AGOSTO,13879
+18,Carne bovina - 1kg,Costilla,2010,SETIEMBRE,12942
+18,Carne bovina - 1kg,Costilla,2010,OCTUBRE,15093
+18,Carne bovina - 1kg,Costilla,2010,NOVIEMBE,15891
+18,Carne bovina - 1kg,Costilla,2010,DICIEMBRE,13765
+18,Carne bovina - 1kg,Costilla,2010,PROMEDIO,12724
+19,Carne bovina - 1kg,Costilla de segunda,2010,ENERO,s/d
+19,Carne bovina - 1kg,Costilla de segunda,2010,FEBRERO,7940
+19,Carne bovina - 1kg,Costilla de segunda,2010,MARZO,8851
+19,Carne bovina - 1kg,Costilla de segunda,2010,ABRIL,8371
+19,Carne bovina - 1kg,Costilla de segunda,2010,MAYO,9062
+19,Carne bovina - 1kg,Costilla de segunda,2010,JUNIO,8198
+19,Carne bovina - 1kg,Costilla de segunda,2010,JULIO,8484
+19,Carne bovina - 1kg,Costilla de segunda,2010,AGOSTO,11467
+19,Carne bovina - 1kg,Costilla de segunda,2010,SETIEMBRE,10533
+19,Carne bovina - 1kg,Costilla de segunda,2010,OCTUBRE,11936
+19,Carne bovina - 1kg,Costilla de segunda,2010,NOVIEMBE,12655
+19,Carne bovina - 1kg,Costilla de segunda,2010,DICIEMBRE,11015
+19,Carne bovina - 1kg,Costilla de segunda,2010,PROMEDIO,9865
+20,Carne bovina - 1kg,Hígado,2010,ENERO,6358
+20,Carne bovina - 1kg,Hígado,2010,FEBRERO,7180
+20,Carne bovina - 1kg,Hígado,2010,MARZO,6387
+20,Carne bovina - 1kg,Hígado,2010,ABRIL,7057
+20,Carne bovina - 1kg,Hígado,2010,MAYO,7665
+20,Carne bovina - 1kg,Hígado,2010,JUNIO,7985
+20,Carne bovina - 1kg,Hígado,2010,JULIO,7255
+20,Carne bovina - 1kg,Hígado,2010,AGOSTO,7810
+20,Carne bovina - 1kg,Hígado,2010,SETIEMBRE,7573
+20,Carne bovina - 1kg,Hígado,2010,OCTUBRE,9572
+20,Carne bovina - 1kg,Hígado,2010,NOVIEMBE,10049
+20,Carne bovina - 1kg,Hígado,2010,DICIEMBRE,8452
+20,Carne bovina - 1kg,Hígado,2010,PROMEDIO,7779
+21,Carne bovina - 1kg,Corazón,2010,ENERO,6882
+21,Carne bovina - 1kg,Corazón,2010,FEBRERO,7549
+21,Carne bovina - 1kg,Corazón,2010,MARZO,7474
+21,Carne bovina - 1kg,Corazón,2010,ABRIL,7758
+21,Carne bovina - 1kg,Corazón,2010,MAYO,8153
+21,Carne bovina - 1kg,Corazón,2010,JUNIO,8288
+21,Carne bovina - 1kg,Corazón,2010,JULIO,7844
+21,Carne bovina - 1kg,Corazón,2010,AGOSTO,8438
+21,Carne bovina - 1kg,Corazón,2010,SETIEMBRE,8508
+21,Carne bovina - 1kg,Corazón,2010,OCTUBRE,10308
+21,Carne bovina - 1kg,Corazón,2010,NOVIEMBE,10847
+21,Carne bovina - 1kg,Corazón,2010,DICIEMBRE,9189
+21,Carne bovina - 1kg,Corazón,2010,PROMEDIO,8436
+22,Carne bovina - 1kg,Mondongo,2010,ENERO,6850
+22,Carne bovina - 1kg,Mondongo,2010,FEBRERO,7144
+22,Carne bovina - 1kg,Mondongo,2010,MARZO,8588
+22,Carne bovina - 1kg,Mondongo,2010,ABRIL,9288
+22,Carne bovina - 1kg,Mondongo,2010,MAYO,10029
+22,Carne bovina - 1kg,Mondongo,2010,JUNIO,9348
+22,Carne bovina - 1kg,Mondongo,2010,JULIO,8880
+22,Carne bovina - 1kg,Mondongo,2010,AGOSTO,9684
+22,Carne bovina - 1kg,Mondongo,2010,SETIEMBRE,9357
+22,Carne bovina - 1kg,Mondongo,2010,OCTUBRE,11824
+22,Carne bovina - 1kg,Mondongo,2010,NOVIEMBE,12273
+22,Carne bovina - 1kg,Mondongo,2010,DICIEMBRE,10403
+22,Carne bovina - 1kg,Mondongo,2010,PROMEDIO,9472
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,ENERO,24609
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,FEBRERO,24344
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,MARZO,24115
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,ABRIL,24788
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,MAYO,24954
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,JUNIO,25095
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,JULIO,24659
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,AGOSTO,27988
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,SETIEMBRE,29535
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,OCTUBRE,33058
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,NOVIEMBE,35084
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,DICIEMBRE,30065
+23,Carne bovina - 1 Kg.,Carnaza de Primera,2010,PROMEDIO,27358
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,ENERO,13960
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,FEBRERO,14011
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,MARZO,13911
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,ABRIL,14154
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,MAYO,14434
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,JUNIO,14575
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,JULIO,14217
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,AGOSTO,16900
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,SETIEMBRE,17549
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,OCTUBRE,19419
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,NOVIEMBE,20665
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,DICIEMBRE,17750
+24,Carne bovina - 1 Kg.,Carnaza de Segunda,2010,PROMEDIO,16144
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,ENERO,2903
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,FEBRERO,2559
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,MARZO,2659
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,ABRIL,3064
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,MAYO,3190
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,JUNIO,3235
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,JULIO,2941
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,AGOSTO,4009
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,SETIEMBRE,4102
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,OCTUBRE,4369
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,NOVIEMBE,4664
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,DICIEMBRE,4017
+25,Carne bovina - 1 Kg.,Puchero de Segunda,2010,PROMEDIO,3528
+26,Carne bovina - 1Kg,Costeleta,2010,ENERO,s/d
+26,Carne bovina - 1Kg,Costeleta,2010,FEBRERO,18247
+26,Carne bovina - 1Kg,Costeleta,2010,MARZO,18436
+26,Carne bovina - 1Kg,Costeleta,2010,ABRIL,18692
+26,Carne bovina - 1Kg,Costeleta,2010,MAYO,18909
+26,Carne bovina - 1Kg,Costeleta,2010,JUNIO,18428
+26,Carne bovina - 1Kg,Costeleta,2010,JULIO,18542
+26,Carne bovina - 1Kg,Costeleta,2010,AGOSTO,20378
+26,Carne bovina - 1Kg,Costeleta,2010,SETIEMBRE,21094
+26,Carne bovina - 1Kg,Costeleta,2010,OCTUBRE,24338
+26,Carne bovina - 1Kg,Costeleta,2010,NOVIEMBE,25695
+26,Carne bovina - 1Kg,Costeleta,2010,DICIEMBRE,22009
+26,Carne bovina - 1Kg,Costeleta,2010,PROMEDIO,20434
+27,Carne bovina - 1Kg,Vacío,2010,ENERO,s/d
+27,Carne bovina - 1Kg,Vacío,2010,FEBRERO,12906
+27,Carne bovina - 1Kg,Vacío,2010,MARZO,14507
+27,Carne bovina - 1Kg,Vacío,2010,ABRIL,13988
+27,Carne bovina - 1Kg,Vacío,2010,MAYO,14403
+27,Carne bovina - 1Kg,Vacío,2010,JUNIO,13830
+27,Carne bovina - 1Kg,Vacío,2010,JULIO,13927
+27,Carne bovina - 1Kg,Vacío,2010,AGOSTO,17517
+27,Carne bovina - 1Kg,Vacío,2010,SETIEMBRE,16118
+27,Carne bovina - 1Kg,Vacío,2010,OCTUBRE,18949
+27,Carne bovina - 1Kg,Vacío,2010,NOVIEMBE,20085
+27,Carne bovina - 1Kg,Vacío,2010,DICIEMBRE,17319
+27,Carne bovina - 1Kg,Vacío,2010,PROMEDIO,15777
+28,Carne bovina - 1Kg,Falda,2010,ENERO,s/d
+28,Carne bovina - 1Kg,Falda,2010,FEBRERO,9110
+28,Carne bovina - 1Kg,Falda,2010,MARZO,9339
+28,Carne bovina - 1Kg,Falda,2010,ABRIL,8917
+28,Carne bovina - 1Kg,Falda,2010,MAYO,9371
+28,Carne bovina - 1Kg,Falda,2010,JUNIO,8960
+28,Carne bovina - 1Kg,Falda,2010,JULIO,9139
+28,Carne bovina - 1Kg,Falda,2010,AGOSTO,11199
+28,Carne bovina - 1Kg,Falda,2010,SETIEMBRE,10354
+28,Carne bovina - 1Kg,Falda,2010,OCTUBRE,12256
+28,Carne bovina - 1Kg,Falda,2010,NOVIEMBE,12977
+28,Carne bovina - 1Kg,Falda,2010,DICIEMBRE,11185
+28,Carne bovina - 1Kg,Falda,2010,PROMEDIO,10255
+29,Carne bovina - 1Kg,Peceto,2010,ENERO,s/d
+29,Carne bovina - 1Kg,Peceto,2010,FEBRERO,23346
+29,Carne bovina - 1Kg,Peceto,2010,MARZO,23853
+29,Carne bovina - 1Kg,Peceto,2010,ABRIL,23734
+29,Carne bovina - 1Kg,Peceto,2010,MAYO,23385
+29,Carne bovina - 1Kg,Peceto,2010,JUNIO,23539
+29,Carne bovina - 1Kg,Peceto,2010,JULIO,23571
+29,Carne bovina - 1Kg,Peceto,2010,AGOSTO,25570
+29,Carne bovina - 1Kg,Peceto,2010,SETIEMBRE,26517
+29,Carne bovina - 1Kg,Peceto,2010,OCTUBRE,30645
+29,Carne bovina - 1Kg,Peceto,2010,NOVIEMBE,32461
+29,Carne bovina - 1Kg,Peceto,2010,DICIEMBRE,27753
+29,Carne bovina - 1Kg,Peceto,2010,PROMEDIO,25852
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,ENERO,28503
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,FEBRERO,28678
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,MARZO,28426
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,ABRIL,28613
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,MAYO,29047
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,JUNIO,28857
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,JULIO,28724
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,AGOSTO,31551
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,SETIEMBRE,32865
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,OCTUBRE,37761
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,NOVIEMBE,39940
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,DICIEMBRE,34168
+30,Carne bovina - 1Kg,Tapa Cuadril,2010,PROMEDIO,31694
+31,Carne bovina - 1Kg,Rabadilla,2010,ENERO,27002
+31,Carne bovina - 1Kg,Rabadilla,2010,FEBRERO,26239
+31,Carne bovina - 1Kg,Rabadilla,2010,MARZO,26292
+31,Carne bovina - 1Kg,Rabadilla,2010,ABRIL,26293
+31,Carne bovina - 1Kg,Rabadilla,2010,MAYO,26077
+31,Carne bovina - 1Kg,Rabadilla,2010,JUNIO,26391
+31,Carne bovina - 1Kg,Rabadilla,2010,JULIO,26258
+31,Carne bovina - 1Kg,Rabadilla,2010,AGOSTO,29575
+31,Carne bovina - 1Kg,Rabadilla,2010,SETIEMBRE,30593
+31,Carne bovina - 1Kg,Rabadilla,2010,OCTUBRE,34723
+31,Carne bovina - 1Kg,Rabadilla,2010,NOVIEMBE,36885
+31,Carne bovina - 1Kg,Rabadilla,2010,DICIEMBRE,31607
+31,Carne bovina - 1Kg,Rabadilla,2010,PROMEDIO,29176
+32,Carne bovina - 1Kg,Bola de Lomo,2010,ENERO,24459
+32,Carne bovina - 1Kg,Bola de Lomo,2010,FEBRERO,24227
+32,Carne bovina - 1Kg,Bola de Lomo,2010,MARZO,24520
+32,Carne bovina - 1Kg,Bola de Lomo,2010,ABRIL,24420
+32,Carne bovina - 1Kg,Bola de Lomo,2010,MAYO,24494
+32,Carne bovina - 1Kg,Bola de Lomo,2010,JUNIO,24665
+32,Carne bovina - 1Kg,Bola de Lomo,2010,JULIO,24465
+32,Carne bovina - 1Kg,Bola de Lomo,2010,AGOSTO,27693
+32,Carne bovina - 1Kg,Bola de Lomo,2010,SETIEMBRE,29238
+32,Carne bovina - 1Kg,Bola de Lomo,2010,OCTUBRE,32639
+32,Carne bovina - 1Kg,Bola de Lomo,2010,NOVIEMBE,34675
+32,Carne bovina - 1Kg,Bola de Lomo,2010,DICIEMBRE,29742
+32,Carne bovina - 1Kg,Bola de Lomo,2010,PROMEDIO,27343
+33,Carne bovina - 1Kg,Palomita,2010,ENERO,26742
+33,Carne bovina - 1Kg,Palomita,2010,FEBRERO,27125
+33,Carne bovina - 1Kg,Palomita,2010,MARZO,26828
+33,Carne bovina - 1Kg,Palomita,2010,ABRIL,27239
+33,Carne bovina - 1Kg,Palomita,2010,MAYO,27910
+33,Carne bovina - 1Kg,Palomita,2010,JUNIO,27418
+33,Carne bovina - 1Kg,Palomita,2010,JULIO,27304
+33,Carne bovina - 1Kg,Palomita,2010,AGOSTO,29626
+33,Carne bovina - 1Kg,Palomita,2010,SETIEMBRE,31003
+33,Carne bovina - 1Kg,Palomita,2010,OCTUBRE,35815
+33,Carne bovina - 1Kg,Palomita,2010,NOVIEMBE,37792
+33,Carne bovina - 1Kg,Palomita,2010,DICIEMBRE,32308
+33,Carne bovina - 1Kg,Palomita,2010,PROMEDIO,30034
+34,Carne bovina - 1Kg,Muchachito,2010,ENERO,20621
+34,Carne bovina - 1Kg,Muchachito,2010,FEBRERO,20934
+34,Carne bovina - 1Kg,Muchachito,2010,MARZO,20761
+34,Carne bovina - 1Kg,Muchachito,2010,ABRIL,21032
+34,Carne bovina - 1Kg,Muchachito,2010,MAYO,21570
+34,Carne bovina - 1Kg,Muchachito,2010,JUNIO,20874
+34,Carne bovina - 1Kg,Muchachito,2010,JULIO,21034
+34,Carne bovina - 1Kg,Muchachito,2010,AGOSTO,23271
+34,Carne bovina - 1Kg,Muchachito,2010,SETIEMBRE,23805
+34,Carne bovina - 1Kg,Muchachito,2010,OCTUBRE,27638
+34,Carne bovina - 1Kg,Muchachito,2010,NOVIEMBE,29156
+34,Carne bovina - 1Kg,Muchachito,2010,DICIEMBRE,24981
+34,Carne bovina - 1Kg,Muchachito,2010,PROMEDIO,23187
+35,Carne bovina - 1Kg,Paleta,2010,ENERO,21305
+35,Carne bovina - 1Kg,Paleta,2010,FEBRERO,20482
+35,Carne bovina - 1Kg,Paleta,2010,MARZO,20282
+35,Carne bovina - 1Kg,Paleta,2010,ABRIL,20785
+35,Carne bovina - 1Kg,Paleta,2010,MAYO,21201
+35,Carne bovina - 1Kg,Paleta,2010,JUNIO,20902
+35,Carne bovina - 1Kg,Paleta,2010,JULIO,20730
+35,Carne bovina - 1Kg,Paleta,2010,AGOSTO,23181
+35,Carne bovina - 1Kg,Paleta,2010,SETIEMBRE,24430
+35,Carne bovina - 1Kg,Paleta,2010,OCTUBRE,27611
+35,Carne bovina - 1Kg,Paleta,2010,NOVIEMBE,29214
+35,Carne bovina - 1Kg,Paleta,2010,DICIEMBRE,25033
+35,Carne bovina - 1Kg,Paleta,2010,PROMEDIO,23077
+36,Carne bovina - 1Kg,Sambari,2010,ENERO,16631
+36,Carne bovina - 1Kg,Sambari,2010,FEBRERO,16570
+36,Carne bovina - 1Kg,Sambari,2010,MARZO,16380
+36,Carne bovina - 1Kg,Sambari,2010,ABRIL,16574
+36,Carne bovina - 1Kg,Sambari,2010,MAYO,16481
+36,Carne bovina - 1Kg,Sambari,2010,JUNIO,16894
+36,Carne bovina - 1Kg,Sambari,2010,JULIO,16580
+36,Carne bovina - 1Kg,Sambari,2010,AGOSTO,18572
+36,Carne bovina - 1Kg,Sambari,2010,SETIEMBRE,19822
+36,Carne bovina - 1Kg,Sambari,2010,OCTUBRE,22087
+36,Carne bovina - 1Kg,Sambari,2010,NOVIEMBE,23489
+36,Carne bovina - 1Kg,Sambari,2010,DICIEMBRE,20110
+36,Carne bovina - 1Kg,Sambari,2010,PROMEDIO,18505
+37,Carne bovina - 1Kg,Matambre,2010,ENERO,12397
+37,Carne bovina - 1Kg,Matambre,2010,FEBRERO,11658
+37,Carne bovina - 1Kg,Matambre,2010,MARZO,11467
+37,Carne bovina - 1Kg,Matambre,2010,ABRIL,11051
+37,Carne bovina - 1Kg,Matambre,2010,MAYO,11194
+37,Carne bovina - 1Kg,Matambre,2010,JUNIO,11231
+37,Carne bovina - 1Kg,Matambre,2010,JULIO,11320
+37,Carne bovina - 1Kg,Matambre,2010,AGOSTO,14128
+37,Carne bovina - 1Kg,Matambre,2010,SETIEMBRE,13825
+37,Carne bovina - 1Kg,Matambre,2010,OCTUBRE,15425
+37,Carne bovina - 1Kg,Matambre,2010,NOVIEMBE,16483
+37,Carne bovina - 1Kg,Matambre,2010,DICIEMBRE,14236
+37,Carne bovina - 1Kg,Matambre,2010,PROMEDIO,12868
+38,Carne bovina - 1Kg,Tapa de Asado,2010,ENERO,15540
+38,Carne bovina - 1Kg,Tapa de Asado,2010,FEBRERO,15561
+38,Carne bovina - 1Kg,Tapa de Asado,2010,MARZO,15279
+38,Carne bovina - 1Kg,Tapa de Asado,2010,ABRIL,15308
+38,Carne bovina - 1Kg,Tapa de Asado,2010,MAYO,15651
+38,Carne bovina - 1Kg,Tapa de Asado,2010,JUNIO,15669
+38,Carne bovina - 1Kg,Tapa de Asado,2010,JULIO,15493
+38,Carne bovina - 1Kg,Tapa de Asado,2010,AGOSTO,17752
+38,Carne bovina - 1Kg,Tapa de Asado,2010,SETIEMBRE,17670
+38,Carne bovina - 1Kg,Tapa de Asado,2010,OCTUBRE,20559
+38,Carne bovina - 1Kg,Tapa de Asado,2010,NOVIEMBE,21786
+38,Carne bovina - 1Kg,Tapa de Asado,2010,DICIEMBRE,18652
+38,Carne bovina - 1Kg,Tapa de Asado,2010,PROMEDIO,17076
+39,Carne bovina - 1Kg,Espinazo Negro,2010,ENERO,7939
+39,Carne bovina - 1Kg,Espinazo Negro,2010,FEBRERO,8846
+39,Carne bovina - 1Kg,Espinazo Negro,2010,MARZO,8462
+39,Carne bovina - 1Kg,Espinazo Negro,2010,ABRIL,8490
+39,Carne bovina - 1Kg,Espinazo Negro,2010,MAYO,8515
+39,Carne bovina - 1Kg,Espinazo Negro,2010,JUNIO,8963
+39,Carne bovina - 1Kg,Espinazo Negro,2010,JULIO,8655
+39,Carne bovina - 1Kg,Espinazo Negro,2010,AGOSTO,10994
+39,Carne bovina - 1Kg,Espinazo Negro,2010,SETIEMBRE,11627
+39,Carne bovina - 1Kg,Espinazo Negro,2010,OCTUBRE,12189
+39,Carne bovina - 1Kg,Espinazo Negro,2010,NOVIEMBE,13107
+39,Carne bovina - 1Kg,Espinazo Negro,2010,DICIEMBRE,11314
+39,Carne bovina - 1Kg,Espinazo Negro,2010,PROMEDIO,9925
+40,Carne bovina - 1Kg,Osobuco,2010,ENERO,10011
+40,Carne bovina - 1Kg,Osobuco,2010,FEBRERO,10356
+40,Carne bovina - 1Kg,Osobuco,2010,MARZO,10483
+40,Carne bovina - 1Kg,Osobuco,2010,ABRIL,10285
+40,Carne bovina - 1Kg,Osobuco,2010,MAYO,10396
+40,Carne bovina - 1Kg,Osobuco,2010,JUNIO,10335
+40,Carne bovina - 1Kg,Osobuco,2010,JULIO,10371
+40,Carne bovina - 1Kg,Osobuco,2010,AGOSTO,12404
+40,Carne bovina - 1Kg,Osobuco,2010,SETIEMBRE,12755
+40,Carne bovina - 1Kg,Osobuco,2010,OCTUBRE,14065
+40,Carne bovina - 1Kg,Osobuco,2010,NOVIEMBE,14983
+40,Carne bovina - 1Kg,Osobuco,2010,DICIEMBRE,12916
+40,Carne bovina - 1Kg,Osobuco,2010,PROMEDIO,11613
+41,Carne bovina - 1Kg,Cebo,2010,ENERO,1690
+41,Carne bovina - 1Kg,Cebo,2010,FEBRERO,1452
+41,Carne bovina - 1Kg,Cebo,2010,MARZO,1451
+41,Carne bovina - 1Kg,Cebo,2010,ABRIL,1345
+41,Carne bovina - 1Kg,Cebo,2010,MAYO,1389
+41,Carne bovina - 1Kg,Cebo,2010,JUNIO,1530
+41,Carne bovina - 1Kg,Cebo,2010,JULIO,1433
+41,Carne bovina - 1Kg,Cebo,2010,AGOSTO,1780
+41,Carne bovina - 1Kg,Cebo,2010,SETIEMBRE,1636
+41,Carne bovina - 1Kg,Cebo,2010,OCTUBRE,1942
+41,Carne bovina - 1Kg,Cebo,2010,NOVIEMBE,2080
+41,Carne bovina - 1Kg,Cebo,2010,DICIEMBRE,1774
+41,Carne bovina - 1Kg,Cebo,2010,PROMEDIO,1625
+42,Carne bovina - 1Kg,Hueso Blanco,2010,ENERO,1513
+42,Carne bovina - 1Kg,Hueso Blanco,2010,FEBRERO,1271
+42,Carne bovina - 1Kg,Hueso Blanco,2010,MARZO,1394
+42,Carne bovina - 1Kg,Hueso Blanco,2010,ABRIL,1464
+42,Carne bovina - 1Kg,Hueso Blanco,2010,MAYO,1384
+42,Carne bovina - 1Kg,Hueso Blanco,2010,JUNIO,1459
+42,Carne bovina - 1Kg,Hueso Blanco,2010,JULIO,1394
+42,Carne bovina - 1Kg,Hueso Blanco,2010,AGOSTO,1921
+42,Carne bovina - 1Kg,Hueso Blanco,2010,SETIEMBRE,1951
+42,Carne bovina - 1Kg,Hueso Blanco,2010,OCTUBRE,2028
+42,Carne bovina - 1Kg,Hueso Blanco,2010,NOVIEMBE,2188
+42,Carne bovina - 1Kg,Hueso Blanco,2010,DICIEMBRE,1896
+42,Carne bovina - 1Kg,Hueso Blanco,2010,PROMEDIO,1655
+43,Carne porcina - 1kg,Riñón,2010,ENERO,s/d
+43,Carne porcina - 1kg,Riñón,2010,FEBRERO,2355
+43,Carne porcina - 1kg,Riñón,2010,MARZO,2262
+43,Carne porcina - 1kg,Riñón,2010,ABRIL,2328
+43,Carne porcina - 1kg,Riñón,2010,MAYO,2845
+43,Carne porcina - 1kg,Riñón,2010,JUNIO,2334
+43,Carne porcina - 1kg,Riñón,2010,JULIO,2425
+43,Carne porcina - 1kg,Riñón,2010,AGOSTO,2476
+43,Carne porcina - 1kg,Riñón,2010,SETIEMBRE,2176
+43,Carne porcina - 1kg,Riñón,2010,OCTUBRE,3064
+43,Carne porcina - 1kg,Riñón,2010,NOVIEMBE,3119
+43,Carne porcina - 1kg,Riñón,2010,DICIEMBRE,2652
+43,Carne porcina - 1kg,Riñón,2010,PROMEDIO,2549
+44,Carne porcina - 1kg,Lomo de cerdo,2010,ENERO,s/d
+44,Carne porcina - 1kg,Lomo de cerdo,2010,FEBRERO,26676
+44,Carne porcina - 1kg,Lomo de cerdo,2010,MARZO,24847
+44,Carne porcina - 1kg,Lomo de cerdo,2010,ABRIL,25867
+44,Carne porcina - 1kg,Lomo de cerdo,2010,MAYO,24607
+44,Carne porcina - 1kg,Lomo de cerdo,2010,JUNIO,25629
+44,Carne porcina - 1kg,Lomo de cerdo,2010,JULIO,25525
+44,Carne porcina - 1kg,Lomo de cerdo,2010,AGOSTO,23868
+44,Carne porcina - 1kg,Lomo de cerdo,2010,SETIEMBRE,23669
+44,Carne porcina - 1kg,Lomo de cerdo,2010,OCTUBRE,30825
+44,Carne porcina - 1kg,Lomo de cerdo,2010,NOVIEMBE,32379
+44,Carne porcina - 1kg,Lomo de cerdo,2010,DICIEMBRE,27253
+44,Carne porcina - 1kg,Lomo de cerdo,2010,PROMEDIO,26468
+45,Carne porcina - 1kg,Costilla de cerdo,2010,ENERO,s/d
+45,Carne porcina - 1kg,Costilla de cerdo,2010,FEBRERO,19491
+45,Carne porcina - 1kg,Costilla de cerdo,2010,MARZO,19432
+45,Carne porcina - 1kg,Costilla de cerdo,2010,ABRIL,19813
+45,Carne porcina - 1kg,Costilla de cerdo,2010,MAYO,19778
+45,Carne porcina - 1kg,Costilla de cerdo,2010,JUNIO,19487
+45,Carne porcina - 1kg,Costilla de cerdo,2010,JULIO,19600
+45,Carne porcina - 1kg,Costilla de cerdo,2010,AGOSTO,19826
+45,Carne porcina - 1kg,Costilla de cerdo,2010,SETIEMBRE,19932
+45,Carne porcina - 1kg,Costilla de cerdo,2010,OCTUBRE,24656
+45,Carne porcina - 1kg,Costilla de cerdo,2010,NOVIEMBE,25875
+45,Carne porcina - 1kg,Costilla de cerdo,2010,DICIEMBRE,21978
+45,Carne porcina - 1kg,Costilla de cerdo,2010,PROMEDIO,20897
+46,Carne porcina - 1kg,Costeleta,2010,ENERO,s/d
+46,Carne porcina - 1kg,Costeleta,2010,FEBRERO,16917
+46,Carne porcina - 1kg,Costeleta,2010,MARZO,16795
+46,Carne porcina - 1kg,Costeleta,2010,ABRIL,16964
+46,Carne porcina - 1kg,Costeleta,2010,MAYO,16772
+46,Carne porcina - 1kg,Costeleta,2010,JUNIO,17166
+46,Carne porcina - 1kg,Costeleta,2010,JULIO,16923
+46,Carne porcina - 1kg,Costeleta,2010,AGOSTO,16434
+46,Carne porcina - 1kg,Costeleta,2010,SETIEMBRE,16861
+46,Carne porcina - 1kg,Costeleta,2010,OCTUBRE,21039
+46,Carne porcina - 1kg,Costeleta,2010,NOVIEMBE,22106
+46,Carne porcina - 1kg,Costeleta,2010,DICIEMBRE,18673
+46,Carne porcina - 1kg,Costeleta,2010,PROMEDIO,17877
+47,Carne porcina - 1kg,Paleta de cerdo,2010,ENERO,s/d
+47,Carne porcina - 1kg,Paleta de cerdo,2010,FEBRERO,16821
+47,Carne porcina - 1kg,Paleta de cerdo,2010,MARZO,16913
+47,Carne porcina - 1kg,Paleta de cerdo,2010,ABRIL,17099
+47,Carne porcina - 1kg,Paleta de cerdo,2010,MAYO,16918
+47,Carne porcina - 1kg,Paleta de cerdo,2010,JUNIO,16753
+47,Carne porcina - 1kg,Paleta de cerdo,2010,JULIO,16901
+47,Carne porcina - 1kg,Paleta de cerdo,2010,AGOSTO,15843
+47,Carne porcina - 1kg,Paleta de cerdo,2010,SETIEMBRE,15954
+47,Carne porcina - 1kg,Paleta de cerdo,2010,OCTUBRE,20592
+47,Carne porcina - 1kg,Paleta de cerdo,2010,NOVIEMBE,21511
+47,Carne porcina - 1kg,Paleta de cerdo,2010,DICIEMBRE,18160
+47,Carne porcina - 1kg,Paleta de cerdo,2010,PROMEDIO,17588
+48,Carne porcina - 1kg,Pierna,2010,ENERO,s/d
+48,Carne porcina - 1kg,Pierna,2010,FEBRERO,17316
+48,Carne porcina - 1kg,Pierna,2010,MARZO,17334
+48,Carne porcina - 1kg,Pierna,2010,ABRIL,17385
+48,Carne porcina - 1kg,Pierna,2010,MAYO,17368
+48,Carne porcina - 1kg,Pierna,2010,JUNIO,17106
+48,Carne porcina - 1kg,Pierna,2010,JULIO,17302
+48,Carne porcina - 1kg,Pierna,2010,AGOSTO,16991
+48,Carne porcina - 1kg,Pierna,2010,SETIEMBRE,16946
+48,Carne porcina - 1kg,Pierna,2010,OCTUBRE,21428
+48,Carne porcina - 1kg,Pierna,2010,NOVIEMBE,22443
+48,Carne porcina - 1kg,Pierna,2010,DICIEMBRE,19022
+48,Carne porcina - 1kg,Pierna,2010,PROMEDIO,18240
+49,Carne porcina - 1kg,Puchero,2010,ENERO,s/d
+49,Carne porcina - 1kg,Puchero,2010,FEBRERO,5217
+49,Carne porcina - 1kg,Puchero,2010,MARZO,5357
+49,Carne porcina - 1kg,Puchero,2010,ABRIL,4707
+49,Carne porcina - 1kg,Puchero,2010,MAYO,5438
+49,Carne porcina - 1kg,Puchero,2010,JUNIO,5611
+49,Carne porcina - 1kg,Puchero,2010,JULIO,5266
+49,Carne porcina - 1kg,Puchero,2010,AGOSTO,4895
+49,Carne porcina - 1kg,Puchero,2010,SETIEMBRE,5116
+49,Carne porcina - 1kg,Puchero,2010,OCTUBRE,6581
+49,Carne porcina - 1kg,Puchero,2010,NOVIEMBE,6867
+49,Carne porcina - 1kg,Puchero,2010,DICIEMBRE,5745
+49,Carne porcina - 1kg,Puchero,2010,PROMEDIO,5527
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,ENERO,4199
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,FEBRERO,4420
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,MARZO,4548
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,ABRIL,4908
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,MAYO,5080
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,JUNIO,5176
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,JULIO,4826
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,AGOSTO,5472
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,SETIEMBRE,5706
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,OCTUBRE,6565
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,NOVIEMBE,6936
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,DICIEMBRE,5901
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,PROMEDIO,5312
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,ENERO,11753
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,FEBRERO,11504
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,MARZO,13264
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,ABRIL,13831
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,MAYO,14111
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,JUNIO,14024
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,JULIO,13347
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,AGOSTO,12594
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,SETIEMBRE,11790
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,OCTUBRE,16466
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,NOVIEMBE,17055
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,DICIEMBRE,14250
+51,Carne de ave/ pechuga - 1kg,Marca mas económica,2010,PROMEDIO,13666
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,ENERO,14503
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,FEBRERO,14836
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,MARZO,14909
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,ABRIL,13272
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,MAYO,12150
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,JUNIO,11721
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,JULIO,13377
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,AGOSTO,12472
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,SETIEMBRE,13119
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,OCTUBRE,15710
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,NOVIEMBE,16600
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,DICIEMBRE,14256
+52,Carne de ave /pata entera-1kg,Marca mas económica,2010,PROMEDIO,13910
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,ENERO,8733
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,FEBRERO,9126
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,MARZO,8921
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,ABRIL,8426
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,MAYO,8297
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,JUNIO,8273
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,JULIO,8608
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,AGOSTO,8508
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,SETIEMBRE,8610
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,OCTUBRE,10574
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,NOVIEMBE,11143
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,DICIEMBRE,9488
+53,Carne de ave / pollo entero-1kg,Marca mas económica,2010,PROMEDIO,9059
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,ENERO,11008
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,FEBRERO,11625
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,MARZO,11390
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,ABRIL,11156
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,MAYO,12074
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,JUNIO,12062
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,JULIO,11661
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,AGOSTO,12286
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,SETIEMBRE,12674
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,OCTUBRE,15189
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,NOVIEMBE,15968
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,DICIEMBRE,13556
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,PROMEDIO,12554
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,ENERO,7940
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,FEBRERO,7635
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,MARZO,7512
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,ABRIL,7502
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,MAYO,7429
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,JUNIO,6697
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,JULIO,7355
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,AGOSTO,7093
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,SETIEMBRE,7565
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,OCTUBRE,9035
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,NOVIEMBE,9436
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,DICIEMBRE,8097
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,PROMEDIO,7775
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,ENERO,2924
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,FEBRERO,2567
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,MARZO,2862
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,ABRIL,3000
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,MAYO,2995
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,JUNIO,2905
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,JULIO,2866
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,AGOSTO,2978
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,SETIEMBRE,3084
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,OCTUBRE,3707
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,NOVIEMBE,3885
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,DICIEMBRE,3304
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,PROMEDIO,3090
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,ENERO,11255
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,FEBRERO,10932
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,MARZO,10893
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,ABRIL,13002
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,MAYO,13681
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,JUNIO,13673
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,JULIO,12436
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,AGOSTO,13896
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,SETIEMBRE,14174
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,OCTUBRE,16965
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,NOVIEMBE,17786
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,DICIEMBRE,15052
+57,Carne de ave / Corazoncito- 1kg,Marca mas económica,2010,PROMEDIO,13645
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,ENERO,15161
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,FEBRERO,14661
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,MARZO,14531
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,ABRIL,14673
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,MAYO,14597
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,JUNIO,14740
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,JULIO,14641
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,AGOSTO,14744
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,SETIEMBRE,15518
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,OCTUBRE,18560
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,NOVIEMBE,19550
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,DICIEMBRE,16603
+58,Embutido/chorizo Viena- 1kg,Marca mas económica,2010,PROMEDIO,15665
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,ENERO,15379
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,FEBRERO,15399
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,MARZO,15476
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,ABRIL,15704
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,MAYO,15433
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,JUNIO,15615
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,JULIO,15525
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,AGOSTO,15706
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,SETIEMBRE,15678
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,OCTUBRE,19489
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,NOVIEMBE,20503
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,DICIEMBRE,17380
+59,Embutido/fiambre Paris- 1kg,Marca mas económica,2010,PROMEDIO,16441
+60,Queso - 1kg,Queso Paraguay,2010,ENERO,15304
+60,Queso - 1kg,Queso Paraguay,2010,FEBRERO,14459
+60,Queso - 1kg,Queso Paraguay,2010,MARZO,18679
+60,Queso - 1kg,Queso Paraguay,2010,ABRIL,20075
+60,Queso - 1kg,Queso Paraguay,2010,MAYO,19933
+60,Queso - 1kg,Queso Paraguay,2010,JUNIO,24911
+60,Queso - 1kg,Queso Paraguay,2010,JULIO,19611
+60,Queso - 1kg,Queso Paraguay,2010,AGOSTO,25583
+60,Queso - 1kg,Queso Paraguay,2010,SETIEMBRE,23618
+60,Queso - 1kg,Queso Paraguay,2010,OCTUBRE,28414
+60,Queso - 1kg,Queso Paraguay,2010,NOVIEMBE,30534
+60,Queso - 1kg,Queso Paraguay,2010,DICIEMBRE,25552
+60,Queso - 1kg,Queso Paraguay,2010,PROMEDIO,22223
+61,Queso sándwich - 1kg,Marca mas económica,2010,ENERO,22118
+61,Queso sándwich - 1kg,Marca mas económica,2010,FEBRERO,19929
+61,Queso sándwich - 1kg,Marca mas económica,2010,MARZO,23593
+61,Queso sándwich - 1kg,Marca mas económica,2010,ABRIL,25959
+61,Queso sándwich - 1kg,Marca mas económica,2010,MAYO,27869
+61,Queso sándwich - 1kg,Marca mas económica,2010,JUNIO,32775
+61,Queso sándwich - 1kg,Marca mas económica,2010,JULIO,26025
+61,Queso sándwich - 1kg,Marca mas económica,2010,AGOSTO,37571
+61,Queso sándwich - 1kg,Marca mas económica,2010,SETIEMBRE,35759
+61,Queso sándwich - 1kg,Marca mas económica,2010,OCTUBRE,40000
+61,Queso sándwich - 1kg,Marca mas económica,2010,NOVIEMBE,43032
+61,Queso sándwich - 1kg,Marca mas económica,2010,DICIEMBRE,36477
+61,Queso sándwich - 1kg,Marca mas económica,2010,PROMEDIO,30926
+62,Aceite de soja - 900cc,Marca mas económica,2010,ENERO,6891
+62,Aceite de soja - 900cc,Marca mas económica,2010,FEBRERO,6619
+62,Aceite de soja - 900cc,Marca mas económica,2010,MARZO,6260
+62,Aceite de soja - 900cc,Marca mas económica,2010,ABRIL,6210
+62,Aceite de soja - 900cc,Marca mas económica,2010,MAYO,6095
+62,Aceite de soja - 900cc,Marca mas económica,2010,JUNIO,6169
+62,Aceite de soja - 900cc,Marca mas económica,2010,JULIO,6270
+62,Aceite de soja - 900cc,Marca mas económica,2010,AGOSTO,5865
+62,Aceite de soja - 900cc,Marca mas económica,2010,SETIEMBRE,6228
+62,Aceite de soja - 900cc,Marca mas económica,2010,OCTUBRE,7657
+62,Aceite de soja - 900cc,Marca mas económica,2010,NOVIEMBE,8048
+62,Aceite de soja - 900cc,Marca mas económica,2010,DICIEMBRE,6814
+62,Aceite de soja - 900cc,Marca mas económica,2010,PROMEDIO,6594
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,ENERO,7971
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,FEBRERO,7889
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,MARZO,7876
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,ABRIL,7864
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,MAYO,7918
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,JUNIO,7993
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,JULIO,7908
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,AGOSTO,8304
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,SETIEMBRE,8241
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,OCTUBRE,10091
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,NOVIEMBE,10634
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,DICIEMBRE,9036
+63,Aceite de girasol - 900 cc,Marca mas económica,2010,PROMEDIO,8477
+64,Aceite de maíz - 1lt,Marca mas económica,2010,ENERO,14185
+64,Aceite de maíz - 1lt,Marca mas económica,2010,FEBRERO,13973
+64,Aceite de maíz - 1lt,Marca mas económica,2010,MARZO,13830
+64,Aceite de maíz - 1lt,Marca mas económica,2010,ABRIL,13575
+64,Aceite de maíz - 1lt,Marca mas económica,2010,MAYO,13696
+64,Aceite de maíz - 1lt,Marca mas económica,2010,JUNIO,14089
+64,Aceite de maíz - 1lt,Marca mas económica,2010,JULIO,13832
+64,Aceite de maíz - 1lt,Marca mas económica,2010,AGOSTO,13937
+64,Aceite de maíz - 1lt,Marca mas económica,2010,SETIEMBRE,14127
+64,Aceite de maíz - 1lt,Marca mas económica,2010,OCTUBRE,17420
+64,Aceite de maíz - 1lt,Marca mas económica,2010,NOVIEMBE,18351
+64,Aceite de maíz - 1lt,Marca mas económica,2010,DICIEMBRE,15534
+64,Aceite de maíz - 1lt,Marca mas económica,2010,PROMEDIO,14712
+65,Leche sachet - 1lt,Marca mas económica,2010,ENERO,2833
+65,Leche sachet - 1lt,Marca mas económica,2010,FEBRERO,2854
+65,Leche sachet - 1lt,Marca mas económica,2010,MARZO,2887
+65,Leche sachet - 1lt,Marca mas económica,2010,ABRIL,2968
+65,Leche sachet - 1lt,Marca mas económica,2010,MAYO,3017
+65,Leche sachet - 1lt,Marca mas económica,2010,JUNIO,3137
+65,Leche sachet - 1lt,Marca mas económica,2010,JULIO,2973
+65,Leche sachet - 1lt,Marca mas económica,2010,AGOSTO,3213
+65,Leche sachet - 1lt,Marca mas económica,2010,SETIEMBRE,3155
+65,Leche sachet - 1lt,Marca mas económica,2010,OCTUBRE,3874
+65,Leche sachet - 1lt,Marca mas económica,2010,NOVIEMBE,4088
+65,Leche sachet - 1lt,Marca mas económica,2010,DICIEMBRE,3461
+65,Leche sachet - 1lt,Marca mas económica,2010,PROMEDIO,3205
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,ENERO,1503
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,FEBRERO,1485
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,MARZO,1573
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,ABRIL,1552
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,MAYO,1550
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,JUNIO,1617
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,JULIO,1556
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,AGOSTO,1697
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,SETIEMBRE,1704
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,OCTUBRE,2031
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,NOVIEMBE,2151
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,DICIEMBRE,1828
+66,Lecha sachet - 1/2 lt,Marca mas económica,2010,PROMEDIO,1687
+67,Leche UHT - 1lt,Marca mas económica,2010,ENERO,3626
+67,Leche UHT - 1lt,Marca mas económica,2010,FEBRERO,3549
+67,Leche UHT - 1lt,Marca mas económica,2010,MARZO,3632
+67,Leche UHT - 1lt,Marca mas económica,2010,ABRIL,3820
+67,Leche UHT - 1lt,Marca mas económica,2010,MAYO,3846
+67,Leche UHT - 1lt,Marca mas económica,2010,JUNIO,3946
+67,Leche UHT - 1lt,Marca mas económica,2010,JULIO,3759
+67,Leche UHT - 1lt,Marca mas económica,2010,AGOSTO,4068
+67,Leche UHT - 1lt,Marca mas económica,2010,SETIEMBRE,4043
+67,Leche UHT - 1lt,Marca mas económica,2010,OCTUBRE,4915
+67,Leche UHT - 1lt,Marca mas económica,2010,NOVIEMBE,5183
+67,Leche UHT - 1lt,Marca mas económica,2010,DICIEMBRE,4393
+67,Leche UHT - 1lt,Marca mas económica,2010,PROMEDIO,4065
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,ENERO,1997
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,FEBRERO,2029
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,MARZO,2032
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,ABRIL,2117
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,MAYO,2147
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,JUNIO,2175
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,JULIO,2100
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,AGOSTO,2131
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,SETIEMBRE,2213
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,OCTUBRE,2691
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,NOVIEMBE,2827
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,DICIEMBRE,2392
+68,Leche UHT- 1/2 lt,Marca mas económica,2010,PROMEDIO,2238
+69,Yogurt - 350 gr,Marca mas económica,2010,ENERO,2240
+69,Yogurt - 350 gr,Marca mas económica,2010,FEBRERO,2332
+69,Yogurt - 350 gr,Marca mas económica,2010,MARZO,2375
+69,Yogurt - 350 gr,Marca mas económica,2010,ABRIL,2398
+69,Yogurt - 350 gr,Marca mas económica,2010,MAYO,2380
+69,Yogurt - 350 gr,Marca mas económica,2010,JUNIO,2407
+69,Yogurt - 350 gr,Marca mas económica,2010,JULIO,2378
+69,Yogurt - 350 gr,Marca mas económica,2010,AGOSTO,2484
+69,Yogurt - 350 gr,Marca mas económica,2010,SETIEMBRE,2485
+69,Yogurt - 350 gr,Marca mas económica,2010,OCTUBRE,3034
+69,Yogurt - 350 gr,Marca mas económica,2010,NOVIEMBE,3197
+69,Yogurt - 350 gr,Marca mas económica,2010,DICIEMBRE,2716
+69,Yogurt - 350 gr,Marca mas económica,2010,PROMEDIO,2535
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,ENERO,3135
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,FEBRERO,3238
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,MARZO,3344
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,ABRIL,3468
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,MAYO,3529
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,JUNIO,3538
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,JULIO,3423
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,AGOSTO,3437
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,SETIEMBRE,3401
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,OCTUBRE,4332
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,NOVIEMBE,4533
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,DICIEMBRE,3825
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,PROMEDIO,3600
+71,"Fruta,hortaliza - 1kg",Naranja,2010,ENERO,2345
+71,"Fruta,hortaliza - 1kg",Naranja,2010,FEBRERO,2450
+71,"Fruta,hortaliza - 1kg",Naranja,2010,MARZO,2765
+71,"Fruta,hortaliza - 1kg",Naranja,2010,ABRIL,2784
+71,"Fruta,hortaliza - 1kg",Naranja,2010,MAYO,2785
+71,"Fruta,hortaliza - 1kg",Naranja,2010,JUNIO,2413
+71,"Fruta,hortaliza - 1kg",Naranja,2010,JULIO,2639
+71,"Fruta,hortaliza - 1kg",Naranja,2010,AGOSTO,2162
+71,"Fruta,hortaliza - 1kg",Naranja,2010,SETIEMBRE,2148
+71,"Fruta,hortaliza - 1kg",Naranja,2010,OCTUBRE,3037
+71,"Fruta,hortaliza - 1kg",Naranja,2010,NOVIEMBE,3100
+71,"Fruta,hortaliza - 1kg",Naranja,2010,DICIEMBRE,2617
+71,"Fruta,hortaliza - 1kg",Naranja,2010,PROMEDIO,2604
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,ENERO,3095
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,FEBRERO,2379
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,MARZO,2374
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,ABRIL,2196
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,MAYO,1937
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,JUNIO,1654
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,JULIO,2108
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,AGOSTO,1784
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,SETIEMBRE,1712
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,OCTUBRE,2299
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,NOVIEMBE,2389
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,DICIEMBRE,2059
+72,"Fruta,hortaliza - 1kg",Banana carape,2010,PROMEDIO,2165
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,ENERO,1584
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,FEBRERO,1340
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,MARZO,1759
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,ABRIL,1561
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,MAYO,1383
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,JUNIO,1668
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,JULIO,1542
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,AGOSTO,1095
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,SETIEMBRE,721
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,OCTUBRE,1602
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,NOVIEMBE,1657
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,DICIEMBRE,1323
+73,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2010,PROMEDIO,1436
+74,"Fruta,hortaliza - 1kg",Locote,2010,ENERO,5707
+74,"Fruta,hortaliza - 1kg",Locote,2010,FEBRERO,7911
+74,"Fruta,hortaliza - 1kg",Locote,2010,MARZO,7850
+74,"Fruta,hortaliza - 1kg",Locote,2010,ABRIL,8411
+74,"Fruta,hortaliza - 1kg",Locote,2010,MAYO,7258
+74,"Fruta,hortaliza - 1kg",Locote,2010,JUNIO,6102
+74,"Fruta,hortaliza - 1kg",Locote,2010,JULIO,7506
+74,"Fruta,hortaliza - 1kg",Locote,2010,AGOSTO,4031
+74,"Fruta,hortaliza - 1kg",Locote,2010,SETIEMBRE,4438
+74,"Fruta,hortaliza - 1kg",Locote,2010,OCTUBRE,7334
+74,"Fruta,hortaliza - 1kg",Locote,2010,NOVIEMBE,7353
+74,"Fruta,hortaliza - 1kg",Locote,2010,DICIEMBRE,6133
+74,"Fruta,hortaliza - 1kg",Locote,2010,PROMEDIO,6670
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,ENERO,5023
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,FEBRERO,5619
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,MARZO,5351
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,ABRIL,5947
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,MAYO,4682
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,JUNIO,3942
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,JULIO,5108
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,AGOSTO,1984
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,SETIEMBRE,1706
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,OCTUBRE,4355
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,NOVIEMBE,4274
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,DICIEMBRE,3485
+75,"Fruta,hortaliza - 1kg",Zanahoria,2010,PROMEDIO,4290
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,ENERO,6029
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,FEBRERO,6382
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,MARZO,5764
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,ABRIL,8502
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,MAYO,6221
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,JUNIO,5258
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,JULIO,6426
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,AGOSTO,3359
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,SETIEMBRE,2012
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,OCTUBRE,5819
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,NOVIEMBE,5719
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,DICIEMBRE,4667
+76,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2010,PROMEDIO,5513
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,ENERO,3650
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,FEBRERO,3537
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,MARZO,3989
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,ABRIL,3640
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,MAYO,3461
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,JUNIO,4069
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,JULIO,3739
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,AGOSTO,3338
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,SETIEMBRE,3368
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,OCTUBRE,4494
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,NOVIEMBE,4752
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,DICIEMBRE,3938
+77,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2010,PROMEDIO,3831
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,ENERO,1340
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,FEBRERO,1261
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,MARZO,1165
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,ABRIL,1109
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,MAYO,1103
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,JUNIO,930
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,JULIO,1113
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,AGOSTO,931
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,SETIEMBRE,1064
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,OCTUBRE,1285
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,NOVIEMBE,1331
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,DICIEMBRE,1145
+78,"Fruta,hortaliza - 1kg",Mandioca,2010,PROMEDIO,1148
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,ENERO,3127
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,FEBRERO,2733
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,MARZO,2872
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,ABRIL,2666
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,MAYO,2412
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,JUNIO,2734
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,JULIO,2683
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,AGOSTO,2412
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,SETIEMBRE,2371
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,OCTUBRE,3153
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,NOVIEMBE,3338
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,DICIEMBRE,2791
+79,"Fruta,hortaliza - 1kg",Papa negra,2010,PROMEDIO,2774
+80,Sal fina - 500gr,Marca mas económica,2010,ENERO,1177
+80,Sal fina - 500gr,Marca mas económica,2010,FEBRERO,1172
+80,Sal fina - 500gr,Marca mas económica,2010,MARZO,1212
+80,Sal fina - 500gr,Marca mas económica,2010,ABRIL,1212
+80,Sal fina - 500gr,Marca mas económica,2010,MAYO,1264
+80,Sal fina - 500gr,Marca mas económica,2010,JUNIO,1307
+80,Sal fina - 500gr,Marca mas económica,2010,JULIO,1234
+80,Sal fina - 500gr,Marca mas económica,2010,AGOSTO,1306
+80,Sal fina - 500gr,Marca mas económica,2010,SETIEMBRE,1303
+80,Sal fina - 500gr,Marca mas económica,2010,OCTUBRE,1604
+80,Sal fina - 500gr,Marca mas económica,2010,NOVIEMBE,1688
+80,Sal fina - 500gr,Marca mas económica,2010,DICIEMBRE,1427
+80,Sal fina - 500gr,Marca mas económica,2010,PROMEDIO,1326
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,ENERO,2160
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,FEBRERO,2091
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,MARZO,1933
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,ABRIL,1946
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,MAYO,1988
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,JUNIO,1965
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,JULIO,1985
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,AGOSTO,2255
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,SETIEMBRE,2188
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,OCTUBRE,2595
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,NOVIEMBE,2747
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,DICIEMBRE,2354
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,PROMEDIO,2184
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,ENERO,1900
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,FEBRERO,1857
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,MARZO,1835
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,ABRIL,1847
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,MAYO,1847
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,JUNIO,1849
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,JULIO,1847
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,AGOSTO,1772
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,SETIEMBRE,1660
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,OCTUBRE,2244
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,NOVIEMBE,2343
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,DICIEMBRE,1973
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,PROMEDIO,1915
+83,Lavandina - 1lt,Marca mas económica,2010,ENERO,2636
+83,Lavandina - 1lt,Marca mas económica,2010,FEBRERO,2529
+83,Lavandina - 1lt,Marca mas económica,2010,MARZO,2482
+83,Lavandina - 1lt,Marca mas económica,2010,ABRIL,2473
+83,Lavandina - 1lt,Marca mas económica,2010,MAYO,2457
+83,Lavandina - 1lt,Marca mas económica,2010,JUNIO,2547
+83,Lavandina - 1lt,Marca mas económica,2010,JULIO,2498
+83,Lavandina - 1lt,Marca mas económica,2010,AGOSTO,2485
+83,Lavandina - 1lt,Marca mas económica,2010,SETIEMBRE,2436
+83,Lavandina - 1lt,Marca mas económica,2010,OCTUBRE,3106
+83,Lavandina - 1lt,Marca mas económica,2010,NOVIEMBE,3268
+83,Lavandina - 1lt,Marca mas económica,2010,DICIEMBRE,2758
+83,Lavandina - 1lt,Marca mas económica,2010,PROMEDIO,2640
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,ENERO,4049
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,FEBRERO,3950
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,MARZO,3777
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,ABRIL,3774
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,MAYO,3870
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,JUNIO,3723
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,JULIO,3819
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,AGOSTO,3792
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,SETIEMBRE,3758
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,OCTUBRE,4740
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,NOVIEMBE,4958
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,DICIEMBRE,4213
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,PROMEDIO,4035
+85,Jabón de baño - 90gr,Marca mas económica,2010,ENERO,1316
+85,Jabón de baño - 90gr,Marca mas económica,2010,FEBRERO,1290
+85,Jabón de baño - 90gr,Marca mas económica,2010,MARZO,1305
+85,Jabón de baño - 90gr,Marca mas económica,2010,ABRIL,1277
+85,Jabón de baño - 90gr,Marca mas económica,2010,MAYO,1330
+85,Jabón de baño - 90gr,Marca mas económica,2010,JUNIO,1334
+85,Jabón de baño - 90gr,Marca mas económica,2010,JULIO,1307
+85,Jabón de baño - 90gr,Marca mas económica,2010,AGOSTO,1288
+85,Jabón de baño - 90gr,Marca mas económica,2010,SETIEMBRE,1346
+85,Jabón de baño - 90gr,Marca mas económica,2010,OCTUBRE,1652
+85,Jabón de baño - 90gr,Marca mas económica,2010,NOVIEMBE,1732
+85,Jabón de baño - 90gr,Marca mas económica,2010,DICIEMBRE,1465
+85,Jabón de baño - 90gr,Marca mas económica,2010,PROMEDIO,1387
+86,Crema dental - 90gr,Marca mas económica,2010,ENERO,4276
+86,Crema dental - 90gr,Marca mas económica,2010,FEBRERO,4184
+86,Crema dental - 90gr,Marca mas económica,2010,MARZO,4257
+86,Crema dental - 90gr,Marca mas económica,2010,ABRIL,4123
+86,Crema dental - 90gr,Marca mas económica,2010,MAYO,4144
+86,Crema dental - 90gr,Marca mas económica,2010,JUNIO,4209
+86,Crema dental - 90gr,Marca mas económica,2010,JULIO,4184
+86,Crema dental - 90gr,Marca mas económica,2010,AGOSTO,4361
+86,Crema dental - 90gr,Marca mas económica,2010,SETIEMBRE,4390
+86,Crema dental - 90gr,Marca mas económica,2010,OCTUBRE,5322
+86,Crema dental - 90gr,Marca mas económica,2010,NOVIEMBE,5617
+86,Crema dental - 90gr,Marca mas económica,2010,DICIEMBRE,4775
+86,Crema dental - 90gr,Marca mas económica,2010,PROMEDIO,4487

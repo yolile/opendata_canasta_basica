@@ -1,0 +1,689 @@
+Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
+1,Panificado,Pan Felipito,2015,Enero,3447
+2,Panificado,Pan Felipito,2015,Febrero,3934
+3,Panificado,Pan Felipito,2015,Marzo,3876
+4,Panificado,Pan Felipito,2015,Abril,4024
+5,Panificado,Pan Felipito,2015,Mayo,4012
+6,Panificado,Pan Felipito,2015,Junio,3982
+7,Panificado,Pan Felipito,2015,Julio,3710
+8,Panificado,Pan Felipito,2015,Agosto,3706
+9,Panificado,Galleta,2015,Enero,4013
+10,Panificado,Galleta,2015,Febrero,4427
+11,Panificado,Galleta,2015,Marzo,4548
+12,Panificado,Galleta,2015,Abril,4573
+13,Panificado,Galleta,2015,Mayo,4542
+14,Panificado,Galleta,2015,Junio,4568
+15,Panificado,Galleta,2015,Julio,4210
+16,Panificado,Galleta,2015,Agosto,4280
+17,Panificado,Kokito,2015,Enero,8195
+18,Panificado,Kokito,2015,Febrero,9331
+19,Panificado,Kokito,2015,Marzo,10571
+20,Panificado,Kokito,2015,Abril,9102
+21,Panificado,Kokito,2015,Mayo,9574
+22,Panificado,Kokito,2015,Junio,9942
+23,Panificado,Kokito,2015,Julio,10290
+24,Panificado,Kokito,2015,Agosto,9360
+25,A granel - 1kg,Fideo,2015,Enero,3054
+26,A granel - 1kg,Fideo,2015,Febrero,3572
+27,A granel - 1kg,Fideo,2015,Marzo,3569
+28,A granel - 1kg,Fideo,2015,Abril,3661
+29,A granel - 1kg,Fideo,2015,Mayo,3790
+30,A granel - 1kg,Fideo,2015,Junio,4053
+31,A granel - 1kg,Fideo,2015,Julio,3325
+32,A granel - 1kg,Fideo,2015,Agosto,3388
+33,A granel - 1kg,Poroto,2015,Enero,6902
+34,A granel - 1kg,Poroto,2015,Febrero,7443
+35,A granel - 1kg,Poroto,2015,Marzo,7500
+36,A granel - 1kg,Poroto,2015,Abril,6935
+37,A granel - 1kg,Poroto,2015,Mayo,7027
+38,A granel - 1kg,Poroto,2015,Junio,8893
+39,A granel - 1kg,Poroto,2015,Julio,8617
+40,A granel - 1kg,Poroto,2015,Agosto,8275
+41,A granel - 1kg,Arroz,2015,Enero,2744
+42,A granel - 1kg,Arroz,2015,Febrero,2634
+43,A granel - 1kg,Arroz,2015,Marzo,2729
+44,A granel - 1kg,Arroz,2015,Abril,2564
+45,A granel - 1kg,Arroz,2015,Mayo,3355
+46,A granel - 1kg,Arroz,2015,Junio,2973
+47,A granel - 1kg,Arroz,2015,Julio,2513
+48,A granel - 1kg,Arroz,2015,Agosto,2300
+49,A granel - 1kg,Azúcar,2015,Enero,3398
+50,A granel - 1kg,Azúcar,2015,Febrero,3484
+51,A granel - 1kg,Azúcar,2015,Marzo,3231
+52,A granel - 1kg,Azúcar,2015,Abril,3242
+53,A granel - 1kg,Azúcar,2015,Mayo,3680
+54,A granel - 1kg,Azúcar,2015,Junio,3508
+55,A granel - 1kg,Azúcar,2015,Julio,3563
+56,A granel - 1kg,Azúcar,2015,Agosto,3388
+57,A granel - 1kg,Harina,2015,Enero,2808
+58,A granel - 1kg,Harina,2015,Febrero,3780
+59,A granel - 1kg,Harina,2015,Marzo,3077
+60,A granel - 1kg,Harina,2015,Abril,3534
+61,A granel - 1kg,Harina,2015,Mayo,3505
+62,A granel - 1kg,Harina,2015,Junio,3355
+63,A granel - 1kg,Harina,2015,Julio,1933
+64,A granel - 1kg,Harina,2015,Agosto,1713
+65,A granel - 1kg,Maíz,2015,Enero,4757
+66,A granel - 1kg,Maíz,2015,Febrero,4857
+67,A granel - 1kg,Maíz,2015,Marzo,4709
+68,A granel - 1kg,Maíz,2015,Abril,5246
+69,A granel - 1kg,Maíz,2015,Mayo,4200
+70,A granel - 1kg,Maíz,2015,Junio,5580
+71,A granel - 1kg,Maíz,2015,Julio,3550
+72,A granel - 1kg,Maíz,2015,Agosto,3900
+73,A granel - 1kg,Yerba,2015,Enero,6740
+74,A granel - 1kg,Yerba,2015,Febrero,7233
+75,A granel - 1kg,Yerba,2015,Marzo,7203
+76,A granel - 1kg,Yerba,2015,Abril,8832
+77,A granel - 1kg,Yerba,2015,Mayo,12245
+78,A granel - 1kg,Yerba,2015,Junio,10935
+79,A granel - 1kg,Yerba,2015,Julio,12625
+80,A granel - 1kg,Yerba,2015,Agosto,11500
+81,Carne bovina - 1kg,Puchero de primera,2015,Enero,12543
+82,Carne bovina - 1kg,Puchero de primera,2015,Febrero,12950
+83,Carne bovina - 1kg,Puchero de primera,2015,Marzo,12665
+84,Carne bovina - 1kg,Puchero de primera,2015,Abril,12842
+85,Carne bovina - 1kg,Puchero de primera,2015,Mayo,11742
+86,Carne bovina - 1kg,Puchero de primera,2015,Junio,14467
+87,Carne bovina - 1kg,Puchero de primera,2015,Julio,12938
+88,Carne bovina - 1kg,Puchero de primera,2015,Agosto,12663
+89,Carne bovina - 1kg,Carnaza de negra,2015,Enero,25466
+90,Carne bovina - 1kg,Carnaza de negra,2015,Febrero,27867
+91,Carne bovina - 1kg,Carnaza de negra,2015,Marzo,28875
+92,Carne bovina - 1kg,Carnaza de negra,2015,Abril,28868
+93,Carne bovina - 1kg,Carnaza de negra,2015,Mayo,27972
+94,Carne bovina - 1kg,Carnaza de negra,2015,Junio,26505
+95,Carne bovina - 1kg,Carnaza de negra,2015,Julio,29440
+96,Carne bovina - 1kg,Carnaza de negra,2015,Agosto,27220
+97,Carne bovina - 1kg,Carnaza de blanca,2015,Enero,22721
+98,Carne bovina - 1kg,Carnaza de blanca,2015,Febrero,24537
+99,Carne bovina - 1kg,Carnaza de blanca,2015,Marzo,24492
+100,Carne bovina - 1kg,Carnaza de blanca,2015,Abril,24813
+101,Carne bovina - 1kg,Carnaza de blanca,2015,Mayo,24974
+102,Carne bovina - 1kg,Carnaza de blanca,2015,Junio,24505
+103,Carne bovina - 1kg,Carnaza de blanca,2015,Julio,25550
+104,Carne bovina - 1kg,Carnaza de blanca,2015,Agosto,23480
+105,Carne bovina - 1kg,Lomo,2015,Enero,27973
+106,Carne bovina - 1kg,Lomo,2015,Febrero,28513
+107,Carne bovina - 1kg,Lomo,2015,Marzo,31679
+108,Carne bovina - 1kg,Lomo,2015,Abril,32051
+109,Carne bovina - 1kg,Lomo,2015,Mayo,32772
+110,Carne bovina - 1kg,Lomo,2015,Junio,31877
+111,Carne bovina - 1kg,Lomo,2015,Julio,33900
+112,Carne bovina - 1kg,Lomo,2015,Agosto,31900
+113,Carne bovina - 1kg,Lomito,2015,Enero,39474
+114,Carne bovina - 1kg,Lomito,2015,Febrero,41335
+115,Carne bovina - 1kg,Lomito,2015,Marzo,43196
+116,Carne bovina - 1kg,Lomito,2015,Abril,43468
+117,Carne bovina - 1kg,Lomito,2015,Mayo,43674
+118,Carne bovina - 1kg,Lomito,2015,Junio,42392
+119,Carne bovina - 1kg,Lomito,2015,Julio,47330
+120,Carne bovina - 1kg,Lomito,2015,Agosto,45460
+121,Carne bovina - 1kg,Carne molida de primera,2015,Enero,23772
+122,Carne bovina - 1kg,Carne molida de primera,2015,Febrero,24159
+123,Carne bovina - 1kg,Carne molida de primera,2015,Marzo,24683
+124,Carne bovina - 1kg,Carne molida de primera,2015,Abril,25203
+125,Carne bovina - 1kg,Carne molida de primera,2015,Mayo,24372
+126,Carne bovina - 1kg,Carne molida de primera,2015,Junio,24405
+127,Carne bovina - 1kg,Carne molida de primera,2015,Julio,23530
+128,Carne bovina - 1kg,Carne molida de primera,2015,Agosto,24320
+129,Carne bovina - 1kg,Carne molida de segunda,2015,Enero,14543
+130,Carne bovina - 1kg,Carne molida de segunda,2015,Febrero,14208
+131,Carne bovina - 1kg,Carne molida de segunda,2015,Marzo,16283
+132,Carne bovina - 1kg,Carne molida de segunda,2015,Abril,15097
+133,Carne bovina - 1kg,Carne molida de segunda,2015,Mayo,14968
+134,Carne bovina - 1kg,Carne molida de segunda,2015,Junio,16778
+135,Carne bovina - 1kg,Carne molida de segunda,2015,Julio,15175
+136,Carne bovina - 1kg,Carne molida de segunda,2015,Agosto,15550
+137,Carne bovina - 1kg,Costilla,2015,Enero,13895
+138,Carne bovina - 1kg,Costilla,2015,Febrero,16069
+139,Carne bovina - 1kg,Costilla,2015,Marzo,16913
+140,Carne bovina - 1kg,Costilla,2015,Abril,18288
+141,Carne bovina - 1kg,Costilla,2015,Mayo,14352
+142,Carne bovina - 1kg,Costilla,2015,Junio,17293
+143,Carne bovina - 1kg,Costilla,2015,Julio,13240
+144,Carne bovina - 1kg,Costilla,2015,Agosto,13640
+145,Carne bovina - 1kg,Costilla de segunda,2015,Enero,10745
+146,Carne bovina - 1kg,Costilla de segunda,2015,Febrero,12264
+147,Carne bovina - 1kg,Costilla de segunda,2015,Marzo,12432
+148,Carne bovina - 1kg,Costilla de segunda,2015,Abril,14260
+149,Carne bovina - 1kg,Costilla de segunda,2015,Mayo,10114
+150,Carne bovina - 1kg,Costilla de segunda,2015,Junio,12372
+151,Carne bovina - 1kg,Costilla de segunda,2015,Julio,9840
+152,Carne bovina - 1kg,Costilla de segunda,2015,Agosto,9140
+153,Carne bovina - 1kg,Hígado,2015,Enero,7029
+154,Carne bovina - 1kg,Hígado,2015,Febrero,7787
+155,Carne bovina - 1kg,Hígado,2015,Marzo,8154
+156,Carne bovina - 1kg,Hígado,2015,Abril,7822
+157,Carne bovina - 1kg,Hígado,2015,Mayo,10462
+158,Carne bovina - 1kg,Hígado,2015,Junio,7695
+159,Carne bovina - 1kg,Hígado,2015,Julio,9670
+160,Carne bovina - 1kg,Hígado,2015,Agosto,10090
+161,Carne bovina - 1kg,Corazón,2015,Enero,7658
+162,Carne bovina - 1kg,Corazón,2015,Febrero,9236
+163,Carne bovina - 1kg,Corazón,2015,Marzo,9263
+164,Carne bovina - 1kg,Corazón,2015,Abril,8981
+165,Carne bovina - 1kg,Corazón,2015,Mayo,9332
+166,Carne bovina - 1kg,Corazón,2015,Junio,9107
+167,Carne bovina - 1kg,Corazón,2015,Julio,8250
+168,Carne bovina - 1kg,Corazón,2015,Agosto,8500
+169,Carne bovina - 1kg,Mondongo,2015,Enero,11169
+170,Carne bovina - 1kg,Mondongo,2015,Febrero,13286
+171,Carne bovina - 1kg,Mondongo,2015,Marzo,13220
+172,Carne bovina - 1kg,Mondongo,2015,Abril,11653
+173,Carne bovina - 1kg,Mondongo,2015,Mayo,12674
+174,Carne bovina - 1kg,Mondongo,2015,Junio,11960
+175,Carne bovina - 1kg,Mondongo,2015,Julio,10713
+176,Carne bovina - 1kg,Mondongo,2015,Agosto,11390
+177,Carne bovina - 1 Kg,Carnaza de Primera,2015,Enero,25235
+178,Carne bovina - 1 Kg,Carnaza de Primera,2015,Febrero,27123
+179,Carne bovina - 1 Kg,Carnaza de Primera,2015,Marzo,29358
+180,Carne bovina - 1 Kg,Carnaza de Primera,2015,Abril,28717
+181,Carne bovina - 1 Kg,Carnaza de Primera,2015,Mayo,25474
+182,Carne bovina - 1 Kg,Carnaza de Primera,2015,Junio,28210
+183,Carne bovina - 1 Kg,Carnaza de Primera,2015,Julio,30540
+184,Carne bovina - 1 Kg,Carnaza de Primera,2015,Agosto,23110
+185,Carne bovina - 1 Kg,Carnaza de Segunda,2015,Enero,16328
+186,Carne bovina - 1 Kg,Carnaza de Segunda,2015,Febrero,17550
+187,Carne bovina - 1 Kg,Carnaza de Segunda,2015,Marzo,18530
+188,Carne bovina - 1 Kg,Carnaza de Segunda,2015,Abril,17720
+189,Carne bovina - 1 Kg,Carnaza de Segunda,2015,Mayo,18190
+190,Carne bovina - 1 Kg,Carnaza de Segunda,2015,Junio,18185
+191,Carne bovina - 1 Kg,Carnaza de Segunda,2015,Julio,17980
+192,Carne bovina - 1 Kg,Carnaza de Segunda,2015,Agosto,18540
+193,Carne bovina - 1 Kg,Puchero de Segunda,2015,Enero,3854
+194,Carne bovina - 1 Kg,Puchero de Segunda,2015,Febrero,4440
+195,Carne bovina - 1 Kg,Puchero de Segunda,2015,Marzo,4532
+196,Carne bovina - 1 Kg,Puchero de Segunda,2015,Abril,3719
+197,Carne bovina - 1 Kg,Puchero de Segunda,2015,Mayo,3970
+198,Carne bovina - 1 Kg,Puchero de Segunda,2015,Junio,4052
+199,Carne bovina - 1 Kg,Puchero de Segunda,2015,Julio,4925
+200,Carne bovina - 1 Kg,Puchero de Segunda,2015,Agosto,5388
+201,Carne bovina - 1Kg,Costeleta,2015,Enero,22304
+202,Carne bovina - 1Kg,Costeleta,2015,Febrero,21886
+203,Carne bovina - 1Kg,Costeleta,2015,Marzo,23007
+204,Carne bovina - 1Kg,Costeleta,2015,Abril,23300
+205,Carne bovina - 1Kg,Costeleta,2015,Mayo,24554
+206,Carne bovina - 1Kg,Costeleta,2015,Junio,23190
+207,Carne bovina - 1Kg,Costeleta,2015,Julio,22330
+208,Carne bovina - 1Kg,Costeleta,2015,Agosto,23400
+209,Carne bovina - 1Kg,Vacío,2015,Enero,17246
+210,Carne bovina - 1Kg,Vacío,2015,Febrero,19261
+211,Carne bovina - 1Kg,Vacío,2015,Marzo,20193
+212,Carne bovina - 1Kg,Vacío,2015,Abril,21590
+213,Carne bovina - 1Kg,Vacío,2015,Mayo,18072
+214,Carne bovina - 1Kg,Vacío,2015,Junio,20810
+215,Carne bovina - 1Kg,Vacío,2015,Julio,17290
+216,Carne bovina - 1Kg,Vacío,2015,Agosto,18140
+217,Carne bovina - 1Kg,Falda,2015,Enero,10487
+218,Carne bovina - 1Kg,Falda,2015,Febrero,12540
+219,Carne bovina - 1Kg,Falda,2015,Marzo,13042
+220,Carne bovina - 1Kg,Falda,2015,Abril,12926
+221,Carne bovina - 1Kg,Falda,2015,Mayo,11372
+222,Carne bovina - 1Kg,Falda,2015,Junio,13725
+223,Carne bovina - 1Kg,Falda,2015,Julio,14260
+224,Carne bovina - 1Kg,Falda,2015,Agosto,13440
+225,Carne bovina - 1Kg,Peceto,2015,Enero,23892
+226,Carne bovina - 1Kg,Peceto,2015,Febrero,25501
+227,Carne bovina - 1Kg,Peceto,2015,Marzo,29982
+228,Carne bovina - 1Kg,Peceto,2015,Abril,25669
+229,Carne bovina - 1Kg,Peceto,2015,Mayo,26772
+230,Carne bovina - 1Kg,Peceto,2015,Junio,27823
+231,Carne bovina - 1Kg,Peceto,2015,Julio,26340
+232,Carne bovina - 1Kg,Peceto,2015,Agosto,25680
+233,Carne bovina - 1Kg,Tapa Cuadril,2015,Enero,32656
+234,Carne bovina - 1Kg,Tapa Cuadril,2015,Febrero,33322
+235,Carne bovina - 1Kg,Tapa Cuadril,2015,Marzo,34943
+236,Carne bovina - 1Kg,Tapa Cuadril,2015,Abril,34702
+237,Carne bovina - 1Kg,Tapa Cuadril,2015,Mayo,33892
+238,Carne bovina - 1Kg,Tapa Cuadril,2015,Junio,33493
+239,Carne bovina - 1Kg,Tapa Cuadril,2015,Julio,35740
+240,Carne bovina - 1Kg,Tapa Cuadril,2015,Agosto,36638
+241,Carne bovina - 1Kg,Rabadilla,2015,Enero,26101
+242,Carne bovina - 1Kg,Rabadilla,2015,Febrero,28853
+243,Carne bovina - 1Kg,Rabadilla,2015,Marzo,30265
+244,Carne bovina - 1Kg,Rabadilla,2015,Abril,29854
+245,Carne bovina - 1Kg,Rabadilla,2015,Mayo,30754
+246,Carne bovina - 1Kg,Rabadilla,2015,Junio,29625
+247,Carne bovina - 1Kg,Rabadilla,2015,Julio,31860
+248,Carne bovina - 1Kg,Rabadilla,2015,Agosto,28680
+249,Carne bovina - 1Kg,Bola de Lomo,2015,Enero,24998
+250,Carne bovina - 1Kg,Bola de Lomo,2015,Febrero,27554
+251,Carne bovina - 1Kg,Bola de Lomo,2015,Marzo,26958
+252,Carne bovina - 1Kg,Bola de Lomo,2015,Abril,28314
+253,Carne bovina - 1Kg,Bola de Lomo,2015,Mayo,26892
+254,Carne bovina - 1Kg,Bola de Lomo,2015,Junio,26658
+255,Carne bovina - 1Kg,Bola de Lomo,2015,Julio,27460
+256,Carne bovina - 1Kg,Bola de Lomo,2015,Agosto,26900
+257,Carne bovina - 1Kg,Palomita,2015,Enero,27245
+258,Carne bovina - 1Kg,Palomita,2015,Febrero,28261
+259,Carne bovina - 1Kg,Palomita,2015,Marzo,31291
+260,Carne bovina - 1Kg,Palomita,2015,Abril,30346
+261,Carne bovina - 1Kg,Palomita,2015,Mayo,31492
+262,Carne bovina - 1Kg,Palomita,2015,Junio,32227
+263,Carne bovina - 1Kg,Palomita,2015,Julio,34188
+264,Carne bovina - 1Kg,Palomita,2015,Agosto,27440
+265,Carne bovina - 1Kg,Muchachito,2015,Enero,21269
+266,Carne bovina - 1Kg,Muchachito,2015,Febrero,21735
+267,Carne bovina - 1Kg,Muchachito,2015,Marzo,21800
+268,Carne bovina - 1Kg,Muchachito,2015,Abril,22505
+269,Carne bovina - 1Kg,Muchachito,2015,Mayo,22772
+270,Carne bovina - 1Kg,Muchachito,2015,Junio,21490
+271,Carne bovina - 1Kg,Muchachito,2015,Julio,23540
+272,Carne bovina - 1Kg,Muchachito,2015,Agosto,23490
+273,Carne bovina - 1Kg,Paleta,2015,Enero,22514
+274,Carne bovina - 1Kg,Paleta,2015,Febrero,24117
+275,Carne bovina - 1Kg,Paleta,2015,Marzo,25132
+276,Carne bovina - 1Kg,Paleta,2015,Abril,24705
+277,Carne bovina - 1Kg,Paleta,2015,Mayo,25256
+278,Carne bovina - 1Kg,Paleta,2015,Junio,25550
+279,Carne bovina - 1Kg,Paleta,2015,Julio,25640
+280,Carne bovina - 1Kg,Paleta,2015,Agosto,24480
+281,Carne bovina - 1Kg,Sambari,2015,Enero,19567
+282,Carne bovina - 1Kg,Sambari,2015,Febrero,19930
+283,Carne bovina - 1Kg,Sambari,2015,Marzo,20363
+284,Carne bovina - 1Kg,Sambari,2015,Abril,20487
+285,Carne bovina - 1Kg,Sambari,2015,Mayo,20572
+286,Carne bovina - 1Kg,Sambari,2015,Junio,20323
+287,Carne bovina - 1Kg,Sambari,2015,Julio,22140
+288,Carne bovina - 1Kg,Sambari,2015,Agosto,21280
+289,Carne bovina - 1Kg,Matambre,2015,Enero,14416
+290,Carne bovina - 1Kg,Matambre,2015,Febrero,15238
+291,Carne bovina - 1Kg,Matambre,2015,Marzo,15507
+292,Carne bovina - 1Kg,Matambre,2015,Abril,15751
+293,Carne bovina - 1Kg,Matambre,2015,Mayo,14172
+294,Carne bovina - 1Kg,Matambre,2015,Junio,14225
+295,Carne bovina - 1Kg,Matambre,2015,Julio,16530
+296,Carne bovina - 1Kg,Matambre,2015,Agosto,15180
+297,Carne bovina - 1Kg,Tapa de Asado,2015,Enero,17620
+298,Carne bovina - 1Kg,Tapa de Asado,2015,Febrero,18360
+299,Carne bovina - 1Kg,Tapa de Asado,2015,Marzo,18593
+300,Carne bovina - 1Kg,Tapa de Asado,2015,Abril,19809
+301,Carne bovina - 1Kg,Tapa de Asado,2015,Mayo,19445
+302,Carne bovina - 1Kg,Tapa de Asado,2015,Junio,19445
+303,Carne bovina - 1Kg,Tapa de Asado,2015,Julio,16917
+304,Carne bovina - 1Kg,Tapa de Asado,2015,Agosto,19050
+305,Carne bovina - 1Kg,Espinazo Negro,2015,Enero,13167
+306,Carne bovina - 1Kg,Espinazo Negro,2015,Febrero,14447
+307,Carne bovina - 1Kg,Espinazo Negro,2015,Marzo,12417
+308,Carne bovina - 1Kg,Espinazo Negro,2015,Abril,14010
+309,Carne bovina - 1Kg,Espinazo Negro,2015,Mayo,13602
+310,Carne bovina - 1Kg,Espinazo Negro,2015,Junio,13632
+311,Carne bovina - 1Kg,Espinazo Negro,2015,Julio,12250
+312,Carne bovina - 1Kg,Espinazo Negro,2015,Agosto,12173
+313,Carne bovina - 1Kg,Osobuco,2015,Enero,14038
+314,Carne bovina - 1Kg,Osobuco,2015,Febrero,14130
+315,Carne bovina - 1Kg,Osobuco,2015,Marzo,14321
+316,Carne bovina - 1Kg,Osobuco,2015,Abril,14184
+317,Carne bovina - 1Kg,Osobuco,2015,Mayo,13772
+318,Carne bovina - 1Kg,Osobuco,2015,Junio,14140
+319,Carne bovina - 1Kg,Osobuco,2015,Julio,13930
+320,Carne bovina - 1Kg,Osobuco,2015,Agosto,15448
+321,Carne bovina - 1Kg,Cebo,2015,Enero,1682
+322,Carne bovina - 1Kg,Cebo,2015,Febrero,1810
+323,Carne bovina - 1Kg,Cebo,2015,Marzo,2090
+324,Carne bovina - 1Kg,Cebo,2015,Abril,1996
+325,Carne bovina - 1Kg,Cebo,2015,Mayo,1810
+326,Carne bovina - 1Kg,Cebo,2015,Junio,2470
+327,Carne bovina - 1Kg,Cebo,2015,Julio,1500
+328,Carne bovina - 1Kg,Cebo,2015,Agosto,1667
+329,Carne bovina - 1Kg,Hueso Blanco,2015,Enero,1206
+330,Carne bovina - 1Kg,Hueso Blanco,2015,Febrero,1097
+331,Carne bovina - 1Kg,Hueso Blanco,2015,Marzo,1102
+332,Carne bovina - 1Kg,Hueso Blanco,2015,Abril,1344
+333,Carne bovina - 1Kg,Hueso Blanco,2015,Mayo,1172
+334,Carne bovina - 1Kg,Hueso Blanco,2015,Junio,1132
+335,Carne bovina - 1Kg,Hueso Blanco,2015,Julio,960
+336,Carne bovina - 1Kg,Hueso Blanco,2015,Agosto,1200
+337,Carne porcina - 1kg,Riñón,2015,Enero,2279
+338,Carne porcina - 1kg,Riñón,2015,Febrero,2444
+339,Carne porcina - 1kg,Riñón,2015,Marzo,3778
+340,Carne porcina - 1kg,Riñón,2015,Abril,2260
+341,Carne porcina - 1kg,Riñón,2015,Mayo,2304
+342,Carne porcina - 1kg,Riñón,2015,Junio,2302
+343,Carne porcina - 1kg,Riñón,2015,Julio,2840
+344,Carne porcina - 1kg,Riñón,2015,Agosto,3330
+345,Carne porcina - 1kg,Lomo de cerdo,2015,Enero,25044
+346,Carne porcina - 1kg,Lomo de cerdo,2015,Febrero,25665
+347,Carne porcina - 1kg,Lomo de cerdo,2015,Marzo,26580
+348,Carne porcina - 1kg,Lomo de cerdo,2015,Abril,25597
+349,Carne porcina - 1kg,Lomo de cerdo,2015,Mayo,27132
+350,Carne porcina - 1kg,Lomo de cerdo,2015,Junio,26390
+351,Carne porcina - 1kg,Lomo de cerdo,2015,Julio,27175
+352,Carne porcina - 1kg,Lomo de cerdo,2015,Agosto,23688
+353,Carne porcina - 1kg,Costilla de cerdo,2015,Enero,19265
+354,Carne porcina - 1kg,Costilla de cerdo,2015,Febrero,19129
+355,Carne porcina - 1kg,Costilla de cerdo,2015,Marzo,20575
+356,Carne porcina - 1kg,Costilla de cerdo,2015,Abril,20874
+357,Carne porcina - 1kg,Costilla de cerdo,2015,Mayo,19770
+358,Carne porcina - 1kg,Costilla de cerdo,2015,Junio,22602
+359,Carne porcina - 1kg,Costilla de cerdo,2015,Julio,20870
+360,Carne porcina - 1kg,Costilla de cerdo,2015,Agosto,18940
+361,Carne porcina - 1kg,Costeleta,2015,Enero,17149
+362,Carne porcina - 1kg,Costeleta,2015,Febrero,19605
+363,Carne porcina - 1kg,Costeleta,2015,Marzo,19096
+364,Carne porcina - 1kg,Costeleta,2015,Abril,18671
+365,Carne porcina - 1kg,Costeleta,2015,Mayo,19452
+366,Carne porcina - 1kg,Costeleta,2015,Junio,20642
+367,Carne porcina - 1kg,Costeleta,2015,Julio,18440
+368,Carne porcina - 1kg,Costeleta,2015,Agosto,16140
+369,Carne porcina - 1kg,Paleta de cerdo,2015,Enero,15746
+370,Carne porcina - 1kg,Paleta de cerdo,2015,Febrero,17844
+371,Carne porcina - 1kg,Paleta de cerdo,2015,Marzo,18400
+372,Carne porcina - 1kg,Paleta de cerdo,2015,Abril,16879
+373,Carne porcina - 1kg,Paleta de cerdo,2015,Mayo,17692
+374,Carne porcina - 1kg,Paleta de cerdo,2015,Junio,19123
+375,Carne porcina - 1kg,Paleta de cerdo,2015,Julio,15958
+376,Carne porcina - 1kg,Paleta de cerdo,2015,Agosto,16540
+377,Carne porcina - 1kg,Pierna,2015,Enero,16778
+378,Carne porcina - 1kg,Pierna,2015,Febrero,17173
+379,Carne porcina - 1kg,Pierna,2015,Marzo,18466
+380,Carne porcina - 1kg,Pierna,2015,Abril,18773
+381,Carne porcina - 1kg,Pierna,2015,Mayo,17852
+382,Carne porcina - 1kg,Pierna,2015,Junio,19902
+383,Carne porcina - 1kg,Pierna,2015,Julio,18450
+384,Carne porcina - 1kg,Pierna,2015,Agosto,17340
+385,Carne porcina - 1kg,Puchero,2015,Enero,5440
+386,Carne porcina - 1kg,Puchero,2015,Febrero,5093
+387,Carne porcina - 1kg,Puchero,2015,Marzo,4988
+388,Carne porcina - 1kg,Puchero,2015,Abril,5159
+389,Carne porcina - 1kg,Puchero,2015,Mayo,4814
+390,Carne porcina - 1kg,Puchero,2015,Junio,4990
+391,Carne porcina - 1kg,Puchero,2015,Julio,5225
+392,Carne porcina - 1kg,Puchero,2015,Agosto,5000
+393,Carne de ave / Puchero – 1kg,Marca mas económica,2015,Enero,5027
+394,Carne de ave / Puchero – 1kg,Marca mas económica,2015,Febrero,5212
+395,Carne de ave / Puchero – 1kg,Marca mas económica,2015,Marzo,5061
+396,Carne de ave / Puchero – 1kg,Marca mas económica,2015,Abril,5064
+397,Carne de ave / Puchero – 1kg,Marca mas económica,2015,Mayo,4608
+398,Carne de ave / Puchero – 1kg,Marca mas económica,2015,Junio,5140
+399,Carne de ave / Puchero – 1kg,Marca mas económica,2015,Julio,5088
+400,Carne de ave / Puchero – 1kg,Marca mas económica,2015,Agosto,4500
+401,Carne de ave/ pechuga – 1kg,Marca mas económica,2015,Enero,11981
+402,Carne de ave/ pechuga – 1kg,Marca mas económica,2015,Febrero,10287
+403,Carne de ave/ pechuga – 1kg,Marca mas económica,2015,Marzo,11109
+404,Carne de ave/ pechuga – 1kg,Marca mas económica,2015,Abril,11524
+405,Carne de ave/ pechuga – 1kg,Marca mas económica,2015,Mayo,12614
+406,Carne de ave/ pechuga – 1kg,Marca mas económica,2015,Junio,11578
+407,Carne de ave/ pechuga – 1kg,Marca mas económica,2015,Julio,9580
+408,Carne de ave/ pechuga – 1kg,Marca mas económica,2015,Agosto,9400
+409,Carne de ave /pata entera - 1kg,Marca mas económica,2015,Enero,14205
+410,Carne de ave /pata entera - 1kg,Marca mas económica,2015,Febrero,12846
+411,Carne de ave /pata entera - 1kg,Marca mas económica,2015,Marzo,13549
+412,Carne de ave /pata entera - 1kg,Marca mas económica,2015,Abril,12823
+413,Carne de ave /pata entera - 1kg,Marca mas económica,2015,Mayo,13766
+414,Carne de ave /pata entera - 1kg,Marca mas económica,2015,Junio,13205
+415,Carne de ave /pata entera - 1kg,Marca mas económica,2015,Julio,14000
+416,Carne de ave /pata entera - 1kg,Marca mas económica,2015,Agosto,13360
+417,Carne de ave / pollo entero – 1kg,Marca mas económica,2015,Enero,10115
+418,Carne de ave / pollo entero – 1kg,Marca mas económica,2015,Febrero,9946
+419,Carne de ave / pollo entero – 1kg,Marca mas económica,2015,Marzo,9937
+420,Carne de ave / pollo entero – 1kg,Marca mas económica,2015,Abril,10332
+421,Carne de ave / pollo entero – 1kg,Marca mas económica,2015,Mayo,11586
+422,Carne de ave / pollo entero – 1kg,Marca mas económica,2015,Junio,11078
+423,Carne de ave / pollo entero – 1kg,Marca mas económica,2015,Julio,11190
+424,Carne de ave / pollo entero – 1kg,Marca mas económica,2015,Agosto,11600
+425,Carne de ave / Ala - 1kg,Marca mas económica,2015,Enero,12172
+426,Carne de ave / Ala - 1kg,Marca mas económica,2015,Febrero,11740
+427,Carne de ave / Ala - 1kg,Marca mas económica,2015,Marzo,12178
+428,Carne de ave / Ala - 1kg,Marca mas económica,2015,Abril,11831
+429,Carne de ave / Ala - 1kg,Marca mas económica,2015,Mayo,13268
+430,Carne de ave / Ala - 1kg,Marca mas económica,2015,Junio,11622
+431,Carne de ave / Ala - 1kg,Marca mas económica,2015,Julio,8720
+432,Carne de ave / Ala - 1kg,Marca mas económica,2015,Agosto,9650
+433,Carne de ave / Tacaraa – 1kg,Marca mas económica,2015,Enero,8547
+434,Carne de ave / Tacaraa – 1kg,Marca mas económica,2015,Febrero,9159
+435,Carne de ave / Tacaraa – 1kg,Marca mas económica,2015,Marzo,9095
+436,Carne de ave / Tacaraa – 1kg,Marca mas económica,2015,Abril,8128
+437,Carne de ave / Tacaraa – 1kg,Marca mas económica,2015,Mayo,8786
+438,Carne de ave / Tacaraa – 1kg,Marca mas económica,2015,Junio,7768
+439,Carne de ave / Tacaraa – 1kg,Marca mas económica,2015,Julio,7563
+440,Carne de ave / Tacaraa – 1kg,Marca mas económica,2015,Agosto,8460
+441,Carne de ave / Hígado – 1kg,Marca mas económica,2015,Enero,4254
+442,Carne de ave / Hígado – 1kg,Marca mas económica,2015,Febrero,4006
+443,Carne de ave / Hígado – 1kg,Marca mas económica,2015,Marzo,3949
+444,Carne de ave / Hígado – 1kg,Marca mas económica,2015,Abril,3747
+445,Carne de ave / Hígado – 1kg,Marca mas económica,2015,Mayo,3816
+446,Carne de ave / Hígado – 1kg,Marca mas económica,2015,Junio,3826
+447,Carne de ave / Hígado – 1kg,Marca mas económica,2015,Julio,3490
+448,Carne de ave / Hígado – 1kg,Marca mas económica,2015,Agosto,3530
+449,Carne de ave / Corazoncito - 1kg,Marca mas económica,2015,Enero,12930
+450,Carne de ave / Corazoncito - 1kg,Marca mas económica,2015,Febrero,13955
+451,Carne de ave / Corazoncito - 1kg,Marca mas económica,2015,Marzo,14630
+452,Carne de ave / Corazoncito - 1kg,Marca mas económica,2015,Abril,14707
+453,Carne de ave / Corazoncito - 1kg,Marca mas económica,2015,Mayo,18650
+454,Carne de ave / Corazoncito - 1kg,Marca mas económica,2015,Junio,14640
+455,Carne de ave / Corazoncito - 1kg,Marca mas económica,2015,Julio,15020
+456,Carne de ave / Corazoncito - 1kg,Marca mas económica,2015,Agosto,15120
+457,Embutido/chorizo Viena - 1kg,Marca mas económica,2015,Enero,15833
+458,Embutido/chorizo Viena - 1kg,Marca mas económica,2015,Febrero,16445
+459,Embutido/chorizo Viena - 1kg,Marca mas económica,2015,Marzo,16555
+460,Embutido/chorizo Viena - 1kg,Marca mas económica,2015,Abril,16059
+461,Embutido/chorizo Viena - 1kg,Marca mas económica,2015,Mayo,16321
+462,Embutido/chorizo Viena - 1kg,Marca mas económica,2015,Junio,16832
+463,Embutido/chorizo Viena - 1kg,Marca mas económica,2015,Julio,17170
+464,Embutido/chorizo Viena - 1kg,Marca mas económica,2015,Agosto,12550
+465,Embutido/fiambre Paris - 1kg,Marca mas económica,2015,Enero,17368
+466,Embutido/fiambre Paris - 1kg,Marca mas económica,2015,Febrero,18209
+467,Embutido/fiambre Paris - 1kg,Marca mas económica,2015,Marzo,17907
+468,Embutido/fiambre Paris - 1kg,Marca mas económica,2015,Abril,17920
+469,Embutido/fiambre Paris - 1kg,Marca mas económica,2015,Mayo,17170
+470,Embutido/fiambre Paris - 1kg,Marca mas económica,2015,Junio,18466
+471,Embutido/fiambre Paris - 1kg,Marca mas económica,2015,Julio,18650
+472,Embutido/fiambre Paris - 1kg,Marca mas económica,2015,Agosto,13910
+473,Queso - 1kg,Queso Paraguay,2015,Enero,22280
+474,Queso - 1kg,Queso Paraguay,2015,Febrero,24762
+475,Queso - 1kg,Queso Paraguay,2015,Marzo,24209
+476,Queso - 1kg,Queso Paraguay,2015,Abril,20782
+477,Queso - 1kg,Queso Paraguay,2015,Mayo,28468
+478,Queso - 1kg,Queso Paraguay,2015,Junio,20262
+479,Queso - 1kg,Queso Paraguay,2015,Julio,30670
+480,Queso - 1kg,Queso Paraguay,2015,Agosto,27060
+481,Queso sándwich - 1kg,Marca mas económica,2015,Enero,31853
+482,Queso sándwich - 1kg,Marca mas económica,2015,Febrero,34685
+483,Queso sándwich - 1kg,Marca mas económica,2015,Marzo,35017
+484,Queso sándwich - 1kg,Marca mas económica,2015,Abril,31375
+485,Queso sándwich - 1kg,Marca mas económica,2015,Mayo,36186
+486,Queso sándwich - 1kg,Marca mas económica,2015,Junio,32380
+487,Queso sándwich - 1kg,Marca mas económica,2015,Julio,37640
+488,Queso sándwich - 1kg,Marca mas económica,2015,Agosto,36390
+489,Aceite de soja - 900cc,Marca mas económica,2015,Enero,7011
+490,Aceite de soja - 900cc,Marca mas económica,2015,Febrero,6669
+491,Aceite de soja - 900cc,Marca mas económica,2015,Marzo,7578
+492,Aceite de soja - 900cc,Marca mas económica,2015,Abril,6653
+493,Aceite de soja - 900cc,Marca mas económica,2015,Mayo,6663
+494,Aceite de soja - 900cc,Marca mas económica,2015,Junio,7438
+495,Aceite de soja - 900cc,Marca mas económica,2015,Julio,6500
+496,Aceite de soja - 900cc,Marca mas económica,2015,Agosto,6380
+497,Aceite de girasol - 900 cc,Marca mas económica,2015,Enero,9758
+498,Aceite de girasol - 900 cc,Marca mas económica,2015,Febrero,10084
+499,Aceite de girasol - 900 cc,Marca mas económica,2015,Marzo,10091
+500,Aceite de girasol - 900 cc,Marca mas económica,2015,Abril,9733
+501,Aceite de girasol - 900 cc,Marca mas económica,2015,Mayo,10338
+502,Aceite de girasol - 900 cc,Marca mas económica,2015,Junio,10160
+503,Aceite de girasol - 900 cc,Marca mas económica,2015,Julio,10200
+504,Aceite de girasol - 900 cc,Marca mas económica,2015,Agosto,10190
+505,Aceite de maíz - 1lt,Marca mas económica,2015,Enero,16191
+506,Aceite de maíz - 1lt,Marca mas económica,2015,Febrero,16993
+507,Aceite de maíz - 1lt,Marca mas económica,2015,Marzo,17048
+508,Aceite de maíz - 1lt,Marca mas económica,2015,Abril,17126
+509,Aceite de maíz - 1lt,Marca mas económica,2015,Mayo,17158
+510,Aceite de maíz - 1lt,Marca mas económica,2015,Junio,17108
+511,Aceite de maíz - 1lt,Marca mas económica,2015,Julio,17900
+512,Aceite de maíz - 1lt,Marca mas económica,2015,Agosto,17920
+513,Leche sachet - 1lt,Marca mas económica,2015,Enero,3175
+514,Leche sachet - 1lt,Marca mas económica,2015,Febrero,3377
+515,Leche sachet - 1lt,Marca mas económica,2015,Marzo,3357
+516,Leche sachet - 1lt,Marca mas económica,2015,Abril,3337
+517,Leche sachet - 1lt,Marca mas económica,2015,Mayo,3272
+518,Leche sachet - 1lt,Marca mas económica,2015,Junio,3344
+519,Leche sachet - 1lt,Marca mas económica,2015,Julio,2950
+520,Leche sachet - 1lt,Marca mas económica,2015,Agosto,3000
+521,Lecha sachet - 1/2 lt,Mas económica,2015,Enero,1654
+522,Lecha sachet - 1/2 lt,Mas económica,2015,Febrero,1765
+523,Lecha sachet - 1/2 lt,Mas económica,2015,Marzo,1736
+524,Lecha sachet - 1/2 lt,Mas económica,2015,Abril,1700
+525,Lecha sachet - 1/2 lt,Mas económica,2015,Mayo,1863
+526,Lecha sachet - 1/2 lt,Mas económica,2015,Junio,1730
+527,Lecha sachet - 1/2 lt,Mas económica,2015,Julio,1610
+528,Lecha sachet - 1/2 lt,Mas económica,2015,Agosto,1620
+529,Leche UHT - 1lt,Marca mas económica,2015,Enero,4111
+530,Leche UHT - 1lt,Marca mas económica,2015,Febrero,4349
+531,Leche UHT - 1lt,Marca mas económica,2015,Marzo,4233
+532,Leche UHT - 1lt,Marca mas económica,2015,Abril,4256
+533,Leche UHT - 1lt,Marca mas económica,2015,Mayo,4644
+534,Leche UHT - 1lt,Marca mas económica,2015,Junio,4420
+535,Leche UHT - 1lt,Marca mas económica,2015,Julio,4670
+536,Leche UHT - 1lt,Marca mas económica,2015,Agosto,3990
+537,Leche UHT- 1/2 lt,Mas económica,2015,Enero,2293
+538,Leche UHT- 1/2 lt,Mas económica,2015,Febrero,2353
+539,Leche UHT- 1/2 lt,Mas económica,2015,Marzo,2415
+540,Leche UHT- 1/2 lt,Mas económica,2015,Abril,2408
+541,Leche UHT- 1/2 lt,Mas económica,2015,Mayo,2410
+542,Leche UHT- 1/2 lt,Mas económica,2015,Junio,2583
+543,Leche UHT- 1/2 lt,Mas económica,2015,Julio,2650
+544,Leche UHT- 1/2 lt,Mas económica,2015,Agosto,2730
+545,Yogurt - 350 gr,Marca mas económica,2015,Enero,2850
+546,Yogurt - 350 gr,Marca mas económica,2015,Febrero,2877
+547,Yogurt - 350 gr,Marca mas económica,2015,Marzo,2858
+548,Yogurt - 350 gr,Marca mas económica,2015,Abril,2846
+549,Yogurt - 350 gr,Marca mas económica,2015,Mayo,2456
+550,Yogurt - 350 gr,Marca mas económica,2015,Junio,2742
+551,Yogurt - 350 gr,Marca mas económica,2015,Julio,2540
+552,Yogurt - 350 gr,Marca mas económica,2015,Agosto,2690
+553,Huevos de gallina - 1/2 doc,Marca mas económica,2015,Enero,3729
+554,Huevos de gallina - 1/2 doc,Marca mas económica,2015,Febrero,3916
+555,Huevos de gallina - 1/2 doc,Marca mas económica,2015,Marzo,3741
+556,Huevos de gallina - 1/2 doc,Marca mas económica,2015,Abril,3732
+557,Huevos de gallina - 1/2 doc,Marca mas económica,2015,Mayo,4650
+558,Huevos de gallina - 1/2 doc,Marca mas económica,2015,Junio,3690
+559,Huevos de gallina - 1/2 doc,Marca mas económica,2015,Julio,3820
+560,Huevos de gallina - 1/2 doc,Marca mas económica,2015,Agosto,3780
+561,Fruta. hortaliza - 1kg,Naranja,2015,Enero,2346
+562,Fruta. hortaliza - 1kg,Naranja,2015,Febrero,2402
+563,Fruta. hortaliza - 1kg,Naranja,2015,Marzo,3068
+564,Fruta. hortaliza - 1kg,Naranja,2015,Abril,2918
+565,Fruta. hortaliza - 1kg,Naranja,2015,Mayo,2958
+566,Fruta. hortaliza - 1kg,Naranja,2015,Junio,3040
+567,Fruta. hortaliza - 1kg,Naranja,2015,Julio,3200
+568,Fruta. hortaliza - 1kg,Naranja,2015,Agosto,3430
+569,Fruta. hortaliza - 1kg,Banana carape,2015,Enero,2482
+570,Fruta. hortaliza - 1kg,Banana carape,2015,Febrero,2288
+571,Fruta. hortaliza - 1kg,Banana carape,2015,Marzo,2994
+572,Fruta. hortaliza - 1kg,Banana carape,2015,Abril,4411
+573,Fruta. hortaliza - 1kg,Banana carape,2015,Mayo,2322
+574,Fruta. hortaliza - 1kg,Banana carape,2015,Junio,4898
+575,Fruta. hortaliza - 1kg,Banana carape,2015,Julio,1900
+576,Fruta. hortaliza - 1kg,Banana carape,2015,Agosto,2450
+577,Fruta. hortaliza - 1kg,Lechuga - 1 maso,2015,Enero,1255
+578,Fruta. hortaliza - 1kg,Lechuga - 1 maso,2015,Febrero,860
+579,Fruta. hortaliza - 1kg,Lechuga - 1 maso,2015,Marzo,967
+580,Fruta. hortaliza - 1kg,Lechuga - 1 maso,2015,Abril,1367
+581,Fruta. hortaliza - 1kg,Lechuga - 1 maso,2015,Mayo,1898
+582,Fruta. hortaliza - 1kg,Lechuga - 1 maso,2015,Junio,1558
+583,Fruta. hortaliza - 1kg,Lechuga - 1 maso,2015,Julio,1910
+584,Fruta. hortaliza - 1kg,Lechuga - 1 maso,2015,Agosto,1210
+585,Fruta. hortaliza - 1kg,Locote,2015,Enero,7881
+586,Fruta. hortaliza - 1kg,Locote,2015,Febrero,9473
+587,Fruta. hortaliza - 1kg,Locote,2015,Marzo,5575
+588,Fruta. hortaliza - 1kg,Locote,2015,Abril,3948
+589,Fruta. hortaliza - 1kg,Locote,2015,Mayo,9886
+590,Fruta. hortaliza - 1kg,Locote,2015,Junio,3762
+591,Fruta. hortaliza - 1kg,Locote,2015,Julio,9070
+592,Fruta. hortaliza - 1kg,Locote,2015,Agosto,6500
+593,Fruta. hortaliza - 1kg,Zanahoria,2015,Enero,3781
+594,Fruta. hortaliza - 1kg,Zanahoria,2015,Febrero,2488
+595,Fruta. hortaliza - 1kg,Zanahoria,2015,Marzo,3457
+596,Fruta. hortaliza - 1kg,Zanahoria,2015,Abril,4277
+597,Fruta. hortaliza - 1kg,Zanahoria,2015,Mayo,3608
+598,Fruta. hortaliza - 1kg,Zanahoria,2015,Junio,4643
+599,Fruta. hortaliza - 1kg,Zanahoria,2015,Julio,2800
+600,Fruta. hortaliza - 1kg,Zanahoria,2015,Agosto,1950
+601,Fruta. hortaliza - 1kg,Tomate Sta. Cruz,2015,Enero,6904
+602,Fruta. hortaliza - 1kg,Tomate Sta. Cruz,2015,Febrero,8202
+603,Fruta. hortaliza - 1kg,Tomate Sta. Cruz,2015,Marzo,7517
+604,Fruta. hortaliza - 1kg,Tomate Sta. Cruz,2015,Abril,5846
+605,Fruta. hortaliza - 1kg,Tomate Sta. Cruz,2015,Mayo,8273
+606,Fruta. hortaliza - 1kg,Tomate Sta. Cruz,2015,Junio,4327
+607,Fruta. hortaliza - 1kg,Tomate Sta. Cruz,2015,Julio,8050
+608,Fruta. hortaliza - 1kg,Tomate Sta. Cruz,2015,Agosto,9060
+609,Fruta. hortaliza - 1kg,Cebolla de cabeza,2015,Enero,3947
+610,Fruta. hortaliza - 1kg,Cebolla de cabeza,2015,Febrero,3621
+611,Fruta. hortaliza - 1kg,Cebolla de cabeza,2015,Marzo,3838
+612,Fruta. hortaliza - 1kg,Cebolla de cabeza,2015,Abril,3487
+613,Fruta. hortaliza - 1kg,Cebolla de cabeza,2015,Mayo,3094
+614,Fruta. hortaliza - 1kg,Cebolla de cabeza,2015,Junio,3808
+615,Fruta. hortaliza - 1kg,Cebolla de cabeza,2015,Julio,10630
+616,Fruta. hortaliza - 1kg,Cebolla de cabeza,2015,Agosto,6550
+617,Fruta. hortaliza - 1kg,Mandioca,2015,Enero,1597
+618,Fruta. hortaliza - 1kg,Mandioca,2015,Febrero,1516
+619,Fruta. hortaliza - 1kg,Mandioca,2015,Marzo,2133
+620,Fruta. hortaliza - 1kg,Mandioca,2015,Abril,2066
+621,Fruta. hortaliza - 1kg,Mandioca,2015,Mayo,2042
+622,Fruta. hortaliza - 1kg,Mandioca,2015,Junio,2772
+623,Fruta. hortaliza - 1kg,Mandioca,2015,Julio,1850
+624,Fruta. hortaliza - 1kg,Mandioca,2015,Agosto,1180
+625,Fruta. hortaliza - 1kg,Papa negra,2015,Enero,3692
+626,Fruta. hortaliza - 1kg,Papa negra,2015,Febrero,3934
+627,Fruta. hortaliza - 1kg,Papa negra,2015,Marzo,4300
+628,Fruta. hortaliza - 1kg,Papa negra,2015,Abril,5240
+629,Fruta. hortaliza - 1kg,Papa negra,2015,Mayo,5310
+630,Fruta. hortaliza - 1kg,Papa negra,2015,Junio,5037
+631,Fruta. hortaliza - 1kg,Papa negra,2015,Julio,4340
+632,Fruta. hortaliza - 1kg,Papa negra,2015,Agosto,4510
+633,Sal fina - 500gr,Marca mas económica,2015,Enero,1615
+634,Sal fina - 500gr,Marca mas económica,2015,Febrero,1595
+635,Sal fina - 500gr,Marca mas económica,2015,Marzo,1642
+636,Sal fina - 500gr,Marca mas económica,2015,Abril,1612
+637,Sal fina - 500gr,Marca mas económica,2015,Mayo,2047
+638,Sal fina - 500gr,Marca mas económica,2015,Junio,1598
+639,Sal fina - 500gr,Marca mas económica,2015,Julio,1820
+640,Sal fina - 500gr,Marca mas económica,2015,Agosto,1830
+641,Papel higiénico - 4 unid.,Marca mas económica,2015,Enero,2881
+642,Papel higiénico - 4 unid.,Marca mas económica,2015,Febrero,2950
+643,Papel higiénico - 4 unid.,Marca mas económica,2015,Marzo,3181
+644,Papel higiénico - 4 unid.,Marca mas económica,2015,Abril,2981
+645,Papel higiénico - 4 unid.,Marca mas económica,2015,Mayo,3290
+646,Papel higiénico - 4 unid.,Marca mas económica,2015,Junio,3567
+647,Papel higiénico - 4 unid.,Marca mas económica,2015,Julio,2800
+648,Papel higiénico - 4 unid.,Marca mas económica,2015,Agosto,3160
+649,Detergente líquido - 1/2 lt,Marca mas económica,2015,Enero,2247
+650,Detergente líquido - 1/2 lt,Marca mas económica,2015,Febrero,2276
+651,Detergente líquido - 1/2 lt,Marca mas económica,2015,Marzo,2376
+652,Detergente líquido - 1/2 lt,Marca mas económica,2015,Abril,2531
+653,Detergente líquido - 1/2 lt,Marca mas económica,2015,Mayo,2230
+654,Detergente líquido - 1/2 lt,Marca mas económica,2015,Junio,2324
+655,Detergente líquido - 1/2 lt,Marca mas económica,2015,Julio,2020
+656,Detergente líquido - 1/2 lt,Marca mas económica,2015,Agosto,1890
+657,Lavandina - 1lt,Marca mas económica,2015,Enero,2895
+658,Lavandina - 1lt,Marca mas económica,2015,Febrero,3002
+659,Lavandina - 1lt,Marca mas económica,2015,Marzo,3105
+660,Lavandina - 1lt,Marca mas económica,2015,Abril,3224
+661,Lavandina - 1lt,Marca mas económica,2015,Mayo,3290
+662,Lavandina - 1lt,Marca mas económica,2015,Junio,3030
+663,Lavandina - 1lt,Marca mas económica,2015,Julio,3400
+664,Lavandina - 1lt,Marca mas económica,2015,Agosto,3166
+665,Jabón en polvo p/ lavar – 400gr,Marca mas económica,2015,Enero,4843
+666,Jabón en polvo p/ lavar – 400gr,Marca mas económica,2015,Febrero,4468
+667,Jabón en polvo p/ lavar – 400gr,Marca mas económica,2015,Marzo,5128
+668,Jabón en polvo p/ lavar – 400gr,Marca mas económica,2015,Abril,5061
+669,Jabón en polvo p/ lavar – 400gr,Marca mas económica,2015,Mayo,5420
+670,Jabón en polvo p/ lavar – 400gr,Marca mas económica,2015,Junio,5142
+671,Jabón en polvo p/ lavar – 400gr,Marca mas económica,2015,Julio,6060
+672,Jabón en polvo p/ lavar – 400gr,Marca mas económica,2015,Agosto,6080
+673,Jabón de baño - 90gr,Marca mas económica,2015,Enero,1719
+674,Jabón de baño - 90gr,Marca mas económica,2015,Febrero,1690
+675,Jabón de baño - 90gr,Marca mas económica,2015,Marzo,1828
+676,Jabón de baño - 90gr,Marca mas económica,2015,Abril,1697
+677,Jabón de baño - 90gr,Marca mas económica,2015,Mayo,1870
+678,Jabón de baño - 90gr,Marca mas económica,2015,Junio,1600
+679,Jabón de baño - 90gr,Marca mas económica,2015,Julio,1680
+680,Jabón de baño - 90gr,Marca mas económica,2015,Agosto,1650
+681,Crema dental - 90gr,Marca mas económica,2015,Enero,4944
+682,Crema dental - 90gr,Marca mas económica,2015,Febrero,5061
+683,Crema dental - 90gr,Marca mas económica,2015,Marzo,4762
+684,Crema dental - 90gr,Marca mas económica,2015,Abril,4827
+685,Crema dental - 90gr,Marca mas económica,2015,Mayo,4966
+686,Crema dental - 90gr,Marca mas económica,2015,Junio,5057
+687,Crema dental - 90gr,Marca mas económica,2015,Julio,5200
+688,Crema dental - 90gr,Marca mas económica,2015,Agosto,5200
