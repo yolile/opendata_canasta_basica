@@ -11,7 +11,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 10,Panificado,Pan Felipito,2012,OCTUBRE,3288
 11,Panificado,Pan Felipito,2012,NOVIEMBE,3215
 12,Panificado,Pan Felipito,2012,DICIEMBRE,3183
-13,Panificado,Pan Felipito,2012,PROMEDIO,3162
 14,Panificado,Galleta,2012,ENERO,3625
 15,Panificado,Galleta,2012,FEBRERO,3662
 16,Panificado,Galleta,2012,MARZO,3669
@@ -24,7 +23,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 23,Panificado,Galleta,2012,OCTUBRE,3783
 24,Panificado,Galleta,2012,NOVIEMBE,3817
 25,Panificado,Galleta,2012,DICIEMBRE,3806
-26,Panificado,Galleta,2012,PROMEDIO,3758
 27,Panificado,Kokito,2012,ENERO,6790
 28,Panificado,Kokito,2012,FEBRERO,6809
 29,Panificado,Kokito,2012,MARZO,6588
@@ -37,7 +35,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 36,Panificado,Kokito,2012,OCTUBRE,7051
 37,Panificado,Kokito,2012,NOVIEMBE,7197
 38,Panificado,Kokito,2012,DICIEMBRE,7276
-39,Panificado,Kokito,2012,PROMEDIO,6851
 40,A granel - 1kg,Fideo,2012,ENERO,2955
 41,A granel - 1kg,Fideo,2012,FEBRERO,2930
 42,A granel - 1kg,Fideo,2012,MARZO,3021
@@ -50,7 +47,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 49,A granel - 1kg,Fideo,2012,OCTUBRE,2647
 50,A granel - 1kg,Fideo,2012,NOVIEMBE,2638
 51,A granel - 1kg,Fideo,2012,DICIEMBRE,2682
-52,A granel - 1kg,Fideo,2012,PROMEDIO,2775
 53,A granel - 1kg,Poroto,2012,ENERO,6176
 54,A granel - 1kg,Poroto,2012,FEBRERO,6364
 55,A granel - 1kg,Poroto,2012,MARZO,7314
@@ -63,7 +59,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 62,A granel - 1kg,Poroto,2012,OCTUBRE,7723
 63,A granel - 1kg,Poroto,2012,NOVIEMBE,7517
 64,A granel - 1kg,Poroto,2012,DICIEMBRE,7123
-65,A granel - 1kg,Poroto,2012,PROMEDIO,7078
 66,A granel - 1kg,Arroz,2012,ENERO,3037
 67,A granel - 1kg,Arroz,2012,FEBRERO,2770
 68,A granel - 1kg,Arroz,2012,MARZO,2676
@@ -76,7 +71,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 75,A granel - 1kg,Arroz,2012,OCTUBRE,2803
 76,A granel - 1kg,Arroz,2012,NOVIEMBE,3065
 77,A granel - 1kg,Arroz,2012,DICIEMBRE,2923
-78,A granel - 1kg,Arroz,2012,PROMEDIO,2714
 79,A granel - 1kg,Azúcar,2012,ENERO,5712
 80,A granel - 1kg,Azúcar,2012,FEBRERO,5751
 81,A granel - 1kg,Azúcar,2012,MARZO,5574
@@ -89,7 +83,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 88,A granel - 1kg,Azúcar,2012,OCTUBRE,4935
 89,A granel - 1kg,Azúcar,2012,NOVIEMBE,4759
 90,A granel - 1kg,Azúcar,2012,DICIEMBRE,4489
-91,A granel - 1kg,Azúcar,2012,PROMEDIO,5068
 92,A granel - 1kg,Harina,2012,ENERO,2216
 93,A granel - 1kg,Harina,2012,FEBRERO,2091
 94,A granel - 1kg,Harina,2012,MARZO,2246
@@ -102,7 +95,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 101,A granel - 1kg,Harina,2012,OCTUBRE,2150
 102,A granel - 1kg,Harina,2012,NOVIEMBE,2218
 103,A granel - 1kg,Harina,2012,DICIEMBRE,2282
-104,A granel - 1kg,Harina,2012,PROMEDIO,2158
 105,A granel - 1kg,Maíz,2012,ENERO,3285
 106,A granel - 1kg,Maíz,2012,FEBRERO,2747
 107,A granel - 1kg,Maíz,2012,MARZO,3177
@@ -115,7 +107,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 114,A granel - 1kg,Maíz,2012,OCTUBRE,3490
 115,A granel - 1kg,Maíz,2012,NOVIEMBE,4105
 116,A granel - 1kg,Maíz,2012,DICIEMBRE,6255
-117,A granel - 1kg,Maíz,2012,PROMEDIO,3731
 118,A granel - 1kg,Yerba,2012,ENERO,3468
 119,A granel - 1kg,Yerba,2012,FEBRERO,3532
 120,A granel - 1kg,Yerba,2012,MARZO,4007
@@ -128,7 +119,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 127,A granel - 1kg,Yerba,2012,OCTUBRE,5958
 128,A granel - 1kg,Yerba,2012,NOVIEMBE,5467
 129,A granel - 1kg,Yerba,2012,DICIEMBRE,5642
-130,A granel - 1kg,Yerba,2012,PROMEDIO,4483
 131,Carne bovina - 1kg,Puchero de primera,2012,ENERO,11433
 132,Carne bovina - 1kg,Puchero de primera,2012,FEBRERO,10454
 133,Carne bovina - 1kg,Puchero de primera,2012,MARZO,9973
@@ -141,7 +131,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 140,Carne bovina - 1kg,Puchero de primera,2012,OCTUBRE,10360
 141,Carne bovina - 1kg,Puchero de primera,2012,NOVIEMBE,11763
 142,Carne bovina - 1kg,Puchero de primera,2012,DICIEMBRE,12340
-143,Carne bovina - 1kg,Puchero de primera,2012,PROMEDIO,10476
 144,Carne bovina - 1kg,Carnaza de negra,2012,ENERO,22718
 145,Carne bovina - 1kg,Carnaza de negra,2012,FEBRERO,24702
 146,Carne bovina - 1kg,Carnaza de negra,2012,MARZO,23701
@@ -154,7 +143,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 153,Carne bovina - 1kg,Carnaza de negra,2012,OCTUBRE,24002
 154,Carne bovina - 1kg,Carnaza de negra,2012,NOVIEMBE,24522
 155,Carne bovina - 1kg,Carnaza de negra,2012,DICIEMBRE,25335
-156,Carne bovina - 1kg,Carnaza de negra,2012,PROMEDIO,23525
 157,Carne bovina - 1kg,Carnaza de blanca,2012,ENERO,21320
 158,Carne bovina - 1kg,Carnaza de blanca,2012,FEBRERO,22578
 159,Carne bovina - 1kg,Carnaza de blanca,2012,MARZO,21413
@@ -167,7 +155,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 166,Carne bovina - 1kg,Carnaza de blanca,2012,OCTUBRE,22302
 167,Carne bovina - 1kg,Carnaza de blanca,2012,NOVIEMBE,21983
 168,Carne bovina - 1kg,Carnaza de blanca,2012,DICIEMBRE,23256
-169,Carne bovina - 1kg,Carnaza de blanca,2012,PROMEDIO,21513
 170,Carne bovina - 1kg,Lomo,2012,ENERO,27734
 171,Carne bovina - 1kg,Lomo,2012,FEBRERO,25783
 172,Carne bovina - 1kg,Lomo,2012,MARZO,25994
@@ -180,7 +167,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 179,Carne bovina - 1kg,Lomo,2012,OCTUBRE,25636
 180,Carne bovina - 1kg,Lomo,2012,NOVIEMBE,26753
 181,Carne bovina - 1kg,Lomo,2012,DICIEMBRE,27814
-182,Carne bovina - 1kg,Lomo,2012,PROMEDIO,25354
 183,Carne bovina - 1kg,Lomito,2012,ENERO,37309
 184,Carne bovina - 1kg,Lomito,2012,FEBRERO,35851
 185,Carne bovina - 1kg,Lomito,2012,MARZO,35321
@@ -193,7 +179,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 192,Carne bovina - 1kg,Lomito,2012,OCTUBRE,36183
 193,Carne bovina - 1kg,Lomito,2012,NOVIEMBE,38963
 194,Carne bovina - 1kg,Lomito,2012,DICIEMBRE,39612
-195,Carne bovina - 1kg,Lomito,2012,PROMEDIO,35456
 196,Carne bovina - 1kg,Carne molida de primera,2012,ENERO,22867
 197,Carne bovina - 1kg,Carne molida de primera,2012,FEBRERO,22679
 198,Carne bovina - 1kg,Carne molida de primera,2012,MARZO,23365
@@ -206,7 +191,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 205,Carne bovina - 1kg,Carne molida de primera,2012,OCTUBRE,23067
 206,Carne bovina - 1kg,Carne molida de primera,2012,NOVIEMBE,24168
 207,Carne bovina - 1kg,Carne molida de primera,2012,DICIEMBRE,23093
-208,Carne bovina - 1kg,Carne molida de primera,2012,PROMEDIO,23038
 209,Carne bovina - 1kg,Carne molida de segunda,2012,ENERO,13535
 210,Carne bovina - 1kg,Carne molida de segunda,2012,FEBRERO,13536
 211,Carne bovina - 1kg,Carne molida de segunda,2012,MARZO,12894
@@ -219,7 +203,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 218,Carne bovina - 1kg,Carne molida de segunda,2012,OCTUBRE,13425
 219,Carne bovina - 1kg,Carne molida de segunda,2012,NOVIEMBE,13722
 220,Carne bovina - 1kg,Carne molida de segunda,2012,DICIEMBRE,14847
-221,Carne bovina - 1kg,Carne molida de segunda,2012,PROMEDIO,13673
 222,Carne bovina - 1kg,Costilla,2012,ENERO,17835
 223,Carne bovina - 1kg,Costilla,2012,FEBRERO,17546
 224,Carne bovina - 1kg,Costilla,2012,MARZO,13147
@@ -232,7 +215,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 231,Carne bovina - 1kg,Costilla,2012,OCTUBRE,15087
 232,Carne bovina - 1kg,Costilla,2012,NOVIEMBE,16131
 233,Carne bovina - 1kg,Costilla,2012,DICIEMBRE,16942
-234,Carne bovina - 1kg,Costilla,2012,PROMEDIO,15185
 235,Carne bovina - 1kg,Costilla de segunda,2012,ENERO,13315
 236,Carne bovina - 1kg,Costilla de segunda,2012,FEBRERO,13520
 237,Carne bovina - 1kg,Costilla de segunda,2012,MARZO,9957
@@ -245,7 +227,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 244,Carne bovina - 1kg,Costilla de segunda,2012,OCTUBRE,12104
 245,Carne bovina - 1kg,Costilla de segunda,2012,NOVIEMBE,13009
 246,Carne bovina - 1kg,Costilla de segunda,2012,DICIEMBRE,13278
-247,Carne bovina - 1kg,Costilla de segunda,2012,PROMEDIO,11913
 248,Carne bovina - 1kg,Hígado,2012,ENERO,6513
 249,Carne bovina - 1kg,Hígado,2012,FEBRERO,4891
 250,Carne bovina - 1kg,Hígado,2012,MARZO,5479
@@ -258,7 +239,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 257,Carne bovina - 1kg,Hígado,2012,OCTUBRE,7767
 258,Carne bovina - 1kg,Hígado,2012,NOVIEMBE,7278
 259,Carne bovina - 1kg,Hígado,2012,DICIEMBRE,5934
-260,Carne bovina - 1kg,Hígado,2012,PROMEDIO,6701
 261,Carne bovina - 1kg,Corazón,2012,ENERO,10467
 262,Carne bovina - 1kg,Corazón,2012,FEBRERO,8911
 263,Carne bovina - 1kg,Corazón,2012,MARZO,6857
@@ -271,7 +251,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 270,Carne bovina - 1kg,Corazón,2012,OCTUBRE,8538
 271,Carne bovina - 1kg,Corazón,2012,NOVIEMBE,7372
 272,Carne bovina - 1kg,Corazón,2012,DICIEMBRE,5595
-273,Carne bovina - 1kg,Corazón,2012,PROMEDIO,8058
 274,Carne bovina - 1kg,Mondongo,2012,ENERO,12491
 275,Carne bovina - 1kg,Mondongo,2012,FEBRERO,10670
 276,Carne bovina - 1kg,Mondongo,2012,MARZO,9876
@@ -284,267 +263,246 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 283,Carne bovina - 1kg,Mondongo,2012,OCTUBRE,11838
 284,Carne bovina - 1kg,Mondongo,2012,NOVIEMBE,10926
 285,Carne bovina - 1kg,Mondongo,2012,DICIEMBRE,8842
-286,Carne bovina - 1kg,Mondongo,2012,PROMEDIO,10332
-287,Carne bovina - 1 Kg.,Carnaza de Primera,2012,ENERO,24031
-288,Carne bovina - 1 Kg.,Carnaza de Primera,2012,FEBRERO,24307
-289,Carne bovina - 1 Kg.,Carnaza de Primera,2012,MARZO,23842
-290,Carne bovina - 1 Kg.,Carnaza de Primera,2012,ABRIL,23210
-291,Carne bovina - 1 Kg.,Carnaza de Primera,2012,MAYO,23299
-292,Carne bovina - 1 Kg.,Carnaza de Primera,2012,JUNIO,21745
-293,Carne bovina - 1 Kg.,Carnaza de Primera,2012,JULIO,21916
-294,Carne bovina - 1 Kg.,Carnaza de Primera,2012,AGOSTO,21880
-295,Carne bovina - 1 Kg.,Carnaza de Primera,2012,SETIEMBRE,23324
-296,Carne bovina - 1 Kg.,Carnaza de Primera,2012,OCTUBRE,23622
-297,Carne bovina - 1 Kg.,Carnaza de Primera,2012,NOVIEMBE,24588
-298,Carne bovina - 1 Kg.,Carnaza de Primera,2012,DICIEMBRE,24925
-299,Carne bovina - 1 Kg.,Carnaza de Primera,2012,PROMEDIO,23391
-300,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,ENERO,15007
-301,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,FEBRERO,16405
-302,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,MARZO,15663
-303,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,ABRIL,14857
-304,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,MAYO,15565
-305,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,JUNIO,15576
-306,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,JULIO,15352
-307,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,AGOSTO,15679
-308,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,SETIEMBRE,15823
-309,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,OCTUBRE,15536
-310,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,NOVIEMBE,15295
-311,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,DICIEMBRE,16162
-312,Carne bovina - 1 Kg.,Carnaza de Segunda,2012,PROMEDIO,15577
-313,Carne bovina - 1 Kg.,Puchero de Segunda,2012,ENERO,4142
-314,Carne bovina - 1 Kg.,Puchero de Segunda,2012,FEBRERO,4239
-315,Carne bovina - 1 Kg.,Puchero de Segunda,2012,MARZO,4369
-316,Carne bovina - 1 Kg.,Puchero de Segunda,2012,ABRIL,3847
-317,Carne bovina - 1 Kg.,Puchero de Segunda,2012,MAYO,4198
-318,Carne bovina - 1 Kg.,Puchero de Segunda,2012,JUNIO,4234
-319,Carne bovina - 1 Kg.,Puchero de Segunda,2012,JULIO,4132
-320,Carne bovina - 1 Kg.,Puchero de Segunda,2012,AGOSTO,4315
-321,Carne bovina - 1 Kg.,Puchero de Segunda,2012,SETIEMBRE,4063
-322,Carne bovina - 1 Kg.,Puchero de Segunda,2012,OCTUBRE,3556
-323,Carne bovina - 1 Kg.,Puchero de Segunda,2012,NOVIEMBE,3596
-324,Carne bovina - 1 Kg.,Puchero de Segunda,2012,DICIEMBRE,3133
-325,Carne bovina - 1 Kg.,Puchero de Segunda,2012,PROMEDIO,3985
-326,Carne bovina - 1Kg,Costeleta,2012,ENERO,21280
-327,Carne bovina - 1Kg,Costeleta,2012,FEBRERO,22117
-328,Carne bovina - 1Kg,Costeleta,2012,MARZO,21563
-329,Carne bovina - 1Kg,Costeleta,2012,ABRIL,21244
-330,Carne bovina - 1Kg,Costeleta,2012,MAYO,22454
-331,Carne bovina - 1Kg,Costeleta,2012,JUNIO,21226
-332,Carne bovina - 1Kg,Costeleta,2012,JULIO,22150
-333,Carne bovina - 1Kg,Costeleta,2012,AGOSTO,21499
-334,Carne bovina - 1Kg,Costeleta,2012,SETIEMBRE,21915
-335,Carne bovina - 1Kg,Costeleta,2012,OCTUBRE,20323
-336,Carne bovina - 1Kg,Costeleta,2012,NOVIEMBE,22648
-337,Carne bovina - 1Kg,Costeleta,2012,DICIEMBRE,23067
-338,Carne bovina - 1Kg,Costeleta,2012,PROMEDIO,21791
-339,Carne bovina - 1Kg,Vacío,2012,ENERO,22523
-340,Carne bovina - 1Kg,Vacío,2012,FEBRERO,21676
-341,Carne bovina - 1Kg,Vacío,2012,MARZO,16788
-342,Carne bovina - 1Kg,Vacío,2012,ABRIL,21223
-343,Carne bovina - 1Kg,Vacío,2012,MAYO,17810
-344,Carne bovina - 1Kg,Vacío,2012,JUNIO,15536
-345,Carne bovina - 1Kg,Vacío,2012,JULIO,15612
-346,Carne bovina - 1Kg,Vacío,2012,AGOSTO,17002
-347,Carne bovina - 1Kg,Vacío,2012,SETIEMBRE,16322
-348,Carne bovina - 1Kg,Vacío,2012,OCTUBRE,17244
-349,Carne bovina - 1Kg,Vacío,2012,NOVIEMBE,18978
-350,Carne bovina - 1Kg,Vacío,2012,DICIEMBRE,20890
-351,Carne bovina - 1Kg,Vacío,2012,PROMEDIO,18467
-352,Carne bovina - 1Kg,Falda,2012,ENERO,14234
-353,Carne bovina - 1Kg,Falda,2012,FEBRERO,13277
-354,Carne bovina - 1Kg,Falda,2012,MARZO,11267
-355,Carne bovina - 1Kg,Falda,2012,ABRIL,13884
-356,Carne bovina - 1Kg,Falda,2012,MAYO,10721
-357,Carne bovina - 1Kg,Falda,2012,JUNIO,10775
-358,Carne bovina - 1Kg,Falda,2012,JULIO,9989
-359,Carne bovina - 1Kg,Falda,2012,AGOSTO,10736
-360,Carne bovina - 1Kg,Falda,2012,SETIEMBRE,11047
-361,Carne bovina - 1Kg,Falda,2012,OCTUBRE,11691
-362,Carne bovina - 1Kg,Falda,2012,NOVIEMBE,12210
-363,Carne bovina - 1Kg,Falda,2012,DICIEMBRE,12369
-364,Carne bovina - 1Kg,Falda,2012,PROMEDIO,11850
-365,Carne bovina - 1Kg,Peceto,2012,ENERO,25020
-366,Carne bovina - 1Kg,Peceto,2012,FEBRERO,23886
-367,Carne bovina - 1Kg,Peceto,2012,MARZO,23240
-368,Carne bovina - 1Kg,Peceto,2012,ABRIL,22723
-369,Carne bovina - 1Kg,Peceto,2012,MAYO,22329
-370,Carne bovina - 1Kg,Peceto,2012,JUNIO,21451
-371,Carne bovina - 1Kg,Peceto,2012,JULIO,21920
-372,Carne bovina - 1Kg,Peceto,2012,AGOSTO,21952
-373,Carne bovina - 1Kg,Peceto,2012,SETIEMBRE,22628
-374,Carne bovina - 1Kg,Peceto,2012,OCTUBRE,22659
-375,Carne bovina - 1Kg,Peceto,2012,NOVIEMBE,23984
-376,Carne bovina - 1Kg,Peceto,2012,DICIEMBRE,25271
-377,Carne bovina - 1Kg,Peceto,2012,PROMEDIO,23089
-378,Carne bovina - 1Kg,Tapa Cuadril,2012,ENERO,33862
-379,Carne bovina - 1Kg,Tapa Cuadril,2012,FEBRERO,32758
-380,Carne bovina - 1Kg,Tapa Cuadril,2012,MARZO,31469
-381,Carne bovina - 1Kg,Tapa Cuadril,2012,ABRIL,29890
-382,Carne bovina - 1Kg,Tapa Cuadril,2012,MAYO,31567
-383,Carne bovina - 1Kg,Tapa Cuadril,2012,JUNIO,31356
-384,Carne bovina - 1Kg,Tapa Cuadril,2012,JULIO,30047
-385,Carne bovina - 1Kg,Tapa Cuadril,2012,AGOSTO,30486
-386,Carne bovina - 1Kg,Tapa Cuadril,2012,SETIEMBRE,33130
-387,Carne bovina - 1Kg,Tapa Cuadril,2012,OCTUBRE,33740
-388,Carne bovina - 1Kg,Tapa Cuadril,2012,NOVIEMBE,33056
-389,Carne bovina - 1Kg,Tapa Cuadril,2012,DICIEMBRE,31123
-390,Carne bovina - 1Kg,Tapa Cuadril,2012,PROMEDIO,31874
-391,Carne bovina - 1Kg,Rabadilla,2012,ENERO,26847
-392,Carne bovina - 1Kg,Rabadilla,2012,FEBRERO,25340
-393,Carne bovina - 1Kg,Rabadilla,2012,MARZO,24650
-394,Carne bovina - 1Kg,Rabadilla,2012,ABRIL,23910
-395,Carne bovina - 1Kg,Rabadilla,2012,MAYO,24160
-396,Carne bovina - 1Kg,Rabadilla,2012,JUNIO,22908
-397,Carne bovina - 1Kg,Rabadilla,2012,JULIO,22144
-398,Carne bovina - 1Kg,Rabadilla,2012,AGOSTO,22312
-399,Carne bovina - 1Kg,Rabadilla,2012,SETIEMBRE,23011
-400,Carne bovina - 1Kg,Rabadilla,2012,OCTUBRE,25656
-401,Carne bovina - 1Kg,Rabadilla,2012,NOVIEMBE,26200
-402,Carne bovina - 1Kg,Rabadilla,2012,DICIEMBRE,26996
-403,Carne bovina - 1Kg,Rabadilla,2012,PROMEDIO,24511
-404,Carne bovina - 1Kg,Bola de Lomo,2012,ENERO,21557
-405,Carne bovina - 1Kg,Bola de Lomo,2012,FEBRERO,23992
-406,Carne bovina - 1Kg,Bola de Lomo,2012,MARZO,23128
-407,Carne bovina - 1Kg,Bola de Lomo,2012,ABRIL,22711
-408,Carne bovina - 1Kg,Bola de Lomo,2012,MAYO,23126
-409,Carne bovina - 1Kg,Bola de Lomo,2012,JUNIO,21793
-410,Carne bovina - 1Kg,Bola de Lomo,2012,JULIO,21918
-411,Carne bovina - 1Kg,Bola de Lomo,2012,AGOSTO,22028
-412,Carne bovina - 1Kg,Bola de Lomo,2012,SETIEMBRE,22907
-413,Carne bovina - 1Kg,Bola de Lomo,2012,OCTUBRE,23291
-414,Carne bovina - 1Kg,Bola de Lomo,2012,NOVIEMBE,24306
-415,Carne bovina - 1Kg,Bola de Lomo,2012,DICIEMBRE,24648
-416,Carne bovina - 1Kg,Bola de Lomo,2012,PROMEDIO,22950
-417,Carne bovina - 1Kg,Palomita,2012,ENERO,28234
-418,Carne bovina - 1Kg,Palomita,2012,FEBRERO,26976
-419,Carne bovina - 1Kg,Palomita,2012,MARZO,26419
-420,Carne bovina - 1Kg,Palomita,2012,ABRIL,23993
-421,Carne bovina - 1Kg,Palomita,2012,MAYO,25334
-422,Carne bovina - 1Kg,Palomita,2012,JUNIO,23138
-423,Carne bovina - 1Kg,Palomita,2012,JULIO,23397
-424,Carne bovina - 1Kg,Palomita,2012,AGOSTO,23270
-425,Carne bovina - 1Kg,Palomita,2012,SETIEMBRE,23547
-426,Carne bovina - 1Kg,Palomita,2012,OCTUBRE,26207
-427,Carne bovina - 1Kg,Palomita,2012,NOVIEMBE,27141
-428,Carne bovina - 1Kg,Palomita,2012,DICIEMBRE,29161
-429,Carne bovina - 1Kg,Palomita,2012,PROMEDIO,25568
-430,Carne bovina - 1Kg,Muchachito,2012,ENERO,19217
-431,Carne bovina - 1Kg,Muchachito,2012,FEBRERO,18644
-432,Carne bovina - 1Kg,Muchachito,2012,MARZO,19420
-433,Carne bovina - 1Kg,Muchachito,2012,ABRIL,18048
-434,Carne bovina - 1Kg,Muchachito,2012,MAYO,19146
-435,Carne bovina - 1Kg,Muchachito,2012,JUNIO,18867
-436,Carne bovina - 1Kg,Muchachito,2012,JULIO,19130
-437,Carne bovina - 1Kg,Muchachito,2012,AGOSTO,18811
-438,Carne bovina - 1Kg,Muchachito,2012,SETIEMBRE,19709
-439,Carne bovina - 1Kg,Muchachito,2012,OCTUBRE,19226
-440,Carne bovina - 1Kg,Muchachito,2012,NOVIEMBE,20246
-441,Carne bovina - 1Kg,Muchachito,2012,DICIEMBRE,20750
-442,Carne bovina - 1Kg,Muchachito,2012,PROMEDIO,19268
-443,Carne bovina - 1Kg,Paleta,2012,ENERO,20499
-444,Carne bovina - 1Kg,Paleta,2012,FEBRERO,20521
-445,Carne bovina - 1Kg,Paleta,2012,MARZO,20467
-446,Carne bovina - 1Kg,Paleta,2012,ABRIL,20537
-447,Carne bovina - 1Kg,Paleta,2012,MAYO,20836
-448,Carne bovina - 1Kg,Paleta,2012,JUNIO,20612
-449,Carne bovina - 1Kg,Paleta,2012,JULIO,20340
-450,Carne bovina - 1Kg,Paleta,2012,AGOSTO,20697
-451,Carne bovina - 1Kg,Paleta,2012,SETIEMBRE,21337
-452,Carne bovina - 1Kg,Paleta,2012,OCTUBRE,21702
-453,Carne bovina - 1Kg,Paleta,2012,NOVIEMBE,22113
-454,Carne bovina - 1Kg,Paleta,2012,DICIEMBRE,23113
-455,Carne bovina - 1Kg,Paleta,2012,PROMEDIO,21064
-456,Carne bovina - 1Kg,Sambari,2012,ENERO,16901
-457,Carne bovina - 1Kg,Sambari,2012,FEBRERO,17793
-458,Carne bovina - 1Kg,Sambari,2012,MARZO,18022
-459,Carne bovina - 1Kg,Sambari,2012,ABRIL,17238
-460,Carne bovina - 1Kg,Sambari,2012,MAYO,17706
-461,Carne bovina - 1Kg,Sambari,2012,JUNIO,17591
-462,Carne bovina - 1Kg,Sambari,2012,JULIO,17634
-463,Carne bovina - 1Kg,Sambari,2012,AGOSTO,17699
-464,Carne bovina - 1Kg,Sambari,2012,SETIEMBRE,18168
-465,Carne bovina - 1Kg,Sambari,2012,OCTUBRE,18376
-466,Carne bovina - 1Kg,Sambari,2012,NOVIEMBE,19145
-467,Carne bovina - 1Kg,Sambari,2012,DICIEMBRE,18899
-468,Carne bovina - 1Kg,Sambari,2012,PROMEDIO,17931
-469,Carne bovina - 1Kg,Matambre,2012,ENERO,14953
-470,Carne bovina - 1Kg,Matambre,2012,FEBRERO,14282
-471,Carne bovina - 1Kg,Matambre,2012,MARZO,11581
-472,Carne bovina - 1Kg,Matambre,2012,ABRIL,14173
-473,Carne bovina - 1Kg,Matambre,2012,MAYO,13919
-474,Carne bovina - 1Kg,Matambre,2012,JUNIO,13485
-475,Carne bovina - 1Kg,Matambre,2012,JULIO,14074
-476,Carne bovina - 1Kg,Matambre,2012,AGOSTO,12265
-477,Carne bovina - 1Kg,Matambre,2012,SETIEMBRE,11897
-478,Carne bovina - 1Kg,Matambre,2012,OCTUBRE,12875
-479,Carne bovina - 1Kg,Matambre,2012,NOVIEMBE,14077
-480,Carne bovina - 1Kg,Matambre,2012,DICIEMBRE,14706
-481,Carne bovina - 1Kg,Matambre,2012,PROMEDIO,13524
-482,Carne bovina - 1Kg,Tapa de Asado,2012,ENERO,17605
-483,Carne bovina - 1Kg,Tapa de Asado,2012,FEBRERO,19480
-484,Carne bovina - 1Kg,Tapa de Asado,2012,MARZO,17385
-485,Carne bovina - 1Kg,Tapa de Asado,2012,ABRIL,17410
-486,Carne bovina - 1Kg,Tapa de Asado,2012,MAYO,17027
-487,Carne bovina - 1Kg,Tapa de Asado,2012,JUNIO,16846
-488,Carne bovina - 1Kg,Tapa de Asado,2012,JULIO,16863
-489,Carne bovina - 1Kg,Tapa de Asado,2012,AGOSTO,16861
-490,Carne bovina - 1Kg,Tapa de Asado,2012,SETIEMBRE,17099
-491,Carne bovina - 1Kg,Tapa de Asado,2012,OCTUBRE,16817
-492,Carne bovina - 1Kg,Tapa de Asado,2012,NOVIEMBE,17401
-493,Carne bovina - 1Kg,Tapa de Asado,2012,DICIEMBRE,17596
-494,Carne bovina - 1Kg,Tapa de Asado,2012,PROMEDIO,17366
-495,Carne bovina - 1Kg,Espinazo Negro,2012,ENERO,11484
-496,Carne bovina - 1Kg,Espinazo Negro,2012,FEBRERO,11203
-497,Carne bovina - 1Kg,Espinazo Negro,2012,MARZO,11843
-498,Carne bovina - 1Kg,Espinazo Negro,2012,ABRIL,12832
-499,Carne bovina - 1Kg,Espinazo Negro,2012,MAYO,11418
-500,Carne bovina - 1Kg,Espinazo Negro,2012,JUNIO,10686
-501,Carne bovina - 1Kg,Espinazo Negro,2012,JULIO,12038
-502,Carne bovina - 1Kg,Espinazo Negro,2012,AGOSTO,11669
-503,Carne bovina - 1Kg,Espinazo Negro,2012,SETIEMBRE,10666
-504,Carne bovina - 1Kg,Espinazo Negro,2012,OCTUBRE,10468
-505,Carne bovina - 1Kg,Espinazo Negro,2012,NOVIEMBE,12106
-506,Carne bovina - 1Kg,Espinazo Negro,2012,DICIEMBRE,12464
-507,Carne bovina - 1Kg,Espinazo Negro,2012,PROMEDIO,11573
-508,Carne bovina - 1Kg,Osobuco,2012,ENERO,12496
-509,Carne bovina - 1Kg,Osobuco,2012,FEBRERO,13188
-510,Carne bovina - 1Kg,Osobuco,2012,MARZO,12739
-511,Carne bovina - 1Kg,Osobuco,2012,ABRIL,13484
-512,Carne bovina - 1Kg,Osobuco,2012,MAYO,13390
-513,Carne bovina - 1Kg,Osobuco,2012,JUNIO,12721
-514,Carne bovina - 1Kg,Osobuco,2012,JULIO,13397
-515,Carne bovina - 1Kg,Osobuco,2012,AGOSTO,12820
-516,Carne bovina - 1Kg,Osobuco,2012,SETIEMBRE,12444
-517,Carne bovina - 1Kg,Osobuco,2012,OCTUBRE,11957
-518,Carne bovina - 1Kg,Osobuco,2012,NOVIEMBE,12951
-519,Carne bovina - 1Kg,Osobuco,2012,DICIEMBRE,13085
-520,Carne bovina - 1Kg,Osobuco,2012,PROMEDIO,12889
-521,Carne bovina - 1Kg,Cebo,2012,ENERO,1504
-522,Carne bovina - 1Kg,Cebo,2012,FEBRERO,1602
-523,Carne bovina - 1Kg,Cebo,2012,MARZO,1795
-524,Carne bovina - 1Kg,Cebo,2012,ABRIL,1630
-525,Carne bovina - 1Kg,Cebo,2012,MAYO,1642
-526,Carne bovina - 1Kg,Cebo,2012,JUNIO,1325
-527,Carne bovina - 1Kg,Cebo,2012,JULIO,1345
-528,Carne bovina - 1Kg,Cebo,2012,AGOSTO,1459
-529,Carne bovina - 1Kg,Cebo,2012,SETIEMBRE,1516
-530,Carne bovina - 1Kg,Cebo,2012,OCTUBRE,2202
-531,Carne bovina - 1Kg,Cebo,2012,NOVIEMBE,1676
-532,Carne bovina - 1Kg,Cebo,2012,DICIEMBRE,1560
-533,Carne bovina - 1Kg,Cebo,2012,PROMEDIO,1605
-534,Carne bovina - 1Kg,Hueso Blanco,2012,ENERO,1176
-535,Carne bovina - 1Kg,Hueso Blanco,2012,FEBRERO,1033
-536,Carne bovina - 1Kg,Hueso Blanco,2012,MARZO,1402
-537,Carne bovina - 1Kg,Hueso Blanco,2012,ABRIL,1117
-538,Carne bovina - 1Kg,Hueso Blanco,2012,MAYO,1440
-539,Carne bovina - 1Kg,Hueso Blanco,2012,JUNIO,1127
-540,Carne bovina - 1Kg,Hueso Blanco,2012,JULIO,1259
-541,Carne bovina - 1Kg,Hueso Blanco,2012,AGOSTO,1384
-542,Carne bovina - 1Kg,Hueso Blanco,2012,SETIEMBRE,1248
-543,Carne bovina - 1Kg,Hueso Blanco,2012,OCTUBRE,1111
-544,Carne bovina - 1Kg,Hueso Blanco,2012,NOVIEMBE,1078
-545,Carne bovina - 1Kg,Hueso Blanco,2012,DICIEMBRE,1078
-546,Carne bovina - 1Kg,Hueso Blanco,2012,PROMEDIO,1205
+287,Carne bovina - 1kg,Carnaza de Primera,2012,ENERO,24031
+288,Carne bovina - 1kg,Carnaza de Primera,2012,FEBRERO,24307
+289,Carne bovina - 1kg,Carnaza de Primera,2012,MARZO,23842
+290,Carne bovina - 1kg,Carnaza de Primera,2012,ABRIL,23210
+291,Carne bovina - 1kg,Carnaza de Primera,2012,MAYO,23299
+292,Carne bovina - 1kg,Carnaza de Primera,2012,JUNIO,21745
+293,Carne bovina - 1kg,Carnaza de Primera,2012,JULIO,21916
+294,Carne bovina - 1kg,Carnaza de Primera,2012,AGOSTO,21880
+295,Carne bovina - 1kg,Carnaza de Primera,2012,SETIEMBRE,23324
+296,Carne bovina - 1kg,Carnaza de Primera,2012,OCTUBRE,23622
+297,Carne bovina - 1kg,Carnaza de Primera,2012,NOVIEMBE,24588
+298,Carne bovina - 1kg,Carnaza de Primera,2012,DICIEMBRE,24925
+300,Carne bovina - 1kg,Carnaza de Segunda,2012,ENERO,15007
+301,Carne bovina - 1kg,Carnaza de Segunda,2012,FEBRERO,16405
+302,Carne bovina - 1kg,Carnaza de Segunda,2012,MARZO,15663
+303,Carne bovina - 1kg,Carnaza de Segunda,2012,ABRIL,14857
+304,Carne bovina - 1kg,Carnaza de Segunda,2012,MAYO,15565
+305,Carne bovina - 1kg,Carnaza de Segunda,2012,JUNIO,15576
+306,Carne bovina - 1kg,Carnaza de Segunda,2012,JULIO,15352
+307,Carne bovina - 1kg,Carnaza de Segunda,2012,AGOSTO,15679
+308,Carne bovina - 1kg,Carnaza de Segunda,2012,SETIEMBRE,15823
+309,Carne bovina - 1kg,Carnaza de Segunda,2012,OCTUBRE,15536
+310,Carne bovina - 1kg,Carnaza de Segunda,2012,NOVIEMBE,15295
+311,Carne bovina - 1kg,Carnaza de Segunda,2012,DICIEMBRE,16162
+313,Carne bovina - 1kg,Puchero de Segunda,2012,ENERO,4142
+314,Carne bovina - 1kg,Puchero de Segunda,2012,FEBRERO,4239
+315,Carne bovina - 1kg,Puchero de Segunda,2012,MARZO,4369
+316,Carne bovina - 1kg,Puchero de Segunda,2012,ABRIL,3847
+317,Carne bovina - 1kg,Puchero de Segunda,2012,MAYO,4198
+318,Carne bovina - 1kg,Puchero de Segunda,2012,JUNIO,4234
+319,Carne bovina - 1kg,Puchero de Segunda,2012,JULIO,4132
+320,Carne bovina - 1kg,Puchero de Segunda,2012,AGOSTO,4315
+321,Carne bovina - 1kg,Puchero de Segunda,2012,SETIEMBRE,4063
+322,Carne bovina - 1kg,Puchero de Segunda,2012,OCTUBRE,3556
+323,Carne bovina - 1kg,Puchero de Segunda,2012,NOVIEMBE,3596
+324,Carne bovina - 1kg,Puchero de Segunda,2012,DICIEMBRE,3133
+326,Carne bovina - 1kg,Costeleta,2012,ENERO,21280
+327,Carne bovina - 1kg,Costeleta,2012,FEBRERO,22117
+328,Carne bovina - 1kg,Costeleta,2012,MARZO,21563
+329,Carne bovina - 1kg,Costeleta,2012,ABRIL,21244
+330,Carne bovina - 1kg,Costeleta,2012,MAYO,22454
+331,Carne bovina - 1kg,Costeleta,2012,JUNIO,21226
+332,Carne bovina - 1kg,Costeleta,2012,JULIO,22150
+333,Carne bovina - 1kg,Costeleta,2012,AGOSTO,21499
+334,Carne bovina - 1kg,Costeleta,2012,SETIEMBRE,21915
+335,Carne bovina - 1kg,Costeleta,2012,OCTUBRE,20323
+336,Carne bovina - 1kg,Costeleta,2012,NOVIEMBE,22648
+337,Carne bovina - 1kg,Costeleta,2012,DICIEMBRE,23067
+339,Carne bovina - 1kg,Vacío,2012,ENERO,22523
+340,Carne bovina - 1kg,Vacío,2012,FEBRERO,21676
+341,Carne bovina - 1kg,Vacío,2012,MARZO,16788
+342,Carne bovina - 1kg,Vacío,2012,ABRIL,21223
+343,Carne bovina - 1kg,Vacío,2012,MAYO,17810
+344,Carne bovina - 1kg,Vacío,2012,JUNIO,15536
+345,Carne bovina - 1kg,Vacío,2012,JULIO,15612
+346,Carne bovina - 1kg,Vacío,2012,AGOSTO,17002
+347,Carne bovina - 1kg,Vacío,2012,SETIEMBRE,16322
+348,Carne bovina - 1kg,Vacío,2012,OCTUBRE,17244
+349,Carne bovina - 1kg,Vacío,2012,NOVIEMBE,18978
+350,Carne bovina - 1kg,Vacío,2012,DICIEMBRE,20890
+352,Carne bovina - 1kg,Falda,2012,ENERO,14234
+353,Carne bovina - 1kg,Falda,2012,FEBRERO,13277
+354,Carne bovina - 1kg,Falda,2012,MARZO,11267
+355,Carne bovina - 1kg,Falda,2012,ABRIL,13884
+356,Carne bovina - 1kg,Falda,2012,MAYO,10721
+357,Carne bovina - 1kg,Falda,2012,JUNIO,10775
+358,Carne bovina - 1kg,Falda,2012,JULIO,9989
+359,Carne bovina - 1kg,Falda,2012,AGOSTO,10736
+360,Carne bovina - 1kg,Falda,2012,SETIEMBRE,11047
+361,Carne bovina - 1kg,Falda,2012,OCTUBRE,11691
+362,Carne bovina - 1kg,Falda,2012,NOVIEMBE,12210
+363,Carne bovina - 1kg,Falda,2012,DICIEMBRE,12369
+365,Carne bovina - 1kg,Peceto,2012,ENERO,25020
+366,Carne bovina - 1kg,Peceto,2012,FEBRERO,23886
+367,Carne bovina - 1kg,Peceto,2012,MARZO,23240
+368,Carne bovina - 1kg,Peceto,2012,ABRIL,22723
+369,Carne bovina - 1kg,Peceto,2012,MAYO,22329
+370,Carne bovina - 1kg,Peceto,2012,JUNIO,21451
+371,Carne bovina - 1kg,Peceto,2012,JULIO,21920
+372,Carne bovina - 1kg,Peceto,2012,AGOSTO,21952
+373,Carne bovina - 1kg,Peceto,2012,SETIEMBRE,22628
+374,Carne bovina - 1kg,Peceto,2012,OCTUBRE,22659
+375,Carne bovina - 1kg,Peceto,2012,NOVIEMBE,23984
+376,Carne bovina - 1kg,Peceto,2012,DICIEMBRE,25271
+378,Carne bovina - 1kg,Tapa Cuadril,2012,ENERO,33862
+379,Carne bovina - 1kg,Tapa Cuadril,2012,FEBRERO,32758
+380,Carne bovina - 1kg,Tapa Cuadril,2012,MARZO,31469
+381,Carne bovina - 1kg,Tapa Cuadril,2012,ABRIL,29890
+382,Carne bovina - 1kg,Tapa Cuadril,2012,MAYO,31567
+383,Carne bovina - 1kg,Tapa Cuadril,2012,JUNIO,31356
+384,Carne bovina - 1kg,Tapa Cuadril,2012,JULIO,30047
+385,Carne bovina - 1kg,Tapa Cuadril,2012,AGOSTO,30486
+386,Carne bovina - 1kg,Tapa Cuadril,2012,SETIEMBRE,33130
+387,Carne bovina - 1kg,Tapa Cuadril,2012,OCTUBRE,33740
+388,Carne bovina - 1kg,Tapa Cuadril,2012,NOVIEMBE,33056
+389,Carne bovina - 1kg,Tapa Cuadril,2012,DICIEMBRE,31123
+391,Carne bovina - 1kg,Rabadilla,2012,ENERO,26847
+392,Carne bovina - 1kg,Rabadilla,2012,FEBRERO,25340
+393,Carne bovina - 1kg,Rabadilla,2012,MARZO,24650
+394,Carne bovina - 1kg,Rabadilla,2012,ABRIL,23910
+395,Carne bovina - 1kg,Rabadilla,2012,MAYO,24160
+396,Carne bovina - 1kg,Rabadilla,2012,JUNIO,22908
+397,Carne bovina - 1kg,Rabadilla,2012,JULIO,22144
+398,Carne bovina - 1kg,Rabadilla,2012,AGOSTO,22312
+399,Carne bovina - 1kg,Rabadilla,2012,SETIEMBRE,23011
+400,Carne bovina - 1kg,Rabadilla,2012,OCTUBRE,25656
+401,Carne bovina - 1kg,Rabadilla,2012,NOVIEMBE,26200
+402,Carne bovina - 1kg,Rabadilla,2012,DICIEMBRE,26996
+404,Carne bovina - 1kg,Bola de Lomo,2012,ENERO,21557
+405,Carne bovina - 1kg,Bola de Lomo,2012,FEBRERO,23992
+406,Carne bovina - 1kg,Bola de Lomo,2012,MARZO,23128
+407,Carne bovina - 1kg,Bola de Lomo,2012,ABRIL,22711
+408,Carne bovina - 1kg,Bola de Lomo,2012,MAYO,23126
+409,Carne bovina - 1kg,Bola de Lomo,2012,JUNIO,21793
+410,Carne bovina - 1kg,Bola de Lomo,2012,JULIO,21918
+411,Carne bovina - 1kg,Bola de Lomo,2012,AGOSTO,22028
+412,Carne bovina - 1kg,Bola de Lomo,2012,SETIEMBRE,22907
+413,Carne bovina - 1kg,Bola de Lomo,2012,OCTUBRE,23291
+414,Carne bovina - 1kg,Bola de Lomo,2012,NOVIEMBE,24306
+415,Carne bovina - 1kg,Bola de Lomo,2012,DICIEMBRE,24648
+417,Carne bovina - 1kg,Palomita,2012,ENERO,28234
+418,Carne bovina - 1kg,Palomita,2012,FEBRERO,26976
+419,Carne bovina - 1kg,Palomita,2012,MARZO,26419
+420,Carne bovina - 1kg,Palomita,2012,ABRIL,23993
+421,Carne bovina - 1kg,Palomita,2012,MAYO,25334
+422,Carne bovina - 1kg,Palomita,2012,JUNIO,23138
+423,Carne bovina - 1kg,Palomita,2012,JULIO,23397
+424,Carne bovina - 1kg,Palomita,2012,AGOSTO,23270
+425,Carne bovina - 1kg,Palomita,2012,SETIEMBRE,23547
+426,Carne bovina - 1kg,Palomita,2012,OCTUBRE,26207
+427,Carne bovina - 1kg,Palomita,2012,NOVIEMBE,27141
+428,Carne bovina - 1kg,Palomita,2012,DICIEMBRE,29161
+430,Carne bovina - 1kg,Muchachito,2012,ENERO,19217
+431,Carne bovina - 1kg,Muchachito,2012,FEBRERO,18644
+432,Carne bovina - 1kg,Muchachito,2012,MARZO,19420
+433,Carne bovina - 1kg,Muchachito,2012,ABRIL,18048
+434,Carne bovina - 1kg,Muchachito,2012,MAYO,19146
+435,Carne bovina - 1kg,Muchachito,2012,JUNIO,18867
+436,Carne bovina - 1kg,Muchachito,2012,JULIO,19130
+437,Carne bovina - 1kg,Muchachito,2012,AGOSTO,18811
+438,Carne bovina - 1kg,Muchachito,2012,SETIEMBRE,19709
+439,Carne bovina - 1kg,Muchachito,2012,OCTUBRE,19226
+440,Carne bovina - 1kg,Muchachito,2012,NOVIEMBE,20246
+441,Carne bovina - 1kg,Muchachito,2012,DICIEMBRE,20750
+443,Carne bovina - 1kg,Paleta,2012,ENERO,20499
+444,Carne bovina - 1kg,Paleta,2012,FEBRERO,20521
+445,Carne bovina - 1kg,Paleta,2012,MARZO,20467
+446,Carne bovina - 1kg,Paleta,2012,ABRIL,20537
+447,Carne bovina - 1kg,Paleta,2012,MAYO,20836
+448,Carne bovina - 1kg,Paleta,2012,JUNIO,20612
+449,Carne bovina - 1kg,Paleta,2012,JULIO,20340
+450,Carne bovina - 1kg,Paleta,2012,AGOSTO,20697
+451,Carne bovina - 1kg,Paleta,2012,SETIEMBRE,21337
+452,Carne bovina - 1kg,Paleta,2012,OCTUBRE,21702
+453,Carne bovina - 1kg,Paleta,2012,NOVIEMBE,22113
+454,Carne bovina - 1kg,Paleta,2012,DICIEMBRE,23113
+456,Carne bovina - 1kg,Sambari,2012,ENERO,16901
+457,Carne bovina - 1kg,Sambari,2012,FEBRERO,17793
+458,Carne bovina - 1kg,Sambari,2012,MARZO,18022
+459,Carne bovina - 1kg,Sambari,2012,ABRIL,17238
+460,Carne bovina - 1kg,Sambari,2012,MAYO,17706
+461,Carne bovina - 1kg,Sambari,2012,JUNIO,17591
+462,Carne bovina - 1kg,Sambari,2012,JULIO,17634
+463,Carne bovina - 1kg,Sambari,2012,AGOSTO,17699
+464,Carne bovina - 1kg,Sambari,2012,SETIEMBRE,18168
+465,Carne bovina - 1kg,Sambari,2012,OCTUBRE,18376
+466,Carne bovina - 1kg,Sambari,2012,NOVIEMBE,19145
+467,Carne bovina - 1kg,Sambari,2012,DICIEMBRE,18899
+469,Carne bovina - 1kg,Matambre,2012,ENERO,14953
+470,Carne bovina - 1kg,Matambre,2012,FEBRERO,14282
+471,Carne bovina - 1kg,Matambre,2012,MARZO,11581
+472,Carne bovina - 1kg,Matambre,2012,ABRIL,14173
+473,Carne bovina - 1kg,Matambre,2012,MAYO,13919
+474,Carne bovina - 1kg,Matambre,2012,JUNIO,13485
+475,Carne bovina - 1kg,Matambre,2012,JULIO,14074
+476,Carne bovina - 1kg,Matambre,2012,AGOSTO,12265
+477,Carne bovina - 1kg,Matambre,2012,SETIEMBRE,11897
+478,Carne bovina - 1kg,Matambre,2012,OCTUBRE,12875
+479,Carne bovina - 1kg,Matambre,2012,NOVIEMBE,14077
+480,Carne bovina - 1kg,Matambre,2012,DICIEMBRE,14706
+482,Carne bovina - 1kg,Tapa de Asado,2012,ENERO,17605
+483,Carne bovina - 1kg,Tapa de Asado,2012,FEBRERO,19480
+484,Carne bovina - 1kg,Tapa de Asado,2012,MARZO,17385
+485,Carne bovina - 1kg,Tapa de Asado,2012,ABRIL,17410
+486,Carne bovina - 1kg,Tapa de Asado,2012,MAYO,17027
+487,Carne bovina - 1kg,Tapa de Asado,2012,JUNIO,16846
+488,Carne bovina - 1kg,Tapa de Asado,2012,JULIO,16863
+489,Carne bovina - 1kg,Tapa de Asado,2012,AGOSTO,16861
+490,Carne bovina - 1kg,Tapa de Asado,2012,SETIEMBRE,17099
+491,Carne bovina - 1kg,Tapa de Asado,2012,OCTUBRE,16817
+492,Carne bovina - 1kg,Tapa de Asado,2012,NOVIEMBE,17401
+493,Carne bovina - 1kg,Tapa de Asado,2012,DICIEMBRE,17596
+495,Carne bovina - 1kg,Espinazo Negro,2012,ENERO,11484
+496,Carne bovina - 1kg,Espinazo Negro,2012,FEBRERO,11203
+497,Carne bovina - 1kg,Espinazo Negro,2012,MARZO,11843
+498,Carne bovina - 1kg,Espinazo Negro,2012,ABRIL,12832
+499,Carne bovina - 1kg,Espinazo Negro,2012,MAYO,11418
+500,Carne bovina - 1kg,Espinazo Negro,2012,JUNIO,10686
+501,Carne bovina - 1kg,Espinazo Negro,2012,JULIO,12038
+502,Carne bovina - 1kg,Espinazo Negro,2012,AGOSTO,11669
+503,Carne bovina - 1kg,Espinazo Negro,2012,SETIEMBRE,10666
+504,Carne bovina - 1kg,Espinazo Negro,2012,OCTUBRE,10468
+505,Carne bovina - 1kg,Espinazo Negro,2012,NOVIEMBE,12106
+506,Carne bovina - 1kg,Espinazo Negro,2012,DICIEMBRE,12464
+508,Carne bovina - 1kg,Osobuco,2012,ENERO,12496
+509,Carne bovina - 1kg,Osobuco,2012,FEBRERO,13188
+510,Carne bovina - 1kg,Osobuco,2012,MARZO,12739
+511,Carne bovina - 1kg,Osobuco,2012,ABRIL,13484
+512,Carne bovina - 1kg,Osobuco,2012,MAYO,13390
+513,Carne bovina - 1kg,Osobuco,2012,JUNIO,12721
+514,Carne bovina - 1kg,Osobuco,2012,JULIO,13397
+515,Carne bovina - 1kg,Osobuco,2012,AGOSTO,12820
+516,Carne bovina - 1kg,Osobuco,2012,SETIEMBRE,12444
+517,Carne bovina - 1kg,Osobuco,2012,OCTUBRE,11957
+518,Carne bovina - 1kg,Osobuco,2012,NOVIEMBE,12951
+519,Carne bovina - 1kg,Osobuco,2012,DICIEMBRE,13085
+521,Carne bovina - 1kg,Cebo,2012,ENERO,1504
+522,Carne bovina - 1kg,Cebo,2012,FEBRERO,1602
+523,Carne bovina - 1kg,Cebo,2012,MARZO,1795
+524,Carne bovina - 1kg,Cebo,2012,ABRIL,1630
+525,Carne bovina - 1kg,Cebo,2012,MAYO,1642
+526,Carne bovina - 1kg,Cebo,2012,JUNIO,1325
+527,Carne bovina - 1kg,Cebo,2012,JULIO,1345
+528,Carne bovina - 1kg,Cebo,2012,AGOSTO,1459
+529,Carne bovina - 1kg,Cebo,2012,SETIEMBRE,1516
+530,Carne bovina - 1kg,Cebo,2012,OCTUBRE,2202
+531,Carne bovina - 1kg,Cebo,2012,NOVIEMBE,1676
+532,Carne bovina - 1kg,Cebo,2012,DICIEMBRE,1560
+534,Carne bovina - 1kg,Hueso Blanco,2012,ENERO,1176
+535,Carne bovina - 1kg,Hueso Blanco,2012,FEBRERO,1033
+536,Carne bovina - 1kg,Hueso Blanco,2012,MARZO,1402
+537,Carne bovina - 1kg,Hueso Blanco,2012,ABRIL,1117
+538,Carne bovina - 1kg,Hueso Blanco,2012,MAYO,1440
+539,Carne bovina - 1kg,Hueso Blanco,2012,JUNIO,1127
+540,Carne bovina - 1kg,Hueso Blanco,2012,JULIO,1259
+541,Carne bovina - 1kg,Hueso Blanco,2012,AGOSTO,1384
+542,Carne bovina - 1kg,Hueso Blanco,2012,SETIEMBRE,1248
+543,Carne bovina - 1kg,Hueso Blanco,2012,OCTUBRE,1111
+544,Carne bovina - 1kg,Hueso Blanco,2012,NOVIEMBE,1078
+545,Carne bovina - 1kg,Hueso Blanco,2012,DICIEMBRE,1078
 547,Carne porcina - 1kg,Riñón,2012,ENERO,1676
 548,Carne porcina - 1kg,Riñón,2012,FEBRERO,1544
 549,Carne porcina - 1kg,Riñón,2012,MARZO,1581
@@ -557,7 +515,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 556,Carne porcina - 1kg,Riñón,2012,OCTUBRE,2271
 557,Carne porcina - 1kg,Riñón,2012,NOVIEMBE,2079
 558,Carne porcina - 1kg,Riñón,2012,DICIEMBRE,2036
-559,Carne porcina - 1kg,Riñón,2012,PROMEDIO,1866
 560,Carne porcina - 1kg,Lomo de cerdo,2012,ENERO,26589
 561,Carne porcina - 1kg,Lomo de cerdo,2012,FEBRERO,26665
 562,Carne porcina - 1kg,Lomo de cerdo,2012,MARZO,25127
@@ -570,7 +527,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 569,Carne porcina - 1kg,Lomo de cerdo,2012,OCTUBRE,23091
 570,Carne porcina - 1kg,Lomo de cerdo,2012,NOVIEMBE,22153
 571,Carne porcina - 1kg,Lomo de cerdo,2012,DICIEMBRE,25138
-572,Carne porcina - 1kg,Lomo de cerdo,2012,PROMEDIO,24296
 573,Carne porcina - 1kg,Costilla de cerdo,2012,ENERO,20607
 574,Carne porcina - 1kg,Costilla de cerdo,2012,FEBRERO,19912
 575,Carne porcina - 1kg,Costilla de cerdo,2012,MARZO,19354
@@ -583,7 +539,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 582,Carne porcina - 1kg,Costilla de cerdo,2012,OCTUBRE,16582
 583,Carne porcina - 1kg,Costilla de cerdo,2012,NOVIEMBE,17014
 584,Carne porcina - 1kg,Costilla de cerdo,2012,DICIEMBRE,18315
-585,Carne porcina - 1kg,Costilla de cerdo,2012,PROMEDIO,18413
 586,Carne porcina - 1kg,Costeleta,2012,ENERO,18781
 587,Carne porcina - 1kg,Costeleta,2012,FEBRERO,18355
 588,Carne porcina - 1kg,Costeleta,2012,MARZO,18160
@@ -596,7 +551,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 595,Carne porcina - 1kg,Costeleta,2012,OCTUBRE,14988
 596,Carne porcina - 1kg,Costeleta,2012,NOVIEMBE,16099
 597,Carne porcina - 1kg,Costeleta,2012,DICIEMBRE,16647
-598,Carne porcina - 1kg,Costeleta,2012,PROMEDIO,16708
 599,Carne porcina - 1kg,Paleta de cerdo,2012,ENERO,17817
 600,Carne porcina - 1kg,Paleta de cerdo,2012,FEBRERO,17416
 601,Carne porcina - 1kg,Paleta de cerdo,2012,MARZO,16802
@@ -609,7 +563,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 608,Carne porcina - 1kg,Paleta de cerdo,2012,OCTUBRE,13220
 609,Carne porcina - 1kg,Paleta de cerdo,2012,NOVIEMBE,15028
 610,Carne porcina - 1kg,Paleta de cerdo,2012,DICIEMBRE,14862
-611,Carne porcina - 1kg,Paleta de cerdo,2012,PROMEDIO,15462
 612,Carne porcina - 1kg,Pierna,2012,ENERO,18232
 613,Carne porcina - 1kg,Pierna,2012,FEBRERO,17372
 614,Carne porcina - 1kg,Pierna,2012,MARZO,17634
@@ -622,7 +575,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 621,Carne porcina - 1kg,Pierna,2012,OCTUBRE,13920
 622,Carne porcina - 1kg,Pierna,2012,NOVIEMBE,15593
 623,Carne porcina - 1kg,Pierna,2012,DICIEMBRE,15670
-624,Carne porcina - 1kg,Pierna,2012,PROMEDIO,16012
 625,Carne porcina - 1kg,Puchero,2012,ENERO,5581
 626,Carne porcina - 1kg,Puchero,2012,FEBRERO,4992
 627,Carne porcina - 1kg,Puchero,2012,MARZO,4934
@@ -635,7 +587,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 634,Carne porcina - 1kg,Puchero,2012,OCTUBRE,4712
 635,Carne porcina - 1kg,Puchero,2012,NOVIEMBE,5154
 636,Carne porcina - 1kg,Puchero,2012,DICIEMBRE,5166
-637,Carne porcina - 1kg,Puchero,2012,PROMEDIO,5137
 638,Carne de ave / Puchero - 1kg,Marca mas económica,2012,ENERO,6405
 639,Carne de ave / Puchero - 1kg,Marca mas económica,2012,FEBRERO,5472
 640,Carne de ave / Puchero - 1kg,Marca mas económica,2012,MARZO,5783
@@ -648,46 +599,42 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 647,Carne de ave / Puchero - 1kg,Marca mas económica,2012,OCTUBRE,3176
 648,Carne de ave / Puchero - 1kg,Marca mas económica,2012,NOVIEMBE,3741
 649,Carne de ave / Puchero - 1kg,Marca mas económica,2012,DICIEMBRE,3672
-650,Carne de ave / Puchero - 1kg,Marca mas económica,2012,PROMEDIO,4558
-651,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,ENERO,10117
-652,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,FEBRERO,10430
-653,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,MARZO,10946
-654,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,ABRIL,12703
-655,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,MAYO,11819
-656,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,JUNIO,12582
-657,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,JULIO,12758
-658,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,AGOSTO,12644
-659,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,SETIEMBRE,12439
-660,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,OCTUBRE,12373
-661,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,NOVIEMBE,12781
-662,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,DICIEMBRE,12889
-663,Carne de ave/ pechuga - 1kg,Marca mas económica,2012,PROMEDIO,12040
-664,Carne de ave /pata entera-1kg,Marca mas económica,2012,ENERO,16747
-665,Carne de ave /pata entera-1kg,Marca mas económica,2012,FEBRERO,16117
-666,Carne de ave /pata entera-1kg,Marca mas económica,2012,MARZO,15681
-667,Carne de ave /pata entera-1kg,Marca mas económica,2012,ABRIL,15536
-668,Carne de ave /pata entera-1kg,Marca mas económica,2012,MAYO,13872
-669,Carne de ave /pata entera-1kg,Marca mas económica,2012,JUNIO,13027
-670,Carne de ave /pata entera-1kg,Marca mas económica,2012,JULIO,12879
-671,Carne de ave /pata entera-1kg,Marca mas económica,2012,AGOSTO,12809
-672,Carne de ave /pata entera-1kg,Marca mas económica,2012,SETIEMBRE,12855
-673,Carne de ave /pata entera-1kg,Marca mas económica,2012,OCTUBRE,14156
-674,Carne de ave /pata entera-1kg,Marca mas económica,2012,NOVIEMBE,16286
-675,Carne de ave /pata entera-1kg,Marca mas económica,2012,DICIEMBRE,16296
-676,Carne de ave /pata entera-1kg,Marca mas económica,2012,PROMEDIO,14688
-677,Carne de ave / pollo entero-1kg,Marca mas económica,2012,ENERO,9179
-678,Carne de ave / pollo entero-1kg,Marca mas económica,2012,FEBRERO,8794
-679,Carne de ave / pollo entero-1kg,Marca mas económica,2012,MARZO,9094
-680,Carne de ave / pollo entero-1kg,Marca mas económica,2012,ABRIL,8949
-681,Carne de ave / pollo entero-1kg,Marca mas económica,2012,MAYO,8711
-682,Carne de ave / pollo entero-1kg,Marca mas económica,2012,JUNIO,8383
-683,Carne de ave / pollo entero-1kg,Marca mas económica,2012,JULIO,8299
-684,Carne de ave / pollo entero-1kg,Marca mas económica,2012,AGOSTO,8646
-685,Carne de ave / pollo entero-1kg,Marca mas económica,2012,SETIEMBRE,8675
-686,Carne de ave / pollo entero-1kg,Marca mas económica,2012,OCTUBRE,8940
-687,Carne de ave / pollo entero-1kg,Marca mas económica,2012,NOVIEMBE,10046
-688,Carne de ave / pollo entero-1kg,Marca mas económica,2012,DICIEMBRE,10576
-689,Carne de ave / pollo entero-1kg,Marca mas económica,2012,PROMEDIO,9024
+651,Carne de ave / pechuga - 1kg,Marca mas económica,2012,ENERO,10117
+652,Carne de ave / pechuga - 1kg,Marca mas económica,2012,FEBRERO,10430
+653,Carne de ave / pechuga - 1kg,Marca mas económica,2012,MARZO,10946
+654,Carne de ave / pechuga - 1kg,Marca mas económica,2012,ABRIL,12703
+655,Carne de ave / pechuga - 1kg,Marca mas económica,2012,MAYO,11819
+656,Carne de ave / pechuga - 1kg,Marca mas económica,2012,JUNIO,12582
+657,Carne de ave / pechuga - 1kg,Marca mas económica,2012,JULIO,12758
+658,Carne de ave / pechuga - 1kg,Marca mas económica,2012,AGOSTO,12644
+659,Carne de ave / pechuga - 1kg,Marca mas económica,2012,SETIEMBRE,12439
+660,Carne de ave / pechuga - 1kg,Marca mas económica,2012,OCTUBRE,12373
+661,Carne de ave / pechuga - 1kg,Marca mas económica,2012,NOVIEMBE,12781
+662,Carne de ave / pechuga - 1kg,Marca mas económica,2012,DICIEMBRE,12889
+664,Carne de ave / pata entera - 1kg,Marca mas económica,2012,ENERO,16747
+665,Carne de ave / pata entera - 1kg,Marca mas económica,2012,FEBRERO,16117
+666,Carne de ave / pata entera - 1kg,Marca mas económica,2012,MARZO,15681
+667,Carne de ave / pata entera - 1kg,Marca mas económica,2012,ABRIL,15536
+668,Carne de ave / pata entera - 1kg,Marca mas económica,2012,MAYO,13872
+669,Carne de ave / pata entera - 1kg,Marca mas económica,2012,JUNIO,13027
+670,Carne de ave / pata entera - 1kg,Marca mas económica,2012,JULIO,12879
+671,Carne de ave / pata entera - 1kg,Marca mas económica,2012,AGOSTO,12809
+672,Carne de ave / pata entera - 1kg,Marca mas económica,2012,SETIEMBRE,12855
+673,Carne de ave / pata entera - 1kg,Marca mas económica,2012,OCTUBRE,14156
+674,Carne de ave / pata entera - 1kg,Marca mas económica,2012,NOVIEMBE,16286
+675,Carne de ave / pata entera - 1kg,Marca mas económica,2012,DICIEMBRE,16296
+677,Carne de ave / pollo entero - 1kg,Marca mas económica,2012,ENERO,9179
+678,Carne de ave / pollo entero - 1kg,Marca mas económica,2012,FEBRERO,8794
+679,Carne de ave / pollo entero - 1kg,Marca mas económica,2012,MARZO,9094
+680,Carne de ave / pollo entero - 1kg,Marca mas económica,2012,ABRIL,8949
+681,Carne de ave / pollo entero - 1kg,Marca mas económica,2012,MAYO,8711
+682,Carne de ave / pollo entero - 1kg,Marca mas económica,2012,JUNIO,8383
+683,Carne de ave / pollo entero - 1kg,Marca mas económica,2012,JULIO,8299
+684,Carne de ave / pollo entero - 1kg,Marca mas económica,2012,AGOSTO,8646
+685,Carne de ave / pollo entero - 1kg,Marca mas económica,2012,SETIEMBRE,8675
+686,Carne de ave / pollo entero - 1kg,Marca mas económica,2012,OCTUBRE,8940
+687,Carne de ave / pollo entero - 1kg,Marca mas económica,2012,NOVIEMBE,10046
+688,Carne de ave / pollo entero - 1kg,Marca mas económica,2012,DICIEMBRE,10576
 690,Carne de ave / Ala - 1kg,Marca mas económica,2012,ENERO,10826
 691,Carne de ave / Ala - 1kg,Marca mas económica,2012,FEBRERO,10870
 692,Carne de ave / Ala - 1kg,Marca mas económica,2012,MARZO,11143
@@ -700,7 +647,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 699,Carne de ave / Ala - 1kg,Marca mas económica,2012,OCTUBRE,11931
 700,Carne de ave / Ala - 1kg,Marca mas económica,2012,NOVIEMBE,11668
 701,Carne de ave / Ala - 1kg,Marca mas económica,2012,DICIEMBRE,12255
-702,Carne de ave / Ala - 1kg,Marca mas económica,2012,PROMEDIO,11251
 703,Carne de ave / Tacaraa - 1kg,Marca mas económica,2012,ENERO,8758
 704,Carne de ave / Tacaraa - 1kg,Marca mas económica,2012,FEBRERO,8464
 705,Carne de ave / Tacaraa - 1kg,Marca mas económica,2012,MARZO,8783
@@ -713,7 +659,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 712,Carne de ave / Tacaraa - 1kg,Marca mas económica,2012,OCTUBRE,6099
 713,Carne de ave / Tacaraa - 1kg,Marca mas económica,2012,NOVIEMBE,6080
 714,Carne de ave / Tacaraa - 1kg,Marca mas económica,2012,DICIEMBRE,5298
-715,Carne de ave / Tacaraa - 1kg,Marca mas económica,2012,PROMEDIO,7412
 716,Carne de ave / Hígado - 1kg,Marca mas económica,2012,ENERO,4926
 717,Carne de ave / Hígado - 1kg,Marca mas económica,2012,FEBRERO,4863
 718,Carne de ave / Hígado - 1kg,Marca mas económica,2012,MARZO,4913
@@ -726,46 +671,42 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 725,Carne de ave / Hígado - 1kg,Marca mas económica,2012,OCTUBRE,3875
 726,Carne de ave / Hígado - 1kg,Marca mas económica,2012,NOVIEMBE,4123
 727,Carne de ave / Hígado - 1kg,Marca mas económica,2012,DICIEMBRE,3881
-728,Carne de ave / Hígado - 1kg,Marca mas económica,2012,PROMEDIO,4341
-729,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,ENERO,16342
-730,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,FEBRERO,16421
-731,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,MARZO,16314
-732,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,ABRIL,16139
-733,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,MAYO,16142
-734,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,JUNIO,16545
-735,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,JULIO,16222
-736,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,AGOSTO,15215
-737,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,SETIEMBRE,14479
-738,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,OCTUBRE,13406
-739,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,NOVIEMBE,14190
-740,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,DICIEMBRE,11680
-741,Carne de ave / Corazoncito- 1kg,Marca mas económica,2012,PROMEDIO,15258
-742,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,ENERO,16396
-743,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,FEBRERO,16213
-744,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,MARZO,16386
-745,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,ABRIL,15311
-746,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,MAYO,16289
-747,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,JUNIO,16589
-748,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,JULIO,16100
-749,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,AGOSTO,15659
-750,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,SETIEMBRE,15804
-751,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,OCTUBRE,15704
-752,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,NOVIEMBE,16049
-753,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,DICIEMBRE,15483
-754,Embutido/chorizo Viena- 1kg,Marca mas económica,2012,PROMEDIO,15999
-755,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,ENERO,17578
-756,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,FEBRERO,17011
-757,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,MARZO,17312
-758,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,ABRIL,15785
-759,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,MAYO,17189
-760,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,JUNIO,17412
-761,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,JULIO,16320
-762,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,AGOSTO,16499
-763,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,SETIEMBRE,17523
-764,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,OCTUBRE,16921
-765,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,NOVIEMBE,16602
-766,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,DICIEMBRE,16156
-767,Embutido/fiambre Paris- 1kg,Marca mas económica,2012,PROMEDIO,16859
+729,Carne de ave / Corazoncito - 1kg,Marca mas económica,2012,ENERO,16342
+730,Carne de ave / Corazoncito - 1kg,Marca mas económica,2012,FEBRERO,16421
+731,Carne de ave / Corazoncito - 1kg,Marca mas económica,2012,MARZO,16314
+732,Carne de ave / Corazoncito - 1kg,Marca mas económica,2012,ABRIL,16139
+733,Carne de ave / Corazoncito - 1kg,Marca mas económica,2012,MAYO,16142
+734,Carne de ave / Corazoncito - 1kg,Marca mas económica,2012,JUNIO,16545
+735,Carne de ave / Corazoncito - 1kg,Marca mas económica,2012,JULIO,16222
+736,Carne de ave / Corazoncito - 1kg,Marca mas económica,2012,AGOSTO,15215
+737,Carne de ave / Corazoncito - 1kg,Marca mas económica,2012,SETIEMBRE,14479
+738,Carne de ave / Corazoncito - 1kg,Marca mas económica,2012,OCTUBRE,13406
+739,Carne de ave / Corazoncito - 1kg,Marca mas económica,2012,NOVIEMBE,14190
+740,Carne de ave / Corazoncito - 1kg,Marca mas económica,2012,DICIEMBRE,11680
+742,Embutido / chorizo Viena - 1kg,Marca mas económica,2012,ENERO,16396
+743,Embutido / chorizo Viena - 1kg,Marca mas económica,2012,FEBRERO,16213
+744,Embutido / chorizo Viena - 1kg,Marca mas económica,2012,MARZO,16386
+745,Embutido / chorizo Viena - 1kg,Marca mas económica,2012,ABRIL,15311
+746,Embutido / chorizo Viena - 1kg,Marca mas económica,2012,MAYO,16289
+747,Embutido / chorizo Viena - 1kg,Marca mas económica,2012,JUNIO,16589
+748,Embutido / chorizo Viena - 1kg,Marca mas económica,2012,JULIO,16100
+749,Embutido / chorizo Viena - 1kg,Marca mas económica,2012,AGOSTO,15659
+750,Embutido / chorizo Viena - 1kg,Marca mas económica,2012,SETIEMBRE,15804
+751,Embutido / chorizo Viena - 1kg,Marca mas económica,2012,OCTUBRE,15704
+752,Embutido / chorizo Viena - 1kg,Marca mas económica,2012,NOVIEMBE,16049
+753,Embutido / chorizo Viena - 1kg,Marca mas económica,2012,DICIEMBRE,15483
+755,Embutido / fiambre Paris - 1kg,Marca mas económica,2012,ENERO,17578
+756,Embutido / fiambre Paris - 1kg,Marca mas económica,2012,FEBRERO,17011
+757,Embutido / fiambre Paris - 1kg,Marca mas económica,2012,MARZO,17312
+758,Embutido / fiambre Paris - 1kg,Marca mas económica,2012,ABRIL,15785
+759,Embutido / fiambre Paris - 1kg,Marca mas económica,2012,MAYO,17189
+760,Embutido / fiambre Paris - 1kg,Marca mas económica,2012,JUNIO,17412
+761,Embutido / fiambre Paris - 1kg,Marca mas económica,2012,JULIO,16320
+762,Embutido / fiambre Paris - 1kg,Marca mas económica,2012,AGOSTO,16499
+763,Embutido / fiambre Paris - 1kg,Marca mas económica,2012,SETIEMBRE,17523
+764,Embutido / fiambre Paris - 1kg,Marca mas económica,2012,OCTUBRE,16921
+765,Embutido / fiambre Paris - 1kg,Marca mas económica,2012,NOVIEMBE,16602
+766,Embutido / fiambre Paris - 1kg,Marca mas económica,2012,DICIEMBRE,16156
 768,Queso - 1kg,Queso Paraguay,2012,ENERO,19079
 769,Queso - 1kg,Queso Paraguay,2012,FEBRERO,19743
 770,Queso - 1kg,Queso Paraguay,2012,MARZO,21929
@@ -778,7 +719,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 777,Queso - 1kg,Queso Paraguay,2012,OCTUBRE,18717
 778,Queso - 1kg,Queso Paraguay,2012,NOVIEMBE,19087
 779,Queso - 1kg,Queso Paraguay,2012,DICIEMBRE,18004
-780,Queso - 1kg,Queso Paraguay,2012,PROMEDIO,20631
 781,Queso sándwich - 1kg,Marca mas económica,2012,ENERO,25182
 782,Queso sándwich - 1kg,Marca mas económica,2012,FEBRERO,27024
 783,Queso sándwich - 1kg,Marca mas económica,2012,MARZO,29473
@@ -791,7 +731,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 790,Queso sándwich - 1kg,Marca mas económica,2012,OCTUBRE,24082
 791,Queso sándwich - 1kg,Marca mas económica,2012,NOVIEMBE,25545
 792,Queso sándwich - 1kg,Marca mas económica,2012,DICIEMBRE,23447
-793,Queso sándwich - 1kg,Marca mas económica,2012,PROMEDIO,26627
 794,Aceite de soja - 900cc,Marca mas económica,2012,ENERO,6927
 795,Aceite de soja - 900cc,Marca mas económica,2012,FEBRERO,8387
 796,Aceite de soja - 900cc,Marca mas económica,2012,MARZO,7394
@@ -804,20 +743,18 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 803,Aceite de soja - 900cc,Marca mas económica,2012,OCTUBRE,8270
 804,Aceite de soja - 900cc,Marca mas económica,2012,NOVIEMBE,8195
 805,Aceite de soja - 900cc,Marca mas económica,2012,DICIEMBRE,7575
-806,Aceite de soja - 900cc,Marca mas económica,2012,PROMEDIO,7676
-807,Aceite de girasol - 900 cc,Marca mas económica,2012,ENERO,9822
-808,Aceite de girasol - 900 cc,Marca mas económica,2012,FEBRERO,10050
-809,Aceite de girasol - 900 cc,Marca mas económica,2012,MARZO,9717
-810,Aceite de girasol - 900 cc,Marca mas económica,2012,ABRIL,9923
-811,Aceite de girasol - 900 cc,Marca mas económica,2012,MAYO,9787
-812,Aceite de girasol - 900 cc,Marca mas económica,2012,JUNIO,9582
-813,Aceite de girasol - 900 cc,Marca mas económica,2012,JULIO,9802
-814,Aceite de girasol - 900 cc,Marca mas económica,2012,AGOSTO,9954
-815,Aceite de girasol - 900 cc,Marca mas económica,2012,SETIEMBRE,9779
-816,Aceite de girasol - 900 cc,Marca mas económica,2012,OCTUBRE,9762
-817,Aceite de girasol - 900 cc,Marca mas económica,2012,NOVIEMBE,9934
-818,Aceite de girasol - 900 cc,Marca mas económica,2012,DICIEMBRE,9464
-819,Aceite de girasol - 900 cc,Marca mas económica,2012,PROMEDIO,9798
+807,Aceite de girasol - 900cc,Marca mas económica,2012,ENERO,9822
+808,Aceite de girasol - 900cc,Marca mas económica,2012,FEBRERO,10050
+809,Aceite de girasol - 900cc,Marca mas económica,2012,MARZO,9717
+810,Aceite de girasol - 900cc,Marca mas económica,2012,ABRIL,9923
+811,Aceite de girasol - 900cc,Marca mas económica,2012,MAYO,9787
+812,Aceite de girasol - 900cc,Marca mas económica,2012,JUNIO,9582
+813,Aceite de girasol - 900cc,Marca mas económica,2012,JULIO,9802
+814,Aceite de girasol - 900cc,Marca mas económica,2012,AGOSTO,9954
+815,Aceite de girasol - 900cc,Marca mas económica,2012,SETIEMBRE,9779
+816,Aceite de girasol - 900cc,Marca mas económica,2012,OCTUBRE,9762
+817,Aceite de girasol - 900cc,Marca mas económica,2012,NOVIEMBE,9934
+818,Aceite de girasol - 900cc,Marca mas económica,2012,DICIEMBRE,9464
 820,Aceite de maíz - 1lt,Marca mas económica,2012,ENERO,15297
 821,Aceite de maíz - 1lt,Marca mas económica,2012,FEBRERO,15941
 822,Aceite de maíz - 1lt,Marca mas económica,2012,MARZO,15943
@@ -830,7 +767,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 829,Aceite de maíz - 1lt,Marca mas económica,2012,OCTUBRE,15969
 830,Aceite de maíz - 1lt,Marca mas económica,2012,NOVIEMBE,16037
 831,Aceite de maíz - 1lt,Marca mas económica,2012,DICIEMBRE,16372
-832,Aceite de maíz - 1lt,Marca mas económica,2012,PROMEDIO,15829
 833,Leche sachet - 1lt,Marca mas económica,2012,ENERO,3306
 834,Leche sachet - 1lt,Marca mas económica,2012,FEBRERO,3231
 835,Leche sachet - 1lt,Marca mas económica,2012,MARZO,3368
@@ -843,20 +779,18 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 842,Leche sachet - 1lt,Marca mas económica,2012,OCTUBRE,2993
 843,Leche sachet - 1lt,Marca mas económica,2012,NOVIEMBE,2809
 844,Leche sachet - 1lt,Marca mas económica,2012,DICIEMBRE,2718
-845,Leche sachet - 1lt,Marca mas económica,2012,PROMEDIO,3171
-846,Lecha sachet - 1/2 lt,Marca mas económica,2012,ENERO,1783
-847,Lecha sachet - 1/2 lt,Marca mas económica,2012,FEBRERO,1750
-848,Lecha sachet - 1/2 lt,Marca mas económica,2012,MARZO,1788
-849,Lecha sachet - 1/2 lt,Marca mas económica,2012,ABRIL,1711
-850,Lecha sachet - 1/2 lt,Marca mas económica,2012,MAYO,1708
-851,Lecha sachet - 1/2 lt,Marca mas económica,2012,JUNIO,1777
-852,Lecha sachet - 1/2 lt,Marca mas económica,2012,JULIO,1716
-853,Lecha sachet - 1/2 lt,Marca mas económica,2012,AGOSTO,1748
-854,Lecha sachet - 1/2 lt,Marca mas económica,2012,SETIEMBRE,1734
-855,Lecha sachet - 1/2 lt,Marca mas económica,2012,OCTUBRE,1678
-856,Lecha sachet - 1/2 lt,Marca mas económica,2012,NOVIEMBE,1621
-857,Lecha sachet - 1/2 lt,Marca mas económica,2012,DICIEMBRE,1453
-858,Lecha sachet - 1/2 lt,Marca mas económica,2012,PROMEDIO,1706
+846,Leche sachet - 1/2 lt,Marca mas económica,2012,ENERO,1783
+847,Leche sachet - 1/2 lt,Marca mas económica,2012,FEBRERO,1750
+848,Leche sachet - 1/2 lt,Marca mas económica,2012,MARZO,1788
+849,Leche sachet - 1/2 lt,Marca mas económica,2012,ABRIL,1711
+850,Leche sachet - 1/2 lt,Marca mas económica,2012,MAYO,1708
+851,Leche sachet - 1/2 lt,Marca mas económica,2012,JUNIO,1777
+852,Leche sachet - 1/2 lt,Marca mas económica,2012,JULIO,1716
+853,Leche sachet - 1/2 lt,Marca mas económica,2012,AGOSTO,1748
+854,Leche sachet - 1/2 lt,Marca mas económica,2012,SETIEMBRE,1734
+855,Leche sachet - 1/2 lt,Marca mas económica,2012,OCTUBRE,1678
+856,Leche sachet - 1/2 lt,Marca mas económica,2012,NOVIEMBE,1621
+857,Leche sachet - 1/2 lt,Marca mas económica,2012,DICIEMBRE,1453
 859,Leche UHT - 1lt,Marca mas económica,2012,ENERO,4178
 860,Leche UHT - 1lt,Marca mas económica,2012,FEBRERO,4279
 861,Leche UHT - 1lt,Marca mas económica,2012,MARZO,4257
@@ -869,20 +803,18 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 868,Leche UHT - 1lt,Marca mas económica,2012,OCTUBRE,3921
 869,Leche UHT - 1lt,Marca mas económica,2012,NOVIEMBE,3825
 870,Leche UHT - 1lt,Marca mas económica,2012,DICIEMBRE,3735
-871,Leche UHT - 1lt,Marca mas económica,2012,PROMEDIO,4051
-872,Leche UHT- 1/2 lt,Mas económica,2012,ENERO,2262
-873,Leche UHT- 1/2 lt,Mas económica,2012,FEBRERO,2294
-874,Leche UHT- 1/2 lt,Mas económica,2012,MARZO,2299
-875,Leche UHT- 1/2 lt,Mas económica,2012,ABRIL,2403
-876,Leche UHT- 1/2 lt,Mas económica,2012,MAYO,2403
-877,Leche UHT- 1/2 lt,Mas económica,2012,JUNIO,2376
-878,Leche UHT- 1/2 lt,Mas económica,2012,JULIO,2357
-879,Leche UHT- 1/2 lt,Mas económica,2012,AGOSTO,2338
-880,Leche UHT- 1/2 lt,Mas económica,2012,SETIEMBRE,2350
-881,Leche UHT- 1/2 lt,Mas económica,2012,OCTUBRE,2207
-882,Leche UHT- 1/2 lt,Mas económica,2012,NOVIEMBE,2197
-883,Leche UHT- 1/2 lt,Mas económica,2012,DICIEMBRE,2081
-884,Leche UHT- 1/2 lt,Mas económica,2012,PROMEDIO,2297
+872,Leche UHT - 1/2 lt,Marca mas económica,2012,ENERO,2262
+873,Leche UHT - 1/2 lt,Marca mas económica,2012,FEBRERO,2294
+874,Leche UHT - 1/2 lt,Marca mas económica,2012,MARZO,2299
+875,Leche UHT - 1/2 lt,Marca mas económica,2012,ABRIL,2403
+876,Leche UHT - 1/2 lt,Marca mas económica,2012,MAYO,2403
+877,Leche UHT - 1/2 lt,Marca mas económica,2012,JUNIO,2376
+878,Leche UHT - 1/2 lt,Marca mas económica,2012,JULIO,2357
+879,Leche UHT - 1/2 lt,Marca mas económica,2012,AGOSTO,2338
+880,Leche UHT - 1/2 lt,Marca mas económica,2012,SETIEMBRE,2350
+881,Leche UHT - 1/2 lt,Marca mas económica,2012,OCTUBRE,2207
+882,Leche UHT - 1/2 lt,Marca mas económica,2012,NOVIEMBE,2197
+883,Leche UHT - 1/2 lt,Marca mas económica,2012,DICIEMBRE,2081
 885,Yogurt - 350 gr,Marca mas económica,2012,ENERO,2713
 886,Yogurt - 350 gr,Marca mas económica,2012,FEBRERO,2830
 887,Yogurt - 350 gr,Marca mas económica,2012,MARZO,2875
@@ -895,7 +827,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 894,Yogurt - 350 gr,Marca mas económica,2012,OCTUBRE,2695
 895,Yogurt - 350 gr,Marca mas económica,2012,NOVIEMBE,2772
 896,Yogurt - 350 gr,Marca mas económica,2012,DICIEMBRE,2900
-897,Yogurt - 350 gr,Marca mas económica,2012,PROMEDIO,2850
 898,Huevos de gallina - 1/2 doc.,Marca mas económica,2012,ENERO,3240
 899,Huevos de gallina - 1/2 doc.,Marca mas económica,2012,FEBRERO,3365
 900,Huevos de gallina - 1/2 doc.,Marca mas económica,2012,MARZO,3791
@@ -908,124 +839,114 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 907,Huevos de gallina - 1/2 doc.,Marca mas económica,2012,OCTUBRE,3506
 908,Huevos de gallina - 1/2 doc.,Marca mas económica,2012,NOVIEMBE,3430
 909,Huevos de gallina - 1/2 doc.,Marca mas económica,2012,DICIEMBRE,3529
-910,Huevos de gallina - 1/2 doc.,Marca mas económica,2012,PROMEDIO,3708
-911,"Fruta,hortaliza - 1kg",Naranja,2012,ENERO,2654
-912,"Fruta,hortaliza - 1kg",Naranja,2012,FEBRERO,3033
-913,"Fruta,hortaliza - 1kg",Naranja,2012,MARZO,3098
-914,"Fruta,hortaliza - 1kg",Naranja,2012,ABRIL,2685
-915,"Fruta,hortaliza - 1kg",Naranja,2012,MAYO,2750
-916,"Fruta,hortaliza - 1kg",Naranja,2012,JUNIO,2271
-917,"Fruta,hortaliza - 1kg",Naranja,2012,JULIO,2004
-918,"Fruta,hortaliza - 1kg",Naranja,2012,AGOSTO,2056
-919,"Fruta,hortaliza - 1kg",Naranja,2012,SETIEMBRE,2131
-920,"Fruta,hortaliza - 1kg",Naranja,2012,OCTUBRE,2241
-921,"Fruta,hortaliza - 1kg",Naranja,2012,NOVIEMBE,2086
-922,"Fruta,hortaliza - 1kg",Naranja,2012,DICIEMBRE,2366
-923,"Fruta,hortaliza - 1kg",Naranja,2012,PROMEDIO,2448
-924,"Fruta,hortaliza - 1kg",Banana carape,2012,ENERO,4031
-925,"Fruta,hortaliza - 1kg",Banana carape,2012,FEBRERO,3389
-926,"Fruta,hortaliza - 1kg",Banana carape,2012,MARZO,3898
-927,"Fruta,hortaliza - 1kg",Banana carape,2012,ABRIL,2977
-928,"Fruta,hortaliza - 1kg",Banana carape,2012,MAYO,3230
-929,"Fruta,hortaliza - 1kg",Banana carape,2012,JUNIO,2606
-930,"Fruta,hortaliza - 1kg",Banana carape,2012,JULIO,2628
-931,"Fruta,hortaliza - 1kg",Banana carape,2012,AGOSTO,2448
-932,"Fruta,hortaliza - 1kg",Banana carape,2012,SETIEMBRE,2354
-933,"Fruta,hortaliza - 1kg",Banana carape,2012,OCTUBRE,2268
-934,"Fruta,hortaliza - 1kg",Banana carape,2012,NOVIEMBE,3417
-935,"Fruta,hortaliza - 1kg",Banana carape,2012,DICIEMBRE,3216
-936,"Fruta,hortaliza - 1kg",Banana carape,2012,PROMEDIO,3039
-937,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,ENERO,1111
-938,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,FEBRERO,1944
-939,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,MARZO,2486
-940,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,ABRIL,1548
-941,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,MAYO,1679
-942,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,JUNIO,1214
-943,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,JULIO,979
-944,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,AGOSTO,900
-945,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,SETIEMBRE,819
-946,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,OCTUBRE,872
-947,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,NOVIEMBE,912
-948,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,DICIEMBRE,1655
-949,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2012,PROMEDIO,1343
-950,"Fruta,hortaliza - 1kg",Locote,2012,ENERO,3527
-951,"Fruta,hortaliza - 1kg",Locote,2012,FEBRERO,3249
-952,"Fruta,hortaliza - 1kg",Locote,2012,MARZO,5083
-953,"Fruta,hortaliza - 1kg",Locote,2012,ABRIL,5320
-954,"Fruta,hortaliza - 1kg",Locote,2012,MAYO,6570
-955,"Fruta,hortaliza - 1kg",Locote,2012,JUNIO,7361
-956,"Fruta,hortaliza - 1kg",Locote,2012,JULIO,10033
-957,"Fruta,hortaliza - 1kg",Locote,2012,AGOSTO,9166
-958,"Fruta,hortaliza - 1kg",Locote,2012,SETIEMBRE,7593
-959,"Fruta,hortaliza - 1kg",Locote,2012,OCTUBRE,8868
-960,"Fruta,hortaliza - 1kg",Locote,2012,NOVIEMBE,8916
-961,"Fruta,hortaliza - 1kg",Locote,2012,DICIEMBRE,4794
-962,"Fruta,hortaliza - 1kg",Locote,2012,PROMEDIO,6707
-963,"Fruta,hortaliza - 1kg",Zanahoria,2012,ENERO,4961
-964,"Fruta,hortaliza - 1kg",Zanahoria,2012,FEBRERO,4789
-965,"Fruta,hortaliza - 1kg",Zanahoria,2012,MARZO,4417
-966,"Fruta,hortaliza - 1kg",Zanahoria,2012,ABRIL,3917
-967,"Fruta,hortaliza - 1kg",Zanahoria,2012,MAYO,4421
-968,"Fruta,hortaliza - 1kg",Zanahoria,2012,JUNIO,4813
-969,"Fruta,hortaliza - 1kg",Zanahoria,2012,JULIO,4107
-970,"Fruta,hortaliza - 1kg",Zanahoria,2012,AGOSTO,2578
-971,"Fruta,hortaliza - 1kg",Zanahoria,2012,SETIEMBRE,1789
-972,"Fruta,hortaliza - 1kg",Zanahoria,2012,OCTUBRE,2301
-973,"Fruta,hortaliza - 1kg",Zanahoria,2012,NOVIEMBE,2060
-974,"Fruta,hortaliza - 1kg",Zanahoria,2012,DICIEMBRE,2453
-975,"Fruta,hortaliza - 1kg",Zanahoria,2012,PROMEDIO,3551
-976,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,ENERO,6811
-977,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,FEBRERO,7748
-978,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,MARZO,8010
-979,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,ABRIL,6823
-980,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,MAYO,7886
-981,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,JUNIO,7243
-982,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,JULIO,7823
-983,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,AGOSTO,6569
-984,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,SETIEMBRE,4566
-985,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,OCTUBRE,2482
-986,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,NOVIEMBE,2387
-987,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,DICIEMBRE,5269
-988,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2012,PROMEDIO,6135
-989,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,ENERO,3372
-990,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,FEBRERO,3509
-991,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,MARZO,3587
-992,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,ABRIL,3569
-993,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,MAYO,3818
-994,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,JUNIO,3500
-995,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,JULIO,3063
-996,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,AGOSTO,3912
-997,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,SETIEMBRE,4014
-998,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,OCTUBRE,3696
-999,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,NOVIEMBE,3903
-1000,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,DICIEMBRE,3702
-1001,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2012,PROMEDIO,3637
-1002,"Fruta,hortaliza - 1kg",Mandioca,2012,ENERO,1726
-1003,"Fruta,hortaliza - 1kg",Mandioca,2012,FEBRERO,1700
-1004,"Fruta,hortaliza - 1kg",Mandioca,2012,MARZO,1391
-1005,"Fruta,hortaliza - 1kg",Mandioca,2012,ABRIL,1115
-1006,"Fruta,hortaliza - 1kg",Mandioca,2012,MAYO,1389
-1007,"Fruta,hortaliza - 1kg",Mandioca,2012,JUNIO,1331
-1008,"Fruta,hortaliza - 1kg",Mandioca,2012,JULIO,1283
-1009,"Fruta,hortaliza - 1kg",Mandioca,2012,AGOSTO,1341
-1010,"Fruta,hortaliza - 1kg",Mandioca,2012,SETIEMBRE,1630
-1011,"Fruta,hortaliza - 1kg",Mandioca,2012,OCTUBRE,1658
-1012,"Fruta,hortaliza - 1kg",Mandioca,2012,NOVIEMBE,1691
-1013,"Fruta,hortaliza - 1kg",Mandioca,2012,DICIEMBRE,2136
-1014,"Fruta,hortaliza - 1kg",Mandioca,2012,PROMEDIO,1533
-1015,"Fruta,hortaliza - 1kg",Papa negra,2012,ENERO,3925
-1016,"Fruta,hortaliza - 1kg",Papa negra,2012,FEBRERO,3063
-1017,"Fruta,hortaliza - 1kg",Papa negra,2012,MARZO,4350
-1018,"Fruta,hortaliza - 1kg",Papa negra,2012,ABRIL,3938
-1019,"Fruta,hortaliza - 1kg",Papa negra,2012,MAYO,3602
-1020,"Fruta,hortaliza - 1kg",Papa negra,2012,JUNIO,4509
-1021,"Fruta,hortaliza - 1kg",Papa negra,2012,JULIO,4062
-1022,"Fruta,hortaliza - 1kg",Papa negra,2012,AGOSTO,5199
-1023,"Fruta,hortaliza - 1kg",Papa negra,2012,SETIEMBRE,6375
-1024,"Fruta,hortaliza - 1kg",Papa negra,2012,OCTUBRE,5410
-1025,"Fruta,hortaliza - 1kg",Papa negra,2012,NOVIEMBE,5967
-1026,"Fruta,hortaliza - 1kg",Papa negra,2012,DICIEMBRE,6791
-1027,"Fruta,hortaliza - 1kg",Papa negra,2012,PROMEDIO,4766
+911,"Fruta, hortaliza - 1kg",Naranja,2012,ENERO,2654
+912,"Fruta, hortaliza - 1kg",Naranja,2012,FEBRERO,3033
+913,"Fruta, hortaliza - 1kg",Naranja,2012,MARZO,3098
+914,"Fruta, hortaliza - 1kg",Naranja,2012,ABRIL,2685
+915,"Fruta, hortaliza - 1kg",Naranja,2012,MAYO,2750
+916,"Fruta, hortaliza - 1kg",Naranja,2012,JUNIO,2271
+917,"Fruta, hortaliza - 1kg",Naranja,2012,JULIO,2004
+918,"Fruta, hortaliza - 1kg",Naranja,2012,AGOSTO,2056
+919,"Fruta, hortaliza - 1kg",Naranja,2012,SETIEMBRE,2131
+920,"Fruta, hortaliza - 1kg",Naranja,2012,OCTUBRE,2241
+921,"Fruta, hortaliza - 1kg",Naranja,2012,NOVIEMBE,2086
+922,"Fruta, hortaliza - 1kg",Naranja,2012,DICIEMBRE,2366
+924,"Fruta, hortaliza - 1kg",Banana carape,2012,ENERO,4031
+925,"Fruta, hortaliza - 1kg",Banana carape,2012,FEBRERO,3389
+926,"Fruta, hortaliza - 1kg",Banana carape,2012,MARZO,3898
+927,"Fruta, hortaliza - 1kg",Banana carape,2012,ABRIL,2977
+928,"Fruta, hortaliza - 1kg",Banana carape,2012,MAYO,3230
+929,"Fruta, hortaliza - 1kg",Banana carape,2012,JUNIO,2606
+930,"Fruta, hortaliza - 1kg",Banana carape,2012,JULIO,2628
+931,"Fruta, hortaliza - 1kg",Banana carape,2012,AGOSTO,2448
+932,"Fruta, hortaliza - 1kg",Banana carape,2012,SETIEMBRE,2354
+933,"Fruta, hortaliza - 1kg",Banana carape,2012,OCTUBRE,2268
+934,"Fruta, hortaliza - 1kg",Banana carape,2012,NOVIEMBE,3417
+935,"Fruta, hortaliza - 1kg",Banana carape,2012,DICIEMBRE,3216
+937,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2012,ENERO,1111
+938,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2012,FEBRERO,1944
+939,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2012,MARZO,2486
+940,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2012,ABRIL,1548
+941,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2012,MAYO,1679
+942,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2012,JUNIO,1214
+943,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2012,JULIO,979
+944,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2012,AGOSTO,900
+945,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2012,SETIEMBRE,819
+946,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2012,OCTUBRE,872
+947,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2012,NOVIEMBE,912
+948,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2012,DICIEMBRE,1655
+950,"Fruta, hortaliza - 1kg",Locote,2012,ENERO,3527
+951,"Fruta, hortaliza - 1kg",Locote,2012,FEBRERO,3249
+952,"Fruta, hortaliza - 1kg",Locote,2012,MARZO,5083
+953,"Fruta, hortaliza - 1kg",Locote,2012,ABRIL,5320
+954,"Fruta, hortaliza - 1kg",Locote,2012,MAYO,6570
+955,"Fruta, hortaliza - 1kg",Locote,2012,JUNIO,7361
+956,"Fruta, hortaliza - 1kg",Locote,2012,JULIO,10033
+957,"Fruta, hortaliza - 1kg",Locote,2012,AGOSTO,9166
+958,"Fruta, hortaliza - 1kg",Locote,2012,SETIEMBRE,7593
+959,"Fruta, hortaliza - 1kg",Locote,2012,OCTUBRE,8868
+960,"Fruta, hortaliza - 1kg",Locote,2012,NOVIEMBE,8916
+961,"Fruta, hortaliza - 1kg",Locote,2012,DICIEMBRE,4794
+963,"Fruta, hortaliza - 1kg",Zanahoria,2012,ENERO,4961
+964,"Fruta, hortaliza - 1kg",Zanahoria,2012,FEBRERO,4789
+965,"Fruta, hortaliza - 1kg",Zanahoria,2012,MARZO,4417
+966,"Fruta, hortaliza - 1kg",Zanahoria,2012,ABRIL,3917
+967,"Fruta, hortaliza - 1kg",Zanahoria,2012,MAYO,4421
+968,"Fruta, hortaliza - 1kg",Zanahoria,2012,JUNIO,4813
+969,"Fruta, hortaliza - 1kg",Zanahoria,2012,JULIO,4107
+970,"Fruta, hortaliza - 1kg",Zanahoria,2012,AGOSTO,2578
+971,"Fruta, hortaliza - 1kg",Zanahoria,2012,SETIEMBRE,1789
+972,"Fruta, hortaliza - 1kg",Zanahoria,2012,OCTUBRE,2301
+973,"Fruta, hortaliza - 1kg",Zanahoria,2012,NOVIEMBE,2060
+974,"Fruta, hortaliza - 1kg",Zanahoria,2012,DICIEMBRE,2453
+976,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2012,ENERO,6811
+977,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2012,FEBRERO,7748
+978,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2012,MARZO,8010
+979,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2012,ABRIL,6823
+980,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2012,MAYO,7886
+981,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2012,JUNIO,7243
+982,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2012,JULIO,7823
+983,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2012,AGOSTO,6569
+984,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2012,SETIEMBRE,4566
+985,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2012,OCTUBRE,2482
+986,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2012,NOVIEMBE,2387
+987,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2012,DICIEMBRE,5269
+989,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2012,ENERO,3372
+990,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2012,FEBRERO,3509
+991,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2012,MARZO,3587
+992,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2012,ABRIL,3569
+993,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2012,MAYO,3818
+994,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2012,JUNIO,3500
+995,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2012,JULIO,3063
+996,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2012,AGOSTO,3912
+997,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2012,SETIEMBRE,4014
+998,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2012,OCTUBRE,3696
+999,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2012,NOVIEMBE,3903
+1000,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2012,DICIEMBRE,3702
+1002,"Fruta, hortaliza - 1kg",Mandioca,2012,ENERO,1726
+1003,"Fruta, hortaliza - 1kg",Mandioca,2012,FEBRERO,1700
+1004,"Fruta, hortaliza - 1kg",Mandioca,2012,MARZO,1391
+1005,"Fruta, hortaliza - 1kg",Mandioca,2012,ABRIL,1115
+1006,"Fruta, hortaliza - 1kg",Mandioca,2012,MAYO,1389
+1007,"Fruta, hortaliza - 1kg",Mandioca,2012,JUNIO,1331
+1008,"Fruta, hortaliza - 1kg",Mandioca,2012,JULIO,1283
+1009,"Fruta, hortaliza - 1kg",Mandioca,2012,AGOSTO,1341
+1010,"Fruta, hortaliza - 1kg",Mandioca,2012,SETIEMBRE,1630
+1011,"Fruta, hortaliza - 1kg",Mandioca,2012,OCTUBRE,1658
+1012,"Fruta, hortaliza - 1kg",Mandioca,2012,NOVIEMBE,1691
+1013,"Fruta, hortaliza - 1kg",Mandioca,2012,DICIEMBRE,2136
+1015,"Fruta, hortaliza - 1kg",Papa negra,2012,ENERO,3925
+1016,"Fruta, hortaliza - 1kg",Papa negra,2012,FEBRERO,3063
+1017,"Fruta, hortaliza - 1kg",Papa negra,2012,MARZO,4350
+1018,"Fruta, hortaliza - 1kg",Papa negra,2012,ABRIL,3938
+1019,"Fruta, hortaliza - 1kg",Papa negra,2012,MAYO,3602
+1020,"Fruta, hortaliza - 1kg",Papa negra,2012,JUNIO,4509
+1021,"Fruta, hortaliza - 1kg",Papa negra,2012,JULIO,4062
+1022,"Fruta, hortaliza - 1kg",Papa negra,2012,AGOSTO,5199
+1023,"Fruta, hortaliza - 1kg",Papa negra,2012,SETIEMBRE,6375
+1024,"Fruta, hortaliza - 1kg",Papa negra,2012,OCTUBRE,5410
+1025,"Fruta, hortaliza - 1kg",Papa negra,2012,NOVIEMBE,5967
+1026,"Fruta, hortaliza - 1kg",Papa negra,2012,DICIEMBRE,6791
 1028,Sal fina - 500gr,Marca mas económica,2012,ENERO,1345
 1029,Sal fina - 500gr,Marca mas económica,2012,FEBRERO,1430
 1030,Sal fina - 500gr,Marca mas económica,2012,MARZO,1513
@@ -1038,7 +959,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1037,Sal fina - 500gr,Marca mas económica,2012,OCTUBRE,1585
 1038,Sal fina - 500gr,Marca mas económica,2012,NOVIEMBE,1542
 1039,Sal fina - 500gr,Marca mas económica,2012,DICIEMBRE,1585
-1040,Sal fina - 500gr,Marca mas económica,2012,PROMEDIO,1530
 1041,Papel higiénico - 4 unid.,Marca mas económica,2012,ENERO,2884
 1042,Papel higiénico - 4 unid.,Marca mas económica,2012,FEBRERO,2874
 1043,Papel higiénico - 4 unid.,Marca mas económica,2012,MARZO,2721
@@ -1051,7 +971,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1050,Papel higiénico - 4 unid.,Marca mas económica,2012,OCTUBRE,3193
 1051,Papel higiénico - 4 unid.,Marca mas económica,2012,NOVIEMBE,2831
 1052,Papel higiénico - 4 unid.,Marca mas económica,2012,DICIEMBRE,2918
-1053,Papel higiénico - 4 unid.,Marca mas económica,2012,PROMEDIO,2846
 1054,Detergente líquido - 1/2 lt,Marca mas económica,2012,ENERO,2157
 1055,Detergente líquido - 1/2 lt,Marca mas económica,2012,FEBRERO,2133
 1056,Detergente líquido - 1/2 lt,Marca mas económica,2012,MARZO,2148
@@ -1064,7 +983,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1063,Detergente líquido - 1/2 lt,Marca mas económica,2012,OCTUBRE,2164
 1064,Detergente líquido - 1/2 lt,Marca mas económica,2012,NOVIEMBE,2161
 1065,Detergente líquido - 1/2 lt,Marca mas económica,2012,DICIEMBRE,2259
-1066,Detergente líquido - 1/2 lt,Marca mas económica,2012,PROMEDIO,2133
 1067,Lavandina - 1lt,Marca mas económica,2012,ENERO,3079
 1068,Lavandina - 1lt,Marca mas económica,2012,FEBRERO,3042
 1069,Lavandina - 1lt,Marca mas económica,2012,MARZO,2736
@@ -1077,7 +995,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1076,Lavandina - 1lt,Marca mas económica,2012,OCTUBRE,2889
 1077,Lavandina - 1lt,Marca mas económica,2012,NOVIEMBE,2882
 1078,Lavandina - 1lt,Marca mas económica,2012,DICIEMBRE,2982
-1079,Lavandina - 1lt,Marca mas económica,2012,PROMEDIO,2958
 1080,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2012,ENERO,4092
 1081,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2012,FEBRERO,4544
 1082,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2012,MARZO,4346
@@ -1090,7 +1007,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1089,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2012,OCTUBRE,4782
 1090,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2012,NOVIEMBE,4364
 1091,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2012,DICIEMBRE,4785
-1092,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2012,PROMEDIO,4532
 1093,Jabón de baño - 90gr,Marca mas económica,2012,ENERO,1500
 1094,Jabón de baño - 90gr,Marca mas económica,2012,FEBRERO,1703
 1095,Jabón de baño - 90gr,Marca mas económica,2012,MARZO,1731
@@ -1103,7 +1019,6 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1102,Jabón de baño - 90gr,Marca mas económica,2012,OCTUBRE,1788
 1103,Jabón de baño - 90gr,Marca mas económica,2012,NOVIEMBE,1635
 1104,Jabón de baño - 90gr,Marca mas económica,2012,DICIEMBRE,1600
-1105,Jabón de baño - 90gr,Marca mas económica,2012,PROMEDIO,1674
 1106,Crema dental - 90gr,Marca mas económica,2012,ENERO,4648
 1107,Crema dental - 90gr,Marca mas económica,2012,FEBRERO,4743
 1108,Crema dental - 90gr,Marca mas económica,2012,MARZO,4836
@@ -1116,4 +1031,3 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1115,Crema dental - 90gr,Marca mas económica,2012,OCTUBRE,4784
 1116,Crema dental - 90gr,Marca mas económica,2012,NOVIEMBE,4847
 1117,Crema dental - 90gr,Marca mas económica,2012,DICIEMBRE,4886
-1118,Crema dental - 90gr,Marca mas económica,2012,PROMEDIO,4804
