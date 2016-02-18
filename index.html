@@ -25,7 +25,7 @@
 					'noviembre', 'diciembre' ];
 			var temp;
 			var max = 0;
-			for (var year = 2013; year <= 2014; year++) {
+			for (var year = 2008; year <= 2010; year++) {
 				temp = obj[year];
 				for (var i = 0, l = temp.length; i < l; i++) {
 					max = Math.max(max, temp[i]);
@@ -58,31 +58,29 @@
 			return mixData;
 		}
 
-		dataMap.dataIDC = dataFormatter({
+		dataMap.dataDolar = dataFormatter({
 			//max : 60000,
 
-			2014 : [ 134.7, 135.6, 136.3, 136.9, 137.3, 137.1, 136.7, 136.2,
-					136.2, 136.5, 137.5, 138.5 ],
-			2013 : [ 129.6, 128.6, 128.5, 128.7, 128.3, 128.9, 129.6, 130.4,
-					130.8, 131.9, 132.8, 132.9 ]
+			2010 : [4800,4727,4716,4745,4763,4773,4768,4785,4871,4952,4709,4621],
+			2009 : [ 5032.64,5127.03,5149.60,5054.53,5046.81,5036.34,5033.84,4960.80,4939.43,4885.63,4835.03,4681.48],
+			2008 : [ 4746.74,4724.49,4544.539,4304.204,4125.156,4000.78,3999.84,4002.88,4016.22,4481.25,4875.5,4916.43]
 		});
 
 		dataMap.dataPrecio = dataFormatter({
 
-			2014 : [ 3917, 3852, 4070, 3933, 4022, 4002, 4002, 3811, 4358,
-					3764, 3933, 3982 ],
-			2013 : [ 3273, 3227, 3052, 3235, 3182, 3174, 3172, 3319, 3719,
-					3934, 3876, 4024 ]
+			2010 : [2963,2826,2896,2870,2834,2808,2847,2902,2881,3568,3751,3190],
+			2009 : [ 3260,3073,3045,3079,2981,2824,2755,3051,3009,2980,2987,2827],
+			2008 : [ 3161,3273,3293,3475,3526,3570,3619,3509,3471,3356,3125,3149]
 
 		});
 
-		dataMap.dataGDP_Estate = dataMix([ dataMap.dataIDC, dataMap.dataPrecio ]);
+		dataMap.dataGDP_Estate = dataMix([ dataMap.dataDolar, dataMap.dataPrecio ]);
 
 		var myChart2 = echarts.init(document.getElementById('mainMap'));
 		option = {
 
 			timeline : {
-				data : [ '2013-01-01', '2014-01-01' ],
+				data : [ '2008-01-01', '2009-01-01','2010-01-01'],
 				label : {
 					formatter : function(s) {
 						return s.slice(0, 4);
@@ -93,7 +91,7 @@
 			},
 			options : [ {
 				title : {
-					'text' : '2014（Precio vs ICD）',
+					'text' : '2008（Precio vs ICD）',
 					'subtext' : 'Pan Felipe'
 				},
 				tooltip : {
@@ -135,16 +133,16 @@
 				},
 				xAxis : [ {
 					'type' : 'value',
-					'name' : 'IDC',
-					'max' : 140,
-					'min' : 100
+					'name' : 'Dolar',
+					'max' : 5500,
+					'min' : 3500
 
 				} ],
 				yAxis : [ {
 					'type' : 'value',
 					'name' : 'Precio',
-					'max' : 4500,
-					'min' : 3000
+					'max' : 5000,
+					'min' : 2600
 				} ],
 				series : [ {
 					'name' : 'Precio',
@@ -178,18 +176,24 @@
 							}
 						}
 					},
-					'data' : dataMap.dataGDP_Estate['2013']
+					'data' : dataMap.dataGDP_Estate['2008']
 
-				}/*, {
+				}]}, {
 					title : {
-						'text' : '2014'
+						'text' : '2009'
 					},
 					series : [ {
-						'data' : dataMap.dataGDP_Estate['2014']
+						'data' : dataMap.dataGDP_Estate['2009']
 					} ]
-				} */]
-			} ]
-		};
+				}, {
+					title : {
+						'text' : '2010'
+					},
+					series : [ {
+						'data' : dataMap.dataGDP_Estate['2010']
+					} ]
+				} ]
+			};
 		myChart2.setOption(option);
 	</script>
 </body>
