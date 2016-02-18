@@ -11,7 +11,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 10,Panificado,Pan Felipito,2013,OCTUBRE,3934
 11,Panificado,Pan Felipito,2013,NOVIEMBE,3876
 12,Panificado,Pan Felipito,2013,DICIEMBRE,4024
-13,Panificado,Pan Felipito,2013,PROMEDIO,4576
 14,Panificado,Galleta,2013,ENERO,3742
 15,Panificado,Galleta,2013,FEBRERO,3693
 16,Panificado,Galleta,2013,MARZO,3565
@@ -24,7 +23,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 23,Panificado,Galleta,2013,OCTUBRE,4427
 24,Panificado,Galleta,2013,NOVIEMBE,4548
 25,Panificado,Galleta,2013,DICIEMBRE,4573
-26,Panificado,Galleta,2013,PROMEDIO,5321
 27,Panificado,Kokito,2013,ENERO,7485
 28,Panificado,Kokito,2013,FEBRERO,7180
 29,Panificado,Kokito,2013,MARZO,7376
@@ -37,7 +35,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 36,Panificado,Kokito,2013,OCTUBRE,9331
 37,Panificado,Kokito,2013,NOVIEMBE,10571
 38,Panificado,Kokito,2013,DICIEMBRE,9102
-39,Panificado,Kokito,2013,PROMEDIO,10848
 40,A granel - 1kg,Fideo,2013,ENERO,2811
 41,A granel - 1kg,Fideo,2013,FEBRERO,2729
 42,A granel - 1kg,Fideo,2013,MARZO,2780
@@ -50,7 +47,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 49,A granel - 1kg,Fideo,2013,OCTUBRE,3572
 50,A granel - 1kg,Fideo,2013,NOVIEMBE,3569
 51,A granel - 1kg,Fideo,2013,DICIEMBRE,3661
-52,A granel - 1kg,Fideo,2013,PROMEDIO,4044
 53,A granel - 1kg,Poroto,2013,ENERO,7560
 54,A granel - 1kg,Poroto,2013,FEBRERO,6242
 55,A granel - 1kg,Poroto,2013,MARZO,7274
@@ -63,7 +59,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 62,A granel - 1kg,Poroto,2013,OCTUBRE,7443
 63,A granel - 1kg,Poroto,2013,NOVIEMBE,7500
 64,A granel - 1kg,Poroto,2013,DICIEMBRE,6935
-65,A granel - 1kg,Poroto,2013,PROMEDIO,9275
 66,A granel - 1kg,Arroz,2013,ENERO,3203
 67,A granel - 1kg,Arroz,2013,FEBRERO,3184
 68,A granel - 1kg,Arroz,2013,MARZO,2940
@@ -76,7 +71,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 75,A granel - 1kg,Arroz,2013,OCTUBRE,2634
 76,A granel - 1kg,Arroz,2013,NOVIEMBE,2729
 77,A granel - 1kg,Arroz,2013,DICIEMBRE,2564
-78,A granel - 1kg,Arroz,2013,PROMEDIO,3709
 79,A granel - 1kg,Azúcar,2013,ENERO,4579
 80,A granel - 1kg,Azúcar,2013,FEBRERO,3754
 81,A granel - 1kg,Azúcar,2013,MARZO,3636
@@ -89,7 +83,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 88,A granel - 1kg,Azúcar,2013,OCTUBRE,3484
 89,A granel - 1kg,Azúcar,2013,NOVIEMBE,3231
 90,A granel - 1kg,Azúcar,2013,DICIEMBRE,3242
-91,A granel - 1kg,Azúcar,2013,PROMEDIO,4662
 92,A granel - 1kg,Harina,2013,ENERO,2400
 93,A granel - 1kg,Harina,2013,FEBRERO,2439
 94,A granel - 1kg,Harina,2013,MARZO,2400
@@ -102,7 +95,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 101,A granel - 1kg,Harina,2013,OCTUBRE,3780
 102,A granel - 1kg,Harina,2013,NOVIEMBE,3077
 103,A granel - 1kg,Harina,2013,DICIEMBRE,3534
-104,A granel - 1kg,Harina,2013,PROMEDIO,3699
 105,A granel - 1kg,Maíz,2013,ENERO,5654
 106,A granel - 1kg,Maíz,2013,FEBRERO,6014
 107,A granel - 1kg,Maíz,2013,MARZO,4894
@@ -115,7 +107,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 114,A granel - 1kg,Maíz,2013,OCTUBRE,4857
 115,A granel - 1kg,Maíz,2013,NOVIEMBE,4709
 116,A granel - 1kg,Maíz,2013,DICIEMBRE,5246
-117,A granel - 1kg,Maíz,2013,PROMEDIO,6443
 118,A granel - 1kg,Yerba,2013,ENERO,6500
 119,A granel - 1kg,Yerba,2013,FEBRERO,6283
 120,A granel - 1kg,Yerba,2013,MARZO,5612
@@ -128,7 +119,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 127,A granel - 1kg,Yerba,2013,OCTUBRE,7233
 128,A granel - 1kg,Yerba,2013,NOVIEMBE,7203
 129,A granel - 1kg,Yerba,2013,DICIEMBRE,8832
-130,A granel - 1kg,Yerba,2013,PROMEDIO,8960
 131,Carne bovina - 1kg,Puchero de primera,2013,ENERO,11525
 132,Carne bovina - 1kg,Puchero de primera,2013,FEBRERO,11188
 133,Carne bovina - 1kg,Puchero de primera,2013,MARZO,12117
@@ -141,7 +131,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 140,Carne bovina - 1kg,Puchero de primera,2013,OCTUBRE,12950
 141,Carne bovina - 1kg,Puchero de primera,2013,NOVIEMBE,12665
 142,Carne bovina - 1kg,Puchero de primera,2013,DICIEMBRE,12842
-143,Carne bovina - 1kg,Puchero de primera,2013,PROMEDIO,16610
 144,Carne bovina - 1kg,Carnaza de negra,2013,ENERO,23711
 145,Carne bovina - 1kg,Carnaza de negra,2013,FEBRERO,24276
 146,Carne bovina - 1kg,Carnaza de negra,2013,MARZO,24096
@@ -154,7 +143,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 153,Carne bovina - 1kg,Carnaza de negra,2013,OCTUBRE,27867
 154,Carne bovina - 1kg,Carnaza de negra,2013,NOVIEMBE,28875
 155,Carne bovina - 1kg,Carnaza de negra,2013,DICIEMBRE,28868
-156,Carne bovina - 1kg,Carnaza de negra,2013,PROMEDIO,33760
 157,Carne bovina - 1kg,Carnaza de blanca,2013,ENERO,21916
 158,Carne bovina - 1kg,Carnaza de blanca,2013,FEBRERO,22351
 159,Carne bovina - 1kg,Carnaza de blanca,2013,MARZO,22629
@@ -167,7 +155,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 166,Carne bovina - 1kg,Carnaza de blanca,2013,OCTUBRE,24537
 167,Carne bovina - 1kg,Carnaza de blanca,2013,NOVIEMBE,24492
 168,Carne bovina - 1kg,Carnaza de blanca,2013,DICIEMBRE,24813
-169,Carne bovina - 1kg,Carnaza de blanca,2013,PROMEDIO,30205
 170,Carne bovina - 1kg,Lomo,2013,ENERO,28231
 171,Carne bovina - 1kg,Lomo,2013,FEBRERO,28244
 172,Carne bovina - 1kg,Lomo,2013,MARZO,27090
@@ -180,7 +167,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 179,Carne bovina - 1kg,Lomo,2013,OCTUBRE,28513
 180,Carne bovina - 1kg,Lomo,2013,NOVIEMBE,31679
 181,Carne bovina - 1kg,Lomo,2013,DICIEMBRE,32051
-182,Carne bovina - 1kg,Lomo,2013,PROMEDIO,37327
 183,Carne bovina - 1kg,Lomito,2013,ENERO,42355
 184,Carne bovina - 1kg,Lomito,2013,FEBRERO,39043
 185,Carne bovina - 1kg,Lomito,2013,MARZO,39962
@@ -193,7 +179,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 192,Carne bovina - 1kg,Lomito,2013,OCTUBRE,41335
 193,Carne bovina - 1kg,Lomito,2013,NOVIEMBE,43196
 194,Carne bovina - 1kg,Lomito,2013,DICIEMBRE,43468
-195,Carne bovina - 1kg,Lomito,2013,PROMEDIO,52952
 196,Carne bovina - 1kg,Carne molida de primera,2013,ENERO,23726
 197,Carne bovina - 1kg,Carne molida de primera,2013,FEBRERO,23268
 198,Carne bovina - 1kg,Carne molida de primera,2013,MARZO,23358
@@ -206,7 +191,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 205,Carne bovina - 1kg,Carne molida de primera,2013,OCTUBRE,24159
 206,Carne bovina - 1kg,Carne molida de primera,2013,NOVIEMBE,24683
 207,Carne bovina - 1kg,Carne molida de primera,2013,DICIEMBRE,25203
-208,Carne bovina - 1kg,Carne molida de primera,2013,PROMEDIO,31691
 209,Carne bovina - 1kg,Carne molida de segunda,2013,ENERO,15328
 210,Carne bovina - 1kg,Carne molida de segunda,2013,FEBRERO,15151
 211,Carne bovina - 1kg,Carne molida de segunda,2013,MARZO,15016
@@ -219,7 +203,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 218,Carne bovina - 1kg,Carne molida de segunda,2013,OCTUBRE,14208
 219,Carne bovina - 1kg,Carne molida de segunda,2013,NOVIEMBE,16283
 220,Carne bovina - 1kg,Carne molida de segunda,2013,DICIEMBRE,15097
-221,Carne bovina - 1kg,Carne molida de segunda,2013,PROMEDIO,19478
 222,Carne bovina - 1kg,Costilla,2013,ENERO,17106
 223,Carne bovina - 1kg,Costilla,2013,FEBRERO,13003
 224,Carne bovina - 1kg,Costilla,2013,MARZO,12790
@@ -232,7 +215,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 231,Carne bovina - 1kg,Costilla,2013,OCTUBRE,16069
 232,Carne bovina - 1kg,Costilla,2013,NOVIEMBE,16913
 233,Carne bovina - 1kg,Costilla,2013,DICIEMBRE,18288
-234,Carne bovina - 1kg,Costilla,2013,PROMEDIO,18883
 235,Carne bovina - 1kg,Costilla de segunda,2013,ENERO,12372
 236,Carne bovina - 1kg,Costilla de segunda,2013,FEBRERO,10130
 237,Carne bovina - 1kg,Costilla de segunda,2013,MARZO,10030
@@ -245,7 +227,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 244,Carne bovina - 1kg,Costilla de segunda,2013,OCTUBRE,12264
 245,Carne bovina - 1kg,Costilla de segunda,2013,NOVIEMBE,12432
 246,Carne bovina - 1kg,Costilla de segunda,2013,DICIEMBRE,14260
-247,Carne bovina - 1kg,Costilla de segunda,2013,PROMEDIO,14508
 248,Carne bovina - 1kg,Hígado,2013,ENERO,6209
 249,Carne bovina - 1kg,Hígado,2013,FEBRERO,6242
 250,Carne bovina - 1kg,Hígado,2013,MARZO,6484
@@ -258,7 +239,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 257,Carne bovina - 1kg,Hígado,2013,OCTUBRE,7787
 258,Carne bovina - 1kg,Hígado,2013,NOVIEMBE,8154
 259,Carne bovina - 1kg,Hígado,2013,DICIEMBRE,7822
-260,Carne bovina - 1kg,Hígado,2013,PROMEDIO,9281
 261,Carne bovina - 1kg,Corazón,2013,ENERO,6073
 262,Carne bovina - 1kg,Corazón,2013,FEBRERO,6842
 263,Carne bovina - 1kg,Corazón,2013,MARZO,5914
@@ -271,7 +251,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 270,Carne bovina - 1kg,Corazón,2013,OCTUBRE,9236
 271,Carne bovina - 1kg,Corazón,2013,NOVIEMBE,9263
 272,Carne bovina - 1kg,Corazón,2013,DICIEMBRE,8981
-273,Carne bovina - 1kg,Corazón,2013,PROMEDIO,10034
 274,Carne bovina - 1kg,Mondongo,2013,ENERO,9773
 275,Carne bovina - 1kg,Mondongo,2013,FEBRERO,9645
 276,Carne bovina - 1kg,Mondongo,2013,MARZO,9679
@@ -284,267 +263,246 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 283,Carne bovina - 1kg,Mondongo,2013,OCTUBRE,13286
 284,Carne bovina - 1kg,Mondongo,2013,NOVIEMBE,13220
 285,Carne bovina - 1kg,Mondongo,2013,DICIEMBRE,11653
-286,Carne bovina - 1kg,Mondongo,2013,PROMEDIO,14736
-287,Carne bovina - 1 Kg.,Carnaza de Primera,2013,ENERO,24207
-288,Carne bovina - 1 Kg.,Carnaza de Primera,2013,FEBRERO,23678
-289,Carne bovina - 1 Kg.,Carnaza de Primera,2013,MARZO,23520
-290,Carne bovina - 1 Kg.,Carnaza de Primera,2013,ABRIL,23105
-291,Carne bovina - 1 Kg.,Carnaza de Primera,2013,MAYO,22937
-292,Carne bovina - 1 Kg.,Carnaza de Primera,2013,JUNIO,23310
-293,Carne bovina - 1 Kg.,Carnaza de Primera,2013,JULIO,24466
-294,Carne bovina - 1 Kg.,Carnaza de Primera,2013,AGOSTO,25365
-295,Carne bovina - 1 Kg.,Carnaza de Primera,2013,SETIEMBRE,26004
-296,Carne bovina - 1 Kg.,Carnaza de Primera,2013,OCTUBRE,27123
-297,Carne bovina - 1 Kg.,Carnaza de Primera,2013,NOVIEMBE,29358
-298,Carne bovina - 1 Kg.,Carnaza de Primera,2013,DICIEMBRE,28717
-299,Carne bovina - 1 Kg.,Carnaza de Primera,2013,PROMEDIO,33532
-300,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,ENERO,16252
-301,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,FEBRERO,15707
-302,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,MARZO,15802
-303,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,ABRIL,15301
-304,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,MAYO,15133
-305,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,JUNIO,15486
-306,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,JULIO,16049
-307,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,AGOSTO,15815
-308,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,SETIEMBRE,16518
-309,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,OCTUBRE,17550
-310,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,NOVIEMBE,18530
-311,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,DICIEMBRE,17720
-312,Carne bovina - 1 Kg.,Carnaza de Segunda,2013,PROMEDIO,21763
-313,Carne bovina - 1 Kg.,Puchero de Segunda,2013,ENERO,3249
-314,Carne bovina - 1 Kg.,Puchero de Segunda,2013,FEBRERO,3356
-315,Carne bovina - 1 Kg.,Puchero de Segunda,2013,MARZO,3145
-316,Carne bovina - 1 Kg.,Puchero de Segunda,2013,ABRIL,3792
-317,Carne bovina - 1 Kg.,Puchero de Segunda,2013,MAYO,3856
-318,Carne bovina - 1 Kg.,Puchero de Segunda,2013,JUNIO,3537
-319,Carne bovina - 1 Kg.,Puchero de Segunda,2013,JULIO,4372
-320,Carne bovina - 1 Kg.,Puchero de Segunda,2013,AGOSTO,3622
-321,Carne bovina - 1 Kg.,Puchero de Segunda,2013,SETIEMBRE,4020
-322,Carne bovina - 1 Kg.,Puchero de Segunda,2013,OCTUBRE,4440
-323,Carne bovina - 1 Kg.,Puchero de Segunda,2013,NOVIEMBE,4532
-324,Carne bovina - 1 Kg.,Puchero de Segunda,2013,DICIEMBRE,3719
-325,Carne bovina - 1 Kg.,Puchero de Segunda,2013,PROMEDIO,5071
-326,Carne bovina - 1Kg,Costeleta,2013,ENERO,21572
-327,Carne bovina - 1Kg,Costeleta,2013,FEBRERO,21507
-328,Carne bovina - 1Kg,Costeleta,2013,MARZO,21644
-329,Carne bovina - 1Kg,Costeleta,2013,ABRIL,22583
-330,Carne bovina - 1Kg,Costeleta,2013,MAYO,21923
-331,Carne bovina - 1Kg,Costeleta,2013,JUNIO,21914
-332,Carne bovina - 1Kg,Costeleta,2013,JULIO,22033
-333,Carne bovina - 1Kg,Costeleta,2013,AGOSTO,22552
-334,Carne bovina - 1Kg,Costeleta,2013,SETIEMBRE,22999
-335,Carne bovina - 1Kg,Costeleta,2013,OCTUBRE,21886
-336,Carne bovina - 1Kg,Costeleta,2013,NOVIEMBE,23007
-337,Carne bovina - 1Kg,Costeleta,2013,DICIEMBRE,23300
-338,Carne bovina - 1Kg,Costeleta,2013,PROMEDIO,29658
-339,Carne bovina - 1Kg,Vacío,2013,ENERO,21052
-340,Carne bovina - 1Kg,Vacío,2013,FEBRERO,16551
-341,Carne bovina - 1Kg,Vacío,2013,MARZO,16328
-342,Carne bovina - 1Kg,Vacío,2013,ABRIL,16042
-343,Carne bovina - 1Kg,Vacío,2013,MAYO,16158
-344,Carne bovina - 1Kg,Vacío,2013,JUNIO,16270
-345,Carne bovina - 1Kg,Vacío,2013,JULIO,15103
-346,Carne bovina - 1Kg,Vacío,2013,AGOSTO,15193
-347,Carne bovina - 1Kg,Vacío,2013,SETIEMBRE,17013
-348,Carne bovina - 1Kg,Vacío,2013,OCTUBRE,19261
-349,Carne bovina - 1Kg,Vacío,2013,NOVIEMBE,20193
-350,Carne bovina - 1Kg,Vacío,2013,DICIEMBRE,21590
-351,Carne bovina - 1Kg,Vacío,2013,PROMEDIO,23417
-352,Carne bovina - 1Kg,Falda,2013,ENERO,12648
-353,Carne bovina - 1Kg,Falda,2013,FEBRERO,9964
-354,Carne bovina - 1Kg,Falda,2013,MARZO,10302
-355,Carne bovina - 1Kg,Falda,2013,ABRIL,9395
-356,Carne bovina - 1Kg,Falda,2013,MAYO,9215
-357,Carne bovina - 1Kg,Falda,2013,JUNIO,9719
-358,Carne bovina - 1Kg,Falda,2013,JULIO,9568
-359,Carne bovina - 1Kg,Falda,2013,AGOSTO,8339
-360,Carne bovina - 1Kg,Falda,2013,SETIEMBRE,10348
-361,Carne bovina - 1Kg,Falda,2013,OCTUBRE,12540
-362,Carne bovina - 1Kg,Falda,2013,NOVIEMBE,13042
-363,Carne bovina - 1Kg,Falda,2013,DICIEMBRE,12926
-364,Carne bovina - 1Kg,Falda,2013,PROMEDIO,14223
-365,Carne bovina - 1Kg,Peceto,2013,ENERO,25249
-366,Carne bovina - 1Kg,Peceto,2013,FEBRERO,22784
-367,Carne bovina - 1Kg,Peceto,2013,MARZO,22313
-368,Carne bovina - 1Kg,Peceto,2013,ABRIL,21736
-369,Carne bovina - 1Kg,Peceto,2013,MAYO,21690
-370,Carne bovina - 1Kg,Peceto,2013,JUNIO,22131
-371,Carne bovina - 1Kg,Peceto,2013,JULIO,23496
-372,Carne bovina - 1Kg,Peceto,2013,AGOSTO,23607
-373,Carne bovina - 1Kg,Peceto,2013,SETIEMBRE,23906
-374,Carne bovina - 1Kg,Peceto,2013,OCTUBRE,25501
-375,Carne bovina - 1Kg,Peceto,2013,NOVIEMBE,29982
-376,Carne bovina - 1Kg,Peceto,2013,DICIEMBRE,25669
-377,Carne bovina - 1Kg,Peceto,2013,PROMEDIO,32007
-378,Carne bovina - 1Kg,Tapa Cuadril,2013,ENERO,34802
-379,Carne bovina - 1Kg,Tapa Cuadril,2013,FEBRERO,35448
-380,Carne bovina - 1Kg,Tapa Cuadril,2013,MARZO,33162
-381,Carne bovina - 1Kg,Tapa Cuadril,2013,ABRIL,31410
-382,Carne bovina - 1Kg,Tapa Cuadril,2013,MAYO,30179
-383,Carne bovina - 1Kg,Tapa Cuadril,2013,JUNIO,32550
-384,Carne bovina - 1Kg,Tapa Cuadril,2013,JULIO,30159
-385,Carne bovina - 1Kg,Tapa Cuadril,2013,AGOSTO,30962
-386,Carne bovina - 1Kg,Tapa Cuadril,2013,SETIEMBRE,32381
-387,Carne bovina - 1Kg,Tapa Cuadril,2013,OCTUBRE,33322
-388,Carne bovina - 1Kg,Tapa Cuadril,2013,NOVIEMBE,34943
-389,Carne bovina - 1Kg,Tapa Cuadril,2013,DICIEMBRE,34702
-390,Carne bovina - 1Kg,Tapa Cuadril,2013,PROMEDIO,43780
-391,Carne bovina - 1Kg,Rabadilla,2013,ENERO,26622
-392,Carne bovina - 1Kg,Rabadilla,2013,FEBRERO,25033
-393,Carne bovina - 1Kg,Rabadilla,2013,MARZO,25058
-394,Carne bovina - 1Kg,Rabadilla,2013,ABRIL,23247
-395,Carne bovina - 1Kg,Rabadilla,2013,MAYO,23851
-396,Carne bovina - 1Kg,Rabadilla,2013,JUNIO,24297
-397,Carne bovina - 1Kg,Rabadilla,2013,JULIO,24356
-398,Carne bovina - 1Kg,Rabadilla,2013,AGOSTO,26333
-399,Carne bovina - 1Kg,Rabadilla,2013,SETIEMBRE,25964
-400,Carne bovina - 1Kg,Rabadilla,2013,OCTUBRE,28853
-401,Carne bovina - 1Kg,Rabadilla,2013,NOVIEMBE,30265
-402,Carne bovina - 1Kg,Rabadilla,2013,DICIEMBRE,29854
-403,Carne bovina - 1Kg,Rabadilla,2013,PROMEDIO,34859
-404,Carne bovina - 1Kg,Bola de Lomo,2013,ENERO,23236
-405,Carne bovina - 1Kg,Bola de Lomo,2013,FEBRERO,24063
-406,Carne bovina - 1Kg,Bola de Lomo,2013,MARZO,24121
-407,Carne bovina - 1Kg,Bola de Lomo,2013,ABRIL,23085
-408,Carne bovina - 1Kg,Bola de Lomo,2013,MAYO,23047
-409,Carne bovina - 1Kg,Bola de Lomo,2013,JUNIO,23579
-410,Carne bovina - 1Kg,Bola de Lomo,2013,JULIO,23797
-411,Carne bovina - 1Kg,Bola de Lomo,2013,AGOSTO,24620
-412,Carne bovina - 1Kg,Bola de Lomo,2013,SETIEMBRE,25842
-413,Carne bovina - 1Kg,Bola de Lomo,2013,OCTUBRE,27554
-414,Carne bovina - 1Kg,Bola de Lomo,2013,NOVIEMBE,26958
-415,Carne bovina - 1Kg,Bola de Lomo,2013,DICIEMBRE,28314
-416,Carne bovina - 1Kg,Bola de Lomo,2013,PROMEDIO,33135
-417,Carne bovina - 1Kg,Palomita,2013,ENERO,28301
-418,Carne bovina - 1Kg,Palomita,2013,FEBRERO,28336
-419,Carne bovina - 1Kg,Palomita,2013,MARZO,28132
-420,Carne bovina - 1Kg,Palomita,2013,ABRIL,24518
-421,Carne bovina - 1Kg,Palomita,2013,MAYO,24404
-422,Carne bovina - 1Kg,Palomita,2013,JUNIO,26347
-423,Carne bovina - 1Kg,Palomita,2013,JULIO,24619
-424,Carne bovina - 1Kg,Palomita,2013,AGOSTO,26015
-425,Carne bovina - 1Kg,Palomita,2013,SETIEMBRE,27425
-426,Carne bovina - 1Kg,Palomita,2013,OCTUBRE,28261
-427,Carne bovina - 1Kg,Palomita,2013,NOVIEMBE,31291
-428,Carne bovina - 1Kg,Palomita,2013,DICIEMBRE,30346
-429,Carne bovina - 1Kg,Palomita,2013,PROMEDIO,36444
-430,Carne bovina - 1Kg,Muchachito,2013,ENERO,22121
-431,Carne bovina - 1Kg,Muchachito,2013,FEBRERO,21355
-432,Carne bovina - 1Kg,Muchachito,2013,MARZO,20998
-433,Carne bovina - 1Kg,Muchachito,2013,ABRIL,20769
-434,Carne bovina - 1Kg,Muchachito,2013,MAYO,20647
-435,Carne bovina - 1Kg,Muchachito,2013,JUNIO,20942
-436,Carne bovina - 1Kg,Muchachito,2013,JULIO,20996
-437,Carne bovina - 1Kg,Muchachito,2013,AGOSTO,20885
-438,Carne bovina - 1Kg,Muchachito,2013,SETIEMBRE,21326
-439,Carne bovina - 1Kg,Muchachito,2013,OCTUBRE,21735
-440,Carne bovina - 1Kg,Muchachito,2013,NOVIEMBE,21800
-441,Carne bovina - 1Kg,Muchachito,2013,DICIEMBRE,22505
-442,Carne bovina - 1Kg,Muchachito,2013,PROMEDIO,28453
-443,Carne bovina - 1Kg,Paleta,2013,ENERO,20819
-444,Carne bovina - 1Kg,Paleta,2013,FEBRERO,21895
-445,Carne bovina - 1Kg,Paleta,2013,MARZO,21503
-446,Carne bovina - 1Kg,Paleta,2013,ABRIL,22043
-447,Carne bovina - 1Kg,Paleta,2013,MAYO,20330
-448,Carne bovina - 1Kg,Paleta,2013,JUNIO,21443
-449,Carne bovina - 1Kg,Paleta,2013,JULIO,22049
-450,Carne bovina - 1Kg,Paleta,2013,AGOSTO,21757
-451,Carne bovina - 1Kg,Paleta,2013,SETIEMBRE,22682
-452,Carne bovina - 1Kg,Paleta,2013,OCTUBRE,24117
-453,Carne bovina - 1Kg,Paleta,2013,NOVIEMBE,25132
-454,Carne bovina - 1Kg,Paleta,2013,DICIEMBRE,24705
-455,Carne bovina - 1Kg,Paleta,2013,PROMEDIO,29830
-456,Carne bovina - 1Kg,Sambari,2013,ENERO,19938
-457,Carne bovina - 1Kg,Sambari,2013,FEBRERO,19433
-458,Carne bovina - 1Kg,Sambari,2013,MARZO,19888
-459,Carne bovina - 1Kg,Sambari,2013,ABRIL,19331
-460,Carne bovina - 1Kg,Sambari,2013,MAYO,18894
-461,Carne bovina - 1Kg,Sambari,2013,JUNIO,19386
-462,Carne bovina - 1Kg,Sambari,2013,JULIO,19188
-463,Carne bovina - 1Kg,Sambari,2013,AGOSTO,19180
-464,Carne bovina - 1Kg,Sambari,2013,SETIEMBRE,19158
-465,Carne bovina - 1Kg,Sambari,2013,OCTUBRE,19930
-466,Carne bovina - 1Kg,Sambari,2013,NOVIEMBE,20363
-467,Carne bovina - 1Kg,Sambari,2013,DICIEMBRE,20487
-468,Carne bovina - 1Kg,Sambari,2013,PROMEDIO,26131
-469,Carne bovina - 1Kg,Matambre,2013,ENERO,14271
-470,Carne bovina - 1Kg,Matambre,2013,FEBRERO,13819
-471,Carne bovina - 1Kg,Matambre,2013,MARZO,12940
-472,Carne bovina - 1Kg,Matambre,2013,ABRIL,13907
-473,Carne bovina - 1Kg,Matambre,2013,MAYO,14080
-474,Carne bovina - 1Kg,Matambre,2013,JUNIO,13687
-475,Carne bovina - 1Kg,Matambre,2013,JULIO,15024
-476,Carne bovina - 1Kg,Matambre,2013,AGOSTO,14142
-477,Carne bovina - 1Kg,Matambre,2013,SETIEMBRE,14481
-478,Carne bovina - 1Kg,Matambre,2013,OCTUBRE,15238
-479,Carne bovina - 1Kg,Matambre,2013,NOVIEMBE,15507
-480,Carne bovina - 1Kg,Matambre,2013,DICIEMBRE,15751
-481,Carne bovina - 1Kg,Matambre,2013,PROMEDIO,19205
-482,Carne bovina - 1Kg,Tapa de Asado,2013,ENERO,17157
-483,Carne bovina - 1Kg,Tapa de Asado,2013,FEBRERO,17546
-484,Carne bovina - 1Kg,Tapa de Asado,2013,MARZO,17115
-485,Carne bovina - 1Kg,Tapa de Asado,2013,ABRIL,16875
-486,Carne bovina - 1Kg,Tapa de Asado,2013,MAYO,15946
-487,Carne bovina - 1Kg,Tapa de Asado,2013,JUNIO,16871
-488,Carne bovina - 1Kg,Tapa de Asado,2013,JULIO,17806
-489,Carne bovina - 1Kg,Tapa de Asado,2013,AGOSTO,16984
-490,Carne bovina - 1Kg,Tapa de Asado,2013,SETIEMBRE,17921
-491,Carne bovina - 1Kg,Tapa de Asado,2013,OCTUBRE,18360
-492,Carne bovina - 1Kg,Tapa de Asado,2013,NOVIEMBE,18593
-493,Carne bovina - 1Kg,Tapa de Asado,2013,DICIEMBRE,19809
-494,Carne bovina - 1Kg,Tapa de Asado,2013,PROMEDIO,23442
-495,Carne bovina - 1Kg,Espinazo Negro,2013,ENERO,11650
-496,Carne bovina - 1Kg,Espinazo Negro,2013,FEBRERO,11566
-497,Carne bovina - 1Kg,Espinazo Negro,2013,MARZO,12537
-498,Carne bovina - 1Kg,Espinazo Negro,2013,ABRIL,13016
-499,Carne bovina - 1Kg,Espinazo Negro,2013,MAYO,12827
-500,Carne bovina - 1Kg,Espinazo Negro,2013,JUNIO,12487
-501,Carne bovina - 1Kg,Espinazo Negro,2013,JULIO,13676
-502,Carne bovina - 1Kg,Espinazo Negro,2013,AGOSTO,13941
-503,Carne bovina - 1Kg,Espinazo Negro,2013,SETIEMBRE,13910
-504,Carne bovina - 1Kg,Espinazo Negro,2013,OCTUBRE,14447
-505,Carne bovina - 1Kg,Espinazo Negro,2013,NOVIEMBE,12417
-506,Carne bovina - 1Kg,Espinazo Negro,2013,DICIEMBRE,14010
-507,Carne bovina - 1Kg,Espinazo Negro,2013,PROMEDIO,17387
-508,Carne bovina - 1Kg,Osobuco,2013,ENERO,12592
-509,Carne bovina - 1Kg,Osobuco,2013,FEBRERO,13881
-510,Carne bovina - 1Kg,Osobuco,2013,MARZO,13870
-511,Carne bovina - 1Kg,Osobuco,2013,ABRIL,13802
-512,Carne bovina - 1Kg,Osobuco,2013,MAYO,13351
-513,Carne bovina - 1Kg,Osobuco,2013,JUNIO,13726
-514,Carne bovina - 1Kg,Osobuco,2013,JULIO,14078
-515,Carne bovina - 1Kg,Osobuco,2013,AGOSTO,14929
-516,Carne bovina - 1Kg,Osobuco,2013,SETIEMBRE,14148
-517,Carne bovina - 1Kg,Osobuco,2013,OCTUBRE,14130
-518,Carne bovina - 1Kg,Osobuco,2013,NOVIEMBE,14321
-519,Carne bovina - 1Kg,Osobuco,2013,DICIEMBRE,14184
-520,Carne bovina - 1Kg,Osobuco,2013,PROMEDIO,18557
-521,Carne bovina - 1Kg,Cebo,2013,ENERO,2675
-522,Carne bovina - 1Kg,Cebo,2013,FEBRERO,1736
-523,Carne bovina - 1Kg,Cebo,2013,MARZO,1415
-524,Carne bovina - 1Kg,Cebo,2013,ABRIL,1546
-525,Carne bovina - 1Kg,Cebo,2013,MAYO,1392
-526,Carne bovina - 1Kg,Cebo,2013,JUNIO,1522
-527,Carne bovina - 1Kg,Cebo,2013,JULIO,1735
-528,Carne bovina - 1Kg,Cebo,2013,AGOSTO,1640
-529,Carne bovina - 1Kg,Cebo,2013,SETIEMBRE,1616
-530,Carne bovina - 1Kg,Cebo,2013,OCTUBRE,1810
-531,Carne bovina - 1Kg,Cebo,2013,NOVIEMBE,2090
-532,Carne bovina - 1Kg,Cebo,2013,DICIEMBRE,1996
-533,Carne bovina - 1Kg,Cebo,2013,PROMEDIO,2352
-534,Carne bovina - 1Kg,Hueso Blanco,2013,ENERO,1226
-535,Carne bovina - 1Kg,Hueso Blanco,2013,FEBRERO,1650
-536,Carne bovina - 1Kg,Hueso Blanco,2013,MARZO,790
-537,Carne bovina - 1Kg,Hueso Blanco,2013,ABRIL,1205
-538,Carne bovina - 1Kg,Hueso Blanco,2013,MAYO,1250
-539,Carne bovina - 1Kg,Hueso Blanco,2013,JUNIO,1224
-540,Carne bovina - 1Kg,Hueso Blanco,2013,JULIO,1130
-541,Carne bovina - 1Kg,Hueso Blanco,2013,AGOSTO,1128
-542,Carne bovina - 1Kg,Hueso Blanco,2013,SETIEMBRE,1345
-543,Carne bovina - 1Kg,Hueso Blanco,2013,OCTUBRE,1097
-544,Carne bovina - 1Kg,Hueso Blanco,2013,NOVIEMBE,1102
-545,Carne bovina - 1Kg,Hueso Blanco,2013,DICIEMBRE,1344
-546,Carne bovina - 1Kg,Hueso Blanco,2013,PROMEDIO,1610
+287,Carne bovina - 1kg,Carnaza de Primera,2013,ENERO,24207
+288,Carne bovina - 1kg,Carnaza de Primera,2013,FEBRERO,23678
+289,Carne bovina - 1kg,Carnaza de Primera,2013,MARZO,23520
+290,Carne bovina - 1kg,Carnaza de Primera,2013,ABRIL,23105
+291,Carne bovina - 1kg,Carnaza de Primera,2013,MAYO,22937
+292,Carne bovina - 1kg,Carnaza de Primera,2013,JUNIO,23310
+293,Carne bovina - 1kg,Carnaza de Primera,2013,JULIO,24466
+294,Carne bovina - 1kg,Carnaza de Primera,2013,AGOSTO,25365
+295,Carne bovina - 1kg,Carnaza de Primera,2013,SETIEMBRE,26004
+296,Carne bovina - 1kg,Carnaza de Primera,2013,OCTUBRE,27123
+297,Carne bovina - 1kg,Carnaza de Primera,2013,NOVIEMBE,29358
+298,Carne bovina - 1kg,Carnaza de Primera,2013,DICIEMBRE,28717
+300,Carne bovina - 1kg,Carnaza de Segunda,2013,ENERO,16252
+301,Carne bovina - 1kg,Carnaza de Segunda,2013,FEBRERO,15707
+302,Carne bovina - 1kg,Carnaza de Segunda,2013,MARZO,15802
+303,Carne bovina - 1kg,Carnaza de Segunda,2013,ABRIL,15301
+304,Carne bovina - 1kg,Carnaza de Segunda,2013,MAYO,15133
+305,Carne bovina - 1kg,Carnaza de Segunda,2013,JUNIO,15486
+306,Carne bovina - 1kg,Carnaza de Segunda,2013,JULIO,16049
+307,Carne bovina - 1kg,Carnaza de Segunda,2013,AGOSTO,15815
+308,Carne bovina - 1kg,Carnaza de Segunda,2013,SETIEMBRE,16518
+309,Carne bovina - 1kg,Carnaza de Segunda,2013,OCTUBRE,17550
+310,Carne bovina - 1kg,Carnaza de Segunda,2013,NOVIEMBE,18530
+311,Carne bovina - 1kg,Carnaza de Segunda,2013,DICIEMBRE,17720
+313,Carne bovina - 1kg,Puchero de Segunda,2013,ENERO,3249
+314,Carne bovina - 1kg,Puchero de Segunda,2013,FEBRERO,3356
+315,Carne bovina - 1kg,Puchero de Segunda,2013,MARZO,3145
+316,Carne bovina - 1kg,Puchero de Segunda,2013,ABRIL,3792
+317,Carne bovina - 1kg,Puchero de Segunda,2013,MAYO,3856
+318,Carne bovina - 1kg,Puchero de Segunda,2013,JUNIO,3537
+319,Carne bovina - 1kg,Puchero de Segunda,2013,JULIO,4372
+320,Carne bovina - 1kg,Puchero de Segunda,2013,AGOSTO,3622
+321,Carne bovina - 1kg,Puchero de Segunda,2013,SETIEMBRE,4020
+322,Carne bovina - 1kg,Puchero de Segunda,2013,OCTUBRE,4440
+323,Carne bovina - 1kg,Puchero de Segunda,2013,NOVIEMBE,4532
+324,Carne bovina - 1kg,Puchero de Segunda,2013,DICIEMBRE,3719
+326,Carne bovina - 1kg,Costeleta,2013,ENERO,21572
+327,Carne bovina - 1kg,Costeleta,2013,FEBRERO,21507
+328,Carne bovina - 1kg,Costeleta,2013,MARZO,21644
+329,Carne bovina - 1kg,Costeleta,2013,ABRIL,22583
+330,Carne bovina - 1kg,Costeleta,2013,MAYO,21923
+331,Carne bovina - 1kg,Costeleta,2013,JUNIO,21914
+332,Carne bovina - 1kg,Costeleta,2013,JULIO,22033
+333,Carne bovina - 1kg,Costeleta,2013,AGOSTO,22552
+334,Carne bovina - 1kg,Costeleta,2013,SETIEMBRE,22999
+335,Carne bovina - 1kg,Costeleta,2013,OCTUBRE,21886
+336,Carne bovina - 1kg,Costeleta,2013,NOVIEMBE,23007
+337,Carne bovina - 1kg,Costeleta,2013,DICIEMBRE,23300
+339,Carne bovina - 1kg,Vacío,2013,ENERO,21052
+340,Carne bovina - 1kg,Vacío,2013,FEBRERO,16551
+341,Carne bovina - 1kg,Vacío,2013,MARZO,16328
+342,Carne bovina - 1kg,Vacío,2013,ABRIL,16042
+343,Carne bovina - 1kg,Vacío,2013,MAYO,16158
+344,Carne bovina - 1kg,Vacío,2013,JUNIO,16270
+345,Carne bovina - 1kg,Vacío,2013,JULIO,15103
+346,Carne bovina - 1kg,Vacío,2013,AGOSTO,15193
+347,Carne bovina - 1kg,Vacío,2013,SETIEMBRE,17013
+348,Carne bovina - 1kg,Vacío,2013,OCTUBRE,19261
+349,Carne bovina - 1kg,Vacío,2013,NOVIEMBE,20193
+350,Carne bovina - 1kg,Vacío,2013,DICIEMBRE,21590
+352,Carne bovina - 1kg,Falda,2013,ENERO,12648
+353,Carne bovina - 1kg,Falda,2013,FEBRERO,9964
+354,Carne bovina - 1kg,Falda,2013,MARZO,10302
+355,Carne bovina - 1kg,Falda,2013,ABRIL,9395
+356,Carne bovina - 1kg,Falda,2013,MAYO,9215
+357,Carne bovina - 1kg,Falda,2013,JUNIO,9719
+358,Carne bovina - 1kg,Falda,2013,JULIO,9568
+359,Carne bovina - 1kg,Falda,2013,AGOSTO,8339
+360,Carne bovina - 1kg,Falda,2013,SETIEMBRE,10348
+361,Carne bovina - 1kg,Falda,2013,OCTUBRE,12540
+362,Carne bovina - 1kg,Falda,2013,NOVIEMBE,13042
+363,Carne bovina - 1kg,Falda,2013,DICIEMBRE,12926
+365,Carne bovina - 1kg,Peceto,2013,ENERO,25249
+366,Carne bovina - 1kg,Peceto,2013,FEBRERO,22784
+367,Carne bovina - 1kg,Peceto,2013,MARZO,22313
+368,Carne bovina - 1kg,Peceto,2013,ABRIL,21736
+369,Carne bovina - 1kg,Peceto,2013,MAYO,21690
+370,Carne bovina - 1kg,Peceto,2013,JUNIO,22131
+371,Carne bovina - 1kg,Peceto,2013,JULIO,23496
+372,Carne bovina - 1kg,Peceto,2013,AGOSTO,23607
+373,Carne bovina - 1kg,Peceto,2013,SETIEMBRE,23906
+374,Carne bovina - 1kg,Peceto,2013,OCTUBRE,25501
+375,Carne bovina - 1kg,Peceto,2013,NOVIEMBE,29982
+376,Carne bovina - 1kg,Peceto,2013,DICIEMBRE,25669
+378,Carne bovina - 1kg,Tapa Cuadril,2013,ENERO,34802
+379,Carne bovina - 1kg,Tapa Cuadril,2013,FEBRERO,35448
+380,Carne bovina - 1kg,Tapa Cuadril,2013,MARZO,33162
+381,Carne bovina - 1kg,Tapa Cuadril,2013,ABRIL,31410
+382,Carne bovina - 1kg,Tapa Cuadril,2013,MAYO,30179
+383,Carne bovina - 1kg,Tapa Cuadril,2013,JUNIO,32550
+384,Carne bovina - 1kg,Tapa Cuadril,2013,JULIO,30159
+385,Carne bovina - 1kg,Tapa Cuadril,2013,AGOSTO,30962
+386,Carne bovina - 1kg,Tapa Cuadril,2013,SETIEMBRE,32381
+387,Carne bovina - 1kg,Tapa Cuadril,2013,OCTUBRE,33322
+388,Carne bovina - 1kg,Tapa Cuadril,2013,NOVIEMBE,34943
+389,Carne bovina - 1kg,Tapa Cuadril,2013,DICIEMBRE,34702
+391,Carne bovina - 1kg,Rabadilla,2013,ENERO,26622
+392,Carne bovina - 1kg,Rabadilla,2013,FEBRERO,25033
+393,Carne bovina - 1kg,Rabadilla,2013,MARZO,25058
+394,Carne bovina - 1kg,Rabadilla,2013,ABRIL,23247
+395,Carne bovina - 1kg,Rabadilla,2013,MAYO,23851
+396,Carne bovina - 1kg,Rabadilla,2013,JUNIO,24297
+397,Carne bovina - 1kg,Rabadilla,2013,JULIO,24356
+398,Carne bovina - 1kg,Rabadilla,2013,AGOSTO,26333
+399,Carne bovina - 1kg,Rabadilla,2013,SETIEMBRE,25964
+400,Carne bovina - 1kg,Rabadilla,2013,OCTUBRE,28853
+401,Carne bovina - 1kg,Rabadilla,2013,NOVIEMBE,30265
+402,Carne bovina - 1kg,Rabadilla,2013,DICIEMBRE,29854
+404,Carne bovina - 1kg,Bola de Lomo,2013,ENERO,23236
+405,Carne bovina - 1kg,Bola de Lomo,2013,FEBRERO,24063
+406,Carne bovina - 1kg,Bola de Lomo,2013,MARZO,24121
+407,Carne bovina - 1kg,Bola de Lomo,2013,ABRIL,23085
+408,Carne bovina - 1kg,Bola de Lomo,2013,MAYO,23047
+409,Carne bovina - 1kg,Bola de Lomo,2013,JUNIO,23579
+410,Carne bovina - 1kg,Bola de Lomo,2013,JULIO,23797
+411,Carne bovina - 1kg,Bola de Lomo,2013,AGOSTO,24620
+412,Carne bovina - 1kg,Bola de Lomo,2013,SETIEMBRE,25842
+413,Carne bovina - 1kg,Bola de Lomo,2013,OCTUBRE,27554
+414,Carne bovina - 1kg,Bola de Lomo,2013,NOVIEMBE,26958
+415,Carne bovina - 1kg,Bola de Lomo,2013,DICIEMBRE,28314
+417,Carne bovina - 1kg,Palomita,2013,ENERO,28301
+418,Carne bovina - 1kg,Palomita,2013,FEBRERO,28336
+419,Carne bovina - 1kg,Palomita,2013,MARZO,28132
+420,Carne bovina - 1kg,Palomita,2013,ABRIL,24518
+421,Carne bovina - 1kg,Palomita,2013,MAYO,24404
+422,Carne bovina - 1kg,Palomita,2013,JUNIO,26347
+423,Carne bovina - 1kg,Palomita,2013,JULIO,24619
+424,Carne bovina - 1kg,Palomita,2013,AGOSTO,26015
+425,Carne bovina - 1kg,Palomita,2013,SETIEMBRE,27425
+426,Carne bovina - 1kg,Palomita,2013,OCTUBRE,28261
+427,Carne bovina - 1kg,Palomita,2013,NOVIEMBE,31291
+428,Carne bovina - 1kg,Palomita,2013,DICIEMBRE,30346
+430,Carne bovina - 1kg,Muchachito,2013,ENERO,22121
+431,Carne bovina - 1kg,Muchachito,2013,FEBRERO,21355
+432,Carne bovina - 1kg,Muchachito,2013,MARZO,20998
+433,Carne bovina - 1kg,Muchachito,2013,ABRIL,20769
+434,Carne bovina - 1kg,Muchachito,2013,MAYO,20647
+435,Carne bovina - 1kg,Muchachito,2013,JUNIO,20942
+436,Carne bovina - 1kg,Muchachito,2013,JULIO,20996
+437,Carne bovina - 1kg,Muchachito,2013,AGOSTO,20885
+438,Carne bovina - 1kg,Muchachito,2013,SETIEMBRE,21326
+439,Carne bovina - 1kg,Muchachito,2013,OCTUBRE,21735
+440,Carne bovina - 1kg,Muchachito,2013,NOVIEMBE,21800
+441,Carne bovina - 1kg,Muchachito,2013,DICIEMBRE,22505
+443,Carne bovina - 1kg,Paleta,2013,ENERO,20819
+444,Carne bovina - 1kg,Paleta,2013,FEBRERO,21895
+445,Carne bovina - 1kg,Paleta,2013,MARZO,21503
+446,Carne bovina - 1kg,Paleta,2013,ABRIL,22043
+447,Carne bovina - 1kg,Paleta,2013,MAYO,20330
+448,Carne bovina - 1kg,Paleta,2013,JUNIO,21443
+449,Carne bovina - 1kg,Paleta,2013,JULIO,22049
+450,Carne bovina - 1kg,Paleta,2013,AGOSTO,21757
+451,Carne bovina - 1kg,Paleta,2013,SETIEMBRE,22682
+452,Carne bovina - 1kg,Paleta,2013,OCTUBRE,24117
+453,Carne bovina - 1kg,Paleta,2013,NOVIEMBE,25132
+454,Carne bovina - 1kg,Paleta,2013,DICIEMBRE,24705
+456,Carne bovina - 1kg,Sambari,2013,ENERO,19938
+457,Carne bovina - 1kg,Sambari,2013,FEBRERO,19433
+458,Carne bovina - 1kg,Sambari,2013,MARZO,19888
+459,Carne bovina - 1kg,Sambari,2013,ABRIL,19331
+460,Carne bovina - 1kg,Sambari,2013,MAYO,18894
+461,Carne bovina - 1kg,Sambari,2013,JUNIO,19386
+462,Carne bovina - 1kg,Sambari,2013,JULIO,19188
+463,Carne bovina - 1kg,Sambari,2013,AGOSTO,19180
+464,Carne bovina - 1kg,Sambari,2013,SETIEMBRE,19158
+465,Carne bovina - 1kg,Sambari,2013,OCTUBRE,19930
+466,Carne bovina - 1kg,Sambari,2013,NOVIEMBE,20363
+467,Carne bovina - 1kg,Sambari,2013,DICIEMBRE,20487
+469,Carne bovina - 1kg,Matambre,2013,ENERO,14271
+470,Carne bovina - 1kg,Matambre,2013,FEBRERO,13819
+471,Carne bovina - 1kg,Matambre,2013,MARZO,12940
+472,Carne bovina - 1kg,Matambre,2013,ABRIL,13907
+473,Carne bovina - 1kg,Matambre,2013,MAYO,14080
+474,Carne bovina - 1kg,Matambre,2013,JUNIO,13687
+475,Carne bovina - 1kg,Matambre,2013,JULIO,15024
+476,Carne bovina - 1kg,Matambre,2013,AGOSTO,14142
+477,Carne bovina - 1kg,Matambre,2013,SETIEMBRE,14481
+478,Carne bovina - 1kg,Matambre,2013,OCTUBRE,15238
+479,Carne bovina - 1kg,Matambre,2013,NOVIEMBE,15507
+480,Carne bovina - 1kg,Matambre,2013,DICIEMBRE,15751
+482,Carne bovina - 1kg,Tapa de Asado,2013,ENERO,17157
+483,Carne bovina - 1kg,Tapa de Asado,2013,FEBRERO,17546
+484,Carne bovina - 1kg,Tapa de Asado,2013,MARZO,17115
+485,Carne bovina - 1kg,Tapa de Asado,2013,ABRIL,16875
+486,Carne bovina - 1kg,Tapa de Asado,2013,MAYO,15946
+487,Carne bovina - 1kg,Tapa de Asado,2013,JUNIO,16871
+488,Carne bovina - 1kg,Tapa de Asado,2013,JULIO,17806
+489,Carne bovina - 1kg,Tapa de Asado,2013,AGOSTO,16984
+490,Carne bovina - 1kg,Tapa de Asado,2013,SETIEMBRE,17921
+491,Carne bovina - 1kg,Tapa de Asado,2013,OCTUBRE,18360
+492,Carne bovina - 1kg,Tapa de Asado,2013,NOVIEMBE,18593
+493,Carne bovina - 1kg,Tapa de Asado,2013,DICIEMBRE,19809
+495,Carne bovina - 1kg,Espinazo Negro,2013,ENERO,11650
+496,Carne bovina - 1kg,Espinazo Negro,2013,FEBRERO,11566
+497,Carne bovina - 1kg,Espinazo Negro,2013,MARZO,12537
+498,Carne bovina - 1kg,Espinazo Negro,2013,ABRIL,13016
+499,Carne bovina - 1kg,Espinazo Negro,2013,MAYO,12827
+500,Carne bovina - 1kg,Espinazo Negro,2013,JUNIO,12487
+501,Carne bovina - 1kg,Espinazo Negro,2013,JULIO,13676
+502,Carne bovina - 1kg,Espinazo Negro,2013,AGOSTO,13941
+503,Carne bovina - 1kg,Espinazo Negro,2013,SETIEMBRE,13910
+504,Carne bovina - 1kg,Espinazo Negro,2013,OCTUBRE,14447
+505,Carne bovina - 1kg,Espinazo Negro,2013,NOVIEMBE,12417
+506,Carne bovina - 1kg,Espinazo Negro,2013,DICIEMBRE,14010
+508,Carne bovina - 1kg,Osobuco,2013,ENERO,12592
+509,Carne bovina - 1kg,Osobuco,2013,FEBRERO,13881
+510,Carne bovina - 1kg,Osobuco,2013,MARZO,13870
+511,Carne bovina - 1kg,Osobuco,2013,ABRIL,13802
+512,Carne bovina - 1kg,Osobuco,2013,MAYO,13351
+513,Carne bovina - 1kg,Osobuco,2013,JUNIO,13726
+514,Carne bovina - 1kg,Osobuco,2013,JULIO,14078
+515,Carne bovina - 1kg,Osobuco,2013,AGOSTO,14929
+516,Carne bovina - 1kg,Osobuco,2013,SETIEMBRE,14148
+517,Carne bovina - 1kg,Osobuco,2013,OCTUBRE,14130
+518,Carne bovina - 1kg,Osobuco,2013,NOVIEMBE,14321
+519,Carne bovina - 1kg,Osobuco,2013,DICIEMBRE,14184
+521,Carne bovina - 1kg,Cebo,2013,ENERO,2675
+522,Carne bovina - 1kg,Cebo,2013,FEBRERO,1736
+523,Carne bovina - 1kg,Cebo,2013,MARZO,1415
+524,Carne bovina - 1kg,Cebo,2013,ABRIL,1546
+525,Carne bovina - 1kg,Cebo,2013,MAYO,1392
+526,Carne bovina - 1kg,Cebo,2013,JUNIO,1522
+527,Carne bovina - 1kg,Cebo,2013,JULIO,1735
+528,Carne bovina - 1kg,Cebo,2013,AGOSTO,1640
+529,Carne bovina - 1kg,Cebo,2013,SETIEMBRE,1616
+530,Carne bovina - 1kg,Cebo,2013,OCTUBRE,1810
+531,Carne bovina - 1kg,Cebo,2013,NOVIEMBE,2090
+532,Carne bovina - 1kg,Cebo,2013,DICIEMBRE,1996
+534,Carne bovina - 1kg,Hueso Blanco,2013,ENERO,1226
+535,Carne bovina - 1kg,Hueso Blanco,2013,FEBRERO,1650
+536,Carne bovina - 1kg,Hueso Blanco,2013,MARZO,790
+537,Carne bovina - 1kg,Hueso Blanco,2013,ABRIL,1205
+538,Carne bovina - 1kg,Hueso Blanco,2013,MAYO,1250
+539,Carne bovina - 1kg,Hueso Blanco,2013,JUNIO,1224
+540,Carne bovina - 1kg,Hueso Blanco,2013,JULIO,1130
+541,Carne bovina - 1kg,Hueso Blanco,2013,AGOSTO,1128
+542,Carne bovina - 1kg,Hueso Blanco,2013,SETIEMBRE,1345
+543,Carne bovina - 1kg,Hueso Blanco,2013,OCTUBRE,1097
+544,Carne bovina - 1kg,Hueso Blanco,2013,NOVIEMBE,1102
+545,Carne bovina - 1kg,Hueso Blanco,2013,DICIEMBRE,1344
 547,Carne porcina - 1kg,Riñón,2013,ENERO,1953
 548,Carne porcina - 1kg,Riñón,2013,FEBRERO,2060
 549,Carne porcina - 1kg,Riñón,2013,MARZO,2009
@@ -557,7 +515,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 556,Carne porcina - 1kg,Riñón,2013,OCTUBRE,2444
 557,Carne porcina - 1kg,Riñón,2013,NOVIEMBE,3778
 558,Carne porcina - 1kg,Riñón,2013,DICIEMBRE,2260
-559,Carne porcina - 1kg,Riñón,2013,PROMEDIO,3003
 560,Carne porcina - 1kg,Lomo de cerdo,2013,ENERO,23624
 561,Carne porcina - 1kg,Lomo de cerdo,2013,FEBRERO,23457
 562,Carne porcina - 1kg,Lomo de cerdo,2013,MARZO,24756
@@ -570,7 +527,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 569,Carne porcina - 1kg,Lomo de cerdo,2013,OCTUBRE,25665
 570,Carne porcina - 1kg,Lomo de cerdo,2013,NOVIEMBE,26580
 571,Carne porcina - 1kg,Lomo de cerdo,2013,DICIEMBRE,25597
-572,Carne porcina - 1kg,Lomo de cerdo,2013,PROMEDIO,33235
 573,Carne porcina - 1kg,Costilla de cerdo,2013,ENERO,19129
 574,Carne porcina - 1kg,Costilla de cerdo,2013,FEBRERO,19950
 575,Carne porcina - 1kg,Costilla de cerdo,2013,MARZO,19686
@@ -583,7 +539,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 582,Carne porcina - 1kg,Costilla de cerdo,2013,OCTUBRE,19129
 583,Carne porcina - 1kg,Costilla de cerdo,2013,NOVIEMBE,20575
 584,Carne porcina - 1kg,Costilla de cerdo,2013,DICIEMBRE,20874
-585,Carne porcina - 1kg,Costilla de cerdo,2013,PROMEDIO,25671
 586,Carne porcina - 1kg,Costeleta,2013,ENERO,15339
 587,Carne porcina - 1kg,Costeleta,2013,FEBRERO,18462
 588,Carne porcina - 1kg,Costeleta,2013,MARZO,17568
@@ -596,7 +551,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 595,Carne porcina - 1kg,Costeleta,2013,OCTUBRE,19605
 596,Carne porcina - 1kg,Costeleta,2013,NOVIEMBE,19096
 597,Carne porcina - 1kg,Costeleta,2013,DICIEMBRE,18671
-598,Carne porcina - 1kg,Costeleta,2013,PROMEDIO,22665
 599,Carne porcina - 1kg,Paleta de cerdo,2013,ENERO,14663
 600,Carne porcina - 1kg,Paleta de cerdo,2013,FEBRERO,15223
 601,Carne porcina - 1kg,Paleta de cerdo,2013,MARZO,16457
@@ -609,7 +563,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 608,Carne porcina - 1kg,Paleta de cerdo,2013,OCTUBRE,17844
 609,Carne porcina - 1kg,Paleta de cerdo,2013,NOVIEMBE,18400
 610,Carne porcina - 1kg,Paleta de cerdo,2013,DICIEMBRE,16879
-611,Carne porcina - 1kg,Paleta de cerdo,2013,PROMEDIO,20875
 612,Carne porcina - 1kg,Pierna,2013,ENERO,16228
 613,Carne porcina - 1kg,Pierna,2013,FEBRERO,17626
 614,Carne porcina - 1kg,Pierna,2013,MARZO,17357
@@ -622,7 +575,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 621,Carne porcina - 1kg,Pierna,2013,OCTUBRE,17173
 622,Carne porcina - 1kg,Pierna,2013,NOVIEMBE,18466
 623,Carne porcina - 1kg,Pierna,2013,DICIEMBRE,18773
-624,Carne porcina - 1kg,Pierna,2013,PROMEDIO,22309
 625,Carne porcina - 1kg,Puchero,2013,ENERO,3978
 626,Carne porcina - 1kg,Puchero,2013,FEBRERO,5361
 627,Carne porcina - 1kg,Puchero,2013,MARZO,5191
@@ -635,7 +587,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 634,Carne porcina - 1kg,Puchero,2013,OCTUBRE,5093
 635,Carne porcina - 1kg,Puchero,2013,NOVIEMBE,4988
 636,Carne porcina - 1kg,Puchero,2013,DICIEMBRE,5159
-637,Carne porcina - 1kg,Puchero,2013,PROMEDIO,7091
 638,Carne de ave / Puchero - 1kg,Marca mas económica,2013,ENERO,3867
 639,Carne de ave / Puchero - 1kg,Marca mas económica,2013,FEBRERO,4157
 640,Carne de ave / Puchero - 1kg,Marca mas económica,2013,MARZO,4393
@@ -648,46 +599,42 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 647,Carne de ave / Puchero - 1kg,Marca mas económica,2013,OCTUBRE,5212
 648,Carne de ave / Puchero - 1kg,Marca mas económica,2013,NOVIEMBE,5061
 649,Carne de ave / Puchero - 1kg,Marca mas económica,2013,DICIEMBRE,5064
-650,Carne de ave / Puchero - 1kg,Marca mas económica,2013,PROMEDIO,6574
-651,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,ENERO,12678
-652,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,FEBRERO,13638
-653,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,MARZO,13600
-654,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,ABRIL,13060
-655,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,MAYO,13168
-656,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,JUNIO,13367
-657,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,JULIO,10237
-658,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,AGOSTO,10818
-659,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,SETIEMBRE,10979
-660,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,OCTUBRE,10287
-661,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,NOVIEMBE,11109
-662,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,DICIEMBRE,11524
-663,Carne de ave/ pechuga - 1kg,Marca mas económica,2013,PROMEDIO,16052
-664,Carne de ave /pata entera-1kg,Marca mas económica,2013,ENERO,16779
-665,Carne de ave /pata entera-1kg,Marca mas económica,2013,FEBRERO,16478
-666,Carne de ave /pata entera-1kg,Marca mas económica,2013,MARZO,17316
-667,Carne de ave /pata entera-1kg,Marca mas económica,2013,ABRIL,16072
-668,Carne de ave /pata entera-1kg,Marca mas económica,2013,MAYO,14969
-669,Carne de ave /pata entera-1kg,Marca mas económica,2013,JUNIO,16209
-670,Carne de ave /pata entera-1kg,Marca mas económica,2013,JULIO,11581
-671,Carne de ave /pata entera-1kg,Marca mas económica,2013,AGOSTO,12394
-672,Carne de ave /pata entera-1kg,Marca mas económica,2013,SETIEMBRE,12019
-673,Carne de ave /pata entera-1kg,Marca mas económica,2013,OCTUBRE,12846
-674,Carne de ave /pata entera-1kg,Marca mas económica,2013,NOVIEMBE,13549
-675,Carne de ave /pata entera-1kg,Marca mas económica,2013,DICIEMBRE,12823
-676,Carne de ave /pata entera-1kg,Marca mas económica,2013,PROMEDIO,19226
-677,Carne de ave / pollo entero-1kg,Marca mas económica,2013,ENERO,10961
-678,Carne de ave / pollo entero-1kg,Marca mas económica,2013,FEBRERO,10542
-679,Carne de ave / pollo entero-1kg,Marca mas económica,2013,MARZO,10243
-680,Carne de ave / pollo entero-1kg,Marca mas económica,2013,ABRIL,10323
-681,Carne de ave / pollo entero-1kg,Marca mas económica,2013,MAYO,10421
-682,Carne de ave / pollo entero-1kg,Marca mas económica,2013,JUNIO,10382
-683,Carne de ave / pollo entero-1kg,Marca mas económica,2013,JULIO,9426
-684,Carne de ave / pollo entero-1kg,Marca mas económica,2013,AGOSTO,9782
-685,Carne de ave / pollo entero-1kg,Marca mas económica,2013,SETIEMBRE,9931
-686,Carne de ave / pollo entero-1kg,Marca mas económica,2013,OCTUBRE,9946
-687,Carne de ave / pollo entero-1kg,Marca mas económica,2013,NOVIEMBE,9937
-688,Carne de ave / pollo entero-1kg,Marca mas económica,2013,DICIEMBRE,10332
-689,Carne de ave / pollo entero-1kg,Marca mas económica,2013,PROMEDIO,13580
+651,Carne de ave / pechuga - 1kg,Marca mas económica,2013,ENERO,12678
+652,Carne de ave / pechuga - 1kg,Marca mas económica,2013,FEBRERO,13638
+653,Carne de ave / pechuga - 1kg,Marca mas económica,2013,MARZO,13600
+654,Carne de ave / pechuga - 1kg,Marca mas económica,2013,ABRIL,13060
+655,Carne de ave / pechuga - 1kg,Marca mas económica,2013,MAYO,13168
+656,Carne de ave / pechuga - 1kg,Marca mas económica,2013,JUNIO,13367
+657,Carne de ave / pechuga - 1kg,Marca mas económica,2013,JULIO,10237
+658,Carne de ave / pechuga - 1kg,Marca mas económica,2013,AGOSTO,10818
+659,Carne de ave / pechuga - 1kg,Marca mas económica,2013,SETIEMBRE,10979
+660,Carne de ave / pechuga - 1kg,Marca mas económica,2013,OCTUBRE,10287
+661,Carne de ave / pechuga - 1kg,Marca mas económica,2013,NOVIEMBE,11109
+662,Carne de ave / pechuga - 1kg,Marca mas económica,2013,DICIEMBRE,11524
+664,Carne de ave / pata entera - 1kg,Marca mas económica,2013,ENERO,16779
+665,Carne de ave / pata entera - 1kg,Marca mas económica,2013,FEBRERO,16478
+666,Carne de ave / pata entera - 1kg,Marca mas económica,2013,MARZO,17316
+667,Carne de ave / pata entera - 1kg,Marca mas económica,2013,ABRIL,16072
+668,Carne de ave / pata entera - 1kg,Marca mas económica,2013,MAYO,14969
+669,Carne de ave / pata entera - 1kg,Marca mas económica,2013,JUNIO,16209
+670,Carne de ave / pata entera - 1kg,Marca mas económica,2013,JULIO,11581
+671,Carne de ave / pata entera - 1kg,Marca mas económica,2013,AGOSTO,12394
+672,Carne de ave / pata entera - 1kg,Marca mas económica,2013,SETIEMBRE,12019
+673,Carne de ave / pata entera - 1kg,Marca mas económica,2013,OCTUBRE,12846
+674,Carne de ave / pata entera - 1kg,Marca mas económica,2013,NOVIEMBE,13549
+675,Carne de ave / pata entera - 1kg,Marca mas económica,2013,DICIEMBRE,12823
+677,Carne de ave / pollo entero - 1kg,Marca mas económica,2013,ENERO,10961
+678,Carne de ave / pollo entero - 1kg,Marca mas económica,2013,FEBRERO,10542
+679,Carne de ave / pollo entero - 1kg,Marca mas económica,2013,MARZO,10243
+680,Carne de ave / pollo entero - 1kg,Marca mas económica,2013,ABRIL,10323
+681,Carne de ave / pollo entero - 1kg,Marca mas económica,2013,MAYO,10421
+682,Carne de ave / pollo entero - 1kg,Marca mas económica,2013,JUNIO,10382
+683,Carne de ave / pollo entero - 1kg,Marca mas económica,2013,JULIO,9426
+684,Carne de ave / pollo entero - 1kg,Marca mas económica,2013,AGOSTO,9782
+685,Carne de ave / pollo entero - 1kg,Marca mas económica,2013,SETIEMBRE,9931
+686,Carne de ave / pollo entero - 1kg,Marca mas económica,2013,OCTUBRE,9946
+687,Carne de ave / pollo entero - 1kg,Marca mas económica,2013,NOVIEMBE,9937
+688,Carne de ave / pollo entero - 1kg,Marca mas económica,2013,DICIEMBRE,10332
 690,Carne de ave / Ala - 1kg,Marca mas económica,2013,ENERO,12463
 691,Carne de ave / Ala - 1kg,Marca mas económica,2013,FEBRERO,12749
 692,Carne de ave / Ala - 1kg,Marca mas económica,2013,MARZO,12896
@@ -700,7 +647,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 699,Carne de ave / Ala - 1kg,Marca mas económica,2013,OCTUBRE,11740
 700,Carne de ave / Ala - 1kg,Marca mas económica,2013,NOVIEMBE,12178
 701,Carne de ave / Ala - 1kg,Marca mas económica,2013,DICIEMBRE,11831
-702,Carne de ave / Ala - 1kg,Marca mas económica,2013,PROMEDIO,16261
 703,Carne de ave / Tacaraa - 1kg,Marca mas económica,2013,ENERO,5442
 704,Carne de ave / Tacaraa - 1kg,Marca mas económica,2013,FEBRERO,6129
 705,Carne de ave / Tacaraa - 1kg,Marca mas económica,2013,MARZO,8083
@@ -713,7 +659,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 712,Carne de ave / Tacaraa - 1kg,Marca mas económica,2013,OCTUBRE,9159
 713,Carne de ave / Tacaraa - 1kg,Marca mas económica,2013,NOVIEMBE,9095
 714,Carne de ave / Tacaraa - 1kg,Marca mas económica,2013,DICIEMBRE,8128
-715,Carne de ave / Tacaraa - 1kg,Marca mas económica,2013,PROMEDIO,11051
 716,Carne de ave / Hígado - 1kg,Marca mas económica,2013,ENERO,3889
 717,Carne de ave / Hígado - 1kg,Marca mas económica,2013,FEBRERO,3958
 718,Carne de ave / Hígado - 1kg,Marca mas económica,2013,MARZO,4208
@@ -726,46 +671,42 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 725,Carne de ave / Hígado - 1kg,Marca mas económica,2013,OCTUBRE,4006
 726,Carne de ave / Hígado - 1kg,Marca mas económica,2013,NOVIEMBE,3949
 727,Carne de ave / Hígado - 1kg,Marca mas económica,2013,DICIEMBRE,3747
-728,Carne de ave / Hígado - 1kg,Marca mas económica,2013,PROMEDIO,5631
-729,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,ENERO,11886
-730,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,FEBRERO,11569
-731,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,MARZO,12183
-732,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,ABRIL,11890
-733,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,MAYO,12313
-734,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,JUNIO,11989
-735,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,JULIO,12656
-736,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,AGOSTO,12963
-737,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,SETIEMBRE,13377
-738,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,OCTUBRE,13955
-739,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,NOVIEMBE,14630
-740,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,DICIEMBRE,14707
-741,Carne de ave / Corazoncito- 1kg,Marca mas económica,2013,PROMEDIO,17124
-742,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,ENERO,16004
-743,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,FEBRERO,15694
-744,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,MARZO,16280
-745,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,ABRIL,15395
-746,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,MAYO,15746
-747,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,JUNIO,15779
-748,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,JULIO,15276
-749,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,AGOSTO,15533
-750,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,SETIEMBRE,15406
-751,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,OCTUBRE,16445
-752,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,NOVIEMBE,16555
-753,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,DICIEMBRE,16059
-754,Embutido/chorizo Viena- 1kg,Marca mas económica,2013,PROMEDIO,21130
-755,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,ENERO,17882
-756,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,FEBRERO,16651
-757,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,MARZO,17452
-758,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,ABRIL,16283
-759,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,MAYO,16556
-760,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,JUNIO,16736
-761,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,JULIO,17870
-762,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,AGOSTO,17650
-763,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,SETIEMBRE,17809
-764,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,OCTUBRE,18209
-765,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,NOVIEMBE,17907
-766,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,DICIEMBRE,17920
-767,Embutido/fiambre Paris- 1kg,Marca mas económica,2013,PROMEDIO,23214
+729,Carne de ave / Corazoncito - 1kg,Marca mas económica,2013,ENERO,11886
+730,Carne de ave / Corazoncito - 1kg,Marca mas económica,2013,FEBRERO,11569
+731,Carne de ave / Corazoncito - 1kg,Marca mas económica,2013,MARZO,12183
+732,Carne de ave / Corazoncito - 1kg,Marca mas económica,2013,ABRIL,11890
+733,Carne de ave / Corazoncito - 1kg,Marca mas económica,2013,MAYO,12313
+734,Carne de ave / Corazoncito - 1kg,Marca mas económica,2013,JUNIO,11989
+735,Carne de ave / Corazoncito - 1kg,Marca mas económica,2013,JULIO,12656
+736,Carne de ave / Corazoncito - 1kg,Marca mas económica,2013,AGOSTO,12963
+737,Carne de ave / Corazoncito - 1kg,Marca mas económica,2013,SETIEMBRE,13377
+738,Carne de ave / Corazoncito - 1kg,Marca mas económica,2013,OCTUBRE,13955
+739,Carne de ave / Corazoncito - 1kg,Marca mas económica,2013,NOVIEMBE,14630
+740,Carne de ave / Corazoncito - 1kg,Marca mas económica,2013,DICIEMBRE,14707
+742,Embutido / chorizo Viena - 1kg,Marca mas económica,2013,ENERO,16004
+743,Embutido / chorizo Viena - 1kg,Marca mas económica,2013,FEBRERO,15694
+744,Embutido / chorizo Viena - 1kg,Marca mas económica,2013,MARZO,16280
+745,Embutido / chorizo Viena - 1kg,Marca mas económica,2013,ABRIL,15395
+746,Embutido / chorizo Viena - 1kg,Marca mas económica,2013,MAYO,15746
+747,Embutido / chorizo Viena - 1kg,Marca mas económica,2013,JUNIO,15779
+748,Embutido / chorizo Viena - 1kg,Marca mas económica,2013,JULIO,15276
+749,Embutido / chorizo Viena - 1kg,Marca mas económica,2013,AGOSTO,15533
+750,Embutido / chorizo Viena - 1kg,Marca mas económica,2013,SETIEMBRE,15406
+751,Embutido / chorizo Viena - 1kg,Marca mas económica,2013,OCTUBRE,16445
+752,Embutido / chorizo Viena - 1kg,Marca mas económica,2013,NOVIEMBE,16555
+753,Embutido / chorizo Viena - 1kg,Marca mas económica,2013,DICIEMBRE,16059
+755,Embutido / fiambre Paris - 1kg,Marca mas económica,2013,ENERO,17882
+756,Embutido / fiambre Paris - 1kg,Marca mas económica,2013,FEBRERO,16651
+757,Embutido / fiambre Paris - 1kg,Marca mas económica,2013,MARZO,17452
+758,Embutido / fiambre Paris - 1kg,Marca mas económica,2013,ABRIL,16283
+759,Embutido / fiambre Paris - 1kg,Marca mas económica,2013,MAYO,16556
+760,Embutido / fiambre Paris - 1kg,Marca mas económica,2013,JUNIO,16736
+761,Embutido / fiambre Paris - 1kg,Marca mas económica,2013,JULIO,17870
+762,Embutido / fiambre Paris - 1kg,Marca mas económica,2013,AGOSTO,17650
+763,Embutido / fiambre Paris - 1kg,Marca mas económica,2013,SETIEMBRE,17809
+764,Embutido / fiambre Paris - 1kg,Marca mas económica,2013,OCTUBRE,18209
+765,Embutido / fiambre Paris - 1kg,Marca mas económica,2013,NOVIEMBE,17907
+766,Embutido / fiambre Paris - 1kg,Marca mas económica,2013,DICIEMBRE,17920
 768,Queso - 1kg,Queso Paraguay,2013,ENERO,16429
 769,Queso - 1kg,Queso Paraguay,2013,FEBRERO,19030
 770,Queso - 1kg,Queso Paraguay,2013,MARZO,21670
@@ -778,7 +719,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 777,Queso - 1kg,Queso Paraguay,2013,OCTUBRE,24762
 778,Queso - 1kg,Queso Paraguay,2013,NOVIEMBE,24209
 779,Queso - 1kg,Queso Paraguay,2013,DICIEMBRE,20782
-780,Queso - 1kg,Queso Paraguay,2013,PROMEDIO,29056
 781,Queso sándwich - 1kg,Marca mas económica,2013,ENERO,24489
 782,Queso sándwich - 1kg,Marca mas económica,2013,FEBRERO,25358
 783,Queso sándwich - 1kg,Marca mas económica,2013,MARZO,27809
@@ -791,7 +731,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 790,Queso sándwich - 1kg,Marca mas económica,2013,OCTUBRE,34685
 791,Queso sándwich - 1kg,Marca mas económica,2013,NOVIEMBE,35017
 792,Queso sándwich - 1kg,Marca mas económica,2013,DICIEMBRE,31375
-793,Queso sándwich - 1kg,Marca mas económica,2013,PROMEDIO,41652
 794,Aceite de soja - 900cc,Marca mas económica,2013,ENERO,7510
 795,Aceite de soja - 900cc,Marca mas económica,2013,FEBRERO,7217
 796,Aceite de soja - 900cc,Marca mas económica,2013,MARZO,7616
@@ -804,20 +743,18 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 803,Aceite de soja - 900cc,Marca mas económica,2013,OCTUBRE,6669
 804,Aceite de soja - 900cc,Marca mas económica,2013,NOVIEMBE,7578
 805,Aceite de soja - 900cc,Marca mas económica,2013,DICIEMBRE,6653
-806,Aceite de soja - 900cc,Marca mas económica,2013,PROMEDIO,9309
-807,Aceite de girasol - 900 cc,Marca mas económica,2013,ENERO,10102
-808,Aceite de girasol - 900 cc,Marca mas económica,2013,FEBRERO,10210
-809,Aceite de girasol - 900 cc,Marca mas económica,2013,MARZO,10183
-810,Aceite de girasol - 900 cc,Marca mas económica,2013,ABRIL,9400
-811,Aceite de girasol - 900 cc,Marca mas económica,2013,MAYO,9196
-812,Aceite de girasol - 900 cc,Marca mas económica,2013,JUNIO,9747
-813,Aceite de girasol - 900 cc,Marca mas económica,2013,JULIO,9087
-814,Aceite de girasol - 900 cc,Marca mas económica,2013,AGOSTO,9769
-815,Aceite de girasol - 900 cc,Marca mas económica,2013,SETIEMBRE,9833
-816,Aceite de girasol - 900 cc,Marca mas económica,2013,OCTUBRE,10084
-817,Aceite de girasol - 900 cc,Marca mas económica,2013,NOVIEMBE,10091
-818,Aceite de girasol - 900 cc,Marca mas económica,2013,DICIEMBRE,9733
-819,Aceite de girasol - 900 cc,Marca mas económica,2013,PROMEDIO,13048
+807,Aceite de girasol - 900cc,Marca mas económica,2013,ENERO,10102
+808,Aceite de girasol - 900cc,Marca mas económica,2013,FEBRERO,10210
+809,Aceite de girasol - 900cc,Marca mas económica,2013,MARZO,10183
+810,Aceite de girasol - 900cc,Marca mas económica,2013,ABRIL,9400
+811,Aceite de girasol - 900cc,Marca mas económica,2013,MAYO,9196
+812,Aceite de girasol - 900cc,Marca mas económica,2013,JUNIO,9747
+813,Aceite de girasol - 900cc,Marca mas económica,2013,JULIO,9087
+814,Aceite de girasol - 900cc,Marca mas económica,2013,AGOSTO,9769
+815,Aceite de girasol - 900cc,Marca mas económica,2013,SETIEMBRE,9833
+816,Aceite de girasol - 900cc,Marca mas económica,2013,OCTUBRE,10084
+817,Aceite de girasol - 900cc,Marca mas económica,2013,NOVIEMBE,10091
+818,Aceite de girasol - 900cc,Marca mas económica,2013,DICIEMBRE,9733
 820,Aceite de maíz - 1lt,Marca mas económica,2013,ENERO,15669
 821,Aceite de maíz - 1lt,Marca mas económica,2013,FEBRERO,15785
 822,Aceite de maíz - 1lt,Marca mas económica,2013,MARZO,14998
@@ -830,7 +767,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 829,Aceite de maíz - 1lt,Marca mas económica,2013,OCTUBRE,16993
 830,Aceite de maíz - 1lt,Marca mas económica,2013,NOVIEMBE,17048
 831,Aceite de maíz - 1lt,Marca mas económica,2013,DICIEMBRE,17126
-832,Aceite de maíz - 1lt,Marca mas económica,2013,PROMEDIO,21530
 833,Leche sachet - 1lt,Marca mas económica,2013,ENERO,3065
 834,Leche sachet - 1lt,Marca mas económica,2013,FEBRERO,2775
 835,Leche sachet - 1lt,Marca mas económica,2013,MARZO,2917
@@ -843,20 +779,18 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 842,Leche sachet - 1lt,Marca mas económica,2013,OCTUBRE,3377
 843,Leche sachet - 1lt,Marca mas económica,2013,NOVIEMBE,3357
 844,Leche sachet - 1lt,Marca mas económica,2013,DICIEMBRE,3337
-845,Leche sachet - 1lt,Marca mas económica,2013,PROMEDIO,4221
-846,Lecha sachet - 1/2 lt,Marca mas económica,2013,ENERO,1468
-847,Lecha sachet - 1/2 lt,Marca mas económica,2013,FEBRERO,1478
-848,Lecha sachet - 1/2 lt,Marca mas económica,2013,MARZO,1536
-849,Lecha sachet - 1/2 lt,Marca mas económica,2013,ABRIL,1602
-850,Lecha sachet - 1/2 lt,Marca mas económica,2013,MAYO,1700
-851,Lecha sachet - 1/2 lt,Marca mas económica,2013,JUNIO,1579
-852,Lecha sachet - 1/2 lt,Marca mas económica,2013,JULIO,1706
-853,Lecha sachet - 1/2 lt,Marca mas económica,2013,AGOSTO,1711
-854,Lecha sachet - 1/2 lt,Marca mas económica,2013,SETIEMBRE,1685
-855,Lecha sachet - 1/2 lt,Marca mas económica,2013,OCTUBRE,1765
-856,Lecha sachet - 1/2 lt,Marca mas económica,2013,NOVIEMBE,1736
-857,Lecha sachet - 1/2 lt,Marca mas económica,2013,DICIEMBRE,1700
-858,Lecha sachet - 1/2 lt,Marca mas económica,2013,PROMEDIO,2185
+846,Leche sachet - 1/2 lt,Marca mas económica,2013,ENERO,1468
+847,Leche sachet - 1/2 lt,Marca mas económica,2013,FEBRERO,1478
+848,Leche sachet - 1/2 lt,Marca mas económica,2013,MARZO,1536
+849,Leche sachet - 1/2 lt,Marca mas económica,2013,ABRIL,1602
+850,Leche sachet - 1/2 lt,Marca mas económica,2013,MAYO,1700
+851,Leche sachet - 1/2 lt,Marca mas económica,2013,JUNIO,1579
+852,Leche sachet - 1/2 lt,Marca mas económica,2013,JULIO,1706
+853,Leche sachet - 1/2 lt,Marca mas económica,2013,AGOSTO,1711
+854,Leche sachet - 1/2 lt,Marca mas económica,2013,SETIEMBRE,1685
+855,Leche sachet - 1/2 lt,Marca mas económica,2013,OCTUBRE,1765
+856,Leche sachet - 1/2 lt,Marca mas económica,2013,NOVIEMBE,1736
+857,Leche sachet - 1/2 lt,Marca mas económica,2013,DICIEMBRE,1700
 859,Leche UHT - 1lt,Marca mas económica,2013,ENERO,3696
 860,Leche UHT - 1lt,Marca mas económica,2013,FEBRERO,3634
 861,Leche UHT - 1lt,Marca mas económica,2013,MARZO,3799
@@ -869,20 +803,18 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 868,Leche UHT - 1lt,Marca mas económica,2013,OCTUBRE,4349
 869,Leche UHT - 1lt,Marca mas económica,2013,NOVIEMBE,4233
 870,Leche UHT - 1lt,Marca mas económica,2013,DICIEMBRE,4256
-871,Leche UHT - 1lt,Marca mas económica,2013,PROMEDIO,5435
-872,Leche UHT- 1/2 lt,Marca mas económica,2013,ENERO,2051
-873,Leche UHT- 1/2 lt,Marca mas económica,2013,FEBRERO,2064
-874,Leche UHT- 1/2 lt,Marca mas económica,2013,MARZO,2070
-875,Leche UHT- 1/2 lt,Marca mas económica,2013,ABRIL,2260
-876,Leche UHT- 1/2 lt,Marca mas económica,2013,MAYO,2380
-877,Leche UHT- 1/2 lt,Marca mas económica,2013,JUNIO,2193
-878,Leche UHT- 1/2 lt,Marca mas económica,2013,JULIO,2359
-879,Leche UHT- 1/2 lt,Marca mas económica,2013,AGOSTO,2384
-880,Leche UHT- 1/2 lt,Marca mas económica,2013,SETIEMBRE,2333
-881,Leche UHT- 1/2 lt,Marca mas económica,2013,OCTUBRE,2353
-882,Leche UHT- 1/2 lt,Marca mas económica,2013,NOVIEMBE,2415
-883,Leche UHT- 1/2 lt,Marca mas económica,2013,DICIEMBRE,2408
-884,Leche UHT- 1/2 lt,Marca mas económica,2013,PROMEDIO,3030
+872,Leche UHT - 1/2 lt,Marca mas económica,2013,ENERO,2051
+873,Leche UHT - 1/2 lt,Marca mas económica,2013,FEBRERO,2064
+874,Leche UHT - 1/2 lt,Marca mas económica,2013,MARZO,2070
+875,Leche UHT - 1/2 lt,Marca mas económica,2013,ABRIL,2260
+876,Leche UHT - 1/2 lt,Marca mas económica,2013,MAYO,2380
+877,Leche UHT - 1/2 lt,Marca mas económica,2013,JUNIO,2193
+878,Leche UHT - 1/2 lt,Marca mas económica,2013,JULIO,2359
+879,Leche UHT - 1/2 lt,Marca mas económica,2013,AGOSTO,2384
+880,Leche UHT - 1/2 lt,Marca mas económica,2013,SETIEMBRE,2333
+881,Leche UHT - 1/2 lt,Marca mas económica,2013,OCTUBRE,2353
+882,Leche UHT - 1/2 lt,Marca mas económica,2013,NOVIEMBE,2415
+883,Leche UHT - 1/2 lt,Marca mas económica,2013,DICIEMBRE,2408
 885,Yogurt - 350 gr,Marca mas económica,2013,ENERO,2871
 886,Yogurt - 350 gr,Marca mas económica,2013,FEBRERO,2752
 887,Yogurt - 350 gr,Marca mas económica,2013,MARZO,2846
@@ -895,7 +827,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 894,Yogurt - 350 gr,Marca mas económica,2013,OCTUBRE,2877
 895,Yogurt - 350 gr,Marca mas económica,2013,NOVIEMBE,2858
 896,Yogurt - 350 gr,Marca mas económica,2013,DICIEMBRE,2846
-897,Yogurt - 350 gr,Marca mas económica,2013,PROMEDIO,3802
 898,Huevos de gallina - 1/2 doc.,Marca mas económica,2013,ENERO,3532
 899,Huevos de gallina - 1/2 doc.,Marca mas económica,2013,FEBRERO,3611
 900,Huevos de gallina - 1/2 doc.,Marca mas económica,2013,MARZO,3703
@@ -908,124 +839,114 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 907,Huevos de gallina - 1/2 doc.,Marca mas económica,2013,OCTUBRE,3916
 908,Huevos de gallina - 1/2 doc.,Marca mas económica,2013,NOVIEMBE,3741
 909,Huevos de gallina - 1/2 doc.,Marca mas económica,2013,DICIEMBRE,3732
-910,Huevos de gallina - 1/2 doc.,Marca mas económica,2013,PROMEDIO,4950
-911,"Fruta,hortaliza - 1kg",Naranja,2013,ENERO,2311
-912,"Fruta,hortaliza - 1kg",Naranja,2013,FEBRERO,2331
-913,"Fruta,hortaliza - 1kg",Naranja,2013,MARZO,2307
-914,"Fruta,hortaliza - 1kg",Naranja,2013,ABRIL,2049
-915,"Fruta,hortaliza - 1kg",Naranja,2013,MAYO,2120
-916,"Fruta,hortaliza - 1kg",Naranja,2013,JUNIO,2202
-917,"Fruta,hortaliza - 1kg",Naranja,2013,JULIO,1963
-918,"Fruta,hortaliza - 1kg",Naranja,2013,AGOSTO,2255
-919,"Fruta,hortaliza - 1kg",Naranja,2013,SETIEMBRE,2187
-920,"Fruta,hortaliza - 1kg",Naranja,2013,OCTUBRE,2402
-921,"Fruta,hortaliza - 1kg",Naranja,2013,NOVIEMBE,3068
-922,"Fruta,hortaliza - 1kg",Naranja,2013,DICIEMBRE,2918
-923,"Fruta,hortaliza - 1kg",Naranja,2013,PROMEDIO,3124
-924,"Fruta,hortaliza - 1kg",Banana carape,2013,ENERO,2946
-925,"Fruta,hortaliza - 1kg",Banana carape,2013,FEBRERO,2874
-926,"Fruta,hortaliza - 1kg",Banana carape,2013,MARZO,2567
-927,"Fruta,hortaliza - 1kg",Banana carape,2013,ABRIL,2362
-928,"Fruta,hortaliza - 1kg",Banana carape,2013,MAYO,2274
-929,"Fruta,hortaliza - 1kg",Banana carape,2013,JUNIO,2519
-930,"Fruta,hortaliza - 1kg",Banana carape,2013,JULIO,1580
-931,"Fruta,hortaliza - 1kg",Banana carape,2013,AGOSTO,1501
-932,"Fruta,hortaliza - 1kg",Banana carape,2013,SETIEMBRE,1932
-933,"Fruta,hortaliza - 1kg",Banana carape,2013,OCTUBRE,2288
-934,"Fruta,hortaliza - 1kg",Banana carape,2013,NOVIEMBE,2994
-935,"Fruta,hortaliza - 1kg",Banana carape,2013,DICIEMBRE,4411
-936,"Fruta,hortaliza - 1kg",Banana carape,2013,PROMEDIO,3361
-937,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,ENERO,2093
-938,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,FEBRERO,1413
-939,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,MARZO,1480
-940,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,ABRIL,1386
-941,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,MAYO,1576
-942,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,JUNIO,1464
-943,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,JULIO,1394
-944,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,AGOSTO,1043
-945,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,SETIEMBRE,858
-946,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,OCTUBRE,860
-947,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,NOVIEMBE,967
-948,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,DICIEMBRE,1367
-949,"Fruta,hortaliza - 1kg",Lechuga - 1 maso,2013,PROMEDIO,1767
-950,"Fruta,hortaliza - 1kg",Locote,2013,ENERO,7086
-951,"Fruta,hortaliza - 1kg",Locote,2013,FEBRERO,6892
-952,"Fruta,hortaliza - 1kg",Locote,2013,MARZO,6622
-953,"Fruta,hortaliza - 1kg",Locote,2013,ABRIL,8075
-954,"Fruta,hortaliza - 1kg",Locote,2013,MAYO,7582
-955,"Fruta,hortaliza - 1kg",Locote,2013,JUNIO,7293
-956,"Fruta,hortaliza - 1kg",Locote,2013,JULIO,9651
-957,"Fruta,hortaliza - 1kg",Locote,2013,AGOSTO,10878
-958,"Fruta,hortaliza - 1kg",Locote,2013,SETIEMBRE,10703
-959,"Fruta,hortaliza - 1kg",Locote,2013,OCTUBRE,9473
-960,"Fruta,hortaliza - 1kg",Locote,2013,NOVIEMBE,5575
-961,"Fruta,hortaliza - 1kg",Locote,2013,DICIEMBRE,3948
-962,"Fruta,hortaliza - 1kg",Locote,2013,PROMEDIO,10420
-963,"Fruta,hortaliza - 1kg",Zanahoria,2013,ENERO,3923
-964,"Fruta,hortaliza - 1kg",Zanahoria,2013,FEBRERO,4521
-965,"Fruta,hortaliza - 1kg",Zanahoria,2013,MARZO,5085
-966,"Fruta,hortaliza - 1kg",Zanahoria,2013,ABRIL,5292
-967,"Fruta,hortaliza - 1kg",Zanahoria,2013,MAYO,4608
-968,"Fruta,hortaliza - 1kg",Zanahoria,2013,JUNIO,4876
-969,"Fruta,hortaliza - 1kg",Zanahoria,2013,JULIO,2239
-970,"Fruta,hortaliza - 1kg",Zanahoria,2013,AGOSTO,2629
-971,"Fruta,hortaliza - 1kg",Zanahoria,2013,SETIEMBRE,2115
-972,"Fruta,hortaliza - 1kg",Zanahoria,2013,OCTUBRE,2488
-973,"Fruta,hortaliza - 1kg",Zanahoria,2013,NOVIEMBE,3457
-974,"Fruta,hortaliza - 1kg",Zanahoria,2013,DICIEMBRE,4277
-975,"Fruta,hortaliza - 1kg",Zanahoria,2013,PROMEDIO,5057
-976,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,ENERO,8481
-977,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,FEBRERO,7078
-978,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,MARZO,6249
-979,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,ABRIL,6145
-980,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,MAYO,6410
-981,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,JUNIO,6470
-982,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,JULIO,6004
-983,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,AGOSTO,9025
-984,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,SETIEMBRE,6996
-985,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,OCTUBRE,8202
-986,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,NOVIEMBE,7517
-987,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,DICIEMBRE,5846
-988,"Fruta,hortaliza - 1kg",Tomate Sta. Cruz,2013,PROMEDIO,9380
-989,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,ENERO,4017
-990,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,FEBRERO,3660
-991,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,MARZO,4647
-992,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,ABRIL,4082
-993,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,MAYO,3788
-994,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,JUNIO,4044
-995,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,JULIO,3950
-996,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,AGOSTO,4227
-997,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,SETIEMBRE,4076
-998,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,OCTUBRE,3621
-999,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,NOVIEMBE,3838
-1000,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,DICIEMBRE,3487
-1001,"Fruta,hortaliza - 1kg",Cebolla de cabeza,2013,PROMEDIO,5271
-1002,"Fruta,hortaliza - 1kg",Mandioca,2013,ENERO,1848
-1003,"Fruta,hortaliza - 1kg",Mandioca,2013,FEBRERO,1782
-1004,"Fruta,hortaliza - 1kg",Mandioca,2013,MARZO,1706
-1005,"Fruta,hortaliza - 1kg",Mandioca,2013,ABRIL,1431
-1006,"Fruta,hortaliza - 1kg",Mandioca,2013,MAYO,1343
-1007,"Fruta,hortaliza - 1kg",Mandioca,2013,JUNIO,1566
-1008,"Fruta,hortaliza - 1kg",Mandioca,2013,JULIO,1309
-1009,"Fruta,hortaliza - 1kg",Mandioca,2013,AGOSTO,1289
-1010,"Fruta,hortaliza - 1kg",Mandioca,2013,SETIEMBRE,1428
-1011,"Fruta,hortaliza - 1kg",Mandioca,2013,OCTUBRE,1516
-1012,"Fruta,hortaliza - 1kg",Mandioca,2013,NOVIEMBE,2133
-1013,"Fruta,hortaliza - 1kg",Mandioca,2013,DICIEMBRE,2066
-1014,"Fruta,hortaliza - 1kg",Mandioca,2013,PROMEDIO,2157
-1015,"Fruta,hortaliza - 1kg",Papa negra,2013,ENERO,6257
-1016,"Fruta,hortaliza - 1kg",Papa negra,2013,FEBRERO,4209
-1017,"Fruta,hortaliza - 1kg",Papa negra,2013,MARZO,3447
-1018,"Fruta,hortaliza - 1kg",Papa negra,2013,ABRIL,3733
-1019,"Fruta,hortaliza - 1kg",Papa negra,2013,MAYO,2755
-1020,"Fruta,hortaliza - 1kg",Papa negra,2013,JUNIO,3536
-1021,"Fruta,hortaliza - 1kg",Papa negra,2013,JULIO,2723
-1022,"Fruta,hortaliza - 1kg",Papa negra,2013,AGOSTO,2872
-1023,"Fruta,hortaliza - 1kg",Papa negra,2013,SETIEMBRE,3860
-1024,"Fruta,hortaliza - 1kg",Papa negra,2013,OCTUBRE,3934
-1025,"Fruta,hortaliza - 1kg",Papa negra,2013,NOVIEMBE,4300
-1026,"Fruta,hortaliza - 1kg",Papa negra,2013,DICIEMBRE,5240
-1027,"Fruta,hortaliza - 1kg",Papa negra,2013,PROMEDIO,5207
+911,"Fruta, hortaliza - 1kg",Naranja,2013,ENERO,2311
+912,"Fruta, hortaliza - 1kg",Naranja,2013,FEBRERO,2331
+913,"Fruta, hortaliza - 1kg",Naranja,2013,MARZO,2307
+914,"Fruta, hortaliza - 1kg",Naranja,2013,ABRIL,2049
+915,"Fruta, hortaliza - 1kg",Naranja,2013,MAYO,2120
+916,"Fruta, hortaliza - 1kg",Naranja,2013,JUNIO,2202
+917,"Fruta, hortaliza - 1kg",Naranja,2013,JULIO,1963
+918,"Fruta, hortaliza - 1kg",Naranja,2013,AGOSTO,2255
+919,"Fruta, hortaliza - 1kg",Naranja,2013,SETIEMBRE,2187
+920,"Fruta, hortaliza - 1kg",Naranja,2013,OCTUBRE,2402
+921,"Fruta, hortaliza - 1kg",Naranja,2013,NOVIEMBE,3068
+922,"Fruta, hortaliza - 1kg",Naranja,2013,DICIEMBRE,2918
+924,"Fruta, hortaliza - 1kg",Banana carape,2013,ENERO,2946
+925,"Fruta, hortaliza - 1kg",Banana carape,2013,FEBRERO,2874
+926,"Fruta, hortaliza - 1kg",Banana carape,2013,MARZO,2567
+927,"Fruta, hortaliza - 1kg",Banana carape,2013,ABRIL,2362
+928,"Fruta, hortaliza - 1kg",Banana carape,2013,MAYO,2274
+929,"Fruta, hortaliza - 1kg",Banana carape,2013,JUNIO,2519
+930,"Fruta, hortaliza - 1kg",Banana carape,2013,JULIO,1580
+931,"Fruta, hortaliza - 1kg",Banana carape,2013,AGOSTO,1501
+932,"Fruta, hortaliza - 1kg",Banana carape,2013,SETIEMBRE,1932
+933,"Fruta, hortaliza - 1kg",Banana carape,2013,OCTUBRE,2288
+934,"Fruta, hortaliza - 1kg",Banana carape,2013,NOVIEMBE,2994
+935,"Fruta, hortaliza - 1kg",Banana carape,2013,DICIEMBRE,4411
+937,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2013,ENERO,2093
+938,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2013,FEBRERO,1413
+939,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2013,MARZO,1480
+940,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2013,ABRIL,1386
+941,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2013,MAYO,1576
+942,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2013,JUNIO,1464
+943,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2013,JULIO,1394
+944,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2013,AGOSTO,1043
+945,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2013,SETIEMBRE,858
+946,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2013,OCTUBRE,860
+947,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2013,NOVIEMBE,967
+948,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2013,DICIEMBRE,1367
+950,"Fruta, hortaliza - 1kg",Locote,2013,ENERO,7086
+951,"Fruta, hortaliza - 1kg",Locote,2013,FEBRERO,6892
+952,"Fruta, hortaliza - 1kg",Locote,2013,MARZO,6622
+953,"Fruta, hortaliza - 1kg",Locote,2013,ABRIL,8075
+954,"Fruta, hortaliza - 1kg",Locote,2013,MAYO,7582
+955,"Fruta, hortaliza - 1kg",Locote,2013,JUNIO,7293
+956,"Fruta, hortaliza - 1kg",Locote,2013,JULIO,9651
+957,"Fruta, hortaliza - 1kg",Locote,2013,AGOSTO,10878
+958,"Fruta, hortaliza - 1kg",Locote,2013,SETIEMBRE,10703
+959,"Fruta, hortaliza - 1kg",Locote,2013,OCTUBRE,9473
+960,"Fruta, hortaliza - 1kg",Locote,2013,NOVIEMBE,5575
+961,"Fruta, hortaliza - 1kg",Locote,2013,DICIEMBRE,3948
+963,"Fruta, hortaliza - 1kg",Zanahoria,2013,ENERO,3923
+964,"Fruta, hortaliza - 1kg",Zanahoria,2013,FEBRERO,4521
+965,"Fruta, hortaliza - 1kg",Zanahoria,2013,MARZO,5085
+966,"Fruta, hortaliza - 1kg",Zanahoria,2013,ABRIL,5292
+967,"Fruta, hortaliza - 1kg",Zanahoria,2013,MAYO,4608
+968,"Fruta, hortaliza - 1kg",Zanahoria,2013,JUNIO,4876
+969,"Fruta, hortaliza - 1kg",Zanahoria,2013,JULIO,2239
+970,"Fruta, hortaliza - 1kg",Zanahoria,2013,AGOSTO,2629
+971,"Fruta, hortaliza - 1kg",Zanahoria,2013,SETIEMBRE,2115
+972,"Fruta, hortaliza - 1kg",Zanahoria,2013,OCTUBRE,2488
+973,"Fruta, hortaliza - 1kg",Zanahoria,2013,NOVIEMBE,3457
+974,"Fruta, hortaliza - 1kg",Zanahoria,2013,DICIEMBRE,4277
+976,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2013,ENERO,8481
+977,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2013,FEBRERO,7078
+978,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2013,MARZO,6249
+979,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2013,ABRIL,6145
+980,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2013,MAYO,6410
+981,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2013,JUNIO,6470
+982,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2013,JULIO,6004
+983,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2013,AGOSTO,9025
+984,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2013,SETIEMBRE,6996
+985,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2013,OCTUBRE,8202
+986,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2013,NOVIEMBE,7517
+987,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2013,DICIEMBRE,5846
+989,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2013,ENERO,4017
+990,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2013,FEBRERO,3660
+991,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2013,MARZO,4647
+992,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2013,ABRIL,4082
+993,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2013,MAYO,3788
+994,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2013,JUNIO,4044
+995,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2013,JULIO,3950
+996,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2013,AGOSTO,4227
+997,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2013,SETIEMBRE,4076
+998,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2013,OCTUBRE,3621
+999,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2013,NOVIEMBE,3838
+1000,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2013,DICIEMBRE,3487
+1002,"Fruta, hortaliza - 1kg",Mandioca,2013,ENERO,1848
+1003,"Fruta, hortaliza - 1kg",Mandioca,2013,FEBRERO,1782
+1004,"Fruta, hortaliza - 1kg",Mandioca,2013,MARZO,1706
+1005,"Fruta, hortaliza - 1kg",Mandioca,2013,ABRIL,1431
+1006,"Fruta, hortaliza - 1kg",Mandioca,2013,MAYO,1343
+1007,"Fruta, hortaliza - 1kg",Mandioca,2013,JUNIO,1566
+1008,"Fruta, hortaliza - 1kg",Mandioca,2013,JULIO,1309
+1009,"Fruta, hortaliza - 1kg",Mandioca,2013,AGOSTO,1289
+1010,"Fruta, hortaliza - 1kg",Mandioca,2013,SETIEMBRE,1428
+1011,"Fruta, hortaliza - 1kg",Mandioca,2013,OCTUBRE,1516
+1012,"Fruta, hortaliza - 1kg",Mandioca,2013,NOVIEMBE,2133
+1013,"Fruta, hortaliza - 1kg",Mandioca,2013,DICIEMBRE,2066
+1015,"Fruta, hortaliza - 1kg",Papa negra,2013,ENERO,6257
+1016,"Fruta, hortaliza - 1kg",Papa negra,2013,FEBRERO,4209
+1017,"Fruta, hortaliza - 1kg",Papa negra,2013,MARZO,3447
+1018,"Fruta, hortaliza - 1kg",Papa negra,2013,ABRIL,3733
+1019,"Fruta, hortaliza - 1kg",Papa negra,2013,MAYO,2755
+1020,"Fruta, hortaliza - 1kg",Papa negra,2013,JUNIO,3536
+1021,"Fruta, hortaliza - 1kg",Papa negra,2013,JULIO,2723
+1022,"Fruta, hortaliza - 1kg",Papa negra,2013,AGOSTO,2872
+1023,"Fruta, hortaliza - 1kg",Papa negra,2013,SETIEMBRE,3860
+1024,"Fruta, hortaliza - 1kg",Papa negra,2013,OCTUBRE,3934
+1025,"Fruta, hortaliza - 1kg",Papa negra,2013,NOVIEMBE,4300
+1026,"Fruta, hortaliza - 1kg",Papa negra,2013,DICIEMBRE,5240
 1028,Sal fina - 500gr,Marca mas económica,2013,ENERO,1591
 1029,Sal fina - 500gr,Marca mas económica,2013,FEBRERO,1583
 1030,Sal fina - 500gr,Marca mas económica,2013,MARZO,1589
@@ -1038,7 +959,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1037,Sal fina - 500gr,Marca mas económica,2013,OCTUBRE,1595
 1038,Sal fina - 500gr,Marca mas económica,2013,NOVIEMBE,1642
 1039,Sal fina - 500gr,Marca mas económica,2013,DICIEMBRE,1612
-1040,Sal fina - 500gr,Marca mas económica,2013,PROMEDIO,2151
 1041,Papel higiénico - 4 unid.,Marca mas económica,2013,ENERO,3254
 1042,Papel higiénico - 4 unid.,Marca mas económica,2013,FEBRERO,2827
 1043,Papel higiénico - 4 unid.,Marca mas económica,2013,MARZO,3022
@@ -1051,7 +971,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1050,Papel higiénico - 4 unid.,Marca mas económica,2013,OCTUBRE,2950
 1051,Papel higiénico - 4 unid.,Marca mas económica,2013,NOVIEMBE,3181
 1052,Papel higiénico - 4 unid.,Marca mas económica,2013,DICIEMBRE,2981
-1053,Papel higiénico - 4 unid.,Marca mas económica,2013,PROMEDIO,3883
 1054,Detergente líquido - 1/2 lt,Marca mas económica,2013,ENERO,2354
 1055,Detergente líquido - 1/2 lt,Marca mas económica,2013,FEBRERO,2148
 1056,Detergente líquido - 1/2 lt,Marca mas económica,2013,MARZO,2308
@@ -1064,7 +983,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1063,Detergente líquido - 1/2 lt,Marca mas económica,2013,OCTUBRE,2276
 1064,Detergente líquido - 1/2 lt,Marca mas económica,2013,NOVIEMBE,2376
 1065,Detergente líquido - 1/2 lt,Marca mas económica,2013,DICIEMBRE,2531
-1066,Detergente líquido - 1/2 lt,Marca mas económica,2013,PROMEDIO,3007
 1067,Lavandina - 1lt,Marca mas económica,2013,ENERO,2910
 1068,Lavandina - 1lt,Marca mas económica,2013,FEBRERO,2809
 1069,Lavandina - 1lt,Marca mas económica,2013,MARZO,2807
@@ -1077,7 +995,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1076,Lavandina - 1lt,Marca mas económica,2013,OCTUBRE,3002
 1077,Lavandina - 1lt,Marca mas económica,2013,NOVIEMBE,3105
 1078,Lavandina - 1lt,Marca mas económica,2013,DICIEMBRE,3224
-1079,Lavandina - 1lt,Marca mas económica,2013,PROMEDIO,3861
 1080,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2013,ENERO,4861
 1081,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2013,FEBRERO,4342
 1082,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2013,MARZO,5237
@@ -1090,7 +1007,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1089,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2013,OCTUBRE,4468
 1090,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2013,NOVIEMBE,5128
 1091,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2013,DICIEMBRE,5061
-1092,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2013,PROMEDIO,6460
 1093,Jabón de baño - 90gr,Marca mas económica,2013,ENERO,1799
 1094,Jabón de baño - 90gr,Marca mas económica,2013,FEBRERO,1638
 1095,Jabón de baño - 90gr,Marca mas económica,2013,MARZO,1627
@@ -1103,7 +1019,6 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1102,Jabón de baño - 90gr,Marca mas económica,2013,OCTUBRE,1690
 1103,Jabón de baño - 90gr,Marca mas económica,2013,NOVIEMBE,1828
 1104,Jabón de baño - 90gr,Marca mas económica,2013,DICIEMBRE,1697
-1105,Jabón de baño - 90gr,Marca mas económica,2013,PROMEDIO,2301
 1106,Crema dental - 90gr,Marca mas económica,2013,ENERO,4950
 1107,Crema dental - 90gr,Marca mas económica,2013,FEBRERO,4979
 1108,Crema dental - 90gr,Marca mas económica,2013,MARZO,4993
@@ -1116,4 +1031,3 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1115,Crema dental - 90gr,Marca mas económica,2013,OCTUBRE,5061
 1116,Crema dental - 90gr,Marca mas económica,2013,NOVIEMBE,4762
 1117,Crema dental - 90gr,Marca mas económica,2013,DICIEMBRE,4827
-1118,Crema dental - 90gr,Marca mas económica,2013,PROMEDIO,6593
