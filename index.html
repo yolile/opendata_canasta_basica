@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ECharts</title>
+</head>
+<body>
+	<!--Step:1 Prepare a dom for ECharts which (must) has size (width & hight)-->
+	<!--Step:1 为ECharts准备一个具备大小（宽高）的Dom-->
+
+	<div id="mainMap"
+		style="height: 500px; border: 1px solid #ccc; padding: 10px;"></div>
+
+	<!--Step:2 Import echarts-all.js-->
+	<!--Step:2 引入echarts-all.js-->
+	<script src="resources/js/echarts/build/dist/echarts-all.js"></script>
+
+	<script type="text/javascript">
+		// Step:3 echarts & zrender as a Global Interface by the echarts-plain.js.
+		// Step:3 echarts和zrender被echarts-plain.js写入为全局接口
+		var dataMap = {};
+		function dataFormatter(obj) {
+			var pList = [ 'enero', 'febrero', 'marzo', 'abril', 'mayo',
+					'junio', 'julio', 'agosto', 'setiembre', 'octubre',
+					'noviembre', 'diciembre' ];
+			var temp;
+			var max = 0;
+			for (var year = 2013; year <= 2014; year++) {
+				temp = obj[year];
+				for (var i = 0, l = temp.length; i < l; i++) {
+					max = Math.max(max, temp[i]);
+					obj[year][i] = {
+						name : pList[i],
+						value : temp[i]
+					}
+				}
+				obj[year + 'max'] = Math.floor(max / 100) * 100;
+			}
+			return obj;
+		}
+
+		function dataMix(list) {
+			var mixData = {};
+			for (var i = 0, l = list.length; i < l; i++) {
+				for ( var key in list[i]) {
+					if (list[i][key] instanceof Array) {
+						mixData[key] = mixData[key] || [];
+						for (var j = 0, k = list[i][key].length; j < k; j++) {
+							mixData[key][j] = mixData[key][j] || {
+								name : list[i][key][j].name,
+								value : []
+							};
+							mixData[key][j].value.push(list[i][key][j].value);
+						}
+					}
+				}
+			}
+			return mixData;
+		}
+
+		dataMap.dataIDC = dataFormatter({
+			//max : 60000,
+
+			2014 : [ 134.7, 135.6, 136.3, 136.9, 137.3, 137.1, 136.7, 136.2,
+					136.2, 136.5, 137.5, 138.5 ],
+			2013 : [ 129.6, 128.6, 128.5, 128.7, 128.3, 128.9, 129.6, 130.4,
+					130.8, 131.9, 132.8, 132.9 ]
+		});
+
+		dataMap.dataPrecio = dataFormatter({
+
+			2014 : [ 3917, 3852, 4070, 3933, 4022, 4002, 4002, 3811, 4358,
+					3764, 3933, 3982 ],
+			2013 : [ 3273, 3227, 3052, 3235, 3182, 3174, 3172, 3319, 3719,
+					3934, 3876, 4024 ]
+
+		});
+
+		dataMap.dataGDP_Estate = dataMix([ dataMap.dataIDC, dataMap.dataPrecio ]);
+
+		var myChart2 = echarts.init(document.getElementById('mainMap'));
+		option = {
+
+			timeline : {
+				data : [ '2013-01-01', '2014-01-01' ],
+				label : {
+					formatter : function(s) {
+						return s.slice(0, 4);
+					}
+				},
+				autoPlay : true,
+				playInterval : 1000
+			},
+			options : [ {
+				title : {
+					'text' : '2014（Precio vs ICD）',
+					'subtext' : 'Pan Felipe'
+				},
+				tooltip : {
+					trigger : 'axis',
+					showDelay : 0,
+					axisPointer : {
+						show : true,
+						type : 'cross',
+						lineStyle : {
+							type : 'dashed',
+							width : 1
+						}
+					}
+				},
+				toolbox : {
+					'show' : true,
+					orient : 'vertical',
+					x : 'right',
+					y : 'center',
+					'feature' : {
+						'mark' : {
+							'show' : true
+						},
+						'dataView' : {
+							'show' : true,
+							'readOnly' : false
+						},
+						'restore' : {
+							'show' : true
+						},
+						'saveAsImage' : {
+							'show' : true
+						}
+					}
+				},
+				grid : {
+					'y' : 80,
+					'y2' : 100
+				},
+				xAxis : [ {
+					'type' : 'value',
+					'name' : 'IDC',
+					'max' : 140,
+					'min' : 100
+
+				} ],
+				yAxis : [ {
+					'type' : 'value',
+					'name' : 'Precio',
+					'max' : 4500,
+					'min' : 3000
+				} ],
+				series : [ {
+					'name' : 'Precio',
+					'type' : 'scatter',
+					markLine : {
+						data : [ {
+							type : 'average',
+							name : 'y平均值',
+							itemStyle : {
+								normal : {
+									borderColor : 'red'
+								}
+							}
+						}, {
+							type : 'average',
+							name : 'x平均值',
+							valueIndex : 0,
+							itemStyle : {
+								normal : {
+									borderColor : 'red'
+								}
+							}
+						} ]
+					},
+					symbolSize : 5,
+					itemStyle : {
+						normal : {
+							label : {
+								show : true,
+								formatter : '{b}'
+							}
+						}
+					},
+					'data' : dataMap.dataGDP_Estate['2013']
+
+				}/*, {
+					title : {
+						'text' : '2014'
+					},
+					series : [ {
+						'data' : dataMap.dataGDP_Estate['2014']
+					} ]
+				} */]
+			} ]
+		};
+		myChart2.setOption(option);
+	</script>
+</body>
+</html>
