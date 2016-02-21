@@ -39,6 +39,7 @@ function dataMix(list) {
   return mixData;
 }
 
+
 dataMap.dataIndices = { ipc : {
   2008: [103.4,
     104.9,

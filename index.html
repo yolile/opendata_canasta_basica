@@ -37,12 +37,30 @@
 		<option value="dolar">Dolar</option>
 
 		</select>
-	</form>
 
+	</form>
+	<div id="mainMapRanking"
+		style="height: 500px; border: 1px solid #ccc; padding: 10px;"></div>
 	<script src="resources/js/echarts/build/dist/echarts-all.js"></script>
-	<script src="resources/js/jquery-1.12.0.min.js"></script>
+	<script src="resources/js/pearson-correlation.js"></script>
+	<script src="final.js"></script>
 	<script src="final.js"></script>
 	<script type="text/javascript">
+	var prods= new Array('Kokito','PanFelipito','Naranja','QuesoParaguay','TapadeAsado','Costilla',
+				'Lomo','Harina','Galleta','Mandioca','Arroz','Fideo','Azucar','Bananacarape','Yerba',
+				'Vacio','Poroto','Puchero','TapaCuadril')
+
+
+function getCorrelationArray(year, indice) {
+	var aRet = new Array();
+	for (var i = 0; i < 19; i++){
+		console.log(year + prods[i]);
+		aRet.push(pearsonCorrelation(new Array(dataMap.data[prods[i]][year],dataMap.dataIndices[indice][year]),0,1))
+	}
+	console.log(aRet);
+	return aRet;
+}
+
 	function cambiarProducto(){
 		var x = document.getElementById("producto").value;
 		producto = x;
@@ -108,6 +126,7 @@
 		}
 
 		var myChart2 = echarts.init(document.getElementById('mainMap'));
+		var myChartRanking = echarts.init(document.getElementById('mainMapRanking'));
 		function getOption(indice, producto) {
 		option = {
 
@@ -268,6 +287,133 @@
 		}
 	return option;};
 		myChart2.setOption(getOption(indice, producto));
+
+
+//GRAFICO DE PRODUCTOS MAS CORRELACIONADOS
+
+
+
+optionRanking = {
+    timeline:{
+
+					data : [ '2008-01-01', '2009-01-01','2010-01-01','2011-01-01','2012-01-01'
+									 ,'2013-01-01','2014-01-01'],
+        label : {
+            formatter : function(s) {
+                return s.slice(0, 4);
+            }
+        },
+        autoPlay : true,
+        playInterval : 1000
+    },
+    options:[
+        {
+            title : {
+                'text':'2008',
+
+            },
+            tooltip : {'trigger':'axis'},
+            legend : {
+                x:'right',
+                'data':['GDP','金融','房地产','第一产业','第二产业','第三产业'],
+
+            },
+            toolbox : {
+                'show':true,
+                orient : 'vertical',
+                x: 'right',
+                y: 'center',
+                'feature':{
+                    'mark':{'show':true},
+                    'dataView':{'show':true,'readOnly':false},
+                    'magicType':{'show':true,'type':['line','bar','stack','tiled']},
+                    'restore':{'show':true},
+                    'saveAsImage':{'show':true}
+                }
+            },
+            calculable : true,
+            grid : {'y':80,'y2':100},
+            xAxis : [{
+                'type':'category',
+                'axisLabel':{'interval':0},
+                'data':prods
+            }],
+            yAxis : [
+                {
+                    'type':'value',
+                    'name':'Correlacion',
+                    'max':1,
+										'min':-1
+                },
+                {
+                    'type':'value',
+                    'name':'其他（亿元）'
+                }
+            ],
+            series : [
+                {
+                    'name':'GDP',
+                    'type':'bar',
+                    'markLine':{
+                        symbol : ['arrow','none'],
+                        symbolSize : [4, 2],
+                        itemStyle : {
+                            normal: {
+                                lineStyle: {color:'orange'},
+                                barBorderColor:'orange',
+                                label:{
+                                    position:'left',
+                                    formatter:function(params){
+                                        return Math.round(params.value);
+                                    },
+                                    textStyle:{color:'orange'}
+                                }
+                            }
+                        },
+                        'data':[{'type':'average','name':'平均值'}]
+                    },
+                    'data': getCorrelationArray('2008','dolar')
+                }
+            ]
+        },
+        {
+            title : {'text':'2003全国宏观经济指标'},
+            series : [
+                {'data': getCorrelationArray('2009','dolar')}
+            ]
+        },
+        {
+            title : {'text':'2004全国宏观经济指标'},
+            series : [
+							{'data': getCorrelationArray('2010','dolar')}
+            ]
+        },
+        {
+            title : {'text':'2005全国宏观经济指标'},
+            series : [
+							{'data': getCorrelationArray('2011','dolar')}]
+        },
+        {
+            title : {'text':'2006全国宏观经济指标'},
+            series : [
+							{'data': getCorrelationArray('2012','dolar')}
+						]
+        },
+        {
+            title : {'text':'2007全国宏观经济指标'},
+            series : [
+							{'data': getCorrelationArray('2013','dolar')}
+            ]
+        },
+        {
+            title : {'text':'2008全国宏观经济指标'},
+            series : [
+							{'data': getCorrelationArray('2014','dolar')}
+            ]
+        }
+    ]
+};
+myChartRanking.setOption(optionRanking);
 
 
 	</script>
