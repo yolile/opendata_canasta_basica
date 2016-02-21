@@ -2,25 +2,113 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>ECharts</title>
+<title>Historico Canasta Basica Familiar</title>
 </head>
 <body>
-	<!--Step:1 Prepare a dom for ECharts which (must) has size (width & hight)-->
-	<!--Step:1 为ECharts准备一个具备大小（宽高）的Dom-->
 
 	<div id="mainMap"
 		style="height: 500px; border: 1px solid #ccc; padding: 10px;"></div>
 
-	<!--Step:2 Import echarts-all.js-->
-	<!--Step:2 引入echarts-all.js-->
-	<script src="resources/js/echarts/build/dist/echarts-all.js"></script>
-	<script src="final2.js"></script>
-	<script type="text/javascript">
-		// Step:3 echarts & zrender as a Global Interface by the echarts-plain.js.
-		// Step:3 echarts和zrender被echarts-plain.js写入为全局接口
+		<form>
+		 Producto: <select id="producto" name="producto" onchange="cambiarProducto();">
+			<option value="Naranja">Banana Carape</option>
+			<option value="Bananacarape">Naranja</option>
+			<option value="Kokito">Kokito</option>
+			<option value="PanFelipito">Pan Felipito</option>
+			<option value="Harina">Harina</option>
+			<option value="Galleta">Galleta</option>
+			<option value="Mandioca">Mandioca</option>
+			<option value="Arroz">Arroz</option>
+			<option value="Fideo">Fideo</option>
+			<option value="Azucar">Azucar</option>
+			<option value="Poroto">Vacio</option>
+			<option value="Yerba">Yerba</option>
+			<option value="QuesoParaguay">Queso Paraguay</option>
+			<option value="TapaCuadril">Tapa Cuadril</option>
+			<option value="TapadeAsado">Tapa de Asado</option>
+			<option value="Lomo">Lomito</option>
+			<option value="Costilla">Lomito</option>
+			<option value="Vacio">Vacio</option>
+			<option value="Puchero">Vacio</option>
 
+		</select>
+<select id="indice" onchange="cambiarIndice();" name="indice">
+		<option value="ipc">Indice de Precio del Consumidor</option>
+		<option value="dolar">Dolar</option>
+
+		</select>
+	</form>
+
+	<script src="resources/js/echarts/build/dist/echarts-all.js"></script>
+	<script src="resources/js/jquery-1.12.0.min.js"></script>
+	<script src="final.js"></script>
+	<script type="text/javascript">
+	function cambiarProducto(){
+		var x = document.getElementById("producto").value;
+		producto = x;
+		dataMap.dataGDP_Estate = dataMix([ dataMap.dataFormat[indice], dataMap.dataFormat[producto] ]);
+
+		refresh();
+	};
+	function cambiarIndice(){
+		var x = document.getElementById("indice").value;
+		indice = x;
+		dataMap.dataGDP_Estate = dataMix([ dataMap.dataFormat[indice], dataMap.dataFormat[producto] ]);
+
+		refresh();
+	};
+	function refresh(){
+
+			myChart2.dispose();
+	    myChart2 = echarts.init(document.getElementById('mainMap'));
+
+	    myChart2.setOption(getOption(indice, producto));
+
+	}
+		function getMax(key) {
+			var max = 0;
+			for (var year = 2008; year <= 2014; year++) {
+					var actual = Math.max.apply(null,dataMap.data[key][year]);
+					if(actual>max){
+						max = actual;
+					}
+			}
+			return max;
+		}
+		function getMin(key) {
+			console.log(key);
+			var min = 999999;
+			for (var year = 2008; year <= 2014; year++) {
+					var actual = Math.min.apply(null,dataMap.data[key][year]);
+					if(actual<min){
+						min = actual;
+					}
+			}
+			return min;
+		}
+		function getMaxIndices(key) {
+			var max = 0;
+			for (var year = 2008; year <= 2014; year++) {
+					var actual = Math.max.apply(null,dataMap.dataIndices[key][year]);
+					if(actual>max){
+						max = actual;
+					}
+			}
+			return max;
+		}
+		function getMinIndices(key) {
+			var min = 999999;
+			for (var year = 2008; year <= 2014; year++) {
+					var actual = Math.min.apply(null,dataMap.dataIndices[key][year]);
+					if(actual<min){
+						min = actual;
+					}
+			}
+			return min;
+		}
 
 		var myChart2 = echarts.init(document.getElementById('mainMap'));
+		function getOption(indice, producto) {
 		option = {
 
 			timeline : {
@@ -36,8 +124,8 @@
 			},
 			options : [ {
 				title : {
-					'text' : '2008（Precio vs ICD）',
-					'subtext' : 'Pan Felipe'
+					'text' : '2008 Precio vs ' + indice,
+					'subtext' : 'Producto:' + producto
 				},
 				tooltip : {
 					trigger : 'axis',
@@ -78,16 +166,17 @@
 				},
 				xAxis : [ {
 					'type' : 'value',
-					'name' : 'Dolar',
-					'max' : 5500,
-					'min' : 3500
+					'name' : indice,
+					'max' : getMaxIndices(indice),
+					'min' : getMinIndices(indice)
+
 
 				} ],
 				yAxis : [ {
 					'type' : 'value',
 					'name' : 'Precio',
-					'max' : 10000,
-					'min' : 2600
+					'max' : getMax(producto),
+					'min' : getMin(producto)
 				} ],
 				series : [ {
 					'name' : 'Precio',
@@ -95,7 +184,7 @@
 					markLine : {
 						data : [ {
 							type : 'average',
-							name : 'y平均值',
+							name : 'Promedio',
 							itemStyle : {
 								normal : {
 									borderColor : 'red'
@@ -103,7 +192,7 @@
 							}
 						}, {
 							type : 'average',
-							name : 'x平均值',
+							name : 'Promedio',
 							valueIndex : 0,
 							itemStyle : {
 								normal : {
@@ -127,56 +216,60 @@
 				]
 				}, {
 					title : {
-						'text' : '2009'
+						'text' : '2009 Precio vs ' + indice,
 					},
 					series : [ {
 						'data' : dataMap.dataGDP_Estate['2009']
-					} 
+					}
 					]
 				}, {
 					title : {
-						'text' : '2010'
+						'text' : '2010 Precio vs ' + indice,
 					},
 					series : [ {
 						'data' : dataMap.dataGDP_Estate['2010']
-					} 
+					}
 					]
 				}, {
 					title : {
-						'text' : '2011'
+						'text' : '2011 Precio vs ' + indice,
 					},
 					series : [ {
 						'data' : dataMap.dataGDP_Estate['2011']
-					} 
+					}
 					]
 				}, {
 					title : {
-						'text' : '2012'
+						'text' : '2012 Precio vs ' + indice,
 					},
 					series : [ {
 						'data' : dataMap.dataGDP_Estate['2012']
-					} 
+					}
 					]
 				}, {
 					title : {
-						'text' : '2013'
+						'text' : '2013 Precio vs ' + indice,
 					},
 					series : [ {
 						'data' : dataMap.dataGDP_Estate['2013']
-					} 
+					}
 					]
 				}, {
 					title : {
-						'text' : '2014'
+						'text' : '2014 Precio vs ' + indice,
 					},
 					series : [ {
 						'data' : dataMap.dataGDP_Estate['2014']
-					} 
+					}
 					]
 				}
 			]
-			};
-		myChart2.setOption(option);
+
+		}
+	return option;};
+		myChart2.setOption(getOption(indice, producto));
+
+
 	</script>
 </body>
 </html>

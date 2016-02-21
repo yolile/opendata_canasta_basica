@@ -1,58 +1,143 @@
-		var dataMap = {};
-		function dataFormatter(obj) {
-			var pList = [ 'enero', 'febrero', 'marzo', 'abril', 'mayo',
-					'junio', 'julio', 'agosto', 'setiembre', 'octubre',
-					'noviembre', 'diciembre' ];
-			var temp;
-			var max = 0;
-			for (var year = 2008; year <= 2014; year++) {
-				temp = obj[year];
-				for (var i = 0, l = temp.length; i < l; i++) {
-					max = Math.max(max, temp[i]);
-					obj[year][i] = {
-						name : pList[i],
-						value : temp[i]
-					}
-				}
-				obj[year + 'max'] = Math.floor(max / 100) * 100;
-			}
-			return obj;
-		}
+var dataMap = {};
+function dataFormatter(obj1) {
+  var pList = [ 'enero', 'febrero', 'marzo', 'abril', 'mayo',
+      'junio', 'julio', 'agosto', 'setiembre', 'octubre',
+      'noviembre', 'diciembre' ];
+  var temp;
+  var max = 0;
+  var obj = JSON.parse(JSON.stringify(obj1));
+  for (var year = 2008; year <= 2014; year++) {
+    temp = obj[year];
+    for (var i = 0, l = temp.length; i < l; i++) {
+      max = Math.max(max, temp[i]);
+      obj[year][i] = {
+        name : pList[i],
+        value : temp[i]
+      }
+    }
+    obj[year + 'max'] = Math.floor(max / 100) * 100;
+  }
+  return obj;
+}
 
-		function dataMix(list) {
-			var mixData = {};
-			for (var i = 0, l = list.length; i < l; i++) {
-				for ( var key in list[i]) {
-					if (list[i][key] instanceof Array) {
-						mixData[key] = mixData[key] || [];
-						for (var j = 0, k = list[i][key].length; j < k; j++) {
-							mixData[key][j] = mixData[key][j] || {
-								name : list[i][key][j].name,
-								value : []
-							};
-							mixData[key][j].value.push(list[i][key][j].value);
-						}
-					}
-				}
-			}
-			return mixData;
-		}
+function dataMix(list) {
+  var mixData = {};
+  for (var i = 0, l = list.length; i < l; i++) {
+    for ( var key in list[i]) {
+      if (list[i][key] instanceof Array) {
+        mixData[key] = mixData[key] || [];
+        for (var j = 0, k = list[i][key].length; j < k; j++) {
+          mixData[key][j] = mixData[key][j] || {
+            name : list[i][key][j].name,
+            value : []
+          };
+          mixData[key][j].value.push(list[i][key][j].value);
+        }
+      }
+    }
+  }
+  return mixData;
+}
 
-		dataMap.dataDolar = dataFormatter({
-			//max : 60000,
+dataMap.dataIndices = { ipc : {
+  2008: [103.4,
+    104.9,
+    106.1,
+    107.7,
+    106.4,
+    108.6,
+    109.3,
+    110.3,
+    108.7,
+    106.2,
+    105.9,
+    107.5],
+  2009: [108.7,
+        107.4,
+        105.5,
+        104.2,
+        103.8,
+        106.5,
+        104.8,
+        108,
+        109.4,
+        112,
+        110.2,
+        112.2,],
+  2010: [115.1,
+113.4,
+115.4,
+117.8,
+113.9,
+114.9,
+114.3,
+116.6,
+114.5,
+121.4,
+120.9,
+124.8
+],
+2011 : [129.2,
+132.8,
+137.3,
+136.5,
+135.8,
+131.4,
+130.5,
+134.2,
+134.1,
+130.1,
+128.1,
+129.7
+],
+2012 : [131.8,
+132.9,
+133.3,
+131.8,
+131.8,
+129.3,
+129.3,
+127.7,
+127.7,
+125.8,
+127.8,
+130.6
+],
+2013 : [135.3,
+131.7,
+131.7,
+132.4,
+130.6,
+131.3,
+132,
+134,
+134.3,
+137.6,
+139.8,
+139.4
+],
+2014 : [141.8,
+142.4,
+144.1,
+145.1,
+145.4,
+144.3,
+142.9,
+140.9,
+140,
+139.8,
+142.1,
+145.3
+]}, dolar : {  2010 : [4800,4727,4716,4745,4763,4773,4768,4785,4871,4952,4709,4621],
+  2009 : [ 5032.64,5127.03,5149.60,5054.53,5046.81,5036.34,5033.84,4960.80,4939.43,4885.63,4835.03,4681.48],
+  2008 : [ 4746.74,4724.49,4544.539,4304.204,4125.156,4000.78,3999.84,4002.88,4016.22,4481.25,4875.5,4916.43],
+  2011 : [ 4653,4582,4156,4068,4061,4018,3809,3894,4176,4180,4453,4479],
+  2012 : [ 4735,4295,4338,4332,4531,4556,4424,4428,4476,4472,4449,4339],
+  2013 : [ 4148,4055,4056,4201,4337,4532,4468,4495,4481,4471,4458,4638],
+  2014 : [ 4710,4497,4520,4498,4506,4460,4390,4338,4531,4661,4686,4708]}
+};
 
-			2010 : [4800,4727,4716,4745,4763,4773,4768,4785,4871,4952,4709,4621],
-			2009 : [ 5032.64,5127.03,5149.60,5054.53,5046.81,5036.34,5033.84,4960.80,4939.43,4885.63,4835.03,4681.48],
-			2008 : [ 4746.74,4724.49,4544.539,4304.204,4125.156,4000.78,3999.84,4002.88,4016.22,4481.25,4875.5,4916.43],
-		2011 : [ 4653,4582,4156,4068,4061,4018,3809,3894,4176,4180,4453,4479],
-		2012 : [ 4735,4295,4338,4332,4531,4556,4424,4428,4476,4472,4449,4339],
-		2013 : [ 4148,4055,4056,4201,4337,4532,4468,4495,4481,4471,4458,4638],
-		2014 : [ 4710,4497,4520,4498,4506,4460,4390,4338,4531,4661,4686,4708]
-		});
-
-
-		
-dataMap.dataProductoKokito = dataFormatter({
+dataMap.data = { Kokito : {
 2008 :
 [
   5720,
@@ -67,8 +152,7 @@ dataMap.dataProductoKokito = dataFormatter({
   6366,
   6177,
   6172
-],
-2009 :
+], 2009 :
 [
   6249,
   6168,
@@ -82,8 +166,7 @@ dataMap.dataProductoKokito = dataFormatter({
   6153,
   6209,
   6056
-],
-2010 :
+], 2010 :
 [
   6048,
   5954,
@@ -97,8 +180,7 @@ dataMap.dataProductoKokito = dataFormatter({
   7703,
   8115,
   6906
-],
-2011 :
+], 2011 :
 [
   6331,
   6578,
@@ -112,8 +194,7 @@ dataMap.dataProductoKokito = dataFormatter({
   6979,
   6690,
   6779
-],
-2012 :
+], 2012 :
 [
   6790,
   6809,
@@ -127,8 +208,7 @@ dataMap.dataProductoKokito = dataFormatter({
   7051,
   7197,
   7276
-],
-2013 :
+], 2013 :
 [
   7485,
   7180,
@@ -142,8 +222,7 @@ dataMap.dataProductoKokito = dataFormatter({
   9331,
   10571,
   9102
-],
-2014 :
+], 2014 :
 [
   9809,
   10000,
@@ -158,8 +237,8 @@ dataMap.dataProductoKokito = dataFormatter({
   9294,
   9942
 ]
-});
-dataMap.dataProductoPanFelipito= dataFormatter({
+},
+PanFelipito : {
 2008 :
 [
   3161,
@@ -174,8 +253,7 @@ dataMap.dataProductoPanFelipito= dataFormatter({
   3356,
   3125,
   3149
-],
-2009 :
+], 2009 :
 [
   3260,
   3073,
@@ -189,8 +267,7 @@ dataMap.dataProductoPanFelipito= dataFormatter({
   2980,
   2987,
   2827
-],
-2010 :
+], 2010 :
 [
   2963,
   2826,
@@ -204,8 +281,7 @@ dataMap.dataProductoPanFelipito= dataFormatter({
   3568,
   3751,
   3190
-],
-2011 :
+], 2011 :
 [
   3081,
   2995,
@@ -219,8 +295,7 @@ dataMap.dataProductoPanFelipito= dataFormatter({
   3256,
   3225,
   3358
-],
-2012 :
+], 2012 :
 [
   3188,
   3020,
@@ -234,8 +309,7 @@ dataMap.dataProductoPanFelipito= dataFormatter({
   3288,
   3215,
   3183
-],
-2013 :
+], 2013 :
 [
   3273,
   3227,
@@ -249,8 +323,7 @@ dataMap.dataProductoPanFelipito= dataFormatter({
   3934,
   3876,
   4024
-],
-2014 :
+], 2014 :
 [
   3917,
   3852,
@@ -265,8 +338,8 @@ dataMap.dataProductoPanFelipito= dataFormatter({
   3933,
   3982
 ]
-});
-dataMap.dataProductoNaranja= dataFormatter({
+},
+Naranja : {
 2008 :
 [
   1616,
@@ -281,8 +354,7 @@ dataMap.dataProductoNaranja= dataFormatter({
   1926,
   1877,
   1798
-],
-2009 :
+], 2009 :
 [
   2018,
   2301,
@@ -296,8 +368,7 @@ dataMap.dataProductoNaranja= dataFormatter({
   2215,
   2526,
   2331
-],
-2010 :
+], 2010 :
 [
   2345,
   2450,
@@ -311,8 +382,7 @@ dataMap.dataProductoNaranja= dataFormatter({
   3037,
   3100,
   2617
-],
-2011 :
+], 2011 :
 [
   3428,
   3745,
@@ -326,8 +396,7 @@ dataMap.dataProductoNaranja= dataFormatter({
   2493,
   2353,
   2465
-],
-2012 :
+], 2012 :
 [
   2654,
   3033,
@@ -341,8 +410,7 @@ dataMap.dataProductoNaranja= dataFormatter({
   2241,
   2086,
   2366
-],
-2013 :
+], 2013 :
 [
   2311,
   2331,
@@ -356,8 +424,7 @@ dataMap.dataProductoNaranja= dataFormatter({
   2402,
   3068,
   2918
-],
-2014 :
+], 2014 :
 [
   3028,
   3108,
@@ -372,8 +439,8 @@ dataMap.dataProductoNaranja= dataFormatter({
   3757,
   3040
 ]
-});
-dataMap.dataProductoQuesoParaguay= dataFormatter({
+},
+QuesoParaguay : {
 2008 :
 [
   14201,
@@ -388,8 +455,7 @@ dataMap.dataProductoQuesoParaguay= dataFormatter({
   18554,
   17670,
   15995
-],
-2009 :
+], 2009 :
 [
   6177,
   14806,
@@ -403,8 +469,7 @@ dataMap.dataProductoQuesoParaguay= dataFormatter({
   19675,
   18101,
   16183
-],
-2010 :
+], 2010 :
 [
   15304,
   14459,
@@ -418,8 +483,7 @@ dataMap.dataProductoQuesoParaguay= dataFormatter({
   28414,
   30534,
   25552
-],
-2011 :
+], 2011 :
 [
   18481,
   18756,
@@ -433,8 +497,7 @@ dataMap.dataProductoQuesoParaguay= dataFormatter({
   21839,
   18917,
   19743
-],
-2012 :
+], 2012 :
 [
   19079,
   19743,
@@ -448,8 +511,7 @@ dataMap.dataProductoQuesoParaguay= dataFormatter({
   18717,
   19087,
   18004
-],
-2013 :
+], 2013 :
 [
   16429,
   19030,
@@ -463,8 +525,7 @@ dataMap.dataProductoQuesoParaguay= dataFormatter({
   24762,
   24209,
   20782
-],
-2014 :
+], 2014 :
 [
   19887,
   20044,
@@ -479,11 +540,10 @@ dataMap.dataProductoQuesoParaguay= dataFormatter({
   24509,
   20262
 ]
-});
-dataMap.dataProductoTapadeAsado= dataFormatter({
+},
+TapadeAsado : {
 2008 :
-[],
-2009 :
+[], 2009 :
 [
   -1,
   16499,
@@ -497,8 +557,7 @@ dataMap.dataProductoTapadeAsado= dataFormatter({
   15591,
   15069,
   15152
-],
-2010 :
+], 2010 :
 [
   15540,
   15561,
@@ -512,8 +571,7 @@ dataMap.dataProductoTapadeAsado= dataFormatter({
   20559,
   21786,
   18652
-],
-2011 :
+], 2011 :
 [
   20871,
   20948,
@@ -527,8 +585,7 @@ dataMap.dataProductoTapadeAsado= dataFormatter({
   16805,
   17756,
   17100
-],
-2012 :
+], 2012 :
 [
   17605,
   19480,
@@ -542,8 +599,7 @@ dataMap.dataProductoTapadeAsado= dataFormatter({
   16817,
   17401,
   17596
-],
-2013 :
+], 2013 :
 [
   17157,
   17546,
@@ -557,8 +613,7 @@ dataMap.dataProductoTapadeAsado= dataFormatter({
   18360,
   18593,
   19809
-],
-2014 :
+], 2014 :
 [
   19001,
   19293,
@@ -573,8 +628,8 @@ dataMap.dataProductoTapadeAsado= dataFormatter({
   17793,
   19445
 ]
-});
-dataMap.dataProductoCostilla= dataFormatter({
+},
+Costilla : {
 2008 :
 [
   13334,
@@ -589,8 +644,7 @@ dataMap.dataProductoCostilla= dataFormatter({
   14883,
   15393,
   14910
-],
-2009 :
+], 2009 :
 [
   14875,
   12519,
@@ -604,8 +658,7 @@ dataMap.dataProductoCostilla= dataFormatter({
   13355,
   12027,
   14897
-],
-2010 :
+], 2010 :
 [
   15007,
   10433,
@@ -619,8 +672,7 @@ dataMap.dataProductoCostilla= dataFormatter({
   15093,
   15891,
   13765
-],
-2011 :
+], 2011 :
 [
   16359,
   14857,
@@ -634,8 +686,7 @@ dataMap.dataProductoCostilla= dataFormatter({
   24894,
   20173,
   20491
-],
-2012 :
+], 2012 :
 [
   17835,
   17546,
@@ -649,8 +700,7 @@ dataMap.dataProductoCostilla= dataFormatter({
   15087,
   16131,
   16942
-],
-2013 :
+], 2013 :
 [
   17106,
   13003,
@@ -664,8 +714,7 @@ dataMap.dataProductoCostilla= dataFormatter({
   16069,
   16913,
   18288
-],
-2014 :
+], 2014 :
 [
   15942,
   14754,
@@ -680,8 +729,8 @@ dataMap.dataProductoCostilla= dataFormatter({
   15034,
   17293
 ]
-});
-dataMap.dataProductoLomo= dataFormatter({
+},
+Lomo : {
 2008 :
 [
   26220,
@@ -696,8 +745,7 @@ dataMap.dataProductoLomo= dataFormatter({
   26560,
   25520,
   24744
-],
-2009 :
+], 2009 :
 [
   24080,
   24220,
@@ -711,8 +759,7 @@ dataMap.dataProductoLomo= dataFormatter({
   26097,
   26917,
   27916
-],
-2010 :
+], 2010 :
 [
   27909,
   27511,
@@ -726,8 +773,7 @@ dataMap.dataProductoLomo= dataFormatter({
   36835,
   39055,
   33471
-],
-2011 :
+], 2011 :
 [
   35235,
   34839,
@@ -741,8 +787,7 @@ dataMap.dataProductoLomo= dataFormatter({
   28143,
   25053,
   26926
-],
-2012 :
+], 2012 :
 [
   27734,
   25783,
@@ -756,8 +801,7 @@ dataMap.dataProductoLomo= dataFormatter({
   25636,
   26753,
   27814
-],
-2013 :
+], 2013 :
 [
   28231,
   28244,
@@ -771,8 +815,7 @@ dataMap.dataProductoLomo= dataFormatter({
   28513,
   31679,
   32051
-],
-2014 :
+], 2014 :
 [
   32567,
   32734,
@@ -787,8 +830,8 @@ dataMap.dataProductoLomo= dataFormatter({
   32471,
   31877
 ]
-});
-dataMap.dataProductoHarina= dataFormatter({
+},
+Harina : {
 2008 :
 [
   3005,
@@ -803,8 +846,7 @@ dataMap.dataProductoHarina= dataFormatter({
   2737,
   2451,
   2148
-],
-2009 :
+], 2009 :
 [
   2127,
   2160,
@@ -818,8 +860,7 @@ dataMap.dataProductoHarina= dataFormatter({
   2216,
   2175,
   2055
-],
-2010 :
+], 2010 :
 [
   2042,
   1980,
@@ -833,8 +874,7 @@ dataMap.dataProductoHarina= dataFormatter({
   2393,
   2530,
   2140
-],
-2011 :
+], 2011 :
 [
   2087,
   2212,
@@ -848,8 +888,7 @@ dataMap.dataProductoHarina= dataFormatter({
   2319,
   2226,
   2166
-],
-2012 :
+], 2012 :
 [
   2216,
   2091,
@@ -863,8 +902,7 @@ dataMap.dataProductoHarina= dataFormatter({
   2150,
   2218,
   2282
-],
-2013 :
+], 2013 :
 [
   2400,
   2439,
@@ -878,8 +916,7 @@ dataMap.dataProductoHarina= dataFormatter({
   3780,
   3077,
   3534
-],
-2014 :
+], 2014 :
 [
   3408,
   3427,
@@ -894,8 +931,8 @@ dataMap.dataProductoHarina= dataFormatter({
   3596,
   3355
 ]
-});
-dataMap.dataProductoGalleta= dataFormatter({
+},
+Galleta : {
 2008 :
 [
   3644,
@@ -910,8 +947,7 @@ dataMap.dataProductoGalleta= dataFormatter({
   3940,
   3759,
   3784
-],
-2009 :
+], 2009 :
 [
   3834,
   3798,
@@ -925,8 +961,7 @@ dataMap.dataProductoGalleta= dataFormatter({
   3487,
   3422,
   3334
-],
-2010 :
+], 2010 :
 [
   3471,
   3340,
@@ -940,8 +975,7 @@ dataMap.dataProductoGalleta= dataFormatter({
   4201,
   4432,
   3768
-],
-2011 :
+], 2011 :
 [
   3330,
   3442,
@@ -955,8 +989,7 @@ dataMap.dataProductoGalleta= dataFormatter({
   3775,
   3714,
   3753
-],
-2012 :
+], 2012 :
 [
   3625,
   3662,
@@ -970,8 +1003,7 @@ dataMap.dataProductoGalleta= dataFormatter({
   3783,
   3817,
   3806
-],
-2013 :
+], 2013 :
 [
   3742,
   3693,
@@ -985,8 +1017,7 @@ dataMap.dataProductoGalleta= dataFormatter({
   4427,
   4548,
   4573
-],
-2014 :
+], 2014 :
 [
   4448,
   4465,
@@ -1001,8 +1032,8 @@ dataMap.dataProductoGalleta= dataFormatter({
   4477,
   4568
 ]
-});
-dataMap.dataProductoMandioca= dataFormatter({
+},
+Mandioca : {
 2008 :
 [
   939,
@@ -1017,8 +1048,7 @@ dataMap.dataProductoMandioca= dataFormatter({
   1110,
   1148,
   1428
-],
-2009 :
+], 2009 :
 [
   1578,
   1445,
@@ -1032,8 +1062,7 @@ dataMap.dataProductoMandioca= dataFormatter({
   1099,
   1140,
   1115
-],
-2010 :
+], 2010 :
 [
   1340,
   1261,
@@ -1047,8 +1076,7 @@ dataMap.dataProductoMandioca= dataFormatter({
   1285,
   1331,
   1145
-],
-2011 :
+], 2011 :
 [
   1494,
   1555,
@@ -1062,8 +1090,7 @@ dataMap.dataProductoMandioca= dataFormatter({
   1268,
   1101,
   1049
-],
-2012 :
+], 2012 :
 [
   1726,
   1700,
@@ -1077,8 +1104,7 @@ dataMap.dataProductoMandioca= dataFormatter({
   1658,
   1691,
   2136
-],
-2013 :
+], 2013 :
 [
   1848,
   1782,
@@ -1092,8 +1118,7 @@ dataMap.dataProductoMandioca= dataFormatter({
   1516,
   2133,
   2066
-],
-2014 :
+], 2014 :
 [
   2665,
   2568,
@@ -1108,8 +1133,8 @@ dataMap.dataProductoMandioca= dataFormatter({
   2693,
   2772
 ]
-});
-dataMap.dataProductoArroz= dataFormatter({
+},
+Arroz : {
 2008 :
 [
   2451,
@@ -1124,8 +1149,7 @@ dataMap.dataProductoArroz= dataFormatter({
   3421,
   3319,
   3060
-],
-2009 :
+], 2009 :
 [
   2854,
   2822,
@@ -1139,8 +1163,7 @@ dataMap.dataProductoArroz= dataFormatter({
   2710,
   2765,
   2811
-],
-2010 :
+], 2010 :
 [
   2885,
   2790,
@@ -1154,8 +1177,7 @@ dataMap.dataProductoArroz= dataFormatter({
   3372,
   3538,
   3014
-],
-2011 :
+], 2011 :
 [
   2775,
   2614,
@@ -1169,8 +1191,7 @@ dataMap.dataProductoArroz= dataFormatter({
   2988,
   2587,
   2804
-],
-2012 :
+], 2012 :
 [
   3037,
   2770,
@@ -1184,8 +1205,7 @@ dataMap.dataProductoArroz= dataFormatter({
   2803,
   3065,
   2923
-],
-2013 :
+], 2013 :
 [
   3203,
   3184,
@@ -1199,8 +1219,7 @@ dataMap.dataProductoArroz= dataFormatter({
   2634,
   2729,
   2564
-],
-2014 :
+], 2014 :
 [
   2751,
   2954,
@@ -1215,8 +1234,8 @@ dataMap.dataProductoArroz= dataFormatter({
   2160,
   2973
 ]
-});
-dataMap.dataProductoFideo= dataFormatter({
+},
+Fideo : {
 2008 :
 [
   3441,
@@ -1231,8 +1250,7 @@ dataMap.dataProductoFideo= dataFormatter({
   3881,
   3804,
   3636
-],
-2009 :
+], 2009 :
 [
   3558,
   3423,
@@ -1246,8 +1264,7 @@ dataMap.dataProductoFideo= dataFormatter({
   3121,
   3205,
   3165
-],
-2010 :
+], 2010 :
 [
   3334,
   3202,
@@ -1261,8 +1278,7 @@ dataMap.dataProductoFideo= dataFormatter({
   3894,
   4086,
   3473
-],
-2011 :
+], 2011 :
 [
   3168,
   3056,
@@ -1276,8 +1292,7 @@ dataMap.dataProductoFideo= dataFormatter({
   3363,
   3269,
   3210
-],
-2012 :
+], 2012 :
 [
   2955,
   2930,
@@ -1291,8 +1306,7 @@ dataMap.dataProductoFideo= dataFormatter({
   2647,
   2638,
   2682
-],
-2013 :
+], 2013 :
 [
   2811,
   2729,
@@ -1306,8 +1320,7 @@ dataMap.dataProductoFideo= dataFormatter({
   3572,
   3569,
   3661
-],
-2014 :
+], 2014 :
 [
   3661,
   3604,
@@ -1322,8 +1335,8 @@ dataMap.dataProductoFideo= dataFormatter({
   3986,
   4053
 ]
-});
-dataMap.dataProductoAzucar= dataFormatter({
+},
+Azucar : {
 2008 :
 [
   2985,
@@ -1338,8 +1351,7 @@ dataMap.dataProductoAzucar= dataFormatter({
   2814,
   2833,
   2741
-],
-2009 :
+], 2009 :
 [
   2933,
   2974,
@@ -1353,8 +1365,7 @@ dataMap.dataProductoAzucar= dataFormatter({
   3953,
   4659,
   4658
-],
-2010 :
+], 2010 :
 [
   5011,
   5103,
@@ -1368,8 +1379,7 @@ dataMap.dataProductoAzucar= dataFormatter({
   6589,
   6855,
   5784
-],
-2011 :
+], 2011 :
 [
   7526,
   7179,
@@ -1383,8 +1393,7 @@ dataMap.dataProductoAzucar= dataFormatter({
   5682,
   5659,
   5210
-],
-2012 :
+], 2012 :
 [
   5712,
   5751,
@@ -1398,8 +1407,7 @@ dataMap.dataProductoAzucar= dataFormatter({
   4935,
   4759,
   4489
-],
-2013 :
+], 2013 :
 [
   4579,
   3754,
@@ -1413,8 +1421,7 @@ dataMap.dataProductoAzucar= dataFormatter({
   3484,
   3231,
   3242
-],
-2014 :
+], 2014 :
 [
   3538,
   3368,
@@ -1429,8 +1436,8 @@ dataMap.dataProductoAzucar= dataFormatter({
   3753,
   3508
 ]
-});
-dataMap.dataProductoBananacarape= dataFormatter({
+},
+Bananacarape : {
 2008 :
 [
   1990,
@@ -1445,8 +1452,7 @@ dataMap.dataProductoBananacarape= dataFormatter({
   1445,
   1960,
   2061
-],
-2009 :
+], 2009 :
 [
   2150,
   2067,
@@ -1460,8 +1466,7 @@ dataMap.dataProductoBananacarape= dataFormatter({
   2300,
   2422,
   3457
-],
-2010 :
+], 2010 :
 [
   3095,
   2379,
@@ -1475,8 +1480,7 @@ dataMap.dataProductoBananacarape= dataFormatter({
   2299,
   2389,
   2059
-],
-2011 :
+], 2011 :
 [
   3371,
   2934,
@@ -1490,8 +1494,7 @@ dataMap.dataProductoBananacarape= dataFormatter({
   2109,
   2530,
   3731
-],
-2012 :
+], 2012 :
 [
   4031,
   3389,
@@ -1505,8 +1508,7 @@ dataMap.dataProductoBananacarape= dataFormatter({
   2268,
   3417,
   3216
-],
-2013 :
+], 2013 :
 [
   2946,
   2874,
@@ -1520,8 +1522,7 @@ dataMap.dataProductoBananacarape= dataFormatter({
   2288,
   2994,
   4411
-],
-2014 :
+], 2014 :
 [
   4554,
   3900,
@@ -1536,8 +1537,8 @@ dataMap.dataProductoBananacarape= dataFormatter({
   4302,
   4898
 ]
-});
-dataMap.dataProductoYerba= dataFormatter({
+},
+Yerba : {
 2008 :
 [
   3532,
@@ -1552,8 +1553,7 @@ dataMap.dataProductoYerba= dataFormatter({
   3541,
   3484,
   3563
-],
-2009 :
+], 2009 :
 [
   2903,
   2819,
@@ -1567,8 +1567,7 @@ dataMap.dataProductoYerba= dataFormatter({
   3009,
   2960,
   3083
-],
-2010 :
+], 2010 :
 [
   3383,
   3158,
@@ -1582,8 +1581,7 @@ dataMap.dataProductoYerba= dataFormatter({
   4020,
   4239,
   3585
-],
-2011 :
+], 2011 :
 [
   3509,
   3745,
@@ -1597,8 +1595,7 @@ dataMap.dataProductoYerba= dataFormatter({
   3545,
   3358,
   4299
-],
-2012 :
+], 2012 :
 [
   3468,
   3532,
@@ -1612,8 +1609,7 @@ dataMap.dataProductoYerba= dataFormatter({
   5958,
   5467,
   5642
-],
-2013 :
+], 2013 :
 [
   6500,
   6283,
@@ -1627,8 +1623,7 @@ dataMap.dataProductoYerba= dataFormatter({
   7233,
   7203,
   8832
-],
-2014 :
+], 2014 :
 [
   9881,
   10115,
@@ -1643,13 +1638,11 @@ dataMap.dataProductoYerba= dataFormatter({
   11330,
   10935
 ]
-});
-dataMap.dataProductoVacio= dataFormatter({
+},
+Vacio : {
 2008 :
-[],
-2009 :
-[],
-2010 :
+[], 2009 :
+[], 2010 :
 [
   -1,
   12906,
@@ -1663,8 +1656,7 @@ dataMap.dataProductoVacio= dataFormatter({
   18949,
   20085,
   17319
-],
-2011 :
+], 2011 :
 [
   22175,
   20370,
@@ -1678,8 +1670,7 @@ dataMap.dataProductoVacio= dataFormatter({
   28016,
   25651,
   24546
-],
-2012 :
+], 2012 :
 [
   22523,
   21676,
@@ -1693,8 +1684,7 @@ dataMap.dataProductoVacio= dataFormatter({
   17244,
   18978,
   20890
-],
-2013 :
+], 2013 :
 [
   21052,
   16551,
@@ -1708,8 +1698,7 @@ dataMap.dataProductoVacio= dataFormatter({
   19261,
   20193,
   21590
-],
-2014 :
+], 2014 :
 [
   20494,
   19974,
@@ -1724,8 +1713,8 @@ dataMap.dataProductoVacio= dataFormatter({
   18416,
   20810
 ]
-});
-dataMap.dataProductoPoroto= dataFormatter({
+},
+Poroto : {
 2008 :
 [
   4420,
@@ -1740,8 +1729,7 @@ dataMap.dataProductoPoroto= dataFormatter({
   5954,
   5511,
   5175
-],
-2009 :
+], 2009 :
 [
   5011,
   5276,
@@ -1755,8 +1743,7 @@ dataMap.dataProductoPoroto= dataFormatter({
   5363,
   5143,
   5116
-],
-2010 :
+], 2010 :
 [
   5291,
   4839,
@@ -1770,8 +1757,7 @@ dataMap.dataProductoPoroto= dataFormatter({
   6537,
   6843,
   5819
-],
-2011 :
+], 2011 :
 [
   7775,
   6355,
@@ -1785,8 +1771,7 @@ dataMap.dataProductoPoroto= dataFormatter({
   7872,
   7753,
   7070
-],
-2012 :
+], 2012 :
 [
   6176,
   6364,
@@ -1800,8 +1785,7 @@ dataMap.dataProductoPoroto= dataFormatter({
   7723,
   7517,
   7123
-],
-2013 :
+], 2013 :
 [
   7560,
   6242,
@@ -1815,8 +1799,7 @@ dataMap.dataProductoPoroto= dataFormatter({
   7443,
   7500,
   6935
-],
-2014 :
+], 2014 :
 [
   7174,
   7070,
@@ -1831,13 +1814,11 @@ dataMap.dataProductoPoroto= dataFormatter({
   5787,
   8893
 ]
-});
-dataMap.dataProductoPuchero= dataFormatter({
+},
+Puchero : {
 2008 :
-[],
-2009 :
-[],
-2010 :
+[], 2009 :
+[], 2010 :
 [
   -1,
   5217,
@@ -1851,8 +1832,7 @@ dataMap.dataProductoPuchero= dataFormatter({
   6581,
   6867,
   5745
-],
-2011 :
+], 2011 :
 [
   5036,
   4739,
@@ -1866,8 +1846,7 @@ dataMap.dataProductoPuchero= dataFormatter({
   5635,
   6322,
   5812
-],
-2012 :
+], 2012 :
 [
   5581,
   4992,
@@ -1881,8 +1860,7 @@ dataMap.dataProductoPuchero= dataFormatter({
   4712,
   5154,
   5166
-],
-2013 :
+], 2013 :
 [
   3978,
   5361,
@@ -1896,8 +1874,7 @@ dataMap.dataProductoPuchero= dataFormatter({
   5093,
   4988,
   5159
-],
-2014 :
+], 2014 :
 [
   6108,
   5590,
@@ -1912,11 +1889,10 @@ dataMap.dataProductoPuchero= dataFormatter({
   5615,
   4990
 ]
-});
-dataMap.dataProductoTapaCuadril= dataFormatter({
+},
+TapaCuadril : {
 2008 :
-[],
-2009 :
+[], 2009 :
 [
   -1,
   27524,
@@ -1930,8 +1906,7 @@ dataMap.dataProductoTapaCuadril= dataFormatter({
   27164,
   27344,
   27280
-],
-2010 :
+], 2010 :
 [
   28503,
   28678,
@@ -1945,8 +1920,7 @@ dataMap.dataProductoTapaCuadril= dataFormatter({
   37761,
   39940,
   34168
-],
-2011 :
+], 2011 :
 [
   39920,
   41586,
@@ -1960,8 +1934,7 @@ dataMap.dataProductoTapaCuadril= dataFormatter({
   35667,
   33257,
   32925
-],
-2012 :
+], 2012 :
 [
   33862,
   32758,
@@ -1975,8 +1948,7 @@ dataMap.dataProductoTapaCuadril= dataFormatter({
   33740,
   33056,
   31123
-],
-2013 :
+], 2013 :
 [
   34802,
   35448,
@@ -1990,8 +1962,7 @@ dataMap.dataProductoTapaCuadril= dataFormatter({
   33322,
   34943,
   34702
-],
-2014 :
+], 2014 :
 [
   34502,
   33436,
@@ -2006,5 +1977,27 @@ dataMap.dataProductoTapaCuadril= dataFormatter({
   34271,
   33493
 ]
-});
-dataMap.dataGDP_Estate = dataMix([ dataMap.dataDolar, dataMap.dataProductoKokito ]);
+}};
+console.log(dataMap.data['Kokito']);
+dataMap.dataFormat = {ipc : dataFormatter(dataMap.dataIndices['ipc']),
+                      dolar : dataFormatter(dataMap.dataIndices['dolar']),
+                      PanFelipito : dataFormatter(dataMap.data['PanFelipito']),
+                      Kokito : dataFormatter(dataMap.data['Kokito']),
+                      Bananacarape : dataFormatter(dataMap.data['Bananacarape']),
+                      TapaCuadril : dataFormatter(dataMap.data['TapaCuadril']),
+                      TapadeAsado : dataFormatter(dataMap.data['TapadeAsado']),
+                      QuesoParaguay : dataFormatter(dataMap.data['QuesoParaguay']),
+                      Harina : dataFormatter(dataMap.data['Harina']),
+                      Poroto : dataFormatter(dataMap.data['Poroto']),
+                      Costilla : dataFormatter(dataMap.data['Costilla']),
+                      Lomo : dataFormatter(dataMap.data['Lomo']),
+                      Galleta : dataFormatter(dataMap.data['Galleta']),
+                      Mandioca : dataFormatter(dataMap.data['Mandioca']),
+                      Fideo : dataFormatter(dataMap.data['Fideo']),
+                      Azucar : dataFormatter(dataMap.data['Azucar']),
+                      Yerba : dataFormatter(dataMap.data['Yerba']),
+                      Vacio : dataFormatter(dataMap.data['Vacio']),
+                      Puchero : dataFormatter(dataMap.data['Puchero'])};
+var producto = 'TapaCuadril';
+var indice = 'ipc';
+dataMap.dataGDP_Estate = dataMix([ dataMap.dataFormat[indice], dataMap.dataFormat[producto] ]);

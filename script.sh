@@ -11,12 +11,8 @@ for p in ${productos[@]}; do
 	for i in ${anhos[@]}; do
 		cat productos.json | jq '[.[] | select(.RUBRO=="'$p'" and .ANHO=='$i') | .PRECIO]' > tt.json && echo $i : > temp.json && cat 		temp.json tt.json >> ttt.json
 	done
-	a="dataMap.dataProducto"
-	b="= dataFormatter({"
-	IFS="."
-	c=$a$p$b
-	echo $c > t.json && cat t.json ttt.json > casi.json && echo "});" > casit.json && cat casi.json casit.json >>final.json
+	b=" : {"
+	c=$p$b
+	echo $c > t.json && cat t.json ttt.json > casi.json && echo "}," > casit.json && cat casi.json casit.json >>final.json
 	rm ttt.json
 done
-
-
