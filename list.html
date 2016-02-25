@@ -11,6 +11,9 @@
 
 	<style type="text/css" class="init">
 
+.table {
+	    margin-left: 5%;
+}
 	</style>
 
 
@@ -72,24 +75,28 @@ $(document).ready(function() {
 
 	<div class="container-fluid">
 	  <div class="row content">
-	    <div class="col-sm-2 sidenav hidden-xs">
-	      <h2>Menú</h2>
-	      <ul class="nav nav-pills nav-stacked">
-	        <li class="active"><a href="#section2">Listado de Productos</a></li>
-	        <li><a href="#" id="btn-1" data-toggle="collapse" data-target="#submenu1" aria-expanded="false">Gráficos</a>
-	        <ul class="nav collapse" id="submenu1" role="menu" aria-labelledby="btn-1">
-	          <li><a href="#">Correlación Precio-Dólar-IPC</a></li>
-	          <li><a href="#">Ránking de correlaciones</a></li>
-	          <li><a href="#">Evolución de precios en el tiempo</a></li>
-	        </ul>
-	      </li>
-	      </li>
-	      </ul><br>
-	    </div>
+			<nav class="navbar navbar-inverse">
+				<div class="container-fluid">
+				    <div class="navbar-header">
+				      <a class="navbar-brand" href="#">Datos Abiertos</a>
+				    </div>
+				    <ul class="nav navbar-nav">
+				      <li class="active"><a href="list.html">Listado</a></li>
+				      <li><a href="grafico_correlacion.html">Gráfico Correlación</a></li>
+				      <li><a href="grafico_ranking.html">Gráfico Ránking</a></li>
+				      <li><a href="grafico_evolucion.html">Gráfico evolución precios</a></li>
+							<li><a href="grafico_evolucion_indice.html">Gráfico evolución índices</a></li>
+							<li><a href="grafico_evolucion_rubros.html">Gráfico evolución Rubros</a></li>
+							<li><a href="about.html">Acerca de</a></li>
+				    </ul>
+				  </div>
+			</nav>
+
 	    <br>
-			<div class="col-sm-9">
+			<center>
+			<div class="col-sm-11">
 				<h3>Listado de Productos</h3>
-				<div class="well">
+
 
 					<table id="example" header="Listado de Productos"
 					 class="table table-striped table-bordered" cellspacing="0" width="100%">
@@ -105,6 +112,8 @@ $(document).ready(function() {
         	</thead>
     	</table>
 	</div>
+	<center>
+</div>
 </div>
 
 
