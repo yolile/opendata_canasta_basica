@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<script src="resources/js/echarts/build/dist/echarts-all.js"></script>
+	<script src="resources/js/pearson-correlation.js"></script>
+	<script src="final.js"></script>
+<meta charset="utf-8">
+<title>Histórico Canasta Basica Familiar</title>
+</head>
+<body>
+	<header class="header">
+	  <div class="panel panel-default">
+	    <div class="panel-heading" style="background-color: white">
+	      <div class="row" >
+	        <div class="col-sm-2"></div>
+	        <div class="col-sm-2"><img src="resources/images/canasta_basica.png" width="40px"></img></div>
+	        <div class="col-sm-4"><h3>Histórico Canasta Básica Familiar</h3></div>
+	        <div class="col-sm-2"><img src="resources/images/datos_abiertos.png" width="150px"
+	          style="padding-top: 20px"></img></div>
+	        </div>
+
+	    </div>
+	  </div>
+	</header>
+
+
+	<div class="container-fluid">
+	  <div class="row content">
+	    <div class="col-sm-2 sidenav hidden-xs">
+	      <h2>Menú</h2>
+	      <ul class="nav nav-pills nav-stacked">
+	        <li class="active"><a href="#section2">Listado de Productos</a></li>
+	        <li><a href="#" id="btn-1" data-toggle="collapse" data-target="#submenu1" aria-expanded="false">Gráficos</a>
+	        <ul class="nav collapse" id="submenu1" role="menu" aria-labelledby="btn-1">
+	          <li><a href="#">Correlación Precio-Dólar-IPC</a></li>
+	          <li><a href="#">Ránking de correlaciones</a></li>
+	          <li><a href="#">Evolución de precios en el tiempo</a></li>
+	        </ul>
+	      </li>
+	      </li>
+	      </ul><br>
+	    </div>
+	    <br>
+
+
+
+	<div class="col-sm-9">
+		<h3>Ránking de correlación entre productos e índices</h3>
+<div class="col-sm-4">
+Índice
+</div>
+		<div class="col-sm-4">
+			<select class="form-control" id="indice" onchange="cambiarIndice();" name="indice">
+					<option value="ipc">Indice de Precio del Consumidor</option>
+					<option value="dolar">Dolar</option>
+			</select>
+		</div>
+
+	<div id="mainMapRanking"
+		style="height: 500px; border: 1px solid #ccc; padding: 10px; width: 1000px;"></div>
+</div>
+
+	<script type="text/javascript">
+	var indice = 'ipc';
+		var myChartRanking = echarts.init(document.getElementById('mainMapRanking'));
+	function cambiarIndice(){
+		var x = document.getElementById("indice").value;
+		indice = x;
+		refresh();
+	};
+	function refresh(){
+
+			myChartRanking.dispose();
+			myChartRanking = echarts.init(document.getElementById('mainMapRanking'));
+
+			myChartRanking.setOption(getOption(indice));
+
+	};
+
+	var prods= new Array('Kokito','PanFelipito','Naranja','QuesoParaguay','TapadeAsado','Costilla',
+				'Lomo','Harina','Galleta','Mandioca','Arroz','Fideo','Azucar','Bananacarape','Yerba',
+				'Vacio','Poroto','Puchero','TapaCuadril');
+
+
+function getCorrelationArray(year, indice) {
+	var aRet = new Array();
+	for (var i = 0; i < 19; i++){
+		console.log(year + prods[i]);
+		aRet.push(pearsonCorrelation(new Array(dataMap.data[prods[i]][year],dataMap.dataIndices[indice][year]),0,1))
+	}
+	console.log(aRet);
+	return aRet;
+}
+
+
+
+
+
+//GRAFICO DE PRODUCTOS MAS CORRELACIONADOS
+function getOption(indice) {
+optionRanking = {
+    timeline:{
+
+					data : [ '2008-01-01', '2009-01-01','2010-01-01','2011-01-01','2012-01-01'
+									 ,'2013-01-01','2014-01-01'],
+        label : {
+            formatter : function(s) {
+                return s.slice(0, 4);
+            }
+        },
+        autoPlay : true,
+        playInterval : 1000
+    },
+    options:[
+        {
+            title : {
+                'text':'Correlación 2008',
+
+            },
+            tooltip : {'trigger':'axis'},
+            legend : {
+                x:'right',
+                'data':['Correlación'],
+
+            },
+            toolbox : {
+                'show':true,
+                orient : 'vertical',
+                x: 'right',
+                y: 'center',
+                'feature':{
+                    'mark':{'show':true},
+                    'dataView':{'show':true,'readOnly':false},
+                    'magicType':{'show':true,'type':['line','bar','stack','tiled']},
+                    'restore':{'show':true},
+                    'saveAsImage':{'show':true}
+                }
+            },
+            calculable : true,
+            grid : {'y':100,'y2':100},
+            xAxis : [{
+                'type':'category',
+                'axisLabel':{'interval':0},
+                'data':prods
+            }],
+            yAxis : [
+                {
+                    'type':'value',
+                    'name':'Correlacion',
+                    'max':1,
+										'min':-1
+                },
+                {
+                    'type':'value',
+                    'name':'其他（亿元）'
+                }
+            ],
+            series : [
+                {
+                    'name':'Correlación',
+                    'type':'bar',
+                    'markLine':{
+                        symbol : ['arrow','none'],
+                        symbolSize : [4, 2],
+                        itemStyle : {
+                            normal: {
+                                lineStyle: {color:'orange'},
+                                barBorderColor:'orange',
+                                label:{
+                                    position:'left',
+                                    formatter:function(params){
+                                        return Math.round(params.value);
+                                    },
+                                    textStyle:{color:'orange'}
+                                }
+                            }
+                        },
+                        'data':[{'type':'average','name':'Promedio'}]
+                    },
+                    'data': getCorrelationArray('2008',indice)
+                }
+            ]
+        },
+        {
+            title : {'text':'Correlación 2009'},
+            series : [
+                {'data': getCorrelationArray('2009',indice)}
+            ]
+        },
+        {
+            title : {'text':'Correlación 2010'},
+            series : [
+							{'data': getCorrelationArray('2010',indice)}
+            ]
+        },
+        {
+            title : {'text':'Correlación 2011'},
+            series : [
+							{'data': getCorrelationArray('2011',indice)}]
+        },
+        {
+            title : {'text':'Correlación 2012'},
+            series : [
+							{'data': getCorrelationArray('2012',indice)}
+						]
+        },
+        {
+            title : {'text':'Correlación 2013'},
+            series : [
+							{'data': getCorrelationArray('2013',indice)}
+            ]
+        },
+        {
+            title : {'text':'Correlación 2014'},
+            series : [
+							{'data': getCorrelationArray('2014',indice)}
+            ]
+        }
+    ]
+}
+return optionRanking;
+};
+myChartRanking.setOption(getOption(indice));
+
+	</script>
+</body>
+</html>
