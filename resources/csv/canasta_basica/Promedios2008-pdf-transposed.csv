@@ -9,7 +9,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 8,Panificado,Pan Felipito,2008,AGOSTO,3509
 9,Panificado,Pan Felipito,2008,SETIEMBRE,3471
 10,Panificado,Pan Felipito,2008,OCTUBRE,3356
-11,Panificado,Pan Felipito,2008,NOVIEMBE,3125
+11,Panificado,Pan Felipito,2008,NOVIEMBRE,3125
 12,Panificado,Pan Felipito,2008,DICIEMBRE,3149
 13,Panificado,Galleta,2008,ENERO,3644
 14,Panificado,Galleta,2008,FEBRERO,3767
@@ -21,7 +21,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 20,Panificado,Galleta,2008,AGOSTO,4105
 21,Panificado,Galleta,2008,SETIEMBRE,4066
 22,Panificado,Galleta,2008,OCTUBRE,3940
-23,Panificado,Galleta,2008,NOVIEMBE,3759
+23,Panificado,Galleta,2008,NOVIEMBRE,3759
 24,Panificado,Galleta,2008,DICIEMBRE,3784
 25,Panificado,Kokito,2008,ENERO,5720
 26,Panificado,Kokito,2008,FEBRERO,5815
@@ -33,7 +33,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 32,Panificado,Kokito,2008,AGOSTO,6506
 33,Panificado,Kokito,2008,SETIEMBRE,6562
 34,Panificado,Kokito,2008,OCTUBRE,6366
-35,Panificado,Kokito,2008,NOVIEMBE,6177
+35,Panificado,Kokito,2008,NOVIEMBRE,6177
 36,Panificado,Kokito,2008,DICIEMBRE,6172
 37,A granel - 1kg,Fideo,2008,ENERO,3441
 38,A granel - 1kg,Fideo,2008,FEBRERO,3324
@@ -45,7 +45,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 44,A granel - 1kg,Fideo,2008,AGOSTO,3902
 45,A granel - 1kg,Fideo,2008,SETIEMBRE,3986
 46,A granel - 1kg,Fideo,2008,OCTUBRE,3881
-47,A granel - 1kg,Fideo,2008,NOVIEMBE,3804
+47,A granel - 1kg,Fideo,2008,NOVIEMBRE,3804
 48,A granel - 1kg,Fideo,2008,DICIEMBRE,3636
 49,A granel - 1kg,Poroto,2008,ENERO,4420
 50,A granel - 1kg,Poroto,2008,FEBRERO,5000
@@ -57,7 +57,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 56,A granel - 1kg,Poroto,2008,AGOSTO,6728
 57,A granel - 1kg,Poroto,2008,SETIEMBRE,6562
 58,A granel - 1kg,Poroto,2008,OCTUBRE,5954
-59,A granel - 1kg,Poroto,2008,NOVIEMBE,5511
+59,A granel - 1kg,Poroto,2008,NOVIEMBRE,5511
 60,A granel - 1kg,Poroto,2008,DICIEMBRE,5175
 61,A granel - 1kg,Arroz,2008,ENERO,2451
 62,A granel - 1kg,Arroz,2008,FEBRERO,2481
@@ -69,7 +69,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 68,A granel - 1kg,Arroz,2008,AGOSTO,3531
 69,A granel - 1kg,Arroz,2008,SETIEMBRE,3454
 70,A granel - 1kg,Arroz,2008,OCTUBRE,3421
-71,A granel - 1kg,Arroz,2008,NOVIEMBE,3319
+71,A granel - 1kg,Arroz,2008,NOVIEMBRE,3319
 72,A granel - 1kg,Arroz,2008,DICIEMBRE,3060
 73,A granel - 1kg,Azúcar,2008,ENERO,2985
 74,A granel - 1kg,Azúcar,2008,FEBRERO,2745
@@ -81,7 +81,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 80,A granel - 1kg,Azúcar,2008,AGOSTO,2837
 81,A granel - 1kg,Azúcar,2008,SETIEMBRE,2789
 82,A granel - 1kg,Azúcar,2008,OCTUBRE,2814
-83,A granel - 1kg,Azúcar,2008,NOVIEMBE,2833
+83,A granel - 1kg,Azúcar,2008,NOVIEMBRE,2833
 84,A granel - 1kg,Azúcar,2008,DICIEMBRE,2741
 85,A granel - 1kg,Harina,2008,ENERO,3005
 86,A granel - 1kg,Harina,2008,FEBRERO,2758
@@ -93,7 +93,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 92,A granel - 1kg,Harina,2008,AGOSTO,3171
 93,A granel - 1kg,Harina,2008,SETIEMBRE,3054
 94,A granel - 1kg,Harina,2008,OCTUBRE,2737
-95,A granel - 1kg,Harina,2008,NOVIEMBE,2451
+95,A granel - 1kg,Harina,2008,NOVIEMBRE,2451
 96,A granel - 1kg,Harina,2008,DICIEMBRE,2148
 97,A granel - 1kg,Maíz,2008,ENERO,2803
 98,A granel - 1kg,Maíz,2008,FEBRERO,2832
@@ -105,7 +105,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 104,A granel - 1kg,Maíz,2008,AGOSTO,2800
 105,A granel - 1kg,Maíz,2008,SETIEMBRE,2640
 106,A granel - 1kg,Maíz,2008,OCTUBRE,2487
-107,A granel - 1kg,Maíz,2008,NOVIEMBE,2585
+107,A granel - 1kg,Maíz,2008,NOVIEMBRE,2585
 108,A granel - 1kg,Maíz,2008,DICIEMBRE,2388
 109,A granel - 1kg,Yerba,2008,ENERO,3532
 110,A granel - 1kg,Yerba,2008,FEBRERO,3519
@@ -117,7 +117,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 116,A granel - 1kg,Yerba,2008,AGOSTO,3727
 117,A granel - 1kg,Yerba,2008,SETIEMBRE,3576
 118,A granel - 1kg,Yerba,2008,OCTUBRE,3541
-119,A granel - 1kg,Yerba,2008,NOVIEMBE,3484
+119,A granel - 1kg,Yerba,2008,NOVIEMBRE,3484
 120,A granel - 1kg,Yerba,2008,DICIEMBRE,3563
 121,Carne bovina - 1kg,Puchero de primera,2008,ENERO,7474
 122,Carne bovina - 1kg,Puchero de primera,2008,FEBRERO,7893
@@ -129,7 +129,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 128,Carne bovina - 1kg,Puchero de primera,2008,AGOSTO,8963
 129,Carne bovina - 1kg,Puchero de primera,2008,SETIEMBRE,8949
 130,Carne bovina - 1kg,Puchero de primera,2008,OCTUBRE,8811
-131,Carne bovina - 1kg,Puchero de primera,2008,NOVIEMBE,8183
+131,Carne bovina - 1kg,Puchero de primera,2008,NOVIEMBRE,8183
 132,Carne bovina - 1kg,Puchero de primera,2008,DICIEMBRE,8182
 133,Carne bovina - 1kg,Carnaza de negra,2008,ENERO,24033
 134,Carne bovina - 1kg,Carnaza de negra,2008,FEBRERO,23251
@@ -141,7 +141,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 140,Carne bovina - 1kg,Carnaza de negra,2008,AGOSTO,25027
 141,Carne bovina - 1kg,Carnaza de negra,2008,SETIEMBRE,25164
 142,Carne bovina - 1kg,Carnaza de negra,2008,OCTUBRE,23981
-143,Carne bovina - 1kg,Carnaza de negra,2008,NOVIEMBE,22987
+143,Carne bovina - 1kg,Carnaza de negra,2008,NOVIEMBRE,22987
 144,Carne bovina - 1kg,Carnaza de negra,2008,DICIEMBRE,22267
 145,Carne bovina - 1kg,Carnaza de blanca,2008,ENERO,20833
 146,Carne bovina - 1kg,Carnaza de blanca,2008,FEBRERO,20458
@@ -153,7 +153,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 152,Carne bovina - 1kg,Carnaza de blanca,2008,AGOSTO,22208
 153,Carne bovina - 1kg,Carnaza de blanca,2008,SETIEMBRE,22678
 154,Carne bovina - 1kg,Carnaza de blanca,2008,OCTUBRE,21541
-155,Carne bovina - 1kg,Carnaza de blanca,2008,NOVIEMBE,20253
+155,Carne bovina - 1kg,Carnaza de blanca,2008,NOVIEMBRE,20253
 156,Carne bovina - 1kg,Carnaza de blanca,2008,DICIEMBRE,19370
 157,Carne bovina - 1kg,Lomo,2008,ENERO,26220
 158,Carne bovina - 1kg,Lomo,2008,FEBRERO,25606
@@ -165,7 +165,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 164,Carne bovina - 1kg,Lomo,2008,AGOSTO,27303
 165,Carne bovina - 1kg,Lomo,2008,SETIEMBRE,27696
 166,Carne bovina - 1kg,Lomo,2008,OCTUBRE,26560
-167,Carne bovina - 1kg,Lomo,2008,NOVIEMBE,25520
+167,Carne bovina - 1kg,Lomo,2008,NOVIEMBRE,25520
 168,Carne bovina - 1kg,Lomo,2008,DICIEMBRE,24744
 169,Carne bovina - 1kg,Carne molida de primera,2008,ENERO,21119
 170,Carne bovina - 1kg,Carne molida de primera,2008,FEBRERO,21484
@@ -177,7 +177,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 176,Carne bovina - 1kg,Carne molida de primera,2008,AGOSTO,23125
 177,Carne bovina - 1kg,Carne molida de primera,2008,SETIEMBRE,23535
 178,Carne bovina - 1kg,Carne molida de primera,2008,OCTUBRE,22115
-179,Carne bovina - 1kg,Carne molida de primera,2008,NOVIEMBE,20932
+179,Carne bovina - 1kg,Carne molida de primera,2008,NOVIEMBRE,20932
 180,Carne bovina - 1kg,Carne molida de primera,2008,DICIEMBRE,20595
 181,Carne bovina - 1kg,Carne molida de segunda,2008,ENERO,10547
 182,Carne bovina - 1kg,Carne molida de segunda,2008,FEBRERO,12166
@@ -189,7 +189,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 188,Carne bovina - 1kg,Carne molida de segunda,2008,AGOSTO,13613
 189,Carne bovina - 1kg,Carne molida de segunda,2008,SETIEMBRE,13751
 190,Carne bovina - 1kg,Carne molida de segunda,2008,OCTUBRE,13306
-191,Carne bovina - 1kg,Carne molida de segunda,2008,NOVIEMBE,12333
+191,Carne bovina - 1kg,Carne molida de segunda,2008,NOVIEMBRE,12333
 192,Carne bovina - 1kg,Carne molida de segunda,2008,DICIEMBRE,11916
 193,Carne bovina - 1kg,Costilla,2008,ENERO,13334
 194,Carne bovina - 1kg,Costilla,2008,FEBRERO,12133
@@ -201,7 +201,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 200,Carne bovina - 1kg,Costilla,2008,AGOSTO,14538
 201,Carne bovina - 1kg,Costilla,2008,SETIEMBRE,13892
 202,Carne bovina - 1kg,Costilla,2008,OCTUBRE,14883
-203,Carne bovina - 1kg,Costilla,2008,NOVIEMBE,15393
+203,Carne bovina - 1kg,Costilla,2008,NOVIEMBRE,15393
 204,Carne bovina - 1kg,Costilla,2008,DICIEMBRE,14910
 205,Carne bovina - 1kg,Hígado,2008,ENERO,7510
 206,Carne bovina - 1kg,Hígado,2008,FEBRERO,7328
@@ -213,7 +213,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 212,Carne bovina - 1kg,Hígado,2008,AGOSTO,9824
 213,Carne bovina - 1kg,Hígado,2008,SETIEMBRE,10124
 214,Carne bovina - 1kg,Hígado,2008,OCTUBRE,10207
-215,Carne bovina - 1kg,Hígado,2008,NOVIEMBE,9995
+215,Carne bovina - 1kg,Hígado,2008,NOVIEMBRE,9995
 216,Carne bovina - 1kg,Hígado,2008,DICIEMBRE,8821
 217,Carne bovina - 1kg,Corazón,2008,ENERO,7333
 218,Carne bovina - 1kg,Corazón,2008,FEBRERO,7121
@@ -225,7 +225,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 224,Carne bovina - 1kg,Corazón,2008,AGOSTO,8156
 225,Carne bovina - 1kg,Corazón,2008,SETIEMBRE,8488
 226,Carne bovina - 1kg,Corazón,2008,OCTUBRE,8606
-227,Carne bovina - 1kg,Corazón,2008,NOVIEMBE,8596
+227,Carne bovina - 1kg,Corazón,2008,NOVIEMBRE,8596
 228,Carne bovina - 1kg,Corazón,2008,DICIEMBRE,8091
 229,Carne bovina - 1kg,Mondongo,2008,ENERO,7739
 230,Carne bovina - 1kg,Mondongo,2008,FEBRERO,7287
@@ -237,7 +237,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 236,Carne bovina - 1kg,Mondongo,2008,AGOSTO,9342
 237,Carne bovina - 1kg,Mondongo,2008,SETIEMBRE,10398
 238,Carne bovina - 1kg,Mondongo,2008,OCTUBRE,10265
-239,Carne bovina - 1kg,Mondongo,2008,NOVIEMBE,10190
+239,Carne bovina - 1kg,Mondongo,2008,NOVIEMBRE,10190
 240,Carne bovina - 1kg,Mondongo,2008,DICIEMBRE,9364
 241,Carne bovina - 1kg,Carnaza de Primera,2008,ENERO,25476
 242,Carne bovina - 1kg,Carnaza de Primera,2008,FEBRERO,23133
@@ -249,7 +249,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 248,Carne bovina - 1kg,Carnaza de Primera,2008,AGOSTO,24990
 249,Carne bovina - 1kg,Carnaza de Primera,2008,SETIEMBRE,24991
 250,Carne bovina - 1kg,Carnaza de Primera,2008,OCTUBRE,23889
-251,Carne bovina - 1kg,Carnaza de Primera,2008,NOVIEMBE,22904
+251,Carne bovina - 1kg,Carnaza de Primera,2008,NOVIEMBRE,22904
 252,Carne bovina - 1kg,Carnaza de Primera,2008,DICIEMBRE,22326
 253,Carne bovina - 1kg,Carnaza de Segunda,2008,ENERO,13990
 254,Carne bovina - 1kg,Carnaza de Segunda,2008,FEBRERO,13884
@@ -261,7 +261,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 260,Carne bovina - 1kg,Carnaza de Segunda,2008,AGOSTO,15604
 261,Carne bovina - 1kg,Carnaza de Segunda,2008,SETIEMBRE,15821
 262,Carne bovina - 1kg,Carnaza de Segunda,2008,OCTUBRE,14687
-263,Carne bovina - 1kg,Carnaza de Segunda,2008,NOVIEMBE,13816
+263,Carne bovina - 1kg,Carnaza de Segunda,2008,NOVIEMBRE,13816
 264,Carne bovina - 1kg,Carnaza de Segunda,2008,DICIEMBRE,13177
 265,Carne bovina - 1kg,Puchero de Segunda,2008,ENERO,2690
 266,Carne bovina - 1kg,Puchero de Segunda,2008,FEBRERO,2842
@@ -273,7 +273,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 272,Carne bovina - 1kg,Puchero de Segunda,2008,AGOSTO,3747
 273,Carne bovina - 1kg,Puchero de Segunda,2008,SETIEMBRE,3300
 274,Carne bovina - 1kg,Puchero de Segunda,2008,OCTUBRE,3665
-275,Carne bovina - 1kg,Puchero de Segunda,2008,NOVIEMBE,3556
+275,Carne bovina - 1kg,Puchero de Segunda,2008,NOVIEMBRE,3556
 276,Carne bovina - 1kg,Puchero de Segunda,2008,DICIEMBRE,2867
 277,Carne de ave / Puchero - 1kg,Marca mas económica,2008,ENERO,5130
 278,Carne de ave / Puchero - 1kg,Marca mas económica,2008,FEBRERO,5316
@@ -285,7 +285,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 284,Carne de ave / Puchero - 1kg,Marca mas económica,2008,AGOSTO,5673
 285,Carne de ave / Puchero - 1kg,Marca mas económica,2008,SETIEMBRE,5968
 286,Carne de ave / Puchero - 1kg,Marca mas económica,2008,OCTUBRE,5652
-287,Carne de ave / Puchero - 1kg,Marca mas económica,2008,NOVIEMBE,5163
+287,Carne de ave / Puchero - 1kg,Marca mas económica,2008,NOVIEMBRE,5163
 288,Carne de ave / Puchero - 1kg,Marca mas económica,2008,DICIEMBRE,4255
 289,Carne de ave / pechuga - 1kg,Marca mas económica,2008,ENERO,11844
 290,Carne de ave / pechuga - 1kg,Marca mas económica,2008,FEBRERO,12265
@@ -297,7 +297,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 296,Carne de ave / pechuga - 1kg,Marca mas económica,2008,AGOSTO,11092
 297,Carne de ave / pechuga - 1kg,Marca mas económica,2008,SETIEMBRE,11960
 298,Carne de ave / pechuga - 1kg,Marca mas económica,2008,OCTUBRE,12203
-299,Carne de ave / pechuga - 1kg,Marca mas económica,2008,NOVIEMBE,12263
+299,Carne de ave / pechuga - 1kg,Marca mas económica,2008,NOVIEMBRE,12263
 300,Carne de ave / pechuga - 1kg,Marca mas económica,2008,DICIEMBRE,12870
 301,Carne de ave / pata entera - 1kg,Marca mas económica,2008,ENERO,12149
 302,Carne de ave / pata entera - 1kg,Marca mas económica,2008,FEBRERO,12168
@@ -309,7 +309,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 308,Carne de ave / pata entera - 1kg,Marca mas económica,2008,AGOSTO,13061
 309,Carne de ave / pata entera - 1kg,Marca mas económica,2008,SETIEMBRE,13690
 310,Carne de ave / pata entera - 1kg,Marca mas económica,2008,OCTUBRE,13616
-311,Carne de ave / pata entera - 1kg,Marca mas económica,2008,NOVIEMBE,13142
+311,Carne de ave / pata entera - 1kg,Marca mas económica,2008,NOVIEMBRE,13142
 312,Carne de ave / pata entera - 1kg,Marca mas económica,2008,DICIEMBRE,12275
 313,Carne de ave / pollo entero - 1kg,Marca mas económica,2008,ENERO,8862
 314,Carne de ave / pollo entero - 1kg,Marca mas económica,2008,FEBRERO,9022
@@ -321,7 +321,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 320,Carne de ave / pollo entero - 1kg,Marca mas económica,2008,AGOSTO,9162
 321,Carne de ave / pollo entero - 1kg,Marca mas económica,2008,SETIEMBRE,9736
 322,Carne de ave / pollo entero - 1kg,Marca mas económica,2008,OCTUBRE,9321
-323,Carne de ave / pollo entero - 1kg,Marca mas económica,2008,NOVIEMBE,8805
+323,Carne de ave / pollo entero - 1kg,Marca mas económica,2008,NOVIEMBRE,8805
 324,Carne de ave / pollo entero - 1kg,Marca mas económica,2008,DICIEMBRE,7764
 325,Carne de ave / Ala - 1kg,Marca mas económica,2008,ENERO,9962
 326,Carne de ave / Ala - 1kg,Marca mas económica,2008,FEBRERO,9994
@@ -333,7 +333,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 332,Carne de ave / Ala - 1kg,Marca mas económica,2008,AGOSTO,10870
 333,Carne de ave / Ala - 1kg,Marca mas económica,2008,SETIEMBRE,11714
 334,Carne de ave / Ala - 1kg,Marca mas económica,2008,OCTUBRE,11173
-335,Carne de ave / Ala - 1kg,Marca mas económica,2008,NOVIEMBE,10270
+335,Carne de ave / Ala - 1kg,Marca mas económica,2008,NOVIEMBRE,10270
 336,Carne de ave / Ala - 1kg,Marca mas económica,2008,DICIEMBRE,10083
 337,Carne de ave / Tacaraa - 1kg,Marca mas económica,2008,ENERO,5927
 338,Carne de ave / Tacaraa - 1kg,Marca mas económica,2008,FEBRERO,5199
@@ -345,7 +345,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 344,Carne de ave / Tacaraa - 1kg,Marca mas económica,2008,AGOSTO,8568
 345,Carne de ave / Tacaraa - 1kg,Marca mas económica,2008,SETIEMBRE,9197
 346,Carne de ave / Tacaraa - 1kg,Marca mas económica,2008,OCTUBRE,8696
-347,Carne de ave / Tacaraa - 1kg,Marca mas económica,2008,NOVIEMBE,7326
+347,Carne de ave / Tacaraa - 1kg,Marca mas económica,2008,NOVIEMBRE,7326
 348,Carne de ave / Tacaraa - 1kg,Marca mas económica,2008,DICIEMBRE,6331
 349,Carne de ave / Hígado - 1kg,Marca mas económica,2008,ENERO,3391
 350,Carne de ave / Hígado - 1kg,Marca mas económica,2008,FEBRERO,3289
@@ -357,7 +357,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 356,Carne de ave / Hígado - 1kg,Marca mas económica,2008,AGOSTO,3681
 357,Carne de ave / Hígado - 1kg,Marca mas económica,2008,SETIEMBRE,4001
 358,Carne de ave / Hígado - 1kg,Marca mas económica,2008,OCTUBRE,3809
-359,Carne de ave / Hígado - 1kg,Marca mas económica,2008,NOVIEMBE,3502
+359,Carne de ave / Hígado - 1kg,Marca mas económica,2008,NOVIEMBRE,3502
 360,Carne de ave / Hígado - 1kg,Marca mas económica,2008,DICIEMBRE,3406
 361,Carne de ave / Corazoncito - 1kg,Marca mas económica,2008,ENERO,11300
 362,Carne de ave / Corazoncito - 1kg,Marca mas económica,2008,FEBRERO,10946
@@ -369,7 +369,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 368,Carne de ave / Corazoncito - 1kg,Marca mas económica,2008,AGOSTO,11218
 369,Carne de ave / Corazoncito - 1kg,Marca mas económica,2008,SETIEMBRE,12141
 370,Carne de ave / Corazoncito - 1kg,Marca mas económica,2008,OCTUBRE,11371
-371,Carne de ave / Corazoncito - 1kg,Marca mas económica,2008,NOVIEMBE,10591
+371,Carne de ave / Corazoncito - 1kg,Marca mas económica,2008,NOVIEMBRE,10591
 372,Carne de ave / Corazoncito - 1kg,Marca mas económica,2008,DICIEMBRE,10685
 373,Embutido / chorizo Viena - 1kg,Marca mas económica,2008,ENERO,12329
 374,Embutido / chorizo Viena - 1kg,Marca mas económica,2008,FEBRERO,13063
@@ -381,7 +381,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 380,Embutido / chorizo Viena - 1kg,Marca mas económica,2008,AGOSTO,14119
 381,Embutido / chorizo Viena - 1kg,Marca mas económica,2008,SETIEMBRE,14102
 382,Embutido / chorizo Viena - 1kg,Marca mas económica,2008,OCTUBRE,14113
-383,Embutido / chorizo Viena - 1kg,Marca mas económica,2008,NOVIEMBE,14191
+383,Embutido / chorizo Viena - 1kg,Marca mas económica,2008,NOVIEMBRE,14191
 384,Embutido / chorizo Viena - 1kg,Marca mas económica,2008,DICIEMBRE,14109
 385,Embutido / fiambre Paris - 1kg,Marca mas económica,2008,ENERO,13426
 386,Embutido / fiambre Paris - 1kg,Marca mas económica,2008,FEBRERO,14052
@@ -393,7 +393,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 392,Embutido / fiambre Paris - 1kg,Marca mas económica,2008,AGOSTO,14984
 393,Embutido / fiambre Paris - 1kg,Marca mas económica,2008,SETIEMBRE,15356
 394,Embutido / fiambre Paris - 1kg,Marca mas económica,2008,OCTUBRE,15345
-395,Embutido / fiambre Paris - 1kg,Marca mas económica,2008,NOVIEMBE,15386
+395,Embutido / fiambre Paris - 1kg,Marca mas económica,2008,NOVIEMBRE,15386
 396,Embutido / fiambre Paris - 1kg,Marca mas económica,2008,DICIEMBRE,15166
 397,Queso - 1kg,Queso Paraguay,2008,ENERO,14201
 398,Queso - 1kg,Queso Paraguay,2008,FEBRERO,16397
@@ -405,7 +405,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 404,Queso - 1kg,Queso Paraguay,2008,AGOSTO,23610
 405,Queso - 1kg,Queso Paraguay,2008,SETIEMBRE,20163
 406,Queso - 1kg,Queso Paraguay,2008,OCTUBRE,18554
-407,Queso - 1kg,Queso Paraguay,2008,NOVIEMBE,17670
+407,Queso - 1kg,Queso Paraguay,2008,NOVIEMBRE,17670
 408,Queso - 1kg,Queso Paraguay,2008,DICIEMBRE,15995
 409,Queso sándwich - 1kg,Marca mas económica,2008,ENERO,24483
 410,Queso sándwich - 1kg,Marca mas económica,2008,FEBRERO,23831
@@ -417,7 +417,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 416,Queso sándwich - 1kg,Marca mas económica,2008,AGOSTO,29333
 417,Queso sándwich - 1kg,Marca mas económica,2008,SETIEMBRE,26671
 418,Queso sándwich - 1kg,Marca mas económica,2008,OCTUBRE,23812
-419,Queso sándwich - 1kg,Marca mas económica,2008,NOVIEMBE,22375
+419,Queso sándwich - 1kg,Marca mas económica,2008,NOVIEMBRE,22375
 420,Queso sándwich - 1kg,Marca mas económica,2008,DICIEMBRE,19737
 421,Aceite de soja - 900cc,Marca mas económica,2008,ENERO,6906
 422,Aceite de soja - 900cc,Marca mas económica,2008,FEBRERO,8125
@@ -429,7 +429,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 428,Aceite de soja - 900cc,Marca mas económica,2008,AGOSTO,9143
 429,Aceite de soja - 900cc,Marca mas económica,2008,SETIEMBRE,8219
 430,Aceite de soja - 900cc,Marca mas económica,2008,OCTUBRE,7566
-431,Aceite de soja - 900cc,Marca mas económica,2008,NOVIEMBE,7389
+431,Aceite de soja - 900cc,Marca mas económica,2008,NOVIEMBRE,7389
 432,Aceite de soja - 900cc,Marca mas económica,2008,DICIEMBRE,6694
 433,Aceite de girasol - 900cc,Marca mas económica,2008,ENERO,9093
 434,Aceite de girasol - 900cc,Marca mas económica,2008,FEBRERO,10797
@@ -441,7 +441,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 440,Aceite de girasol - 900cc,Marca mas económica,2008,AGOSTO,11975
 441,Aceite de girasol - 900cc,Marca mas económica,2008,SETIEMBRE,11754
 442,Aceite de girasol - 900cc,Marca mas económica,2008,OCTUBRE,11555
-443,Aceite de girasol - 900cc,Marca mas económica,2008,NOVIEMBE,11570
+443,Aceite de girasol - 900cc,Marca mas económica,2008,NOVIEMBRE,11570
 444,Aceite de girasol - 900cc,Marca mas económica,2008,DICIEMBRE,11310
 445,Aceite de maíz - 1lt,Marca mas económica,2008,ENERO,12465
 446,Aceite de maíz - 1lt,Marca mas económica,2008,FEBRERO,12361
@@ -453,7 +453,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 452,Aceite de maíz - 1lt,Marca mas económica,2008,AGOSTO,14952
 453,Aceite de maíz - 1lt,Marca mas económica,2008,SETIEMBRE,15945
 454,Aceite de maíz - 1lt,Marca mas económica,2008,OCTUBRE,16100
-455,Aceite de maíz - 1lt,Marca mas económica,2008,NOVIEMBE,16270
+455,Aceite de maíz - 1lt,Marca mas económica,2008,NOVIEMBRE,16270
 456,Aceite de maíz - 1lt,Marca mas económica,2008,DICIEMBRE,16205
 457,Leche sachet - 1lt,Marca mas económica,2008,ENERO,3010
 458,Leche sachet - 1lt,Marca mas económica,2008,FEBRERO,2971
@@ -465,7 +465,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 464,Leche sachet - 1lt,Marca mas económica,2008,AGOSTO,3216
 465,Leche sachet - 1lt,Marca mas económica,2008,SETIEMBRE,3234
 466,Leche sachet - 1lt,Marca mas económica,2008,OCTUBRE,3208
-467,Leche sachet - 1lt,Marca mas económica,2008,NOVIEMBE,3111
+467,Leche sachet - 1lt,Marca mas económica,2008,NOVIEMBRE,3111
 468,Leche sachet - 1lt,Marca mas económica,2008,DICIEMBRE,2875
 469,Leche sachet - 1/2 lt,Marca mas económica,2008,ENERO,1526
 470,Leche sachet - 1/2 lt,Marca mas económica,2008,FEBRERO,1556
@@ -477,7 +477,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 476,Leche sachet - 1/2 lt,Marca mas económica,2008,AGOSTO,1679
 477,Leche sachet - 1/2 lt,Marca mas económica,2008,SETIEMBRE,1680
 478,Leche sachet - 1/2 lt,Marca mas económica,2008,OCTUBRE,1646
-479,Leche sachet - 1/2 lt,Marca mas económica,2008,NOVIEMBE,1623
+479,Leche sachet - 1/2 lt,Marca mas económica,2008,NOVIEMBRE,1623
 480,Leche sachet - 1/2 lt,Marca mas económica,2008,DICIEMBRE,1528
 481,Leche UHT - 1lt,Marca mas económica,2008,ENERO,3681
 482,Leche UHT - 1lt,Marca mas económica,2008,FEBRERO,3724
@@ -489,7 +489,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 488,Leche UHT - 1lt,Marca mas económica,2008,AGOSTO,3942
 489,Leche UHT - 1lt,Marca mas económica,2008,SETIEMBRE,4005
 490,Leche UHT - 1lt,Marca mas económica,2008,OCTUBRE,3901
-491,Leche UHT - 1lt,Marca mas económica,2008,NOVIEMBE,3819
+491,Leche UHT - 1lt,Marca mas económica,2008,NOVIEMBRE,3819
 492,Leche UHT - 1lt,Marca mas económica,2008,DICIEMBRE,3621
 493,Leche UHT - 1/2 lt,Marca mas económica,2008,ENERO,1945
 494,Leche UHT - 1/2 lt,Marca mas económica,2008,FEBRERO,2020
@@ -501,7 +501,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 500,Leche UHT - 1/2 lt,Marca mas económica,2008,AGOSTO,2172
 501,Leche UHT - 1/2 lt,Marca mas económica,2008,SETIEMBRE,2189
 502,Leche UHT - 1/2 lt,Marca mas económica,2008,OCTUBRE,2107
-503,Leche UHT - 1/2 lt,Marca mas económica,2008,NOVIEMBE,2083
+503,Leche UHT - 1/2 lt,Marca mas económica,2008,NOVIEMBRE,2083
 504,Leche UHT - 1/2 lt,Marca mas económica,2008,DICIEMBRE,2032
 505,Yogurt - 350 gr,Marca mas económica,2008,ENERO,2381
 506,Yogurt - 350 gr,Marca mas económica,2008,FEBRERO,2241
@@ -513,7 +513,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 512,Yogurt - 350 gr,Marca mas económica,2008,AGOSTO,2330
 513,Yogurt - 350 gr,Marca mas económica,2008,SETIEMBRE,2372
 514,Yogurt - 350 gr,Marca mas económica,2008,OCTUBRE,2368
-515,Yogurt - 350 gr,Marca mas económica,2008,NOVIEMBE,2386
+515,Yogurt - 350 gr,Marca mas económica,2008,NOVIEMBRE,2386
 516,Yogurt - 350 gr,Marca mas económica,2008,DICIEMBRE,2321
 517,Huevos de gallina - 1/2 doc.,Marca mas económica,2008,ENERO,2764
 518,Huevos de gallina - 1/2 doc.,Marca mas económica,2008,FEBRERO,3092
@@ -525,7 +525,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 524,Huevos de gallina - 1/2 doc.,Marca mas económica,2008,AGOSTO,3282
 525,Huevos de gallina - 1/2 doc.,Marca mas económica,2008,SETIEMBRE,3236
 526,Huevos de gallina - 1/2 doc.,Marca mas económica,2008,OCTUBRE,2858
-527,Huevos de gallina - 1/2 doc.,Marca mas económica,2008,NOVIEMBE,2646
+527,Huevos de gallina - 1/2 doc.,Marca mas económica,2008,NOVIEMBRE,2646
 528,Huevos de gallina - 1/2 doc.,Marca mas económica,2008,DICIEMBRE,2559
 529,"Fruta, hortaliza - 1kg",Naranja,2008,ENERO,1616
 530,"Fruta, hortaliza - 1kg",Naranja,2008,FEBRERO,1982
@@ -537,7 +537,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 536,"Fruta, hortaliza - 1kg",Naranja,2008,AGOSTO,1827
 537,"Fruta, hortaliza - 1kg",Naranja,2008,SETIEMBRE,1837
 538,"Fruta, hortaliza - 1kg",Naranja,2008,OCTUBRE,1926
-539,"Fruta, hortaliza - 1kg",Naranja,2008,NOVIEMBE,1877
+539,"Fruta, hortaliza - 1kg",Naranja,2008,NOVIEMBRE,1877
 540,"Fruta, hortaliza - 1kg",Naranja,2008,DICIEMBRE,1798
 541,"Fruta, hortaliza - 1kg",Banana carape,2008,ENERO,1990
 542,"Fruta, hortaliza - 1kg",Banana carape,2008,FEBRERO,1497
@@ -549,7 +549,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 548,"Fruta, hortaliza - 1kg",Banana carape,2008,AGOSTO,1356
 549,"Fruta, hortaliza - 1kg",Banana carape,2008,SETIEMBRE,1229
 550,"Fruta, hortaliza - 1kg",Banana carape,2008,OCTUBRE,1445
-551,"Fruta, hortaliza - 1kg",Banana carape,2008,NOVIEMBE,1960
+551,"Fruta, hortaliza - 1kg",Banana carape,2008,NOVIEMBRE,1960
 552,"Fruta, hortaliza - 1kg",Banana carape,2008,DICIEMBRE,2061
 553,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,ENERO,2045
 554,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,FEBRERO,1443
@@ -561,7 +561,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 560,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,AGOSTO,751
 561,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,SETIEMBRE,607
 562,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,OCTUBRE,536
-563,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,NOVIEMBE,586
+563,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,NOVIEMBRE,586
 564,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2008,DICIEMBRE,505
 565,"Fruta, hortaliza - 1kg",Locote,2008,ENERO,2707
 566,"Fruta, hortaliza - 1kg",Locote,2008,FEBRERO,2883
@@ -573,7 +573,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 572,"Fruta, hortaliza - 1kg",Locote,2008,AGOSTO,4134
 573,"Fruta, hortaliza - 1kg",Locote,2008,SETIEMBRE,4230
 574,"Fruta, hortaliza - 1kg",Locote,2008,OCTUBRE,3325
-575,"Fruta, hortaliza - 1kg",Locote,2008,NOVIEMBE,3225
+575,"Fruta, hortaliza - 1kg",Locote,2008,NOVIEMBRE,3225
 576,"Fruta, hortaliza - 1kg",Locote,2008,DICIEMBRE,6354
 577,"Fruta, hortaliza - 1kg",Zanahoria,2008,ENERO,3742
 578,"Fruta, hortaliza - 1kg",Zanahoria,2008,FEBRERO,3497
@@ -585,7 +585,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 584,"Fruta, hortaliza - 1kg",Zanahoria,2008,AGOSTO,1745
 585,"Fruta, hortaliza - 1kg",Zanahoria,2008,SETIEMBRE,1310
 586,"Fruta, hortaliza - 1kg",Zanahoria,2008,OCTUBRE,1326
-587,"Fruta, hortaliza - 1kg",Zanahoria,2008,NOVIEMBE,1401
+587,"Fruta, hortaliza - 1kg",Zanahoria,2008,NOVIEMBRE,1401
 588,"Fruta, hortaliza - 1kg",Zanahoria,2008,DICIEMBRE,2072
 589,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,ENERO,4221
 590,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,FEBRERO,4004
@@ -597,7 +597,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 596,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,AGOSTO,4156
 597,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,SETIEMBRE,2796
 598,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,OCTUBRE,1839
-599,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,NOVIEMBE,2272
+599,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,NOVIEMBRE,2272
 600,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2008,DICIEMBRE,5226
 601,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,ENERO,4275
 602,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,FEBRERO,4255
@@ -609,7 +609,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 608,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,AGOSTO,4469
 609,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,SETIEMBRE,3787
 610,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,OCTUBRE,3486
-611,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,NOVIEMBE,2548
+611,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,NOVIEMBRE,2548
 612,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2008,DICIEMBRE,2552
 613,"Fruta, hortaliza - 1kg",Mandioca,2008,ENERO,939
 614,"Fruta, hortaliza - 1kg",Mandioca,2008,FEBRERO,1200
@@ -621,7 +621,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 620,"Fruta, hortaliza - 1kg",Mandioca,2008,AGOSTO,999
 621,"Fruta, hortaliza - 1kg",Mandioca,2008,SETIEMBRE,1041
 622,"Fruta, hortaliza - 1kg",Mandioca,2008,OCTUBRE,1110
-623,"Fruta, hortaliza - 1kg",Mandioca,2008,NOVIEMBE,1148
+623,"Fruta, hortaliza - 1kg",Mandioca,2008,NOVIEMBRE,1148
 624,"Fruta, hortaliza - 1kg",Mandioca,2008,DICIEMBRE,1428
 625,"Fruta, hortaliza - 1kg",Papa negra,2008,ENERO,3073
 626,"Fruta, hortaliza - 1kg",Papa negra,2008,FEBRERO,3806
@@ -633,7 +633,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 632,"Fruta, hortaliza - 1kg",Papa negra,2008,AGOSTO,2426
 633,"Fruta, hortaliza - 1kg",Papa negra,2008,SETIEMBRE,2255
 634,"Fruta, hortaliza - 1kg",Papa negra,2008,OCTUBRE,2167
-635,"Fruta, hortaliza - 1kg",Papa negra,2008,NOVIEMBE,2251
+635,"Fruta, hortaliza - 1kg",Papa negra,2008,NOVIEMBRE,2251
 636,"Fruta, hortaliza - 1kg",Papa negra,2008,DICIEMBRE,2933
 637,Sal fina - 500gr,Marca mas económica,2008,ENERO,1048
 638,Sal fina - 500gr,Marca mas económica,2008,FEBRERO,998
@@ -645,7 +645,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 644,Sal fina - 500gr,Marca mas económica,2008,AGOSTO,1027
 645,Sal fina - 500gr,Marca mas económica,2008,SETIEMBRE,1050
 646,Sal fina - 500gr,Marca mas económica,2008,OCTUBRE,1069
-647,Sal fina - 500gr,Marca mas económica,2008,NOVIEMBE,1091
+647,Sal fina - 500gr,Marca mas económica,2008,NOVIEMBRE,1091
 648,Sal fina - 500gr,Marca mas económica,2008,DICIEMBRE,1088
 649,Papel higiénico - 4 unid.,Marca mas económica,2008,ENERO,1833
 650,Papel higiénico - 4 unid.,Marca mas económica,2008,FEBRERO,1563
@@ -657,7 +657,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 656,Papel higiénico - 4 unid.,Marca mas económica,2008,AGOSTO,1543
 657,Papel higiénico - 4 unid.,Marca mas económica,2008,SETIEMBRE,1592
 658,Papel higiénico - 4 unid.,Marca mas económica,2008,OCTUBRE,1645
-659,Papel higiénico - 4 unid.,Marca mas económica,2008,NOVIEMBE,1717
+659,Papel higiénico - 4 unid.,Marca mas económica,2008,NOVIEMBRE,1717
 660,Papel higiénico - 4 unid.,Marca mas económica,2008,DICIEMBRE,1694
 661,Detergente líquido - 1/2 lt,Marca mas económica,2008,ENERO,1641
 662,Detergente líquido - 1/2 lt,Marca mas económica,2008,FEBRERO,2118
@@ -669,7 +669,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 668,Detergente líquido - 1/2 lt,Marca mas económica,2008,AGOSTO,2160
 669,Detergente líquido - 1/2 lt,Marca mas económica,2008,SETIEMBRE,2271
 670,Detergente líquido - 1/2 lt,Marca mas económica,2008,OCTUBRE,2283
-671,Detergente líquido - 1/2 lt,Marca mas económica,2008,NOVIEMBE,2344
+671,Detergente líquido - 1/2 lt,Marca mas económica,2008,NOVIEMBRE,2344
 672,Detergente líquido - 1/2 lt,Marca mas económica,2008,DICIEMBRE,2375
 673,Lavandina - 1lt,Marca mas económica,2008,ENERO,2424
 674,Lavandina - 1lt,Marca mas económica,2008,FEBRERO,3353
@@ -681,7 +681,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 680,Lavandina - 1lt,Marca mas económica,2008,AGOSTO,3366
 681,Lavandina - 1lt,Marca mas económica,2008,SETIEMBRE,3668
 682,Lavandina - 1lt,Marca mas económica,2008,OCTUBRE,3795
-683,Lavandina - 1lt,Marca mas económica,2008,NOVIEMBE,3912
+683,Lavandina - 1lt,Marca mas económica,2008,NOVIEMBRE,3912
 684,Lavandina - 1lt,Marca mas económica,2008,DICIEMBRE,3890
 685,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2008,ENERO,3284
 686,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2008,FEBRERO,1700
@@ -693,7 +693,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 692,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2008,AGOSTO,1804
 693,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2008,SETIEMBRE,1903
 694,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2008,OCTUBRE,1833
-695,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2008,NOVIEMBE,1829
+695,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2008,NOVIEMBRE,1829
 696,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2008,DICIEMBRE,1822
 697,Jabón de baño - 90gr,Marca mas económica,2008,ENERO,1293
 698,Jabón de baño - 90gr,Marca mas económica,2008,FEBRERO,1008
@@ -705,7 +705,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 704,Jabón de baño - 90gr,Marca mas económica,2008,AGOSTO,1069
 705,Jabón de baño - 90gr,Marca mas económica,2008,SETIEMBRE,1202
 706,Jabón de baño - 90gr,Marca mas económica,2008,OCTUBRE,1142
-707,Jabón de baño - 90gr,Marca mas económica,2008,NOVIEMBE,1142
+707,Jabón de baño - 90gr,Marca mas económica,2008,NOVIEMBRE,1142
 708,Jabón de baño - 90gr,Marca mas económica,2008,DICIEMBRE,1112
 709,Crema dental - 90gr,Marca mas económica,2008,ENERO,3166
 710,Crema dental - 90gr,Marca mas económica,2008,FEBRERO,2905
@@ -717,5 +717,5 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 716,Crema dental - 90gr,Marca mas económica,2008,AGOSTO,2920
 717,Crema dental - 90gr,Marca mas económica,2008,SETIEMBRE,3534
 718,Crema dental - 90gr,Marca mas económica,2008,OCTUBRE,3505
-719,Crema dental - 90gr,Marca mas económica,2008,NOVIEMBE,3662
+719,Crema dental - 90gr,Marca mas económica,2008,NOVIEMBRE,3662
 720,Crema dental - 90gr,Marca mas económica,2008,DICIEMBRE,3776

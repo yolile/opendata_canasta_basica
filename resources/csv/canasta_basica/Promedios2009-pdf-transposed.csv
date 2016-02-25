@@ -9,7 +9,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 8,Panificado,Pan Felipito,2009,AGOSTO,3051
 9,Panificado,Pan Felipito,2009,SETIEMBRE,3009
 10,Panificado,Pan Felipito,2009,OCTUBRE,2980
-11,Panificado,Pan Felipito,2009,NOVIEMBE,2987
+11,Panificado,Pan Felipito,2009,NOVIEMBRE,2987
 12,Panificado,Pan Felipito,2009,DICIEMBRE,2827
 14,Panificado,Galleta,2009,ENERO,3834
 15,Panificado,Galleta,2009,FEBRERO,3798
@@ -21,7 +21,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 21,Panificado,Galleta,2009,AGOSTO,3474
 22,Panificado,Galleta,2009,SETIEMBRE,3455
 23,Panificado,Galleta,2009,OCTUBRE,3487
-24,Panificado,Galleta,2009,NOVIEMBE,3422
+24,Panificado,Galleta,2009,NOVIEMBRE,3422
 25,Panificado,Galleta,2009,DICIEMBRE,3334
 27,Panificado,Kokito,2009,ENERO,6249
 28,Panificado,Kokito,2009,FEBRERO,6168
@@ -33,7 +33,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 34,Panificado,Kokito,2009,AGOSTO,6109
 35,Panificado,Kokito,2009,SETIEMBRE,6131
 36,Panificado,Kokito,2009,OCTUBRE,6153
-37,Panificado,Kokito,2009,NOVIEMBE,6209
+37,Panificado,Kokito,2009,NOVIEMBRE,6209
 38,Panificado,Kokito,2009,DICIEMBRE,6056
 40,A granel - 1kg,Fideo,2009,ENERO,3558
 41,A granel - 1kg,Fideo,2009,FEBRERO,3423
@@ -45,7 +45,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 47,A granel - 1kg,Fideo,2009,AGOSTO,3266
 48,A granel - 1kg,Fideo,2009,SETIEMBRE,3253
 49,A granel - 1kg,Fideo,2009,OCTUBRE,3121
-50,A granel - 1kg,Fideo,2009,NOVIEMBE,3205
+50,A granel - 1kg,Fideo,2009,NOVIEMBRE,3205
 51,A granel - 1kg,Fideo,2009,DICIEMBRE,3165
 53,A granel - 1kg,Poroto,2009,ENERO,5011
 54,A granel - 1kg,Poroto,2009,FEBRERO,5276
@@ -57,7 +57,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 60,A granel - 1kg,Poroto,2009,AGOSTO,5531
 61,A granel - 1kg,Poroto,2009,SETIEMBRE,5537
 62,A granel - 1kg,Poroto,2009,OCTUBRE,5363
-63,A granel - 1kg,Poroto,2009,NOVIEMBE,5143
+63,A granel - 1kg,Poroto,2009,NOVIEMBRE,5143
 64,A granel - 1kg,Poroto,2009,DICIEMBRE,5116
 66,A granel - 1kg,Arroz,2009,ENERO,2854
 67,A granel - 1kg,Arroz,2009,FEBRERO,2822
@@ -69,7 +69,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 73,A granel - 1kg,Arroz,2009,AGOSTO,2718
 74,A granel - 1kg,Arroz,2009,SETIEMBRE,2611
 75,A granel - 1kg,Arroz,2009,OCTUBRE,2710
-76,A granel - 1kg,Arroz,2009,NOVIEMBE,2765
+76,A granel - 1kg,Arroz,2009,NOVIEMBRE,2765
 77,A granel - 1kg,Arroz,2009,DICIEMBRE,2811
 79,A granel - 1kg,Azúcar,2009,ENERO,2933
 80,A granel - 1kg,Azúcar,2009,FEBRERO,2974
@@ -81,7 +81,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 86,A granel - 1kg,Azúcar,2009,AGOSTO,3178
 87,A granel - 1kg,Azúcar,2009,SETIEMBRE,3289
 88,A granel - 1kg,Azúcar,2009,OCTUBRE,3953
-89,A granel - 1kg,Azúcar,2009,NOVIEMBE,4659
+89,A granel - 1kg,Azúcar,2009,NOVIEMBRE,4659
 90,A granel - 1kg,Azúcar,2009,DICIEMBRE,4658
 92,A granel - 1kg,Harina,2009,ENERO,2127
 93,A granel - 1kg,Harina,2009,FEBRERO,2160
@@ -93,7 +93,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 99,A granel - 1kg,Harina,2009,AGOSTO,2194
 100,A granel - 1kg,Harina,2009,SETIEMBRE,2241
 101,A granel - 1kg,Harina,2009,OCTUBRE,2216
-102,A granel - 1kg,Harina,2009,NOVIEMBE,2175
+102,A granel - 1kg,Harina,2009,NOVIEMBRE,2175
 103,A granel - 1kg,Harina,2009,DICIEMBRE,2055
 105,A granel - 1kg,Maíz,2009,ENERO,2738
 106,A granel - 1kg,Maíz,2009,FEBRERO,2973
@@ -105,7 +105,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 112,A granel - 1kg,Maíz,2009,AGOSTO,3869
 113,A granel - 1kg,Maíz,2009,SETIEMBRE,3951
 114,A granel - 1kg,Maíz,2009,OCTUBRE,4289
-115,A granel - 1kg,Maíz,2009,NOVIEMBE,5108
+115,A granel - 1kg,Maíz,2009,NOVIEMBRE,5108
 116,A granel - 1kg,Maíz,2009,DICIEMBRE,5184
 118,A granel - 1kg,Yerba,2009,ENERO,2903
 119,A granel - 1kg,Yerba,2009,FEBRERO,2819
@@ -117,7 +117,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 125,A granel - 1kg,Yerba,2009,AGOSTO,3080
 126,A granel - 1kg,Yerba,2009,SETIEMBRE,3092
 127,A granel - 1kg,Yerba,2009,OCTUBRE,3009
-128,A granel - 1kg,Yerba,2009,NOVIEMBE,2960
+128,A granel - 1kg,Yerba,2009,NOVIEMBRE,2960
 129,A granel - 1kg,Yerba,2009,DICIEMBRE,3083
 131,Carne bovina - 1kg,Puchero de primera,2009,ENERO,8105
 132,Carne bovina - 1kg,Puchero de primera,2009,FEBRERO,8011
@@ -129,7 +129,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 138,Carne bovina - 1kg,Puchero de primera,2009,AGOSTO,7982
 139,Carne bovina - 1kg,Puchero de primera,2009,SETIEMBRE,8505
 140,Carne bovina - 1kg,Puchero de primera,2009,OCTUBRE,8468
-141,Carne bovina - 1kg,Puchero de primera,2009,NOVIEMBE,8674
+141,Carne bovina - 1kg,Puchero de primera,2009,NOVIEMBRE,8674
 142,Carne bovina - 1kg,Puchero de primera,2009,DICIEMBRE,8759
 144,Carne bovina - 1kg,Carnaza de negra,2009,ENERO,21418
 145,Carne bovina - 1kg,Carnaza de negra,2009,FEBRERO,21824
@@ -141,7 +141,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 151,Carne bovina - 1kg,Carnaza de negra,2009,AGOSTO,24219
 152,Carne bovina - 1kg,Carnaza de negra,2009,SETIEMBRE,24005
 153,Carne bovina - 1kg,Carnaza de negra,2009,OCTUBRE,24310
-154,Carne bovina - 1kg,Carnaza de negra,2009,NOVIEMBE,24761
+154,Carne bovina - 1kg,Carnaza de negra,2009,NOVIEMBRE,24761
 155,Carne bovina - 1kg,Carnaza de negra,2009,DICIEMBRE,24804
 157,Carne bovina - 1kg,Carnaza de blanca,2009,ENERO,18133
 158,Carne bovina - 1kg,Carnaza de blanca,2009,FEBRERO,18479
@@ -153,7 +153,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 164,Carne bovina - 1kg,Carnaza de blanca,2009,AGOSTO,19993
 165,Carne bovina - 1kg,Carnaza de blanca,2009,SETIEMBRE,20298
 166,Carne bovina - 1kg,Carnaza de blanca,2009,OCTUBRE,20649
-167,Carne bovina - 1kg,Carnaza de blanca,2009,NOVIEMBE,20930
+167,Carne bovina - 1kg,Carnaza de blanca,2009,NOVIEMBRE,20930
 168,Carne bovina - 1kg,Carnaza de blanca,2009,DICIEMBRE,20245
 170,Carne bovina - 1kg,Lomo,2009,ENERO,24080
 171,Carne bovina - 1kg,Lomo,2009,FEBRERO,24220
@@ -165,7 +165,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 177,Carne bovina - 1kg,Lomo,2009,AGOSTO,26830
 178,Carne bovina - 1kg,Lomo,2009,SETIEMBRE,26668
 179,Carne bovina - 1kg,Lomo,2009,OCTUBRE,26097
-180,Carne bovina - 1kg,Lomo,2009,NOVIEMBE,26917
+180,Carne bovina - 1kg,Lomo,2009,NOVIEMBRE,26917
 181,Carne bovina - 1kg,Lomo,2009,DICIEMBRE,27916
 183,Carne bovina - 1kg,Carne molida de primera,2009,ENERO,20476
 184,Carne bovina - 1kg,Carne molida de primera,2009,FEBRERO,19360
@@ -177,7 +177,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 190,Carne bovina - 1kg,Carne molida de primera,2009,AGOSTO,21837
 191,Carne bovina - 1kg,Carne molida de primera,2009,SETIEMBRE,21639
 192,Carne bovina - 1kg,Carne molida de primera,2009,OCTUBRE,21692
-193,Carne bovina - 1kg,Carne molida de primera,2009,NOVIEMBE,21890
+193,Carne bovina - 1kg,Carne molida de primera,2009,NOVIEMBRE,21890
 194,Carne bovina - 1kg,Carne molida de primera,2009,DICIEMBRE,21722
 196,Carne bovina - 1kg,Carne molida de segunda,2009,ENERO,11170
 197,Carne bovina - 1kg,Carne molida de segunda,2009,FEBRERO,10424
@@ -189,7 +189,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 203,Carne bovina - 1kg,Carne molida de segunda,2009,AGOSTO,11939
 204,Carne bovina - 1kg,Carne molida de segunda,2009,SETIEMBRE,12208
 205,Carne bovina - 1kg,Carne molida de segunda,2009,OCTUBRE,11934
-206,Carne bovina - 1kg,Carne molida de segunda,2009,NOVIEMBE,11672
+206,Carne bovina - 1kg,Carne molida de segunda,2009,NOVIEMBRE,11672
 207,Carne bovina - 1kg,Carne molida de segunda,2009,DICIEMBRE,11389
 209,Carne bovina - 1kg,Costilla,2009,ENERO,14875
 210,Carne bovina - 1kg,Costilla,2009,FEBRERO,12519
@@ -201,7 +201,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 216,Carne bovina - 1kg,Costilla,2009,AGOSTO,11774
 217,Carne bovina - 1kg,Costilla,2009,SETIEMBRE,13421
 218,Carne bovina - 1kg,Costilla,2009,OCTUBRE,13355
-219,Carne bovina - 1kg,Costilla,2009,NOVIEMBE,12027
+219,Carne bovina - 1kg,Costilla,2009,NOVIEMBRE,12027
 220,Carne bovina - 1kg,Costilla,2009,DICIEMBRE,14897
 222,Carne bovina - 1kg,Hígado,2009,ENERO,6415
 223,Carne bovina - 1kg,Hígado,2009,FEBRERO,6937
@@ -213,7 +213,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 229,Carne bovina - 1kg,Hígado,2009,AGOSTO,7666
 230,Carne bovina - 1kg,Hígado,2009,SETIEMBRE,7742
 231,Carne bovina - 1kg,Hígado,2009,OCTUBRE,7794
-232,Carne bovina - 1kg,Hígado,2009,NOVIEMBE,7957
+232,Carne bovina - 1kg,Hígado,2009,NOVIEMBRE,7957
 233,Carne bovina - 1kg,Hígado,2009,DICIEMBRE,7085
 235,Carne bovina - 1kg,Corazón,2009,ENERO,6663
 236,Carne bovina - 1kg,Corazón,2009,FEBRERO,6453
@@ -225,7 +225,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 242,Carne bovina - 1kg,Corazón,2009,AGOSTO,7014
 243,Carne bovina - 1kg,Corazón,2009,SETIEMBRE,7000
 244,Carne bovina - 1kg,Corazón,2009,OCTUBRE,7332
-245,Carne bovina - 1kg,Corazón,2009,NOVIEMBE,7755
+245,Carne bovina - 1kg,Corazón,2009,NOVIEMBRE,7755
 246,Carne bovina - 1kg,Corazón,2009,DICIEMBRE,7492
 248,Carne bovina - 1kg,Mondongo,2009,ENERO,7096
 249,Carne bovina - 1kg,Mondongo,2009,FEBRERO,7858
@@ -237,7 +237,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 255,Carne bovina - 1kg,Mondongo,2009,AGOSTO,9311
 256,Carne bovina - 1kg,Mondongo,2009,SETIEMBRE,9437
 257,Carne bovina - 1kg,Mondongo,2009,OCTUBRE,9333
-258,Carne bovina - 1kg,Mondongo,2009,NOVIEMBE,8836
+258,Carne bovina - 1kg,Mondongo,2009,NOVIEMBRE,8836
 259,Carne bovina - 1kg,Mondongo,2009,DICIEMBRE,7232
 261,Carne bovina - 1kg,Carnaza de Primera,2009,ENERO,21563
 262,Carne bovina - 1kg,Carnaza de Primera,2009,FEBRERO,21472
@@ -249,7 +249,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 268,Carne bovina - 1kg,Carnaza de Primera,2009,AGOSTO,23488
 269,Carne bovina - 1kg,Carnaza de Primera,2009,SETIEMBRE,23565
 270,Carne bovina - 1kg,Carnaza de Primera,2009,OCTUBRE,23833
-271,Carne bovina - 1kg,Carnaza de Primera,2009,NOVIEMBE,24041
+271,Carne bovina - 1kg,Carnaza de Primera,2009,NOVIEMBRE,24041
 272,Carne bovina - 1kg,Carnaza de Primera,2009,DICIEMBRE,24057
 274,Carne bovina - 1kg,Carnaza de Segunda,2009,ENERO,11963
 275,Carne bovina - 1kg,Carnaza de Segunda,2009,FEBRERO,12658
@@ -261,7 +261,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 281,Carne bovina - 1kg,Carnaza de Segunda,2009,AGOSTO,13704
 282,Carne bovina - 1kg,Carnaza de Segunda,2009,SETIEMBRE,13583
 283,Carne bovina - 1kg,Carnaza de Segunda,2009,OCTUBRE,14130
-284,Carne bovina - 1kg,Carnaza de Segunda,2009,NOVIEMBE,14031
+284,Carne bovina - 1kg,Carnaza de Segunda,2009,NOVIEMBRE,14031
 285,Carne bovina - 1kg,Carnaza de Segunda,2009,DICIEMBRE,13752
 287,Carne bovina - 1kg,Puchero de Segunda,2009,ENERO,2811
 288,Carne bovina - 1kg,Puchero de Segunda,2009,FEBRERO,2764
@@ -273,7 +273,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 294,Carne bovina - 1kg,Puchero de Segunda,2009,AGOSTO,3151
 295,Carne bovina - 1kg,Puchero de Segunda,2009,SETIEMBRE,3444
 296,Carne bovina - 1kg,Puchero de Segunda,2009,OCTUBRE,3218
-297,Carne bovina - 1kg,Puchero de Segunda,2009,NOVIEMBE,2562
+297,Carne bovina - 1kg,Puchero de Segunda,2009,NOVIEMBRE,2562
 298,Carne bovina - 1kg,Puchero de Segunda,2009,DICIEMBRE,2427
 300,Carne bovina - 1kg,Tapa Cuadril,2009,ENERO,s/d
 301,Carne bovina - 1kg,Tapa Cuadril,2009,FEBRERO,27524
@@ -285,7 +285,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 307,Carne bovina - 1kg,Tapa Cuadril,2009,AGOSTO,26343
 308,Carne bovina - 1kg,Tapa Cuadril,2009,SETIEMBRE,26592
 309,Carne bovina - 1kg,Tapa Cuadril,2009,OCTUBRE,27164
-310,Carne bovina - 1kg,Tapa Cuadril,2009,NOVIEMBE,27344
+310,Carne bovina - 1kg,Tapa Cuadril,2009,NOVIEMBRE,27344
 311,Carne bovina - 1kg,Tapa Cuadril,2009,DICIEMBRE,27280
 313,Carne bovina - 1kg,Rabadilla,2009,ENERO,s/d
 314,Carne bovina - 1kg,Rabadilla,2009,FEBRERO,24512
@@ -297,7 +297,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 320,Carne bovina - 1kg,Rabadilla,2009,AGOSTO,25163
 321,Carne bovina - 1kg,Rabadilla,2009,SETIEMBRE,25776
 322,Carne bovina - 1kg,Rabadilla,2009,OCTUBRE,25854
-323,Carne bovina - 1kg,Rabadilla,2009,NOVIEMBE,25809
+323,Carne bovina - 1kg,Rabadilla,2009,NOVIEMBRE,25809
 324,Carne bovina - 1kg,Rabadilla,2009,DICIEMBRE,25675
 326,Carne bovina - 1kg,Bola de Lomo,2009,ENERO,s/d
 327,Carne bovina - 1kg,Bola de Lomo,2009,FEBRERO,20531
@@ -309,7 +309,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 333,Carne bovina - 1kg,Bola de Lomo,2009,AGOSTO,23272
 334,Carne bovina - 1kg,Bola de Lomo,2009,SETIEMBRE,23233
 335,Carne bovina - 1kg,Bola de Lomo,2009,OCTUBRE,23947
-336,Carne bovina - 1kg,Bola de Lomo,2009,NOVIEMBE,24203
+336,Carne bovina - 1kg,Bola de Lomo,2009,NOVIEMBRE,24203
 337,Carne bovina - 1kg,Bola de Lomo,2009,DICIEMBRE,24084
 339,Carne bovina - 1kg,Palomita,2009,ENERO,s/d
 340,Carne bovina - 1kg,Palomita,2009,FEBRERO,25242
@@ -321,7 +321,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 346,Carne bovina - 1kg,Palomita,2009,AGOSTO,24499
 347,Carne bovina - 1kg,Palomita,2009,SETIEMBRE,24708
 348,Carne bovina - 1kg,Palomita,2009,OCTUBRE,25434
-349,Carne bovina - 1kg,Palomita,2009,NOVIEMBE,25579
+349,Carne bovina - 1kg,Palomita,2009,NOVIEMBRE,25579
 350,Carne bovina - 1kg,Palomita,2009,DICIEMBRE,26011
 352,Carne bovina - 1kg,Muchachito,2009,ENERO,s/d
 353,Carne bovina - 1kg,Muchachito,2009,FEBRERO,20060
@@ -333,7 +333,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 359,Carne bovina - 1kg,Muchachito,2009,AGOSTO,20091
 360,Carne bovina - 1kg,Muchachito,2009,SETIEMBRE,20279
 361,Carne bovina - 1kg,Muchachito,2009,OCTUBRE,20176
-362,Carne bovina - 1kg,Muchachito,2009,NOVIEMBE,20698
+362,Carne bovina - 1kg,Muchachito,2009,NOVIEMBRE,20698
 363,Carne bovina - 1kg,Muchachito,2009,DICIEMBRE,20591
 365,Carne bovina - 1kg,Paleta,2009,ENERO,s/d
 366,Carne bovina - 1kg,Paleta,2009,FEBRERO,18385
@@ -345,7 +345,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 372,Carne bovina - 1kg,Paleta,2009,AGOSTO,19740
 373,Carne bovina - 1kg,Paleta,2009,SETIEMBRE,19030
 374,Carne bovina - 1kg,Paleta,2009,OCTUBRE,19749
-375,Carne bovina - 1kg,Paleta,2009,NOVIEMBE,20364
+375,Carne bovina - 1kg,Paleta,2009,NOVIEMBRE,20364
 376,Carne bovina - 1kg,Paleta,2009,DICIEMBRE,20285
 378,Carne bovina - 1kg,Sambari,2009,ENERO,s/d
 379,Carne bovina - 1kg,Sambari,2009,FEBRERO,15435
@@ -357,7 +357,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 385,Carne bovina - 1kg,Sambari,2009,AGOSTO,16032
 386,Carne bovina - 1kg,Sambari,2009,SETIEMBRE,16290
 387,Carne bovina - 1kg,Sambari,2009,OCTUBRE,16575
-388,Carne bovina - 1kg,Sambari,2009,NOVIEMBE,16718
+388,Carne bovina - 1kg,Sambari,2009,NOVIEMBRE,16718
 389,Carne bovina - 1kg,Sambari,2009,DICIEMBRE,16615
 391,Carne bovina - 1kg,Matambre,2009,ENERO,s/d
 392,Carne bovina - 1kg,Matambre,2009,FEBRERO,12332
@@ -369,7 +369,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 398,Carne bovina - 1kg,Matambre,2009,AGOSTO,12671
 399,Carne bovina - 1kg,Matambre,2009,SETIEMBRE,12837
 400,Carne bovina - 1kg,Matambre,2009,OCTUBRE,12628
-401,Carne bovina - 1kg,Matambre,2009,NOVIEMBE,12767
+401,Carne bovina - 1kg,Matambre,2009,NOVIEMBRE,12767
 402,Carne bovina - 1kg,Matambre,2009,DICIEMBRE,13328
 404,Carne bovina - 1kg,Tapa de Asado,2009,ENERO,s/d
 405,Carne bovina - 1kg,Tapa de Asado,2009,FEBRERO,16499
@@ -381,7 +381,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 411,Carne bovina - 1kg,Tapa de Asado,2009,AGOSTO,15279
 412,Carne bovina - 1kg,Tapa de Asado,2009,SETIEMBRE,15232
 413,Carne bovina - 1kg,Tapa de Asado,2009,OCTUBRE,15591
-414,Carne bovina - 1kg,Tapa de Asado,2009,NOVIEMBE,15069
+414,Carne bovina - 1kg,Tapa de Asado,2009,NOVIEMBRE,15069
 415,Carne bovina - 1kg,Tapa de Asado,2009,DICIEMBRE,15152
 417,Carne bovina - 1kg,Espinazo Negro,2009,ENERO,s/d
 418,Carne bovina - 1kg,Espinazo Negro,2009,FEBRERO,8471
@@ -393,7 +393,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 424,Carne bovina - 1kg,Espinazo Negro,2009,AGOSTO,8184
 425,Carne bovina - 1kg,Espinazo Negro,2009,SETIEMBRE,8530
 426,Carne bovina - 1kg,Espinazo Negro,2009,OCTUBRE,8411
-427,Carne bovina - 1kg,Espinazo Negro,2009,NOVIEMBE,8227
+427,Carne bovina - 1kg,Espinazo Negro,2009,NOVIEMBRE,8227
 428,Carne bovina - 1kg,Espinazo Negro,2009,DICIEMBRE,8389
 430,Carne bovina - 1kg,Osobuco,2009,ENERO,s/d
 431,Carne bovina - 1kg,Osobuco,2009,FEBRERO,8933
@@ -405,7 +405,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 437,Carne bovina - 1kg,Osobuco,2009,AGOSTO,10020
 438,Carne bovina - 1kg,Osobuco,2009,SETIEMBRE,10010
 439,Carne bovina - 1kg,Osobuco,2009,OCTUBRE,10381
-440,Carne bovina - 1kg,Osobuco,2009,NOVIEMBE,10272
+440,Carne bovina - 1kg,Osobuco,2009,NOVIEMBRE,10272
 441,Carne bovina - 1kg,Osobuco,2009,DICIEMBRE,10204
 443,Carne bovina - 1kg,Cebo,2009,ENERO,s/d
 444,Carne bovina - 1kg,Cebo,2009,FEBRERO,1744
@@ -417,7 +417,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 450,Carne bovina - 1kg,Cebo,2009,AGOSTO,1771
 451,Carne bovina - 1kg,Cebo,2009,SETIEMBRE,1775
 452,Carne bovina - 1kg,Cebo,2009,OCTUBRE,1758
-453,Carne bovina - 1kg,Cebo,2009,NOVIEMBE,1622
+453,Carne bovina - 1kg,Cebo,2009,NOVIEMBRE,1622
 454,Carne bovina - 1kg,Cebo,2009,DICIEMBRE,1577
 456,Carne bovina - 1kg,Hueso Blanco,2009,ENERO,s/d
 457,Carne bovina - 1kg,Hueso Blanco,2009,FEBRERO,1475
@@ -429,7 +429,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 463,Carne bovina - 1kg,Hueso Blanco,2009,AGOSTO,1501
 464,Carne bovina - 1kg,Hueso Blanco,2009,SETIEMBRE,1419
 465,Carne bovina - 1kg,Hueso Blanco,2009,OCTUBRE,1483
-466,Carne bovina - 1kg,Hueso Blanco,2009,NOVIEMBE,1470
+466,Carne bovina - 1kg,Hueso Blanco,2009,NOVIEMBRE,1470
 467,Carne bovina - 1kg,Hueso Blanco,2009,DICIEMBRE,1450
 469,Carne de ave / Puchero - 1kg,Marca mas económica,2009,ENERO,5000
 470,Carne de ave / Puchero - 1kg,Marca mas económica,2009,FEBRERO,5377
@@ -441,7 +441,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 476,Carne de ave / Puchero - 1kg,Marca mas económica,2009,AGOSTO,5588
 477,Carne de ave / Puchero - 1kg,Marca mas económica,2009,SETIEMBRE,5474
 478,Carne de ave / Puchero - 1kg,Marca mas económica,2009,OCTUBRE,4858
-479,Carne de ave / Puchero - 1kg,Marca mas económica,2009,NOVIEMBE,4211
+479,Carne de ave / Puchero - 1kg,Marca mas económica,2009,NOVIEMBRE,4211
 480,Carne de ave / Puchero - 1kg,Marca mas económica,2009,DICIEMBRE,4160
 482,Carne de ave / pechuga - 1kg,Marca mas económica,2009,ENERO,13645
 483,Carne de ave / pechuga - 1kg,Marca mas económica,2009,FEBRERO,13768
@@ -453,7 +453,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 489,Carne de ave / pechuga - 1kg,Marca mas económica,2009,AGOSTO,10027
 490,Carne de ave / pechuga - 1kg,Marca mas económica,2009,SETIEMBRE,10709
 491,Carne de ave / pechuga - 1kg,Marca mas económica,2009,OCTUBRE,11368
-492,Carne de ave / pechuga - 1kg,Marca mas económica,2009,NOVIEMBE,11198
+492,Carne de ave / pechuga - 1kg,Marca mas económica,2009,NOVIEMBRE,11198
 493,Carne de ave / pechuga - 1kg,Marca mas económica,2009,DICIEMBRE,11453
 495,Carne de ave / pata entera - 1kg,Marca mas económica,2009,ENERO,13188
 496,Carne de ave / pata entera - 1kg,Marca mas económica,2009,FEBRERO,12549
@@ -465,7 +465,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 502,Carne de ave / pata entera - 1kg,Marca mas económica,2009,AGOSTO,14134
 503,Carne de ave / pata entera - 1kg,Marca mas económica,2009,SETIEMBRE,14127
 504,Carne de ave / pata entera - 1kg,Marca mas económica,2009,OCTUBRE,12483
-505,Carne de ave / pata entera - 1kg,Marca mas económica,2009,NOVIEMBE,12865
+505,Carne de ave / pata entera - 1kg,Marca mas económica,2009,NOVIEMBRE,12865
 506,Carne de ave / pata entera - 1kg,Marca mas económica,2009,DICIEMBRE,12909
 508,Carne de ave / pollo entero - 1kg,Marca mas económica,2009,ENERO,9149
 509,Carne de ave / pollo entero - 1kg,Marca mas económica,2009,FEBRERO,8921
@@ -477,7 +477,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 515,Carne de ave / pollo entero - 1kg,Marca mas económica,2009,AGOSTO,8684
 516,Carne de ave / pollo entero - 1kg,Marca mas económica,2009,SETIEMBRE,8844
 517,Carne de ave / pollo entero - 1kg,Marca mas económica,2009,OCTUBRE,8687
-518,Carne de ave / pollo entero - 1kg,Marca mas económica,2009,NOVIEMBE,8540
+518,Carne de ave / pollo entero - 1kg,Marca mas económica,2009,NOVIEMBRE,8540
 519,Carne de ave / pollo entero - 1kg,Marca mas económica,2009,DICIEMBRE,8452
 521,Carne de ave / Ala - 1kg,Marca mas económica,2009,ENERO,9430
 522,Carne de ave / Ala - 1kg,Marca mas económica,2009,FEBRERO,10245
@@ -489,7 +489,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 528,Carne de ave / Ala - 1kg,Marca mas económica,2009,AGOSTO,10459
 529,Carne de ave / Ala - 1kg,Marca mas económica,2009,SETIEMBRE,10405
 530,Carne de ave / Ala - 1kg,Marca mas económica,2009,OCTUBRE,10352
-531,Carne de ave / Ala - 1kg,Marca mas económica,2009,NOVIEMBE,10981
+531,Carne de ave / Ala - 1kg,Marca mas económica,2009,NOVIEMBRE,10981
 532,Carne de ave / Ala - 1kg,Marca mas económica,2009,DICIEMBRE,11662
 534,Carne de ave / Tacaraa - 1kg,Marca mas económica,2009,ENERO,7679
 535,Carne de ave / Tacaraa - 1kg,Marca mas económica,2009,FEBRERO,7231
@@ -501,7 +501,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 541,Carne de ave / Tacaraa - 1kg,Marca mas económica,2009,AGOSTO,7021
 542,Carne de ave / Tacaraa - 1kg,Marca mas económica,2009,SETIEMBRE,7085
 543,Carne de ave / Tacaraa - 1kg,Marca mas económica,2009,OCTUBRE,7123
-544,Carne de ave / Tacaraa - 1kg,Marca mas económica,2009,NOVIEMBE,7549
+544,Carne de ave / Tacaraa - 1kg,Marca mas económica,2009,NOVIEMBRE,7549
 545,Carne de ave / Tacaraa - 1kg,Marca mas económica,2009,DICIEMBRE,7626
 547,Carne de ave / Hígado - 1kg,Marca mas económica,2009,ENERO,3559
 548,Carne de ave / Hígado - 1kg,Marca mas económica,2009,FEBRERO,3400
@@ -513,7 +513,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 554,Carne de ave / Hígado - 1kg,Marca mas económica,2009,AGOSTO,3413
 555,Carne de ave / Hígado - 1kg,Marca mas económica,2009,SETIEMBRE,3346
 556,Carne de ave / Hígado - 1kg,Marca mas económica,2009,OCTUBRE,3458
-557,Carne de ave / Hígado - 1kg,Marca mas económica,2009,NOVIEMBE,3566
+557,Carne de ave / Hígado - 1kg,Marca mas económica,2009,NOVIEMBRE,3566
 558,Carne de ave / Hígado - 1kg,Marca mas económica,2009,DICIEMBRE,2759
 560,Carne de ave / Corazoncito - 1kg,Marca mas económica,2009,ENERO,10809
 561,Carne de ave / Corazoncito - 1kg,Marca mas económica,2009,FEBRERO,10773
@@ -525,7 +525,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 567,Carne de ave / Corazoncito - 1kg,Marca mas económica,2009,AGOSTO,10507
 568,Carne de ave / Corazoncito - 1kg,Marca mas económica,2009,SETIEMBRE,10652
 569,Carne de ave / Corazoncito - 1kg,Marca mas económica,2009,OCTUBRE,10605
-570,Carne de ave / Corazoncito - 1kg,Marca mas económica,2009,NOVIEMBE,10686
+570,Carne de ave / Corazoncito - 1kg,Marca mas económica,2009,NOVIEMBRE,10686
 571,Carne de ave / Corazoncito - 1kg,Marca mas económica,2009,DICIEMBRE,10971
 573,Embutido / chorizo Viena - 1kg,Marca mas económica,2009,ENERO,13926
 574,Embutido / chorizo Viena - 1kg,Marca mas económica,2009,FEBRERO,13742
@@ -537,7 +537,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 580,Embutido / chorizo Viena - 1kg,Marca mas económica,2009,AGOSTO,13256
 581,Embutido / chorizo Viena - 1kg,Marca mas económica,2009,SETIEMBRE,12926
 582,Embutido / chorizo Viena - 1kg,Marca mas económica,2009,OCTUBRE,13282
-583,Embutido / chorizo Viena - 1kg,Marca mas económica,2009,NOVIEMBE,14440
+583,Embutido / chorizo Viena - 1kg,Marca mas económica,2009,NOVIEMBRE,14440
 584,Embutido / chorizo Viena - 1kg,Marca mas económica,2009,DICIEMBRE,14286
 586,Embutido / fiambre Paris - 1kg,Marca mas económica,2009,ENERO,14674
 587,Embutido / fiambre Paris - 1kg,Marca mas económica,2009,FEBRERO,14381
@@ -549,7 +549,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 593,Embutido / fiambre Paris - 1kg,Marca mas económica,2009,AGOSTO,13437
 594,Embutido / fiambre Paris - 1kg,Marca mas económica,2009,SETIEMBRE,13377
 595,Embutido / fiambre Paris - 1kg,Marca mas económica,2009,OCTUBRE,13916
-596,Embutido / fiambre Paris - 1kg,Marca mas económica,2009,NOVIEMBE,15048
+596,Embutido / fiambre Paris - 1kg,Marca mas económica,2009,NOVIEMBRE,15048
 597,Embutido / fiambre Paris - 1kg,Marca mas económica,2009,DICIEMBRE,14928
 599,Queso - 1kg,Queso Paraguay,2009,ENERO,6177
 600,Queso - 1kg,Queso Paraguay,2009,FEBRERO,14806
@@ -561,7 +561,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 606,Queso - 1kg,Queso Paraguay,2009,AGOSTO,21816
 607,Queso - 1kg,Queso Paraguay,2009,SETIEMBRE,20832
 608,Queso - 1kg,Queso Paraguay,2009,OCTUBRE,19675
-609,Queso - 1kg,Queso Paraguay,2009,NOVIEMBE,18101
+609,Queso - 1kg,Queso Paraguay,2009,NOVIEMBRE,18101
 610,Queso - 1kg,Queso Paraguay,2009,DICIEMBRE,16183
 612,Queso sándwich - 1kg,Marca mas económica,2009,ENERO,10286
 613,Queso sándwich - 1kg,Marca mas económica,2009,FEBRERO,18904
@@ -573,7 +573,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 619,Queso sándwich - 1kg,Marca mas económica,2009,AGOSTO,25429
 620,Queso sándwich - 1kg,Marca mas económica,2009,SETIEMBRE,25658
 621,Queso sándwich - 1kg,Marca mas económica,2009,OCTUBRE,24202
-622,Queso sándwich - 1kg,Marca mas económica,2009,NOVIEMBE,23840
+622,Queso sándwich - 1kg,Marca mas económica,2009,NOVIEMBRE,23840
 623,Queso sándwich - 1kg,Marca mas económica,2009,DICIEMBRE,22657
 625,Aceite de soja - 900cc,Marca mas económica,2009,ENERO,15593
 626,Aceite de soja - 900cc,Marca mas económica,2009,FEBRERO,6145
@@ -585,7 +585,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 632,Aceite de soja - 900cc,Marca mas económica,2009,AGOSTO,6383
 633,Aceite de soja - 900cc,Marca mas económica,2009,SETIEMBRE,6306
 634,Aceite de soja - 900cc,Marca mas económica,2009,OCTUBRE,6386
-635,Aceite de soja - 900cc,Marca mas económica,2009,NOVIEMBE,6503
+635,Aceite de soja - 900cc,Marca mas económica,2009,NOVIEMBRE,6503
 636,Aceite de soja - 900cc,Marca mas económica,2009,DICIEMBRE,6666
 638,Aceite de girasol - 900cc,Marca mas económica,2009,ENERO,14388
 639,Aceite de girasol - 900cc,Marca mas económica,2009,FEBRERO,9888
@@ -597,7 +597,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 645,Aceite de girasol - 900cc,Marca mas económica,2009,AGOSTO,8277
 646,Aceite de girasol - 900cc,Marca mas económica,2009,SETIEMBRE,8134
 647,Aceite de girasol - 900cc,Marca mas económica,2009,OCTUBRE,7971
-648,Aceite de girasol - 900cc,Marca mas económica,2009,NOVIEMBE,7750
+648,Aceite de girasol - 900cc,Marca mas económica,2009,NOVIEMBRE,7750
 649,Aceite de girasol - 900cc,Marca mas económica,2009,DICIEMBRE,7773
 651,Aceite de maíz - 1lt,Marca mas económica,2009,ENERO,18141
 652,Aceite de maíz - 1lt,Marca mas económica,2009,FEBRERO,14732
@@ -609,7 +609,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 658,Aceite de maíz - 1lt,Marca mas económica,2009,AGOSTO,14318
 659,Aceite de maíz - 1lt,Marca mas económica,2009,SETIEMBRE,14296
 660,Aceite de maíz - 1lt,Marca mas económica,2009,OCTUBRE,14337
-661,Aceite de maíz - 1lt,Marca mas económica,2009,NOVIEMBE,14366
+661,Aceite de maíz - 1lt,Marca mas económica,2009,NOVIEMBRE,14366
 662,Aceite de maíz - 1lt,Marca mas económica,2009,DICIEMBRE,14436
 664,Leche sachet - 1lt,Marca mas económica,2009,ENERO,2879
 665,Leche sachet - 1lt,Marca mas económica,2009,FEBRERO,2878
@@ -621,7 +621,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 671,Leche sachet - 1lt,Marca mas económica,2009,AGOSTO,2798
 672,Leche sachet - 1lt,Marca mas económica,2009,SETIEMBRE,2863
 673,Leche sachet - 1lt,Marca mas económica,2009,OCTUBRE,2832
-674,Leche sachet - 1lt,Marca mas económica,2009,NOVIEMBE,2820
+674,Leche sachet - 1lt,Marca mas económica,2009,NOVIEMBRE,2820
 675,Leche sachet - 1lt,Marca mas económica,2009,DICIEMBRE,2795
 677,Leche sachet - 1/2 lt,Marca mas económica,2009,ENERO,1453
 678,Leche sachet - 1/2 lt,Marca mas económica,2009,FEBRERO,1498
@@ -633,7 +633,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 684,Leche sachet - 1/2 lt,Marca mas económica,2009,AGOSTO,1494
 685,Leche sachet - 1/2 lt,Marca mas económica,2009,SETIEMBRE,1519
 686,Leche sachet - 1/2 lt,Marca mas económica,2009,OCTUBRE,1506
-687,Leche sachet - 1/2 lt,Marca mas económica,2009,NOVIEMBE,1499
+687,Leche sachet - 1/2 lt,Marca mas económica,2009,NOVIEMBRE,1499
 688,Leche sachet - 1/2 lt,Marca mas económica,2009,DICIEMBRE,1495
 690,Leche UHT - 1lt,Marca mas económica,2009,ENERO,3596
 691,Leche UHT - 1lt,Marca mas económica,2009,FEBRERO,3512
@@ -645,7 +645,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 697,Leche UHT - 1lt,Marca mas económica,2009,AGOSTO,3614
 698,Leche UHT - 1lt,Marca mas económica,2009,SETIEMBRE,3624
 699,Leche UHT - 1lt,Marca mas económica,2009,OCTUBRE,3663
-700,Leche UHT - 1lt,Marca mas económica,2009,NOVIEMBE,3588
+700,Leche UHT - 1lt,Marca mas económica,2009,NOVIEMBRE,3588
 701,Leche UHT - 1lt,Marca mas económica,2009,DICIEMBRE,3564
 703,Leche UHT - 1/2 lt,Marca mas económica,2009,ENERO,1973
 704,Leche UHT - 1/2 lt,Marca mas económica,2009,FEBRERO,1828
@@ -657,7 +657,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 710,Leche UHT - 1/2 lt,Marca mas económica,2009,AGOSTO,1943
 711,Leche UHT - 1/2 lt,Marca mas económica,2009,SETIEMBRE,1969
 712,Leche UHT - 1/2 lt,Marca mas económica,2009,OCTUBRE,1987
-713,Leche UHT - 1/2 lt,Marca mas económica,2009,NOVIEMBE,1955
+713,Leche UHT - 1/2 lt,Marca mas económica,2009,NOVIEMBRE,1955
 714,Leche UHT - 1/2 lt,Marca mas económica,2009,DICIEMBRE,1968
 716,Yogurt - 350 gr,Marca mas económica,2009,ENERO,2328
 717,Yogurt - 350 gr,Marca mas económica,2009,FEBRERO,2347
@@ -669,7 +669,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 723,Yogurt - 350 gr,Marca mas económica,2009,AGOSTO,2315
 724,Yogurt - 350 gr,Marca mas económica,2009,SETIEMBRE,2292
 725,Yogurt - 350 gr,Marca mas económica,2009,OCTUBRE,2309
-726,Yogurt - 350 gr,Marca mas económica,2009,NOVIEMBE,2279
+726,Yogurt - 350 gr,Marca mas económica,2009,NOVIEMBRE,2279
 727,Yogurt - 350 gr,Marca mas económica,2009,DICIEMBRE,2256
 729,Huevos de gallina - 1/2 doc.,Marca mas económica,2009,ENERO,2691
 730,Huevos de gallina - 1/2 doc.,Marca mas económica,2009,FEBRERO,2773
@@ -681,7 +681,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 736,Huevos de gallina - 1/2 doc.,Marca mas económica,2009,AGOSTO,3188
 737,Huevos de gallina - 1/2 doc.,Marca mas económica,2009,SETIEMBRE,3172
 738,Huevos de gallina - 1/2 doc.,Marca mas económica,2009,OCTUBRE,3168
-739,Huevos de gallina - 1/2 doc.,Marca mas económica,2009,NOVIEMBE,3175
+739,Huevos de gallina - 1/2 doc.,Marca mas económica,2009,NOVIEMBRE,3175
 740,Huevos de gallina - 1/2 doc.,Marca mas económica,2009,DICIEMBRE,3164
 742,"Fruta, hortaliza - 1kg",Naranja,2009,ENERO,2018
 743,"Fruta, hortaliza - 1kg",Naranja,2009,FEBRERO,2301
@@ -693,7 +693,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 749,"Fruta, hortaliza - 1kg",Naranja,2009,AGOSTO,1956
 750,"Fruta, hortaliza - 1kg",Naranja,2009,SETIEMBRE,2202
 751,"Fruta, hortaliza - 1kg",Naranja,2009,OCTUBRE,2215
-752,"Fruta, hortaliza - 1kg",Naranja,2009,NOVIEMBE,2526
+752,"Fruta, hortaliza - 1kg",Naranja,2009,NOVIEMBRE,2526
 753,"Fruta, hortaliza - 1kg",Naranja,2009,DICIEMBRE,2331
 755,"Fruta, hortaliza - 1kg",Banana carape,2009,ENERO,2150
 756,"Fruta, hortaliza - 1kg",Banana carape,2009,FEBRERO,2067
@@ -705,7 +705,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 762,"Fruta, hortaliza - 1kg",Banana carape,2009,AGOSTO,1773
 763,"Fruta, hortaliza - 1kg",Banana carape,2009,SETIEMBRE,2080
 764,"Fruta, hortaliza - 1kg",Banana carape,2009,OCTUBRE,2300
-765,"Fruta, hortaliza - 1kg",Banana carape,2009,NOVIEMBE,2422
+765,"Fruta, hortaliza - 1kg",Banana carape,2009,NOVIEMBRE,2422
 766,"Fruta, hortaliza - 1kg",Banana carape,2009,DICIEMBRE,3457
 768,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2009,ENERO,1369
 769,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2009,FEBRERO,2038
@@ -717,7 +717,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 775,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2009,AGOSTO,1321
 776,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2009,SETIEMBRE,642
 777,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2009,OCTUBRE,636
-778,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2009,NOVIEMBE,778
+778,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2009,NOVIEMBRE,778
 779,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2009,DICIEMBRE,1031
 781,"Fruta, hortaliza - 1kg",Locote,2009,ENERO,4562
 782,"Fruta, hortaliza - 1kg",Locote,2009,FEBRERO,3925
@@ -729,7 +729,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 788,"Fruta, hortaliza - 1kg",Locote,2009,AGOSTO,5621
 789,"Fruta, hortaliza - 1kg",Locote,2009,SETIEMBRE,6039
 790,"Fruta, hortaliza - 1kg",Locote,2009,OCTUBRE,6186
-791,"Fruta, hortaliza - 1kg",Locote,2009,NOVIEMBE,8074
+791,"Fruta, hortaliza - 1kg",Locote,2009,NOVIEMBRE,8074
 792,"Fruta, hortaliza - 1kg",Locote,2009,DICIEMBRE,7760
 794,"Fruta, hortaliza - 1kg",Zanahoria,2009,ENERO,3720
 795,"Fruta, hortaliza - 1kg",Zanahoria,2009,FEBRERO,4281
@@ -741,7 +741,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 801,"Fruta, hortaliza - 1kg",Zanahoria,2009,AGOSTO,4604
 802,"Fruta, hortaliza - 1kg",Zanahoria,2009,SETIEMBRE,3926
 803,"Fruta, hortaliza - 1kg",Zanahoria,2009,OCTUBRE,3088
-804,"Fruta, hortaliza - 1kg",Zanahoria,2009,NOVIEMBE,2879
+804,"Fruta, hortaliza - 1kg",Zanahoria,2009,NOVIEMBRE,2879
 805,"Fruta, hortaliza - 1kg",Zanahoria,2009,DICIEMBRE,3574
 807,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2009,ENERO,5275
 808,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2009,FEBRERO,4206
@@ -753,7 +753,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 814,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2009,AGOSTO,5431
 815,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2009,SETIEMBRE,6114
 816,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2009,OCTUBRE,7263
-817,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2009,NOVIEMBE,5000
+817,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2009,NOVIEMBRE,5000
 818,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2009,DICIEMBRE,6223
 820,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2009,ENERO,3052
 821,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2009,FEBRERO,3166
@@ -765,7 +765,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 827,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2009,AGOSTO,3469
 828,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2009,SETIEMBRE,4231
 829,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2009,OCTUBRE,4462
-830,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2009,NOVIEMBE,3484
+830,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2009,NOVIEMBRE,3484
 831,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2009,DICIEMBRE,3257
 833,"Fruta, hortaliza - 1kg",Mandioca,2009,ENERO,1578
 834,"Fruta, hortaliza - 1kg",Mandioca,2009,FEBRERO,1445
@@ -777,7 +777,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 840,"Fruta, hortaliza - 1kg",Mandioca,2009,AGOSTO,1019
 841,"Fruta, hortaliza - 1kg",Mandioca,2009,SETIEMBRE,1066
 842,"Fruta, hortaliza - 1kg",Mandioca,2009,OCTUBRE,1099
-843,"Fruta, hortaliza - 1kg",Mandioca,2009,NOVIEMBE,1140
+843,"Fruta, hortaliza - 1kg",Mandioca,2009,NOVIEMBRE,1140
 844,"Fruta, hortaliza - 1kg",Mandioca,2009,DICIEMBRE,1115
 846,"Fruta, hortaliza - 1kg",Papa negra,2009,ENERO,3189
 847,"Fruta, hortaliza - 1kg",Papa negra,2009,FEBRERO,3226
@@ -789,7 +789,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 853,"Fruta, hortaliza - 1kg",Papa negra,2009,AGOSTO,3239
 854,"Fruta, hortaliza - 1kg",Papa negra,2009,SETIEMBRE,3611
 855,"Fruta, hortaliza - 1kg",Papa negra,2009,OCTUBRE,5334
-856,"Fruta, hortaliza - 1kg",Papa negra,2009,NOVIEMBE,4627
+856,"Fruta, hortaliza - 1kg",Papa negra,2009,NOVIEMBRE,4627
 857,"Fruta, hortaliza - 1kg",Papa negra,2009,DICIEMBRE,4140
 859,Sal fina - 500gr,Marca mas económica,2009,ENERO,1064
 860,Sal fina - 500gr,Marca mas económica,2009,FEBRERO,1092
@@ -801,7 +801,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 866,Sal fina - 500gr,Marca mas económica,2009,AGOSTO,1116
 867,Sal fina - 500gr,Marca mas económica,2009,SETIEMBRE,1127
 868,Sal fina - 500gr,Marca mas económica,2009,OCTUBRE,1137
-869,Sal fina - 500gr,Marca mas económica,2009,NOVIEMBE,1128
+869,Sal fina - 500gr,Marca mas económica,2009,NOVIEMBRE,1128
 870,Sal fina - 500gr,Marca mas económica,2009,DICIEMBRE,1153
 872,Papel higiénico - 4 unid.,Marca mas económica,2009,ENERO,1558
 873,Papel higiénico - 4 unid.,Marca mas económica,2009,FEBRERO,1884
@@ -813,7 +813,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 879,Papel higiénico - 4 unid.,Marca mas económica,2009,AGOSTO,2012
 880,Papel higiénico - 4 unid.,Marca mas económica,2009,SETIEMBRE,1987
 881,Papel higiénico - 4 unid.,Marca mas económica,2009,OCTUBRE,1939
-882,Papel higiénico - 4 unid.,Marca mas económica,2009,NOVIEMBE,1916
+882,Papel higiénico - 4 unid.,Marca mas económica,2009,NOVIEMBRE,1916
 883,Papel higiénico - 4 unid.,Marca mas económica,2009,DICIEMBRE,1926
 885,Detergente líquido - 1/2 lt,Marca mas económica,2009,ENERO,2764
 886,Detergente líquido - 1/2 lt,Marca mas económica,2009,FEBRERO,1632
@@ -825,7 +825,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 892,Detergente líquido - 1/2 lt,Marca mas económica,2009,AGOSTO,1848
 893,Detergente líquido - 1/2 lt,Marca mas económica,2009,SETIEMBRE,1874
 894,Detergente líquido - 1/2 lt,Marca mas económica,2009,OCTUBRE,1825
-895,Detergente líquido - 1/2 lt,Marca mas económica,2009,NOVIEMBE,1783
+895,Detergente líquido - 1/2 lt,Marca mas económica,2009,NOVIEMBRE,1783
 896,Detergente líquido - 1/2 lt,Marca mas económica,2009,DICIEMBRE,1793
 898,Lavandina - 1lt,Marca mas económica,2009,ENERO,4296
 899,Lavandina - 1lt,Marca mas económica,2009,FEBRERO,2588
@@ -837,7 +837,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 905,Lavandina - 1lt,Marca mas económica,2009,AGOSTO,2394
 906,Lavandina - 1lt,Marca mas económica,2009,SETIEMBRE,2330
 907,Lavandina - 1lt,Marca mas económica,2009,OCTUBRE,2396
-908,Lavandina - 1lt,Marca mas económica,2009,NOVIEMBE,2454
+908,Lavandina - 1lt,Marca mas económica,2009,NOVIEMBRE,2454
 909,Lavandina - 1lt,Marca mas económica,2009,DICIEMBRE,2444
 911,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2009,ENERO,1756
 912,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2009,FEBRERO,4233
@@ -849,7 +849,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 918,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2009,AGOSTO,4004
 919,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2009,SETIEMBRE,4044
 920,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2009,OCTUBRE,4031
-921,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2009,NOVIEMBE,3897
+921,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2009,NOVIEMBRE,3897
 922,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2009,DICIEMBRE,3974
 924,Jabón de baño - 90gr,Marca mas económica,2009,ENERO,1190
 925,Jabón de baño - 90gr,Marca mas económica,2009,FEBRERO,1280
@@ -861,7 +861,7 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 931,Jabón de baño - 90gr,Marca mas económica,2009,AGOSTO,1111
 932,Jabón de baño - 90gr,Marca mas económica,2009,SETIEMBRE,1099
 933,Jabón de baño - 90gr,Marca mas económica,2009,OCTUBRE,1131
-934,Jabón de baño - 90gr,Marca mas económica,2009,NOVIEMBE,1198
+934,Jabón de baño - 90gr,Marca mas económica,2009,NOVIEMBRE,1198
 935,Jabón de baño - 90gr,Marca mas económica,2009,DICIEMBRE,1206
 937,Crema dental - 90gr,Marca mas económica,2009,ENERO,3983
 938,Crema dental - 90gr,Marca mas económica,2009,FEBRERO,4062
@@ -873,5 +873,5 @@ Nº,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 944,Crema dental - 90gr,Marca mas económica,2009,AGOSTO,4297
 945,Crema dental - 90gr,Marca mas económica,2009,SETIEMBRE,4293
 946,Crema dental - 90gr,Marca mas económica,2009,OCTUBRE,4265
-947,Crema dental - 90gr,Marca mas económica,2009,NOVIEMBE,4211
+947,Crema dental - 90gr,Marca mas económica,2009,NOVIEMBRE,4211
 948,Crema dental - 90gr,Marca mas económica,2009,DICIEMBRE,4208

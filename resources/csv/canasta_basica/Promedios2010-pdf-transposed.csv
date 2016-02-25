@@ -9,7 +9,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 1,Panificado,Pan Felipito,2010,AGOSTO,2902
 1,Panificado,Pan Felipito,2010,SETIEMBRE,2881
 1,Panificado,Pan Felipito,2010,OCTUBRE,3568
-1,Panificado,Pan Felipito,2010,NOVIEMBE,3751
+1,Panificado,Pan Felipito,2010,NOVIEMBRE,3751
 1,Panificado,Pan Felipito,2010,DICIEMBRE,3190
 2,Panificado,Galleta,2010,ENERO,3471
 2,Panificado,Galleta,2010,FEBRERO,3340
@@ -21,7 +21,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 2,Panificado,Galleta,2010,AGOSTO,3373
 2,Panificado,Galleta,2010,SETIEMBRE,3500
 2,Panificado,Galleta,2010,OCTUBRE,4201
-2,Panificado,Galleta,2010,NOVIEMBE,4432
+2,Panificado,Galleta,2010,NOVIEMBRE,4432
 2,Panificado,Galleta,2010,DICIEMBRE,3768
 3,Panificado,Kokito,2010,ENERO,6048
 3,Panificado,Kokito,2010,FEBRERO,5954
@@ -33,7 +33,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 3,Panificado,Kokito,2010,AGOSTO,6375
 3,Panificado,Kokito,2010,SETIEMBRE,6296
 3,Panificado,Kokito,2010,OCTUBRE,7703
-3,Panificado,Kokito,2010,NOVIEMBE,8115
+3,Panificado,Kokito,2010,NOVIEMBRE,8115
 3,Panificado,Kokito,2010,DICIEMBRE,6906
 4,A granel - 1kg,Fideo,2010,ENERO,3334
 4,A granel - 1kg,Fideo,2010,FEBRERO,3202
@@ -45,7 +45,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 4,A granel - 1kg,Fideo,2010,AGOSTO,3164
 4,A granel - 1kg,Fideo,2010,SETIEMBRE,3105
 4,A granel - 1kg,Fideo,2010,OCTUBRE,3894
-4,A granel - 1kg,Fideo,2010,NOVIEMBE,4086
+4,A granel - 1kg,Fideo,2010,NOVIEMBRE,4086
 4,A granel - 1kg,Fideo,2010,DICIEMBRE,3473
 5,A granel - 1kg,Poroto,2010,ENERO,5291
 5,A granel - 1kg,Poroto,2010,FEBRERO,4839
@@ -57,7 +57,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 5,A granel - 1kg,Poroto,2010,AGOSTO,5310
 5,A granel - 1kg,Poroto,2010,SETIEMBRE,5341
 5,A granel - 1kg,Poroto,2010,OCTUBRE,6537
-5,A granel - 1kg,Poroto,2010,NOVIEMBE,6843
+5,A granel - 1kg,Poroto,2010,NOVIEMBRE,6843
 5,A granel - 1kg,Poroto,2010,DICIEMBRE,5819
 6,A granel - 1kg,Arroz,2010,ENERO,2885
 6,A granel - 1kg,Arroz,2010,FEBRERO,2790
@@ -69,7 +69,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 6,A granel - 1kg,Arroz,2010,AGOSTO,2785
 6,A granel - 1kg,Arroz,2010,SETIEMBRE,2638
 6,A granel - 1kg,Arroz,2010,OCTUBRE,3372
-6,A granel - 1kg,Arroz,2010,NOVIEMBE,3538
+6,A granel - 1kg,Arroz,2010,NOVIEMBRE,3538
 6,A granel - 1kg,Arroz,2010,DICIEMBRE,3014
 7,A granel - 1kg,Azúcar,2010,ENERO,5011
 7,A granel - 1kg,Azúcar,2010,FEBRERO,5103
@@ -81,7 +81,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 7,A granel - 1kg,Azúcar,2010,AGOSTO,4896
 7,A granel - 1kg,Azúcar,2010,SETIEMBRE,5143
 7,A granel - 1kg,Azúcar,2010,OCTUBRE,6589
-7,A granel - 1kg,Azúcar,2010,NOVIEMBE,6855
+7,A granel - 1kg,Azúcar,2010,NOVIEMBRE,6855
 7,A granel - 1kg,Azúcar,2010,DICIEMBRE,5784
 8,A granel - 1kg,Harina,2010,ENERO,2042
 8,A granel - 1kg,Harina,2010,FEBRERO,1980
@@ -93,7 +93,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 8,A granel - 1kg,Harina,2010,AGOSTO,1933
 8,A granel - 1kg,Harina,2010,SETIEMBRE,1935
 8,A granel - 1kg,Harina,2010,OCTUBRE,2393
-8,A granel - 1kg,Harina,2010,NOVIEMBE,2530
+8,A granel - 1kg,Harina,2010,NOVIEMBRE,2530
 8,A granel - 1kg,Harina,2010,DICIEMBRE,2140
 9,A granel - 1kg,Maíz,2010,ENERO,4326
 9,A granel - 1kg,Maíz,2010,FEBRERO,3826
@@ -105,7 +105,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 9,A granel - 1kg,Maíz,2010,AGOSTO,2321
 9,A granel - 1kg,Maíz,2010,SETIEMBRE,2223
 9,A granel - 1kg,Maíz,2010,OCTUBRE,3002
-9,A granel - 1kg,Maíz,2010,NOVIEMBE,3137
+9,A granel - 1kg,Maíz,2010,NOVIEMBRE,3137
 9,A granel - 1kg,Maíz,2010,DICIEMBRE,2701
 10,A granel - 1kg,Yerba,2010,ENERO,3383
 10,A granel - 1kg,Yerba,2010,FEBRERO,3158
@@ -117,7 +117,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 10,A granel - 1kg,Yerba,2010,AGOSTO,3280
 10,A granel - 1kg,Yerba,2010,SETIEMBRE,3184
 10,A granel - 1kg,Yerba,2010,OCTUBRE,4020
-10,A granel - 1kg,Yerba,2010,NOVIEMBE,4239
+10,A granel - 1kg,Yerba,2010,NOVIEMBRE,4239
 10,A granel - 1kg,Yerba,2010,DICIEMBRE,3585
 11,Carne bovina - 1kg,Puchero de primera,2010,ENERO,9189
 11,Carne bovina - 1kg,Puchero de primera,2010,FEBRERO,8510
@@ -129,7 +129,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 11,Carne bovina - 1kg,Puchero de primera,2010,AGOSTO,9929
 11,Carne bovina - 1kg,Puchero de primera,2010,SETIEMBRE,10688
 11,Carne bovina - 1kg,Puchero de primera,2010,OCTUBRE,11653
-11,Carne bovina - 1kg,Puchero de primera,2010,NOVIEMBE,12449
+11,Carne bovina - 1kg,Puchero de primera,2010,NOVIEMBRE,12449
 11,Carne bovina - 1kg,Puchero de primera,2010,DICIEMBRE,10657
 12,Carne bovina - 1kg,Carnaza de negra,2010,ENERO,25912
 12,Carne bovina - 1kg,Carnaza de negra,2010,FEBRERO,25210
@@ -141,7 +141,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 12,Carne bovina - 1kg,Carnaza de negra,2010,AGOSTO,28609
 12,Carne bovina - 1kg,Carnaza de negra,2010,SETIEMBRE,30111
 12,Carne bovina - 1kg,Carnaza de negra,2010,OCTUBRE,33908
-12,Carne bovina - 1kg,Carnaza de negra,2010,NOVIEMBE,35928
+12,Carne bovina - 1kg,Carnaza de negra,2010,NOVIEMBRE,35928
 12,Carne bovina - 1kg,Carnaza de negra,2010,DICIEMBRE,30794
 13,Carne bovina - 1kg,Carnaza de blanca,2010,ENERO,21392
 13,Carne bovina - 1kg,Carnaza de blanca,2010,FEBRERO,21383
@@ -153,7 +153,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 13,Carne bovina - 1kg,Carnaza de blanca,2010,AGOSTO,24641
 13,Carne bovina - 1kg,Carnaza de blanca,2010,SETIEMBRE,25796
 13,Carne bovina - 1kg,Carnaza de blanca,2010,OCTUBRE,28885
-13,Carne bovina - 1kg,Carnaza de blanca,2010,NOVIEMBE,30666
+13,Carne bovina - 1kg,Carnaza de blanca,2010,NOVIEMBRE,30666
 13,Carne bovina - 1kg,Carnaza de blanca,2010,DICIEMBRE,26312
 14,Carne bovina - 1kg,Lomo,2010,ENERO,27909
 14,Carne bovina - 1kg,Lomo,2010,FEBRERO,27511
@@ -165,7 +165,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 14,Carne bovina - 1kg,Lomo,2010,AGOSTO,31119
 14,Carne bovina - 1kg,Lomo,2010,SETIEMBRE,32672
 14,Carne bovina - 1kg,Lomo,2010,OCTUBRE,36835
-14,Carne bovina - 1kg,Lomo,2010,NOVIEMBE,39055
+14,Carne bovina - 1kg,Lomo,2010,NOVIEMBRE,39055
 14,Carne bovina - 1kg,Lomo,2010,DICIEMBRE,33471
 15,Carne bovina - 1kg,Lomito,2010,ENERO,s/d
 15,Carne bovina - 1kg,Lomito,2010,FEBRERO,31362
@@ -177,7 +177,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 15,Carne bovina - 1kg,Lomito,2010,AGOSTO,36584
 15,Carne bovina - 1kg,Lomito,2010,SETIEMBRE,38395
 15,Carne bovina - 1kg,Lomito,2010,OCTUBRE,42324
-15,Carne bovina - 1kg,Lomito,2010,NOVIEMBE,45051
+15,Carne bovina - 1kg,Lomito,2010,NOVIEMBRE,45051
 15,Carne bovina - 1kg,Lomito,2010,DICIEMBRE,38744
 16,Carne bovina - 1kg,Carne molida de primera,2010,ENERO,22221
 16,Carne bovina - 1kg,Carne molida de primera,2010,FEBRERO,22319
@@ -189,7 +189,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 16,Carne bovina - 1kg,Carne molida de primera,2010,AGOSTO,26025
 16,Carne bovina - 1kg,Carne molida de primera,2010,SETIEMBRE,26304
 16,Carne bovina - 1kg,Carne molida de primera,2010,OCTUBRE,30253
-16,Carne bovina - 1kg,Carne molida de primera,2010,NOVIEMBE,32066
+16,Carne bovina - 1kg,Carne molida de primera,2010,NOVIEMBRE,32066
 16,Carne bovina - 1kg,Carne molida de primera,2010,DICIEMBRE,27448
 17,Carne bovina - 1kg,Carne molida de segunda,2010,ENERO,11255
 17,Carne bovina - 1kg,Carne molida de segunda,2010,FEBRERO,11104
@@ -201,7 +201,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 17,Carne bovina - 1kg,Carne molida de segunda,2010,AGOSTO,14224
 17,Carne bovina - 1kg,Carne molida de segunda,2010,SETIEMBRE,13891
 17,Carne bovina - 1kg,Carne molida de segunda,2010,OCTUBRE,15431
-17,Carne bovina - 1kg,Carne molida de segunda,2010,NOVIEMBE,16447
+17,Carne bovina - 1kg,Carne molida de segunda,2010,NOVIEMBRE,16447
 17,Carne bovina - 1kg,Carne molida de segunda,2010,DICIEMBRE,14222
 18,Carne bovina - 1kg,Costilla,2010,ENERO,15007
 18,Carne bovina - 1kg,Costilla,2010,FEBRERO,10433
@@ -213,7 +213,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 18,Carne bovina - 1kg,Costilla,2010,AGOSTO,13879
 18,Carne bovina - 1kg,Costilla,2010,SETIEMBRE,12942
 18,Carne bovina - 1kg,Costilla,2010,OCTUBRE,15093
-18,Carne bovina - 1kg,Costilla,2010,NOVIEMBE,15891
+18,Carne bovina - 1kg,Costilla,2010,NOVIEMBRE,15891
 18,Carne bovina - 1kg,Costilla,2010,DICIEMBRE,13765
 19,Carne bovina - 1kg,Costilla de segunda,2010,ENERO,s/d
 19,Carne bovina - 1kg,Costilla de segunda,2010,FEBRERO,7940
@@ -225,7 +225,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 19,Carne bovina - 1kg,Costilla de segunda,2010,AGOSTO,11467
 19,Carne bovina - 1kg,Costilla de segunda,2010,SETIEMBRE,10533
 19,Carne bovina - 1kg,Costilla de segunda,2010,OCTUBRE,11936
-19,Carne bovina - 1kg,Costilla de segunda,2010,NOVIEMBE,12655
+19,Carne bovina - 1kg,Costilla de segunda,2010,NOVIEMBRE,12655
 19,Carne bovina - 1kg,Costilla de segunda,2010,DICIEMBRE,11015
 20,Carne bovina - 1kg,Hígado,2010,ENERO,6358
 20,Carne bovina - 1kg,Hígado,2010,FEBRERO,7180
@@ -237,7 +237,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 20,Carne bovina - 1kg,Hígado,2010,AGOSTO,7810
 20,Carne bovina - 1kg,Hígado,2010,SETIEMBRE,7573
 20,Carne bovina - 1kg,Hígado,2010,OCTUBRE,9572
-20,Carne bovina - 1kg,Hígado,2010,NOVIEMBE,10049
+20,Carne bovina - 1kg,Hígado,2010,NOVIEMBRE,10049
 20,Carne bovina - 1kg,Hígado,2010,DICIEMBRE,8452
 21,Carne bovina - 1kg,Corazón,2010,ENERO,6882
 21,Carne bovina - 1kg,Corazón,2010,FEBRERO,7549
@@ -249,7 +249,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 21,Carne bovina - 1kg,Corazón,2010,AGOSTO,8438
 21,Carne bovina - 1kg,Corazón,2010,SETIEMBRE,8508
 21,Carne bovina - 1kg,Corazón,2010,OCTUBRE,10308
-21,Carne bovina - 1kg,Corazón,2010,NOVIEMBE,10847
+21,Carne bovina - 1kg,Corazón,2010,NOVIEMBRE,10847
 21,Carne bovina - 1kg,Corazón,2010,DICIEMBRE,9189
 22,Carne bovina - 1kg,Mondongo,2010,ENERO,6850
 22,Carne bovina - 1kg,Mondongo,2010,FEBRERO,7144
@@ -261,7 +261,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 22,Carne bovina - 1kg,Mondongo,2010,AGOSTO,9684
 22,Carne bovina - 1kg,Mondongo,2010,SETIEMBRE,9357
 22,Carne bovina - 1kg,Mondongo,2010,OCTUBRE,11824
-22,Carne bovina - 1kg,Mondongo,2010,NOVIEMBE,12273
+22,Carne bovina - 1kg,Mondongo,2010,NOVIEMBRE,12273
 22,Carne bovina - 1kg,Mondongo,2010,DICIEMBRE,10403
 23,Carne bovina - 1kg,Carnaza de Primera,2010,ENERO,24609
 23,Carne bovina - 1kg,Carnaza de Primera,2010,FEBRERO,24344
@@ -273,7 +273,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 23,Carne bovina - 1kg,Carnaza de Primera,2010,AGOSTO,27988
 23,Carne bovina - 1kg,Carnaza de Primera,2010,SETIEMBRE,29535
 23,Carne bovina - 1kg,Carnaza de Primera,2010,OCTUBRE,33058
-23,Carne bovina - 1kg,Carnaza de Primera,2010,NOVIEMBE,35084
+23,Carne bovina - 1kg,Carnaza de Primera,2010,NOVIEMBRE,35084
 23,Carne bovina - 1kg,Carnaza de Primera,2010,DICIEMBRE,30065
 24,Carne bovina - 1kg,Carnaza de Segunda,2010,ENERO,13960
 24,Carne bovina - 1kg,Carnaza de Segunda,2010,FEBRERO,14011
@@ -285,7 +285,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 24,Carne bovina - 1kg,Carnaza de Segunda,2010,AGOSTO,16900
 24,Carne bovina - 1kg,Carnaza de Segunda,2010,SETIEMBRE,17549
 24,Carne bovina - 1kg,Carnaza de Segunda,2010,OCTUBRE,19419
-24,Carne bovina - 1kg,Carnaza de Segunda,2010,NOVIEMBE,20665
+24,Carne bovina - 1kg,Carnaza de Segunda,2010,NOVIEMBRE,20665
 24,Carne bovina - 1kg,Carnaza de Segunda,2010,DICIEMBRE,17750
 25,Carne bovina - 1kg,Puchero de Segunda,2010,ENERO,2903
 25,Carne bovina - 1kg,Puchero de Segunda,2010,FEBRERO,2559
@@ -297,7 +297,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 25,Carne bovina - 1kg,Puchero de Segunda,2010,AGOSTO,4009
 25,Carne bovina - 1kg,Puchero de Segunda,2010,SETIEMBRE,4102
 25,Carne bovina - 1kg,Puchero de Segunda,2010,OCTUBRE,4369
-25,Carne bovina - 1kg,Puchero de Segunda,2010,NOVIEMBE,4664
+25,Carne bovina - 1kg,Puchero de Segunda,2010,NOVIEMBRE,4664
 25,Carne bovina - 1kg,Puchero de Segunda,2010,DICIEMBRE,4017
 26,Carne bovina - 1kg,Costeleta,2010,ENERO,s/d
 26,Carne bovina - 1kg,Costeleta,2010,FEBRERO,18247
@@ -309,7 +309,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 26,Carne bovina - 1kg,Costeleta,2010,AGOSTO,20378
 26,Carne bovina - 1kg,Costeleta,2010,SETIEMBRE,21094
 26,Carne bovina - 1kg,Costeleta,2010,OCTUBRE,24338
-26,Carne bovina - 1kg,Costeleta,2010,NOVIEMBE,25695
+26,Carne bovina - 1kg,Costeleta,2010,NOVIEMBRE,25695
 26,Carne bovina - 1kg,Costeleta,2010,DICIEMBRE,22009
 27,Carne bovina - 1kg,Vacío,2010,ENERO,s/d
 27,Carne bovina - 1kg,Vacío,2010,FEBRERO,12906
@@ -321,7 +321,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 27,Carne bovina - 1kg,Vacío,2010,AGOSTO,17517
 27,Carne bovina - 1kg,Vacío,2010,SETIEMBRE,16118
 27,Carne bovina - 1kg,Vacío,2010,OCTUBRE,18949
-27,Carne bovina - 1kg,Vacío,2010,NOVIEMBE,20085
+27,Carne bovina - 1kg,Vacío,2010,NOVIEMBRE,20085
 27,Carne bovina - 1kg,Vacío,2010,DICIEMBRE,17319
 28,Carne bovina - 1kg,Falda,2010,ENERO,s/d
 28,Carne bovina - 1kg,Falda,2010,FEBRERO,9110
@@ -333,7 +333,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 28,Carne bovina - 1kg,Falda,2010,AGOSTO,11199
 28,Carne bovina - 1kg,Falda,2010,SETIEMBRE,10354
 28,Carne bovina - 1kg,Falda,2010,OCTUBRE,12256
-28,Carne bovina - 1kg,Falda,2010,NOVIEMBE,12977
+28,Carne bovina - 1kg,Falda,2010,NOVIEMBRE,12977
 28,Carne bovina - 1kg,Falda,2010,DICIEMBRE,11185
 29,Carne bovina - 1kg,Peceto,2010,ENERO,s/d
 29,Carne bovina - 1kg,Peceto,2010,FEBRERO,23346
@@ -345,7 +345,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 29,Carne bovina - 1kg,Peceto,2010,AGOSTO,25570
 29,Carne bovina - 1kg,Peceto,2010,SETIEMBRE,26517
 29,Carne bovina - 1kg,Peceto,2010,OCTUBRE,30645
-29,Carne bovina - 1kg,Peceto,2010,NOVIEMBE,32461
+29,Carne bovina - 1kg,Peceto,2010,NOVIEMBRE,32461
 29,Carne bovina - 1kg,Peceto,2010,DICIEMBRE,27753
 30,Carne bovina - 1kg,Tapa Cuadril,2010,ENERO,28503
 30,Carne bovina - 1kg,Tapa Cuadril,2010,FEBRERO,28678
@@ -357,7 +357,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 30,Carne bovina - 1kg,Tapa Cuadril,2010,AGOSTO,31551
 30,Carne bovina - 1kg,Tapa Cuadril,2010,SETIEMBRE,32865
 30,Carne bovina - 1kg,Tapa Cuadril,2010,OCTUBRE,37761
-30,Carne bovina - 1kg,Tapa Cuadril,2010,NOVIEMBE,39940
+30,Carne bovina - 1kg,Tapa Cuadril,2010,NOVIEMBRE,39940
 30,Carne bovina - 1kg,Tapa Cuadril,2010,DICIEMBRE,34168
 31,Carne bovina - 1kg,Rabadilla,2010,ENERO,27002
 31,Carne bovina - 1kg,Rabadilla,2010,FEBRERO,26239
@@ -369,7 +369,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 31,Carne bovina - 1kg,Rabadilla,2010,AGOSTO,29575
 31,Carne bovina - 1kg,Rabadilla,2010,SETIEMBRE,30593
 31,Carne bovina - 1kg,Rabadilla,2010,OCTUBRE,34723
-31,Carne bovina - 1kg,Rabadilla,2010,NOVIEMBE,36885
+31,Carne bovina - 1kg,Rabadilla,2010,NOVIEMBRE,36885
 31,Carne bovina - 1kg,Rabadilla,2010,DICIEMBRE,31607
 32,Carne bovina - 1kg,Bola de Lomo,2010,ENERO,24459
 32,Carne bovina - 1kg,Bola de Lomo,2010,FEBRERO,24227
@@ -381,7 +381,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 32,Carne bovina - 1kg,Bola de Lomo,2010,AGOSTO,27693
 32,Carne bovina - 1kg,Bola de Lomo,2010,SETIEMBRE,29238
 32,Carne bovina - 1kg,Bola de Lomo,2010,OCTUBRE,32639
-32,Carne bovina - 1kg,Bola de Lomo,2010,NOVIEMBE,34675
+32,Carne bovina - 1kg,Bola de Lomo,2010,NOVIEMBRE,34675
 32,Carne bovina - 1kg,Bola de Lomo,2010,DICIEMBRE,29742
 33,Carne bovina - 1kg,Palomita,2010,ENERO,26742
 33,Carne bovina - 1kg,Palomita,2010,FEBRERO,27125
@@ -393,7 +393,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 33,Carne bovina - 1kg,Palomita,2010,AGOSTO,29626
 33,Carne bovina - 1kg,Palomita,2010,SETIEMBRE,31003
 33,Carne bovina - 1kg,Palomita,2010,OCTUBRE,35815
-33,Carne bovina - 1kg,Palomita,2010,NOVIEMBE,37792
+33,Carne bovina - 1kg,Palomita,2010,NOVIEMBRE,37792
 33,Carne bovina - 1kg,Palomita,2010,DICIEMBRE,32308
 34,Carne bovina - 1kg,Muchachito,2010,ENERO,20621
 34,Carne bovina - 1kg,Muchachito,2010,FEBRERO,20934
@@ -405,7 +405,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 34,Carne bovina - 1kg,Muchachito,2010,AGOSTO,23271
 34,Carne bovina - 1kg,Muchachito,2010,SETIEMBRE,23805
 34,Carne bovina - 1kg,Muchachito,2010,OCTUBRE,27638
-34,Carne bovina - 1kg,Muchachito,2010,NOVIEMBE,29156
+34,Carne bovina - 1kg,Muchachito,2010,NOVIEMBRE,29156
 34,Carne bovina - 1kg,Muchachito,2010,DICIEMBRE,24981
 35,Carne bovina - 1kg,Paleta,2010,ENERO,21305
 35,Carne bovina - 1kg,Paleta,2010,FEBRERO,20482
@@ -417,7 +417,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 35,Carne bovina - 1kg,Paleta,2010,AGOSTO,23181
 35,Carne bovina - 1kg,Paleta,2010,SETIEMBRE,24430
 35,Carne bovina - 1kg,Paleta,2010,OCTUBRE,27611
-35,Carne bovina - 1kg,Paleta,2010,NOVIEMBE,29214
+35,Carne bovina - 1kg,Paleta,2010,NOVIEMBRE,29214
 35,Carne bovina - 1kg,Paleta,2010,DICIEMBRE,25033
 36,Carne bovina - 1kg,Sambari,2010,ENERO,16631
 36,Carne bovina - 1kg,Sambari,2010,FEBRERO,16570
@@ -429,7 +429,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 36,Carne bovina - 1kg,Sambari,2010,AGOSTO,18572
 36,Carne bovina - 1kg,Sambari,2010,SETIEMBRE,19822
 36,Carne bovina - 1kg,Sambari,2010,OCTUBRE,22087
-36,Carne bovina - 1kg,Sambari,2010,NOVIEMBE,23489
+36,Carne bovina - 1kg,Sambari,2010,NOVIEMBRE,23489
 36,Carne bovina - 1kg,Sambari,2010,DICIEMBRE,20110
 37,Carne bovina - 1kg,Matambre,2010,ENERO,12397
 37,Carne bovina - 1kg,Matambre,2010,FEBRERO,11658
@@ -441,7 +441,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 37,Carne bovina - 1kg,Matambre,2010,AGOSTO,14128
 37,Carne bovina - 1kg,Matambre,2010,SETIEMBRE,13825
 37,Carne bovina - 1kg,Matambre,2010,OCTUBRE,15425
-37,Carne bovina - 1kg,Matambre,2010,NOVIEMBE,16483
+37,Carne bovina - 1kg,Matambre,2010,NOVIEMBRE,16483
 37,Carne bovina - 1kg,Matambre,2010,DICIEMBRE,14236
 38,Carne bovina - 1kg,Tapa de Asado,2010,ENERO,15540
 38,Carne bovina - 1kg,Tapa de Asado,2010,FEBRERO,15561
@@ -453,7 +453,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 38,Carne bovina - 1kg,Tapa de Asado,2010,AGOSTO,17752
 38,Carne bovina - 1kg,Tapa de Asado,2010,SETIEMBRE,17670
 38,Carne bovina - 1kg,Tapa de Asado,2010,OCTUBRE,20559
-38,Carne bovina - 1kg,Tapa de Asado,2010,NOVIEMBE,21786
+38,Carne bovina - 1kg,Tapa de Asado,2010,NOVIEMBRE,21786
 38,Carne bovina - 1kg,Tapa de Asado,2010,DICIEMBRE,18652
 39,Carne bovina - 1kg,Espinazo Negro,2010,ENERO,7939
 39,Carne bovina - 1kg,Espinazo Negro,2010,FEBRERO,8846
@@ -465,7 +465,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 39,Carne bovina - 1kg,Espinazo Negro,2010,AGOSTO,10994
 39,Carne bovina - 1kg,Espinazo Negro,2010,SETIEMBRE,11627
 39,Carne bovina - 1kg,Espinazo Negro,2010,OCTUBRE,12189
-39,Carne bovina - 1kg,Espinazo Negro,2010,NOVIEMBE,13107
+39,Carne bovina - 1kg,Espinazo Negro,2010,NOVIEMBRE,13107
 39,Carne bovina - 1kg,Espinazo Negro,2010,DICIEMBRE,11314
 40,Carne bovina - 1kg,Osobuco,2010,ENERO,10011
 40,Carne bovina - 1kg,Osobuco,2010,FEBRERO,10356
@@ -477,7 +477,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 40,Carne bovina - 1kg,Osobuco,2010,AGOSTO,12404
 40,Carne bovina - 1kg,Osobuco,2010,SETIEMBRE,12755
 40,Carne bovina - 1kg,Osobuco,2010,OCTUBRE,14065
-40,Carne bovina - 1kg,Osobuco,2010,NOVIEMBE,14983
+40,Carne bovina - 1kg,Osobuco,2010,NOVIEMBRE,14983
 40,Carne bovina - 1kg,Osobuco,2010,DICIEMBRE,12916
 41,Carne bovina - 1kg,Cebo,2010,ENERO,1690
 41,Carne bovina - 1kg,Cebo,2010,FEBRERO,1452
@@ -489,7 +489,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 41,Carne bovina - 1kg,Cebo,2010,AGOSTO,1780
 41,Carne bovina - 1kg,Cebo,2010,SETIEMBRE,1636
 41,Carne bovina - 1kg,Cebo,2010,OCTUBRE,1942
-41,Carne bovina - 1kg,Cebo,2010,NOVIEMBE,2080
+41,Carne bovina - 1kg,Cebo,2010,NOVIEMBRE,2080
 41,Carne bovina - 1kg,Cebo,2010,DICIEMBRE,1774
 42,Carne bovina - 1kg,Hueso Blanco,2010,ENERO,1513
 42,Carne bovina - 1kg,Hueso Blanco,2010,FEBRERO,1271
@@ -501,7 +501,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 42,Carne bovina - 1kg,Hueso Blanco,2010,AGOSTO,1921
 42,Carne bovina - 1kg,Hueso Blanco,2010,SETIEMBRE,1951
 42,Carne bovina - 1kg,Hueso Blanco,2010,OCTUBRE,2028
-42,Carne bovina - 1kg,Hueso Blanco,2010,NOVIEMBE,2188
+42,Carne bovina - 1kg,Hueso Blanco,2010,NOVIEMBRE,2188
 42,Carne bovina - 1kg,Hueso Blanco,2010,DICIEMBRE,1896
 43,Carne porcina - 1kg,Riñón,2010,ENERO,s/d
 43,Carne porcina - 1kg,Riñón,2010,FEBRERO,2355
@@ -513,7 +513,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 43,Carne porcina - 1kg,Riñón,2010,AGOSTO,2476
 43,Carne porcina - 1kg,Riñón,2010,SETIEMBRE,2176
 43,Carne porcina - 1kg,Riñón,2010,OCTUBRE,3064
-43,Carne porcina - 1kg,Riñón,2010,NOVIEMBE,3119
+43,Carne porcina - 1kg,Riñón,2010,NOVIEMBRE,3119
 43,Carne porcina - 1kg,Riñón,2010,DICIEMBRE,2652
 44,Carne porcina - 1kg,Lomo de cerdo,2010,ENERO,s/d
 44,Carne porcina - 1kg,Lomo de cerdo,2010,FEBRERO,26676
@@ -525,7 +525,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 44,Carne porcina - 1kg,Lomo de cerdo,2010,AGOSTO,23868
 44,Carne porcina - 1kg,Lomo de cerdo,2010,SETIEMBRE,23669
 44,Carne porcina - 1kg,Lomo de cerdo,2010,OCTUBRE,30825
-44,Carne porcina - 1kg,Lomo de cerdo,2010,NOVIEMBE,32379
+44,Carne porcina - 1kg,Lomo de cerdo,2010,NOVIEMBRE,32379
 44,Carne porcina - 1kg,Lomo de cerdo,2010,DICIEMBRE,27253
 45,Carne porcina - 1kg,Costilla de cerdo,2010,ENERO,s/d
 45,Carne porcina - 1kg,Costilla de cerdo,2010,FEBRERO,19491
@@ -537,7 +537,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 45,Carne porcina - 1kg,Costilla de cerdo,2010,AGOSTO,19826
 45,Carne porcina - 1kg,Costilla de cerdo,2010,SETIEMBRE,19932
 45,Carne porcina - 1kg,Costilla de cerdo,2010,OCTUBRE,24656
-45,Carne porcina - 1kg,Costilla de cerdo,2010,NOVIEMBE,25875
+45,Carne porcina - 1kg,Costilla de cerdo,2010,NOVIEMBRE,25875
 45,Carne porcina - 1kg,Costilla de cerdo,2010,DICIEMBRE,21978
 46,Carne porcina - 1kg,Costeleta,2010,ENERO,s/d
 46,Carne porcina - 1kg,Costeleta,2010,FEBRERO,16917
@@ -549,7 +549,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 46,Carne porcina - 1kg,Costeleta,2010,AGOSTO,16434
 46,Carne porcina - 1kg,Costeleta,2010,SETIEMBRE,16861
 46,Carne porcina - 1kg,Costeleta,2010,OCTUBRE,21039
-46,Carne porcina - 1kg,Costeleta,2010,NOVIEMBE,22106
+46,Carne porcina - 1kg,Costeleta,2010,NOVIEMBRE,22106
 46,Carne porcina - 1kg,Costeleta,2010,DICIEMBRE,18673
 47,Carne porcina - 1kg,Paleta de cerdo,2010,ENERO,s/d
 47,Carne porcina - 1kg,Paleta de cerdo,2010,FEBRERO,16821
@@ -561,7 +561,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 47,Carne porcina - 1kg,Paleta de cerdo,2010,AGOSTO,15843
 47,Carne porcina - 1kg,Paleta de cerdo,2010,SETIEMBRE,15954
 47,Carne porcina - 1kg,Paleta de cerdo,2010,OCTUBRE,20592
-47,Carne porcina - 1kg,Paleta de cerdo,2010,NOVIEMBE,21511
+47,Carne porcina - 1kg,Paleta de cerdo,2010,NOVIEMBRE,21511
 47,Carne porcina - 1kg,Paleta de cerdo,2010,DICIEMBRE,18160
 48,Carne porcina - 1kg,Pierna,2010,ENERO,s/d
 48,Carne porcina - 1kg,Pierna,2010,FEBRERO,17316
@@ -573,7 +573,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 48,Carne porcina - 1kg,Pierna,2010,AGOSTO,16991
 48,Carne porcina - 1kg,Pierna,2010,SETIEMBRE,16946
 48,Carne porcina - 1kg,Pierna,2010,OCTUBRE,21428
-48,Carne porcina - 1kg,Pierna,2010,NOVIEMBE,22443
+48,Carne porcina - 1kg,Pierna,2010,NOVIEMBRE,22443
 48,Carne porcina - 1kg,Pierna,2010,DICIEMBRE,19022
 49,Carne porcina - 1kg,Puchero,2010,ENERO,s/d
 49,Carne porcina - 1kg,Puchero,2010,FEBRERO,5217
@@ -585,7 +585,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 49,Carne porcina - 1kg,Puchero,2010,AGOSTO,4895
 49,Carne porcina - 1kg,Puchero,2010,SETIEMBRE,5116
 49,Carne porcina - 1kg,Puchero,2010,OCTUBRE,6581
-49,Carne porcina - 1kg,Puchero,2010,NOVIEMBE,6867
+49,Carne porcina - 1kg,Puchero,2010,NOVIEMBRE,6867
 49,Carne porcina - 1kg,Puchero,2010,DICIEMBRE,5745
 50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,ENERO,4199
 50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,FEBRERO,4420
@@ -597,7 +597,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,AGOSTO,5472
 50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,SETIEMBRE,5706
 50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,OCTUBRE,6565
-50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,NOVIEMBE,6936
+50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,NOVIEMBRE,6936
 50,Carne de ave / Puchero - 1kg,Marca mas económica,2010,DICIEMBRE,5901
 51,Carne de ave / pechuga - 1kg,Marca mas económica,2010,ENERO,11753
 51,Carne de ave / pechuga - 1kg,Marca mas económica,2010,FEBRERO,11504
@@ -609,7 +609,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 51,Carne de ave / pechuga - 1kg,Marca mas económica,2010,AGOSTO,12594
 51,Carne de ave / pechuga - 1kg,Marca mas económica,2010,SETIEMBRE,11790
 51,Carne de ave / pechuga - 1kg,Marca mas económica,2010,OCTUBRE,16466
-51,Carne de ave / pechuga - 1kg,Marca mas económica,2010,NOVIEMBE,17055
+51,Carne de ave / pechuga - 1kg,Marca mas económica,2010,NOVIEMBRE,17055
 51,Carne de ave / pechuga - 1kg,Marca mas económica,2010,DICIEMBRE,14250
 52,Carne de ave / pata entera - 1kg,Marca mas económica,2010,ENERO,14503
 52,Carne de ave / pata entera - 1kg,Marca mas económica,2010,FEBRERO,14836
@@ -621,7 +621,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 52,Carne de ave / pata entera - 1kg,Marca mas económica,2010,AGOSTO,12472
 52,Carne de ave / pata entera - 1kg,Marca mas económica,2010,SETIEMBRE,13119
 52,Carne de ave / pata entera - 1kg,Marca mas económica,2010,OCTUBRE,15710
-52,Carne de ave / pata entera - 1kg,Marca mas económica,2010,NOVIEMBE,16600
+52,Carne de ave / pata entera - 1kg,Marca mas económica,2010,NOVIEMBRE,16600
 52,Carne de ave / pata entera - 1kg,Marca mas económica,2010,DICIEMBRE,14256
 53,Carne de ave / pollo entero - 1kg,Marca mas económica,2010,ENERO,8733
 53,Carne de ave / pollo entero - 1kg,Marca mas económica,2010,FEBRERO,9126
@@ -633,7 +633,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 53,Carne de ave / pollo entero - 1kg,Marca mas económica,2010,AGOSTO,8508
 53,Carne de ave / pollo entero - 1kg,Marca mas económica,2010,SETIEMBRE,8610
 53,Carne de ave / pollo entero - 1kg,Marca mas económica,2010,OCTUBRE,10574
-53,Carne de ave / pollo entero - 1kg,Marca mas económica,2010,NOVIEMBE,11143
+53,Carne de ave / pollo entero - 1kg,Marca mas económica,2010,NOVIEMBRE,11143
 53,Carne de ave / pollo entero - 1kg,Marca mas económica,2010,DICIEMBRE,9488
 54,Carne de ave / Ala - 1kg,Marca mas económica,2010,ENERO,11008
 54,Carne de ave / Ala - 1kg,Marca mas económica,2010,FEBRERO,11625
@@ -645,7 +645,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 54,Carne de ave / Ala - 1kg,Marca mas económica,2010,AGOSTO,12286
 54,Carne de ave / Ala - 1kg,Marca mas económica,2010,SETIEMBRE,12674
 54,Carne de ave / Ala - 1kg,Marca mas económica,2010,OCTUBRE,15189
-54,Carne de ave / Ala - 1kg,Marca mas económica,2010,NOVIEMBE,15968
+54,Carne de ave / Ala - 1kg,Marca mas económica,2010,NOVIEMBRE,15968
 54,Carne de ave / Ala - 1kg,Marca mas económica,2010,DICIEMBRE,13556
 55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,ENERO,7940
 55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,FEBRERO,7635
@@ -657,7 +657,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,AGOSTO,7093
 55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,SETIEMBRE,7565
 55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,OCTUBRE,9035
-55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,NOVIEMBE,9436
+55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,NOVIEMBRE,9436
 55,Carne de ave / Tacaraa - 1kg,Marca mas económica,2010,DICIEMBRE,8097
 56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,ENERO,2924
 56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,FEBRERO,2567
@@ -669,7 +669,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,AGOSTO,2978
 56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,SETIEMBRE,3084
 56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,OCTUBRE,3707
-56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,NOVIEMBE,3885
+56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,NOVIEMBRE,3885
 56,Carne de ave / Hígado - 1kg,Marca mas económica,2010,DICIEMBRE,3304
 57,Carne de ave / Corazoncito - 1kg,Marca mas económica,2010,ENERO,11255
 57,Carne de ave / Corazoncito - 1kg,Marca mas económica,2010,FEBRERO,10932
@@ -681,7 +681,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 57,Carne de ave / Corazoncito - 1kg,Marca mas económica,2010,AGOSTO,13896
 57,Carne de ave / Corazoncito - 1kg,Marca mas económica,2010,SETIEMBRE,14174
 57,Carne de ave / Corazoncito - 1kg,Marca mas económica,2010,OCTUBRE,16965
-57,Carne de ave / Corazoncito - 1kg,Marca mas económica,2010,NOVIEMBE,17786
+57,Carne de ave / Corazoncito - 1kg,Marca mas económica,2010,NOVIEMBRE,17786
 57,Carne de ave / Corazoncito - 1kg,Marca mas económica,2010,DICIEMBRE,15052
 58,Embutido / chorizo Viena - 1kg,Marca mas económica,2010,ENERO,15161
 58,Embutido / chorizo Viena - 1kg,Marca mas económica,2010,FEBRERO,14661
@@ -693,7 +693,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 58,Embutido / chorizo Viena - 1kg,Marca mas económica,2010,AGOSTO,14744
 58,Embutido / chorizo Viena - 1kg,Marca mas económica,2010,SETIEMBRE,15518
 58,Embutido / chorizo Viena - 1kg,Marca mas económica,2010,OCTUBRE,18560
-58,Embutido / chorizo Viena - 1kg,Marca mas económica,2010,NOVIEMBE,19550
+58,Embutido / chorizo Viena - 1kg,Marca mas económica,2010,NOVIEMBRE,19550
 58,Embutido / chorizo Viena - 1kg,Marca mas económica,2010,DICIEMBRE,16603
 59,Embutido / fiambre Paris - 1kg,Marca mas económica,2010,ENERO,15379
 59,Embutido / fiambre Paris - 1kg,Marca mas económica,2010,FEBRERO,15399
@@ -705,7 +705,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 59,Embutido / fiambre Paris - 1kg,Marca mas económica,2010,AGOSTO,15706
 59,Embutido / fiambre Paris - 1kg,Marca mas económica,2010,SETIEMBRE,15678
 59,Embutido / fiambre Paris - 1kg,Marca mas económica,2010,OCTUBRE,19489
-59,Embutido / fiambre Paris - 1kg,Marca mas económica,2010,NOVIEMBE,20503
+59,Embutido / fiambre Paris - 1kg,Marca mas económica,2010,NOVIEMBRE,20503
 59,Embutido / fiambre Paris - 1kg,Marca mas económica,2010,DICIEMBRE,17380
 60,Queso - 1kg,Queso Paraguay,2010,ENERO,15304
 60,Queso - 1kg,Queso Paraguay,2010,FEBRERO,14459
@@ -717,7 +717,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 60,Queso - 1kg,Queso Paraguay,2010,AGOSTO,25583
 60,Queso - 1kg,Queso Paraguay,2010,SETIEMBRE,23618
 60,Queso - 1kg,Queso Paraguay,2010,OCTUBRE,28414
-60,Queso - 1kg,Queso Paraguay,2010,NOVIEMBE,30534
+60,Queso - 1kg,Queso Paraguay,2010,NOVIEMBRE,30534
 60,Queso - 1kg,Queso Paraguay,2010,DICIEMBRE,25552
 61,Queso sándwich - 1kg,Marca mas económica,2010,ENERO,22118
 61,Queso sándwich - 1kg,Marca mas económica,2010,FEBRERO,19929
@@ -729,7 +729,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 61,Queso sándwich - 1kg,Marca mas económica,2010,AGOSTO,37571
 61,Queso sándwich - 1kg,Marca mas económica,2010,SETIEMBRE,35759
 61,Queso sándwich - 1kg,Marca mas económica,2010,OCTUBRE,40000
-61,Queso sándwich - 1kg,Marca mas económica,2010,NOVIEMBE,43032
+61,Queso sándwich - 1kg,Marca mas económica,2010,NOVIEMBRE,43032
 61,Queso sándwich - 1kg,Marca mas económica,2010,DICIEMBRE,36477
 62,Aceite de soja - 900cc,Marca mas económica,2010,ENERO,6891
 62,Aceite de soja - 900cc,Marca mas económica,2010,FEBRERO,6619
@@ -741,7 +741,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 62,Aceite de soja - 900cc,Marca mas económica,2010,AGOSTO,5865
 62,Aceite de soja - 900cc,Marca mas económica,2010,SETIEMBRE,6228
 62,Aceite de soja - 900cc,Marca mas económica,2010,OCTUBRE,7657
-62,Aceite de soja - 900cc,Marca mas económica,2010,NOVIEMBE,8048
+62,Aceite de soja - 900cc,Marca mas económica,2010,NOVIEMBRE,8048
 62,Aceite de soja - 900cc,Marca mas económica,2010,DICIEMBRE,6814
 63,Aceite de girasol - 900cc,Marca mas económica,2010,ENERO,7971
 63,Aceite de girasol - 900cc,Marca mas económica,2010,FEBRERO,7889
@@ -753,7 +753,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 63,Aceite de girasol - 900cc,Marca mas económica,2010,AGOSTO,8304
 63,Aceite de girasol - 900cc,Marca mas económica,2010,SETIEMBRE,8241
 63,Aceite de girasol - 900cc,Marca mas económica,2010,OCTUBRE,10091
-63,Aceite de girasol - 900cc,Marca mas económica,2010,NOVIEMBE,10634
+63,Aceite de girasol - 900cc,Marca mas económica,2010,NOVIEMBRE,10634
 63,Aceite de girasol - 900cc,Marca mas económica,2010,DICIEMBRE,9036
 64,Aceite de maíz - 1lt,Marca mas económica,2010,ENERO,14185
 64,Aceite de maíz - 1lt,Marca mas económica,2010,FEBRERO,13973
@@ -765,7 +765,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 64,Aceite de maíz - 1lt,Marca mas económica,2010,AGOSTO,13937
 64,Aceite de maíz - 1lt,Marca mas económica,2010,SETIEMBRE,14127
 64,Aceite de maíz - 1lt,Marca mas económica,2010,OCTUBRE,17420
-64,Aceite de maíz - 1lt,Marca mas económica,2010,NOVIEMBE,18351
+64,Aceite de maíz - 1lt,Marca mas económica,2010,NOVIEMBRE,18351
 64,Aceite de maíz - 1lt,Marca mas económica,2010,DICIEMBRE,15534
 65,Leche sachet - 1lt,Marca mas económica,2010,ENERO,2833
 65,Leche sachet - 1lt,Marca mas económica,2010,FEBRERO,2854
@@ -777,7 +777,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 65,Leche sachet - 1lt,Marca mas económica,2010,AGOSTO,3213
 65,Leche sachet - 1lt,Marca mas económica,2010,SETIEMBRE,3155
 65,Leche sachet - 1lt,Marca mas económica,2010,OCTUBRE,3874
-65,Leche sachet - 1lt,Marca mas económica,2010,NOVIEMBE,4088
+65,Leche sachet - 1lt,Marca mas económica,2010,NOVIEMBRE,4088
 65,Leche sachet - 1lt,Marca mas económica,2010,DICIEMBRE,3461
 66,Leche sachet - 1/2 lt,Marca mas económica,2010,ENERO,1503
 66,Leche sachet - 1/2 lt,Marca mas económica,2010,FEBRERO,1485
@@ -789,7 +789,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 66,Leche sachet - 1/2 lt,Marca mas económica,2010,AGOSTO,1697
 66,Leche sachet - 1/2 lt,Marca mas económica,2010,SETIEMBRE,1704
 66,Leche sachet - 1/2 lt,Marca mas económica,2010,OCTUBRE,2031
-66,Leche sachet - 1/2 lt,Marca mas económica,2010,NOVIEMBE,2151
+66,Leche sachet - 1/2 lt,Marca mas económica,2010,NOVIEMBRE,2151
 66,Leche sachet - 1/2 lt,Marca mas económica,2010,DICIEMBRE,1828
 67,Leche UHT - 1lt,Marca mas económica,2010,ENERO,3626
 67,Leche UHT - 1lt,Marca mas económica,2010,FEBRERO,3549
@@ -801,7 +801,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 67,Leche UHT - 1lt,Marca mas económica,2010,AGOSTO,4068
 67,Leche UHT - 1lt,Marca mas económica,2010,SETIEMBRE,4043
 67,Leche UHT - 1lt,Marca mas económica,2010,OCTUBRE,4915
-67,Leche UHT - 1lt,Marca mas económica,2010,NOVIEMBE,5183
+67,Leche UHT - 1lt,Marca mas económica,2010,NOVIEMBRE,5183
 67,Leche UHT - 1lt,Marca mas económica,2010,DICIEMBRE,4393
 68,Leche UHT - 1/2 lt,Marca mas económica,2010,ENERO,1997
 68,Leche UHT - 1/2 lt,Marca mas económica,2010,FEBRERO,2029
@@ -813,7 +813,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 68,Leche UHT - 1/2 lt,Marca mas económica,2010,AGOSTO,2131
 68,Leche UHT - 1/2 lt,Marca mas económica,2010,SETIEMBRE,2213
 68,Leche UHT - 1/2 lt,Marca mas económica,2010,OCTUBRE,2691
-68,Leche UHT - 1/2 lt,Marca mas económica,2010,NOVIEMBE,2827
+68,Leche UHT - 1/2 lt,Marca mas económica,2010,NOVIEMBRE,2827
 68,Leche UHT - 1/2 lt,Marca mas económica,2010,DICIEMBRE,2392
 69,Yogurt - 350 gr,Marca mas económica,2010,ENERO,2240
 69,Yogurt - 350 gr,Marca mas económica,2010,FEBRERO,2332
@@ -825,7 +825,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 69,Yogurt - 350 gr,Marca mas económica,2010,AGOSTO,2484
 69,Yogurt - 350 gr,Marca mas económica,2010,SETIEMBRE,2485
 69,Yogurt - 350 gr,Marca mas económica,2010,OCTUBRE,3034
-69,Yogurt - 350 gr,Marca mas económica,2010,NOVIEMBE,3197
+69,Yogurt - 350 gr,Marca mas económica,2010,NOVIEMBRE,3197
 69,Yogurt - 350 gr,Marca mas económica,2010,DICIEMBRE,2716
 70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,ENERO,3135
 70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,FEBRERO,3238
@@ -837,7 +837,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,AGOSTO,3437
 70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,SETIEMBRE,3401
 70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,OCTUBRE,4332
-70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,NOVIEMBE,4533
+70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,NOVIEMBRE,4533
 70,Huevos de gallina - 1/2 doc.,Marca mas económica,2010,DICIEMBRE,3825
 71,"Fruta, hortaliza - 1kg",Naranja,2010,ENERO,2345
 71,"Fruta, hortaliza - 1kg",Naranja,2010,FEBRERO,2450
@@ -849,7 +849,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 71,"Fruta, hortaliza - 1kg",Naranja,2010,AGOSTO,2162
 71,"Fruta, hortaliza - 1kg",Naranja,2010,SETIEMBRE,2148
 71,"Fruta, hortaliza - 1kg",Naranja,2010,OCTUBRE,3037
-71,"Fruta, hortaliza - 1kg",Naranja,2010,NOVIEMBE,3100
+71,"Fruta, hortaliza - 1kg",Naranja,2010,NOVIEMBRE,3100
 71,"Fruta, hortaliza - 1kg",Naranja,2010,DICIEMBRE,2617
 72,"Fruta, hortaliza - 1kg",Banana carape,2010,ENERO,3095
 72,"Fruta, hortaliza - 1kg",Banana carape,2010,FEBRERO,2379
@@ -861,7 +861,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 72,"Fruta, hortaliza - 1kg",Banana carape,2010,AGOSTO,1784
 72,"Fruta, hortaliza - 1kg",Banana carape,2010,SETIEMBRE,1712
 72,"Fruta, hortaliza - 1kg",Banana carape,2010,OCTUBRE,2299
-72,"Fruta, hortaliza - 1kg",Banana carape,2010,NOVIEMBE,2389
+72,"Fruta, hortaliza - 1kg",Banana carape,2010,NOVIEMBRE,2389
 72,"Fruta, hortaliza - 1kg",Banana carape,2010,DICIEMBRE,2059
 73,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2010,ENERO,1584
 73,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2010,FEBRERO,1340
@@ -873,7 +873,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 73,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2010,AGOSTO,1095
 73,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2010,SETIEMBRE,721
 73,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2010,OCTUBRE,1602
-73,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2010,NOVIEMBE,1657
+73,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2010,NOVIEMBRE,1657
 73,"Fruta, hortaliza - 1kg",Lechuga - 1 maso,2010,DICIEMBRE,1323
 74,"Fruta, hortaliza - 1kg",Locote,2010,ENERO,5707
 74,"Fruta, hortaliza - 1kg",Locote,2010,FEBRERO,7911
@@ -885,7 +885,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 74,"Fruta, hortaliza - 1kg",Locote,2010,AGOSTO,4031
 74,"Fruta, hortaliza - 1kg",Locote,2010,SETIEMBRE,4438
 74,"Fruta, hortaliza - 1kg",Locote,2010,OCTUBRE,7334
-74,"Fruta, hortaliza - 1kg",Locote,2010,NOVIEMBE,7353
+74,"Fruta, hortaliza - 1kg",Locote,2010,NOVIEMBRE,7353
 74,"Fruta, hortaliza - 1kg",Locote,2010,DICIEMBRE,6133
 75,"Fruta, hortaliza - 1kg",Zanahoria,2010,ENERO,5023
 75,"Fruta, hortaliza - 1kg",Zanahoria,2010,FEBRERO,5619
@@ -897,7 +897,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 75,"Fruta, hortaliza - 1kg",Zanahoria,2010,AGOSTO,1984
 75,"Fruta, hortaliza - 1kg",Zanahoria,2010,SETIEMBRE,1706
 75,"Fruta, hortaliza - 1kg",Zanahoria,2010,OCTUBRE,4355
-75,"Fruta, hortaliza - 1kg",Zanahoria,2010,NOVIEMBE,4274
+75,"Fruta, hortaliza - 1kg",Zanahoria,2010,NOVIEMBRE,4274
 75,"Fruta, hortaliza - 1kg",Zanahoria,2010,DICIEMBRE,3485
 76,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2010,ENERO,6029
 76,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2010,FEBRERO,6382
@@ -909,7 +909,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 76,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2010,AGOSTO,3359
 76,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2010,SETIEMBRE,2012
 76,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2010,OCTUBRE,5819
-76,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2010,NOVIEMBE,5719
+76,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2010,NOVIEMBRE,5719
 76,"Fruta, hortaliza - 1kg",Tomate Sta. Cruz,2010,DICIEMBRE,4667
 77,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2010,ENERO,3650
 77,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2010,FEBRERO,3537
@@ -921,7 +921,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 77,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2010,AGOSTO,3338
 77,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2010,SETIEMBRE,3368
 77,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2010,OCTUBRE,4494
-77,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2010,NOVIEMBE,4752
+77,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2010,NOVIEMBRE,4752
 77,"Fruta, hortaliza - 1kg",Cebolla de cabeza,2010,DICIEMBRE,3938
 78,"Fruta, hortaliza - 1kg",Mandioca,2010,ENERO,1340
 78,"Fruta, hortaliza - 1kg",Mandioca,2010,FEBRERO,1261
@@ -933,7 +933,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 78,"Fruta, hortaliza - 1kg",Mandioca,2010,AGOSTO,931
 78,"Fruta, hortaliza - 1kg",Mandioca,2010,SETIEMBRE,1064
 78,"Fruta, hortaliza - 1kg",Mandioca,2010,OCTUBRE,1285
-78,"Fruta, hortaliza - 1kg",Mandioca,2010,NOVIEMBE,1331
+78,"Fruta, hortaliza - 1kg",Mandioca,2010,NOVIEMBRE,1331
 78,"Fruta, hortaliza - 1kg",Mandioca,2010,DICIEMBRE,1145
 79,"Fruta, hortaliza - 1kg",Papa negra,2010,ENERO,3127
 79,"Fruta, hortaliza - 1kg",Papa negra,2010,FEBRERO,2733
@@ -945,7 +945,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 79,"Fruta, hortaliza - 1kg",Papa negra,2010,AGOSTO,2412
 79,"Fruta, hortaliza - 1kg",Papa negra,2010,SETIEMBRE,2371
 79,"Fruta, hortaliza - 1kg",Papa negra,2010,OCTUBRE,3153
-79,"Fruta, hortaliza - 1kg",Papa negra,2010,NOVIEMBE,3338
+79,"Fruta, hortaliza - 1kg",Papa negra,2010,NOVIEMBRE,3338
 79,"Fruta, hortaliza - 1kg",Papa negra,2010,DICIEMBRE,2791
 80,Sal fina - 500gr,Marca mas económica,2010,ENERO,1177
 80,Sal fina - 500gr,Marca mas económica,2010,FEBRERO,1172
@@ -957,7 +957,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 80,Sal fina - 500gr,Marca mas económica,2010,AGOSTO,1306
 80,Sal fina - 500gr,Marca mas económica,2010,SETIEMBRE,1303
 80,Sal fina - 500gr,Marca mas económica,2010,OCTUBRE,1604
-80,Sal fina - 500gr,Marca mas económica,2010,NOVIEMBE,1688
+80,Sal fina - 500gr,Marca mas económica,2010,NOVIEMBRE,1688
 80,Sal fina - 500gr,Marca mas económica,2010,DICIEMBRE,1427
 81,Papel higiénico - 4 unid.,Marca mas económica,2010,ENERO,2160
 81,Papel higiénico - 4 unid.,Marca mas económica,2010,FEBRERO,2091
@@ -969,7 +969,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 81,Papel higiénico - 4 unid.,Marca mas económica,2010,AGOSTO,2255
 81,Papel higiénico - 4 unid.,Marca mas económica,2010,SETIEMBRE,2188
 81,Papel higiénico - 4 unid.,Marca mas económica,2010,OCTUBRE,2595
-81,Papel higiénico - 4 unid.,Marca mas económica,2010,NOVIEMBE,2747
+81,Papel higiénico - 4 unid.,Marca mas económica,2010,NOVIEMBRE,2747
 81,Papel higiénico - 4 unid.,Marca mas económica,2010,DICIEMBRE,2354
 82,Detergente líquido - 1/2 lt,Marca mas económica,2010,ENERO,1900
 82,Detergente líquido - 1/2 lt,Marca mas económica,2010,FEBRERO,1857
@@ -981,7 +981,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 82,Detergente líquido - 1/2 lt,Marca mas económica,2010,AGOSTO,1772
 82,Detergente líquido - 1/2 lt,Marca mas económica,2010,SETIEMBRE,1660
 82,Detergente líquido - 1/2 lt,Marca mas económica,2010,OCTUBRE,2244
-82,Detergente líquido - 1/2 lt,Marca mas económica,2010,NOVIEMBE,2343
+82,Detergente líquido - 1/2 lt,Marca mas económica,2010,NOVIEMBRE,2343
 82,Detergente líquido - 1/2 lt,Marca mas económica,2010,DICIEMBRE,1973
 83,Lavandina - 1lt,Marca mas económica,2010,ENERO,2636
 83,Lavandina - 1lt,Marca mas económica,2010,FEBRERO,2529
@@ -993,7 +993,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 83,Lavandina - 1lt,Marca mas económica,2010,AGOSTO,2485
 83,Lavandina - 1lt,Marca mas económica,2010,SETIEMBRE,2436
 83,Lavandina - 1lt,Marca mas económica,2010,OCTUBRE,3106
-83,Lavandina - 1lt,Marca mas económica,2010,NOVIEMBE,3268
+83,Lavandina - 1lt,Marca mas económica,2010,NOVIEMBRE,3268
 83,Lavandina - 1lt,Marca mas económica,2010,DICIEMBRE,2758
 84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,ENERO,4049
 84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,FEBRERO,3950
@@ -1005,7 +1005,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,AGOSTO,3792
 84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,SETIEMBRE,3758
 84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,OCTUBRE,4740
-84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,NOVIEMBE,4958
+84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,NOVIEMBRE,4958
 84,Jabón en polvo p/ lavar - 400gr,Marca mas económica,2010,DICIEMBRE,4213
 85,Jabón de baño - 90gr,Marca mas económica,2010,ENERO,1316
 85,Jabón de baño - 90gr,Marca mas económica,2010,FEBRERO,1290
@@ -1017,7 +1017,7 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 85,Jabón de baño - 90gr,Marca mas económica,2010,AGOSTO,1288
 85,Jabón de baño - 90gr,Marca mas económica,2010,SETIEMBRE,1346
 85,Jabón de baño - 90gr,Marca mas económica,2010,OCTUBRE,1652
-85,Jabón de baño - 90gr,Marca mas económica,2010,NOVIEMBE,1732
+85,Jabón de baño - 90gr,Marca mas económica,2010,NOVIEMBRE,1732
 85,Jabón de baño - 90gr,Marca mas económica,2010,DICIEMBRE,1465
 86,Crema dental - 90gr,Marca mas económica,2010,ENERO,4276
 86,Crema dental - 90gr,Marca mas económica,2010,FEBRERO,4184
@@ -1029,5 +1029,5 @@ Nro,PRODUCTO,RUBRO,ANHO,MES,PRECIO
 86,Crema dental - 90gr,Marca mas económica,2010,AGOSTO,4361
 86,Crema dental - 90gr,Marca mas económica,2010,SETIEMBRE,4390
 86,Crema dental - 90gr,Marca mas económica,2010,OCTUBRE,5322
-86,Crema dental - 90gr,Marca mas económica,2010,NOVIEMBE,5617
+86,Crema dental - 90gr,Marca mas económica,2010,NOVIEMBRE,5617
 86,Crema dental - 90gr,Marca mas económica,2010,DICIEMBRE,4775
